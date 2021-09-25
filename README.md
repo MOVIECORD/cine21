@@ -1,34 +1,17 @@
-# CI setup for Feed me up, Scotty!
+# 씨네21
+http://www.cine21.com/
 
-You can fork this repository and edit `feeds.toml` to start generating your own
-RSS feeds.
-
-# Automatically generate feeds
-
-## On GitHub
-
-To automatically generate feeds twice a day on GitHub:
-
-1. Fork this repository and edit `feeds.toml`.
-2. Create a branch called `gh-pages`.
-3. Visit the _Actions_ tab for your fork, then enable workflows for your fork.
-4. Make sure the Publishing Source for your GitHub Pages site is set to the
-   `gh-pages` branch.
-   [Instructions here.](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
-
-GitHub Actions will then automatically run twice a day to check for updates,
-and publish your feeds at `https://<username>.github.io/feeds/`.
-
-## On GitLab
-
-To automatically generate feeds on GitLab:
-
-1. Fork this repository and edit `feeds.toml`.
-2. [Create a new pipeline schedule](./-/pipeline_schedules/new) (CI/CD ˃
-   Schedules).
-3. Set it to your desired interval (e.g. `30 5,17 * * *` to run at 5:30 and
-   17:30).
-4. Hit "Save pipeline schedule".
-
-GitLab CI/CD will then automatically run at your selected interval to check for
-updates, and publish your feeds at `https://<username>.gitlab.io/feeds/`.
+# 네이버 포스트
+https://m.post.naver.com/my.nhn?memberNo=15205863
+   - 20자평: https://m.post.naver.com/my/series/detail.naver?seriesNo=520134&memberNo=15205863  
+   - 국내뉴스: https://m.post.naver.com//my/series/detail.naver?seriesNo=450865&memberNo=15205863  
+   - 알고봅시다: https://m.post.naver.com//my/series/detail.naver?seriesNo=269621&memberNo=15205863  
+   - feature: https://m.post.naver.com//my/series/detail.naver?seriesNo=229028&memberNo=15205863  
+   - 후아유: https://m.post.naver.com//my/series/detail.naver?seriesNo=371914&memberNo=15205863  
+   - 해외뉴스: https://m.post.naver.com//my/series/detail.naver?seriesNo=452114&memberNo=15205863  
+   - 커버스타: https://m.post.naver.com//my/series/detail.naver?seriesNo=228138&memberNo=15205863  
+   - 인터뷰: https://m.post.naver.com//my/series/detail.naver?seriesNo=229029&memberNo=15205863  
+   - preview: https://m.post.naver.com//my/series/detail.naver?seriesNo=355570&memberNo=15205863  
+   - 스타화보: https://m.post.naver.com//my/series/detail.naver?seriesNo=255311&memberNo=15205863  
+   - GO*STOP: https://m.post.naver.com//my/series/detail.naver?seriesNo=344952&memberNo=15205863  
+   - BIFF 데일리: https://m.post.naver.com//my/series/detail.naver?seriesNo=222103&memberNo=15205863  
