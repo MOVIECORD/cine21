@@ -37,3 +37,15 @@ https://www.youtube.com/channel/UCz4vMhiedEWgICIF7NBYiYA
 ## 네이버TV
 https://tv.naver.com/cine21
 - https://moviecord.github.io/cine21/navertv.xml
+
+
+
+## 트위터
+https://twitter.com/cine21_editor
+
+## 인스타그램
+https://www.instagram.com/cine_21
+
+## 페이스북
+https://www.facebook.com/cine21
+
