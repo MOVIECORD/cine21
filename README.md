@@ -33,3 +33,7 @@ https://blog.naver.com/cine21yo
 https://www.youtube.com/c/cine21tv  
 https://www.youtube.com/channel/UCz4vMhiedEWgICIF7NBYiYA
 - https://www.youtube.com/feeds/videos.xml?channel_id=UCz4vMhiedEWgICIF7NBYiYA
+
+## 네이버TV
+https://tv.naver.com/cine21
+- https://moviecord.github.io/cine21/navertv.xml
