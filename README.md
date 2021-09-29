@@ -49,3 +49,6 @@ https://www.instagram.com/cine_21
 ## 페이스북
 https://www.facebook.com/cine21
 
+---
+
+▶️ [매거진 이동하기](https://github.com/MOVIECORD/magazine)
