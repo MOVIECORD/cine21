@@ -169,3 +169,13 @@ linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
 waitUntil = "networkidle"
+
+[navertv]
+title = "씨네21 ─ 네이버TV"
+url = "https://tv.naver.com/cine21/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitUntil = "networkidle"
