@@ -23,3 +23,13 @@ https://m.post.naver.com/my.nhn?memberNo=15205863
 - https://moviecord.github.io/cine21/naverpost_cine21_coverstar.xml
 - https://moviecord.github.io/cine21/naverpost_cine21_interview.xml
 
+## 네이버 블로그
+https://blog.naver.com/cine21yo
+- https://rss.blog.naver.com/cine21yo.xml
+- https://rss.blog.naver.com/cine21yo.xml?rss=1.0
+- https://rss.blog.naver.com/cine21yo.xml?atom=0.3
+
+## 유튜브
+https://www.youtube.com/c/cine21tv  
+https://www.youtube.com/channel/UCz4vMhiedEWgICIF7NBYiYA
+- https://www.youtube.com/feeds/videos.xml?channel_id=UCz4vMhiedEWgICIF7NBYiYA
