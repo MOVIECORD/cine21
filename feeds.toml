@@ -170,6 +170,46 @@ contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
 waitUntil = "networkidle"
 
+[cine21_playing]
+title = "씨네21 ─ 영화 ─ 현재 상영중"
+url = "http://www.cine21.com/movie/lists/playing"
+entrySelector = "ul.mov_info_list li.mov_info_li"
+titleSelector = "div.over span.tit"
+linkSelector = "a"
+contentSelector = "div.over span.open_date"
+imageSelector = "a img.thumb"
+waitUntil = "networkidle"
+
+[cine21_coming_date]
+title = "씨네21 ─ 영화 ─ 개봉일 확정"
+url = "http://www.cine21.com/movie/lists/coming_date"
+entrySelector = "ul.mov_info_list li.mov_info_li"
+titleSelector = "div.over span.tit"
+linkSelector = "a"
+contentSelector = "div.over span.open_date"
+imageSelector = "a img.thumb"
+waitUntil = "networkidle"
+
+[cine21_coming_month]
+title = "씨네21 ─ 영화 ─ 개봉월 확정"
+url = "http://www.cine21.com/movie/lists/coming_month"
+entrySelector = "ul.mov_info_list li.mov_info_li"
+titleSelector = "div.over span.tit"
+linkSelector = "a"
+contentSelector = "div.over span.open_date"
+imageSelector = "a img.thumb"
+waitUntil = "networkidle"
+
+[cine21_yet]
+title = "씨네21 ─ 영화 ─ 개봉 미정"
+url = "http://www.cine21.com/movie/lists/yet"
+entrySelector = "ul.mov_info_list li.mov_info_li"
+titleSelector = "div.over span.tit"
+linkSelector = "a"
+contentSelector = "div.over"
+imageSelector = "a img.thumb"
+waitUntil = "networkidle"
+
 [navertv]
 title = "씨네21 ─ 네이버TV"
 url = "https://tv.naver.com/cine21/clips"
