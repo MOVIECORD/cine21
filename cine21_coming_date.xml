@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 02:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 03:27:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -103,14 +103,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/12_00_51__614d3f6378f98[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[푸른 호수]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58556</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58556</guid>
-            <pubDate>Wed, 29 Sep 2021 17:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/58556_614d6ca5dd870[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[고양이를 부탁해]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=5353</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=5353</guid>
@@ -127,6 +119,22 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/15_18_24__6154053074044[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[푸른 호수]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58556</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58556</guid>
+            <pubDate>Wed, 29 Sep 2021 17:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-10-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/58556_614d6ca5dd870[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스페이스독3: 트로피컬 어드벤처]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58525</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58525</guid>
+            <pubDate>Thu, 30 Sep 2021 03:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-10-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0927/14_08_53__615151e5d8390[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[타다: 대한민국 스타트업의 초상]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58364</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58364</guid>
@@ -141,14 +149,6 @@
             <pubDate>Wed, 29 Sep 2021 17:35:53 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-14]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/09_35_41__6153b4dd475b2[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노회찬6411]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57921</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57921</guid>
-            <pubDate>Thu, 30 Sep 2021 02:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0923/14_49_22__614c15625d937[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
