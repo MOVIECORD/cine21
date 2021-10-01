@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 21:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 01:05:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 29 Sep 2021 17:36:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0714/17_59_40__60eea77c7747b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴 오더]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57182</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57182</guid>
-            <pubDate>Wed, 29 Sep 2021 17:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0927/57182_615147ebdf167[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 나라로]]></title>
@@ -56,20 +48,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0914/5218_613fee59e46a4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미켈란젤로]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58533</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58533</guid>
-            <pubDate>Wed, 29 Sep 2021 17:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0909/58533_61395c98a5edf[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 마이 리틀 포니: 새로운 희망]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58348</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58348</guid>
             <pubDate>Wed, 29 Sep 2021 17:36:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-09]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0902/11_52_05__61303c55a6aba[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미켈란젤로]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58533</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58533</guid>
+            <pubDate>Wed, 29 Sep 2021 17:36:40 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0909/58533_61395c98a5edf[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시그널 X: 영혼의 구역]]></title>
@@ -147,6 +139,14 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=58577</guid>
             <pubDate>Thu, 30 Sep 2021 07:25:02 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-11]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[퍼스트 카우]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58537</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58537</guid>
+            <pubDate>Fri, 01 Oct 2021 01:04:49 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0927/58537_6151251cc9d7b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
