@@ -108,7 +108,8 @@ titleSelector = "span.tit"
 linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
-waitUntil = "networkidle"
+waitForSelector = "ul.news"
+onFail = "stale"
 
 [cine21_article_interview]
 title = "씨네21 ─ 기사 ─ 인터뷰"
@@ -118,7 +119,8 @@ titleSelector = "span.tit"
 linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
-waitUntil = "networkidle"
+waitForSelector = "ul.news"
+onFail = "stale"
 
 [cine21_article_column]
 title = "씨네21 ─ 기사 ─ 칼럼"
@@ -128,7 +130,8 @@ titleSelector = "span.tit"
 linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
-waitUntil = "networkidle"
+waitForSelector = "ul.news"
+onFail = "stale"
 
 [cine21_article_critic]
 title = "씨네21 ─ 기사 ─ 평론"
@@ -138,7 +141,8 @@ titleSelector = "span.tit"
 linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
-waitUntil = "networkidle"
+waitForSelector = "ul.news"
+onFail = "stale"
 
 [cine21_article_culture]
 title = "씨네21 ─ 기사 ─ 컬쳐"
@@ -148,7 +152,8 @@ titleSelector = "span.tit"
 linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
-waitUntil = "networkidle"
+waitForSelector = "ul.news"
+onFail = "stale"
 
 [cine21_article_filmfest]
 title = "씨네21 ─ 기사 ─ 영화제"
@@ -158,7 +163,8 @@ titleSelector = "span.tit"
 linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
-waitUntil = "networkidle"
+waitForSelector = "ul.news"
+onFail = "stale"
 
 [cine21_dailynews]
 title = "씨네21 ─ 데일리뉴스"
@@ -168,7 +174,8 @@ titleSelector = "span.tit"
 linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
-waitUntil = "networkidle"
+waitForSelector = "ul.news"
+onFail = "stale"
 
 [cine21_playing]
 title = "씨네21 ─ 영화 ─ 현재 상영중"
