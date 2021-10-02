@@ -79,6 +79,7 @@ linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [cine21_article_news]
 title = "씨네21 ─ 기사 ─ 뉴스"
@@ -89,6 +90,7 @@ linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [cine21_article_planning]
 title = "씨네21 ─ 기사 ─ 기획"
@@ -99,6 +101,7 @@ linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [cine21_article_review]
 title = "씨네21 ─ 기사 ─ 기획"
@@ -108,7 +111,7 @@ titleSelector = "span.tit"
 linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
-waitForSelector = "ul.news"
+waitUntil = "networkidle"
 onFail = "stale"
 
 [cine21_article_interview]
@@ -119,7 +122,7 @@ titleSelector = "span.tit"
 linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
-waitForSelector = "ul.news"
+waitUntil = "networkidle"
 onFail = "stale"
 
 [cine21_article_column]
@@ -130,7 +133,7 @@ titleSelector = "span.tit"
 linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
-waitForSelector = "ul.news"
+waitUntil = "networkidle"
 onFail = "stale"
 
 [cine21_article_critic]
@@ -141,7 +144,7 @@ titleSelector = "span.tit"
 linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
-waitForSelector = "ul.news"
+waitUntil = "networkidle"
 onFail = "stale"
 
 [cine21_article_culture]
@@ -152,7 +155,7 @@ titleSelector = "span.tit"
 linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
-waitForSelector = "ul.news"
+waitUntil = "networkidle"
 onFail = "stale"
 
 [cine21_article_filmfest]
@@ -163,7 +166,7 @@ titleSelector = "span.tit"
 linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
-waitForSelector = "ul.news"
+waitUntil = "networkidle"
 onFail = "stale"
 
 [cine21_dailynews]
@@ -174,7 +177,7 @@ titleSelector = "span.tit"
 linkSelector = "a"
 contentSelector = "span.nothumb"
 imageSelector = "span.thumb img.thumb_img"
-waitForSelector = "ul.news"
+waitUntil = "networkidle"
 onFail = "stale"
 
 [cine21_playing]
@@ -186,6 +189,7 @@ linkSelector = "a"
 contentSelector = "div.over span.open_date"
 imageSelector = "a img.thumb"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [cine21_coming_date]
 title = "씨네21 ─ 영화 ─ 개봉일 확정"
@@ -196,6 +200,7 @@ linkSelector = "a"
 contentSelector = "div.over span.open_date"
 imageSelector = "a img.thumb"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [cine21_coming_month]
 title = "씨네21 ─ 영화 ─ 개봉월 확정"
@@ -206,6 +211,7 @@ linkSelector = "a"
 contentSelector = "div.over span.open_date"
 imageSelector = "a img.thumb"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [cine21_yet]
 title = "씨네21 ─ 영화 ─ 개봉 미정"
@@ -216,6 +222,7 @@ linkSelector = "a"
 contentSelector = "div.over"
 imageSelector = "a img.thumb"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [navertv]
 title = "씨네21 ─ 네이버TV"
@@ -226,3 +233,4 @@ linkSelector = "dt.title a"
 imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
 waitUntil = "networkidle"
+onFail = "stale"
