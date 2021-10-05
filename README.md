@@ -4,24 +4,24 @@
 http://www.cine21.com/
 
 ### 기사
-- 전체: https://moviecord.github.io/cine21/cine21_article.xml
-- 뉴스: https://moviecord.github.io/cine21/cine21_article_news.xml   
-- 기획: https://moviecord.github.io/cine21/cine21_article_planning.xml   
-- 리뷰: https://moviecord.github.io/cine21/cine21_article_review.xml   
-- 인터뷰: https://moviecord.github.io/cine21/cine21_article_interview.xml   
-- 칼럼: https://moviecord.github.io/cine21/cine21_article_column.xml   
-- 평론: https://moviecord.github.io/cine21/cine21_article_critic.xml   
-- 컬쳐: https://moviecord.github.io/cine21/cine21_article_culture.xml   
-- 영화제: https://moviecord.github.io/cine21/cine21_article_filmfest.xml   
+- 전체: https://moviecord.github.io/cine21/article.xml
+- 뉴스: https://moviecord.github.io/cine21/article_news.xml   
+- 기획: https://moviecord.github.io/cine21/article_planning.xml   
+- 리뷰: https://moviecord.github.io/cine21/article_review.xml   
+- 인터뷰: https://moviecord.github.io/cine21/article_interview.xml   
+- 칼럼: https://moviecord.github.io/cine21/article_column.xml   
+- 평론: https://moviecord.github.io/cine21/article_critic.xml   
+- 컬쳐: https://moviecord.github.io/cine21/article_culture.xml   
+- 영화제: https://moviecord.github.io/cine21/article_filmfest.xml   
 
 ### 데일리뉴스
-- https://moviecord.github.io/cine21/cine21_dailynews.xml
+- https://moviecord.github.io/cine21/dailynews.xml
 
 ### 영화
-- 현재 상영중: https://MOVIECORD.github.io/cine21/cine21_playing.xml
-- 개봉일 확정: https://MOVIECORD.github.io/cine21/cine21_coming_date.xml
-- 개봉월 확정: https://MOVIECORD.github.io/cine21/cine21_coming_month.xml
-- 개봉 미정: https://MOVIECORD.github.io/cine21/cine21_yet.xml
+- 현재 상영중: https://MOVIECORD.github.io/cine21/movie_playing.xml
+- 개봉일 확정: https://MOVIECORD.github.io/cine21/movie_coming_date.xml
+- 개봉월 확정: https://MOVIECORD.github.io/cine21/movie_coming_month.xml
+- 개봉 미정: https://MOVIECORD.github.io/cine21/movie_yet.xml
 
 
 ## 네이버 포스트
