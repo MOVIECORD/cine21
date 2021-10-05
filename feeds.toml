@@ -92,7 +92,7 @@ imageSelector = "span.thumb img.thumb_img"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[article_planning]
+[article_plan]
 title = "씨네21 ─ 기사 ─ 기획"
 url = "http://www.cine21.com/news/list/?idx=2"
 entrySelector = "ul.news li:not(:nth-child(5))"
