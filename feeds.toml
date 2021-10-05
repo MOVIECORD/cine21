@@ -224,6 +224,17 @@ imageSelector = "a img.thumb"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[event]
+title = "씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트"
+url = "http://www.cine21.com/event/list"
+entrySelector = "li.event_list_li"
+titleSelector = "p.title"
+linkSelector = "a"
+contentSelector = "div.info"
+imageSelector = "img.thumb"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [navertv]
 title = "씨네21 ─ 네이버TV"
 url = "https://tv.naver.com/cine21/clips"
