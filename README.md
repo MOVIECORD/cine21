@@ -23,6 +23,7 @@ http://www.cine21.com/
 - 개봉월 확정: https://MOVIECORD.github.io/cine21/movie_coming_month.xml
 - 개봉 미정: https://MOVIECORD.github.io/cine21/movie_yet.xml
 
+### [별점](https://github.com/MOVIECORD/cine21_review)
 
 ## 네이버 포스트
 https://m.post.naver.com/my.nhn?memberNo=15205863
