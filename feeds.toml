@@ -70,7 +70,7 @@ linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
 
-[cine21_notice]
+[notice]
 title = "씨네21 ─ 공지사항"
 url = "http://www.cine21.com/misc/cs/notice_list/"
 entrySelector = "table.tb_list tr:nth-child(n+5)"
