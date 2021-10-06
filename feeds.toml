@@ -70,6 +70,17 @@ linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
 
+[cine21_notice]
+title = "씨네21 ─ 공지사항"
+url = "http://www.cine21.com/misc/cs/notice_list/"
+entrySelector = "table.tb_list tr:nth-child(n+5)"
+titleSelector = "td.subject a"
+linkSelector = "td.subject a"
+contentSelector = "td:nth-child(1)"
+dataSelector = "td:nth-child(3)"
+dateFormat = "yyyy-MM-dd"
+waitUntil = "networkidle"
+
 [article]
 title = "씨네21 ─ 기사 ─ 전체"
 url = "http://www.cine21.com/news/list/"
