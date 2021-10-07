@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2021-10-07T02:16:37.826Z</updated>
+    <updated>2021-10-07T02:52:34.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <킬링 오브 투 러버스>	시사회 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8241&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8241&amp;p=1"/>
+        <updated>2021-10-07T02:37:37.497Z</updated>
+        <content type="html"><![CDATA[8241]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 ＜타다: 대한민국 스타트업의 초상＞ 시사회 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8240&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8227&amp;p=1"/>
         <updated>2021-10-06T09:08:11.095Z</updated>
         <content type="html"><![CDATA[8227]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <그녀가 말했다>	출간기념 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8226&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8226&amp;p=1"/>
-        <updated>2021-10-06T09:08:11.095Z</updated>
-        <content type="html"><![CDATA[8226]]></content>
     </entry>
 </feed>
