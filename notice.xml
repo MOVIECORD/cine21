@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2021-10-12T05:28:45.912Z</updated>
+    <updated>2021-10-12T06:33:11.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도서 <형사 부스지마 최후의 사건> 출간기념 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8243&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8243&amp;p=1"/>
+        <updated>2021-10-12T06:15:26.181Z</updated>
+        <content type="html"><![CDATA[8243]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <십개월의 미래> 시사회 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8242&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8229&amp;p=1"/>
         <updated>2021-10-09T18:14:36.525Z</updated>
         <content type="html"><![CDATA[8229]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9월 수요단편극장 <애니-파서블!> 초대 이벤트  당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8228&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8228&amp;p=1"/>
-        <updated>2021-10-09T18:14:36.527Z</updated>
-        <content type="html"><![CDATA[8228]]></content>
     </entry>
 </feed>
