@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2021-10-13T04:36:01.394Z</updated>
+    <updated>2021-10-13T05:29:11.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <죽어야 사는 남자>  초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8244&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8244&amp;p=1"/>
+        <updated>2021-10-13T05:12:17.258Z</updated>
+        <content type="html"><![CDATA[8244]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <형사 부스지마 최후의 사건> 출간기념 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8243&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8230&amp;p=1"/>
         <updated>2021-10-09T18:14:36.524Z</updated>
         <content type="html"><![CDATA[8230]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <빌리 아일리시> 출간 기념 증정 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8229&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8229&amp;p=1"/>
-        <updated>2021-10-09T18:14:36.525Z</updated>
-        <content type="html"><![CDATA[8229]]></content>
     </entry>
 </feed>
