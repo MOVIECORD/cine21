@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 08:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 09:29:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2718,28 +2718,20 @@
             <enclosure url="http://k.kakaocdn.net/dn/bI9cxO/btrgdEtGETm/pW5i21vk11oF8Ky3yn1iV0/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고양이를 부탁해 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=5353</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=5353</guid>
-            <pubDate>Wed, 29 Sep 2021 17:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0927/15_44_21__6151684592d84[X224,320].JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[베놈 2: 렛 데어 비 카니지 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58020</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58020</guid>
-            <pubDate>Wed, 29 Sep 2021 17:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/15_18_24__6154053074044[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[푸른 호수 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58556</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58556</guid>
             <pubDate>Wed, 29 Sep 2021 17:35:53 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-13]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/58556_614d6ca5dd870[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고양이를 부탁해 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=5353</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=5353</guid>
+            <pubDate>Wed, 29 Sep 2021 17:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-10-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0927/15_44_21__6151684592d84[X224,320].JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[요시찰 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2750,6 +2742,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1005/16_57_58__615c0586d6657[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[베놈 2: 렛 데어 비 카니지 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58020</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58020</guid>
+            <pubDate>Wed, 29 Sep 2021 17:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-10-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/15_18_24__6154053074044[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[메이드 인 아메리카 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58543</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58543</guid>
@@ -2758,20 +2758,19 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/12_00_51__614d3f6378f98[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[피어썸 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58536</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58536</guid>
+            <title><![CDATA[브라더 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58378</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58378</guid>
             <pubDate>Wed, 29 Sep 2021 17:35:53 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0923/14_17_49__614c0dfd87cbe[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/58378_614d51b12af50[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쁘띠 마망 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58515</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58515</guid>
+            <title><![CDATA[다함께 여름! (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58574</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58574</guid>
             <pubDate>Wed, 29 Sep 2021 17:35:53 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0916/17_30_19__6143009bb9716[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부니베어: 애들이 줄었어요 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2780,6 +2779,14 @@
             <pubDate>Wed, 29 Sep 2021 17:35:53 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-07]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0831/58382_612ded02ebf10[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쁘띠 마망 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58515</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58515</guid>
+            <pubDate>Wed, 29 Sep 2021 17:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-10-07]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0916/17_30_19__6143009bb9716[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매직 스쿨: 초보마법사 아우라의 대모험 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2798,19 +2805,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0825/15_28_14__6125e2fe64bd3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다함께 여름! (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58574</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58574</guid>
+            <title><![CDATA[피어썸 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58536</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58536</guid>
             <pubDate>Wed, 29 Sep 2021 17:35:53 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-07]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[브라더 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58378</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58378</guid>
-            <pubDate>Wed, 29 Sep 2021 17:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/58378_614d51b12af50[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0923/14_17_49__614c0dfd87cbe[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스틸워터 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2853,12 +2853,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0830/58379_612c93338eb5d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아버지의 길 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57883</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57883</guid>
-            <pubDate>Tue, 05 Oct 2021 06:00:31 GMT</pubDate>
+            <title><![CDATA[서유기: 재세요왕 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58199</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58199</guid>
+            <pubDate>Wed, 13 Oct 2021 09:25:16 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-09-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/14_04_02__614d5c42c6472[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0927/17_28_13__6151809d77581[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스페이스독3: 트로피컬 어드벤처 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58525</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58525</guid>
+            <pubDate>Wed, 06 Oct 2021 16:29:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-10-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0927/14_08_53__615151e5d8390[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[졸트 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2869,12 +2877,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/09_35_41__6153b4dd475b2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스페이스독3: 트로피컬 어드벤처 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58525</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58525</guid>
-            <pubDate>Wed, 06 Oct 2021 16:29:27 GMT</pubDate>
+            <title><![CDATA[더 플랜 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58554</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58554</guid>
+            <pubDate>Wed, 13 Oct 2021 09:26:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0927/14_08_53__615151e5d8390[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0915/14_36_05__6141864599ad1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타다: 대한민국 스타트업의 초상 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2917,12 +2925,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0914/56797_6140021c5a6ec[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한창나이 선녀님 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58541</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58541</guid>
+            <title><![CDATA[듄 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57494</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57494</guid>
             <pubDate>Wed, 06 Oct 2021 16:29:27 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/09_59_36__6153ba786a58e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/0915/15_41_18__6141958e5f72f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경고 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2933,20 +2941,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/15_27_50__615407669f48f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[듄 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57494</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57494</guid>
-            <pubDate>Wed, 06 Oct 2021 16:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/0915/15_41_18__6141958e5f72f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[첫눈이 사라졌다 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58302</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58302</guid>
             <pubDate>Wed, 06 Oct 2021 16:29:27 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-20]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0930/10_36_40__615514a867441[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한창나이 선녀님 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58541</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58541</guid>
+            <pubDate>Wed, 06 Oct 2021 16:29:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-10-20]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/09_59_36__6153ba786a58e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라스트 듀얼: 최후의 결투 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2963,14 +2971,6 @@
             <pubDate>Thu, 07 Oct 2021 15:25:17 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-21]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/14_38_31__6153fbd7a43aa[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피치 오브 타임 극장판 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58560</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58560</guid>
-            <pubDate>Thu, 07 Oct 2021 15:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0930/10_48_16__615517603352f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[당신얼굴 앞에서 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3044,6 +3044,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2019/0326/11_41_31__5c99915b7d0db[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[원티드 킬러 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58246</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58246</guid>
+            <pubDate>Wed, 29 Sep 2021 17:36:40 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0823/16_44_06__612351c6cfbfc[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[부에나 비스타 소셜 클럽 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=5218</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=5218</guid>
@@ -3058,14 +3066,6 @@
             <pubDate>Wed, 29 Sep 2021 17:36:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-09]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0909/58533_61395c98a5edf[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원티드 킬러 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58246</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58246</guid>
-            <pubDate>Wed, 29 Sep 2021 17:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0823/16_44_06__612351c6cfbfc[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판 마이 리틀 포니: 새로운 희망 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3108,14 +3108,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1001/58559_61568ca66eb42[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가을의 전설 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=1005</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=1005</guid>
-            <pubDate>Wed, 29 Sep 2021 17:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/15_26_04__615406fc12e0c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[악인은 너무 많다2: 제주 실종사건의 전말 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58359</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58359</guid>
@@ -3138,6 +3130,13 @@
             <pubDate>Thu, 30 Sep 2021 07:25:02 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2018/1212/11_00_51__5c106bd33c1ad[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왕십리 김종분 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58577</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58577</guid>
+            <pubDate>Wed, 13 Oct 2021 09:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-11]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[강릉 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3346,11 +3345,11 @@
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우리, 자영(가제) (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
+            <title><![CDATA[연애 빠진 로맨스 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=56770</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=56770</guid>
             <pubDate>Wed, 29 Sep 2021 17:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">우리, 자영(가제)</span>
+            <content:encoded><![CDATA[<span class="tit">연애 빠진 로맨스</span>
 		
 
 									<span class="director">감독 : 정가영</span>
@@ -3359,7 +3358,6 @@
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2020/1130/20_38_40__5fc4d9c0badfe[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이상한 나라의 수학자 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
