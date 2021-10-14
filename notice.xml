@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2021-10-14T04:32:50.228Z</updated>
+    <updated>2021-10-14T05:28:10.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <아네트> 시사회 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8245&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8245&amp;p=1"/>
+        <updated>2021-10-14T05:12:40.444Z</updated>
+        <content type="html"><![CDATA[8245]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <죽어야 사는 남자>  초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8244&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8231&amp;p=1"/>
         <updated>2021-10-13T07:13:55.336Z</updated>
         <content type="html"><![CDATA[8231]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <영화가 뭐라고>	출간기념 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8230&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8230&amp;p=1"/>
-        <updated>2021-10-13T07:13:55.338Z</updated>
-        <content type="html"><![CDATA[8230]]></content>
     </entry>
 </feed>
