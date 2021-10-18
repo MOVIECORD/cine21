@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 15:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 16:34:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2686,7 +2686,7 @@ DMZ국제다큐멘터리영화제가 10월1일 다큐멘터리 전용 OTT인 ‘
             <guid>http://www.cine21.com/movie/info/?movie_id=57921</guid>
             <pubDate>Tue, 05 Oct 2021 16:31:17 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0923/14_49_22__614c15625d937[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1018/57921_616cc9dd3e72a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 플랜 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2734,7 +2734,7 @@ DMZ국제다큐멘터리영화제가 10월1일 다큐멘터리 전용 OTT인 ‘
             <guid>http://www.cine21.com/movie/info/?movie_id=57695</guid>
             <pubDate>Tue, 05 Oct 2021 16:31:17 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1007/14_24_01__615e847147241[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1018/57695_616cef5f57307[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[졸트 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2824,6 +2824,22 @@ DMZ국제다큐멘터리영화제가 10월1일 다큐멘터리 전용 OTT인 ‘
             <content:encoded><![CDATA[개봉 : 2021-10-07]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[듄 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57494</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57494</guid>
+            <pubDate>Wed, 06 Oct 2021 16:29:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-10-20]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/0915/15_41_18__6141958e5f72f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경고 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58544</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58544</guid>
+            <pubDate>Wed, 06 Oct 2021 16:29:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-10-20]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/15_27_50__615407669f48f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[첫눈이 사라졌다 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58302</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58302</guid>
@@ -2840,14 +2856,6 @@ DMZ국제다큐멘터리영화제가 10월1일 다큐멘터리 전용 OTT인 ‘
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0930/58216_61551e2585847[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[듄 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57494</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57494</guid>
-            <pubDate>Wed, 06 Oct 2021 16:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/0915/15_41_18__6141958e5f72f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[한창나이 선녀님 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58541</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58541</guid>
@@ -2856,20 +2864,12 @@ DMZ국제다큐멘터리영화제가 10월1일 다큐멘터리 전용 OTT인 ‘
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/09_59_36__6153ba786a58e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[경고 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58544</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58544</guid>
-            <pubDate>Wed, 06 Oct 2021 16:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/15_27_50__615407669f48f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사상 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57694</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57694</guid>
+            <title><![CDATA[휴가 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57196</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57196</guid>
             <pubDate>Tue, 12 Oct 2021 16:30:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/57694_614d6c8725282[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1006/13_55_46__615d2c5262c7f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동백 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2888,12 +2888,12 @@ DMZ국제다큐멘터리영화제가 10월1일 다큐멘터리 전용 OTT인 ‘
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0930/10_48_16__615517603352f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[휴가 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57196</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57196</guid>
+            <title><![CDATA[당신얼굴 앞에서 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58273</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58273</guid>
             <pubDate>Tue, 12 Oct 2021 16:30:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1006/13_55_46__615d2c5262c7f[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0908/16_37_22__61386832d70e0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[울림의 탄생 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2904,36 +2904,20 @@ DMZ국제다큐멘터리영화제가 10월1일 다큐멘터리 전용 OTT인 ‘
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0930/15_36_09__61555ad993641[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[당신얼굴 앞에서 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58273</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58273</guid>
+            <title><![CDATA[사상 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57694</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57694</guid>
             <pubDate>Tue, 12 Oct 2021 16:30:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0908/16_37_22__61386832d70e0[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/57694_614d6c8725282[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고장난 론 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58593</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58593</guid>
-            <pubDate>Wed, 13 Oct 2021 15:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1014/17_20_10__6167e83ad0162[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애프터: 관계의 함정 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58569</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58569</guid>
-            <pubDate>Wed, 13 Oct 2021 15:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/58569_6153faf83e881[X224,320].JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[바다 탐험대 옥토넛 : 육지수호 대작전 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58570</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58570</guid>
-            <pubDate>Wed, 13 Oct 2021 15:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/17_45_54__614d90421b53b[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[스웻 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58646</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58646</guid>
+            <pubDate>Mon, 18 Oct 2021 16:31:45 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-10-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1018/58646_616cedf249fbe[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그림자꽃 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2944,12 +2928,36 @@ DMZ국제다큐멘터리영화제가 10월1일 다큐멘터리 전용 OTT인 ‘
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1008/58601_615f9f331e5a3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[애프터: 관계의 함정 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58569</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58569</guid>
+            <pubDate>Wed, 13 Oct 2021 15:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-10-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1018/14_12_19__616d02338cd02[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가을의 전설 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=1005</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=1005</guid>
             <pubDate>Mon, 18 Oct 2021 02:18:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-27]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/15_26_04__615406fc12e0c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고장난 론 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58593</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58593</guid>
+            <pubDate>Wed, 13 Oct 2021 15:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-10-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1014/17_20_10__6167e83ad0162[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아네트 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58217</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58217</guid>
+            <pubDate>Wed, 13 Oct 2021 15:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-10-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1015/12_51_37__6168fac9a4050[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[할로윈 킬즈 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2960,12 +2968,27 @@ DMZ국제다큐멘터리영화제가 10월1일 다큐멘터리 전용 OTT인 ‘
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/58588_6153be7c9186a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아네트 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58217</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58217</guid>
-            <pubDate>Wed, 13 Oct 2021 15:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1015/12_51_37__6168fac9a4050[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[행복의 나라로 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55448</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55448</guid>
+            <pubDate>Wed, 29 Sep 2021 17:36:40 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/55448_614d6fb3976df[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베네데타 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58218</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58218</guid>
+            <pubDate>Fri, 01 Oct 2021 02:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[광대: 소리꾼 감독판 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58147</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58147</guid>
+            <pubDate>Wed, 29 Sep 2021 17:36:40 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0714/17_59_40__60eea77c7747b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비상선언 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -2984,27 +3007,12 @@ DMZ국제다큐멘터리영화제가 10월1일 다큐멘터리 전용 OTT인 ‘
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2019/0326/11_41_31__5c99915b7d0db[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[광대: 소리꾼 감독판 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58147</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58147</guid>
+            <title><![CDATA[미켈란젤로 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58533</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58533</guid>
             <pubDate>Wed, 29 Sep 2021 17:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0714/17_59_40__60eea77c7747b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베네데타 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58218</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58218</guid>
-            <pubDate>Fri, 01 Oct 2021 02:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[행복의 나라로 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=55448</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=55448</guid>
-            <pubDate>Wed, 29 Sep 2021 17:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/55448_614d6fb3976df[X224,320].jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[개봉 : 2021-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0909/58533_61395c98a5edf[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원티드 킬러 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3015,12 +3023,12 @@ DMZ국제다큐멘터리영화제가 10월1일 다큐멘터리 전용 OTT인 ‘
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0823/16_44_06__612351c6cfbfc[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미켈란젤로 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58533</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58533</guid>
+            <title><![CDATA[극장판 마이 리틀 포니: 새로운 희망 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58348</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58348</guid>
             <pubDate>Wed, 29 Sep 2021 17:36:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0909/58533_61395c98a5edf[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0902/11_52_05__61303c55a6aba[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부에나 비스타 소셜 클럽 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3031,14 +3039,6 @@ DMZ국제다큐멘터리영화제가 10월1일 다큐멘터리 전용 OTT인 ‘
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0914/5218_613fee59e46a4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 마이 리틀 포니: 새로운 희망 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58348</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58348</guid>
-            <pubDate>Wed, 29 Sep 2021 17:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0902/11_52_05__61303c55a6aba[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[색다른 그녀 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58559</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58559</guid>
@@ -3047,20 +3047,12 @@ DMZ국제다큐멘터리영화제가 10월1일 다큐멘터리 전용 OTT인 ‘
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1001/58559_61568ca66eb42[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스티브 맥퀸: 더 맨 앤 르망 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58602</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58602</guid>
-            <pubDate>Tue, 05 Oct 2021 02:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1005/10_42_15__615bad77270af[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼펙트 스틸 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58558</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58558</guid>
+            <title><![CDATA[본 어 챔피언 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58529</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58529</guid>
             <pubDate>Wed, 29 Sep 2021 17:36:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1008/58558_615ffc8f07d13[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0914/11_05_57__61400385ee0f4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[악인은 너무 많다2: 제주 실종사건의 전말 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3079,12 +3071,12 @@ DMZ국제다큐멘터리영화제가 10월1일 다큐멘터리 전용 OTT인 ‘
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1015/11_29_45__6168e7997e9ab[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[본 어 챔피언 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58529</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58529</guid>
-            <pubDate>Wed, 29 Sep 2021 17:36:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0914/11_05_57__61400385ee0f4[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[킬링 카인드 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58520</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58520</guid>
+            <pubDate>Mon, 18 Oct 2021 16:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1015/12_31_07__6168f5fb243c0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[캅샵: 미친놈들의 전쟁 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3095,12 +3087,12 @@ DMZ국제다큐멘터리영화제가 10월1일 다큐멘터리 전용 OTT인 ‘
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0914/58546_6140087e9818f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[태양은 움직이지 않는다 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57773</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57773</guid>
-            <pubDate>Fri, 15 Oct 2021 15:26:25 GMT</pubDate>
+            <title><![CDATA[싸반 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58641</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58641</guid>
+            <pubDate>Mon, 18 Oct 2021 16:32:30 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1015/57773_61690ad444a67[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1015/11_31_58__6168e81e78c27[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왕십리 김종분 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3108,6 +3100,14 @@ DMZ국제다큐멘터리영화제가 10월1일 다큐멘터리 전용 OTT인 ‘
             <guid>http://www.cine21.com/movie/info/?movie_id=58577</guid>
             <pubDate>Fri, 15 Oct 2021 15:26:25 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-11]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[핫 블러드 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58613</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58613</guid>
+            <pubDate>Mon, 18 Oct 2021 16:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1007/58613_615e48f7aba2d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드림 (가제) (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
