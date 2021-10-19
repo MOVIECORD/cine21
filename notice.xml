@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2021-10-19T04:34:29.597Z</updated>
+    <updated>2021-10-19T05:29:31.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10월 수요단편극장 <휴먼 스토리텔러, 이란희 특별전> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8248&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8248&amp;p=1"/>
+        <updated>2021-10-19T05:12:29.711Z</updated>
+        <content type="html"><![CDATA[8248]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['여성영화를 말하다' <십개월의 미래> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8247&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8234&amp;p=1"/>
         <updated>2021-10-17T05:12:05.854Z</updated>
         <content type="html"><![CDATA[8234]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <환상 컬렉션> 증정 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8233&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8233&amp;p=1"/>
-        <updated>2021-10-17T05:12:05.855Z</updated>
-        <content type="html"><![CDATA[8233]]></content>
     </entry>
 </feed>
