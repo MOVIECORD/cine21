@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 01:01:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 02:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -148,6 +148,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=58675</guid>
             <pubDate>Mon, 25 Oct 2021 07:29:09 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1026/58675_61775119a3360[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
