@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 07:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 08:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 26 Oct 2021 15:25:59 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-27]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/15_26_04__615406fc12e0c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아네트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58217</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58217</guid>
-            <pubDate>Tue, 26 Oct 2021 15:25:59 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1015/12_51_37__6168fac9a4050[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애프터: 관계의 함정]]></title>
@@ -72,36 +64,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1022/10_59_02__61721ae636aac[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아네트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58217</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58217</guid>
+            <pubDate>Tue, 26 Oct 2021 15:25:59 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-10-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1027/58217_6178fe7e7ae9a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스웻]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58646</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58646</guid>
             <pubDate>Mon, 25 Oct 2021 19:23:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-26]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1018/58646_616cedf249fbe[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동백]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58553</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58553</guid>
-            <pubDate>Wed, 20 Oct 2021 16:31:28 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/14_38_31__6153fbd7a43aa[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사상]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57694</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57694</guid>
-            <pubDate>Wed, 20 Oct 2021 16:31:28 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/57694_614d6c8725282[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신얼굴 앞에서]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58273</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58273</guid>
-            <pubDate>Wed, 20 Oct 2021 16:31:28 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0908/16_37_22__61386832d70e0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피치 오브 타임 극장판]]></title>
@@ -112,12 +88,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0930/10_48_16__615517603352f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[휴가]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57196</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57196</guid>
+            <title><![CDATA[양방언과 국립국악관현악단-인투 더 라이트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58665</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58665</guid>
             <pubDate>Wed, 20 Oct 2021 16:31:28 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1006/13_55_46__615d2c5262c7f[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1020/58665_616fa47360782[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동백]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58553</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58553</guid>
+            <pubDate>Wed, 20 Oct 2021 16:31:28 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-10-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/14_38_31__6153fbd7a43aa[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[울림의 탄생]]></title>
@@ -128,12 +112,36 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0930/15_36_09__61555ad993641[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[양방언과 국립국악관현악단-인투 더 라이트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58665</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58665</guid>
+            <title><![CDATA[당신얼굴 앞에서]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58273</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58273</guid>
             <pubDate>Wed, 20 Oct 2021 16:31:28 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1020/58665_616fa47360782[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0908/16_37_22__61386832d70e0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휴가]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57196</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57196</guid>
+            <pubDate>Wed, 20 Oct 2021 16:31:28 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-10-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1006/13_55_46__615d2c5262c7f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사상]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57694</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57694</guid>
+            <pubDate>Wed, 20 Oct 2021 16:31:28 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-10-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/57694_614d6c8725282[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한창나이 선녀님]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58541</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58541</guid>
+            <pubDate>Wed, 27 Oct 2021 08:28:17 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-10-20]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/09_59_36__6153ba786a58e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[듄]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 19 Oct 2021 16:29:30 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-10-20]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/0915/15_41_18__6141958e5f72f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경고]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58544</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58544</guid>
-            <pubDate>Tue, 19 Oct 2021 16:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-10-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0929/15_27_50__615407669f48f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
