@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 18:32:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 19:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,20 +80,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1018/58607_616cc892427a7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[강릉]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58360</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58360</guid>
-            <pubDate>Wed, 27 Oct 2021 15:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1022/58360_61721e17135dd[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[태양은 움직이지 않는다]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57773</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57773</guid>
             <pubDate>Wed, 27 Oct 2021 15:26:41 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-11-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1021/14_38_39__6170fcdf8d3af[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강릉]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58360</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58360</guid>
+            <pubDate>Wed, 27 Oct 2021 15:26:41 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-11-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1022/58360_61721e17135dd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[귀멸의 칼날: 남매의 연]]></title>
@@ -112,12 +112,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1021/58639_6170cdcc09aaf[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[왕십리 김종분]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58577</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58577</guid>
+            <title><![CDATA[싸반]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58641</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58641</guid>
             <pubDate>Wed, 27 Oct 2021 15:26:41 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-11-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1027/10_42_39__6178ae8f6ae0b[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1028/11_24_22__617a09d628583[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타임 이즈 업]]></title>
@@ -143,12 +143,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1027/58664_6178b16d0e0fc[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[싸반]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58641</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58641</guid>
+            <title><![CDATA[왕십리 김종분]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58577</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58577</guid>
             <pubDate>Wed, 27 Oct 2021 15:26:41 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-11-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1015/11_31_58__6168e81e78c27[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1027/10_42_39__6178ae8f6ae0b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
