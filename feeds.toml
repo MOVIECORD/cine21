@@ -288,6 +288,18 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[cine21_media_video]
+title = "씨네21 ─ 멀티미디어 ─ 동영상"
+url = "http://www.cine21.com/media/video"
+entrySelector = "http://www.cine21.com/media/video"
+titleSelector = "span.title"
+linkSelector = "a"
+dateSelector = "span.date"
+dateFormat = "yyyy-MM-dd"
+imageSelector = "img.thumb"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [navertv]
 title = "씨네21 ─ 네이버TV"
 url = "https://tv.naver.com/cine21/clips"
