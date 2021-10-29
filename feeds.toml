@@ -281,7 +281,7 @@ onFail = "stale"
 [cine21_media_photo_shoot]
 title = "씨네21 ─ 멀티미디어 ─ 촬영사진"
 url = "http://www.cine21.com/media/photo/shoot"
-entrySelector = "ul.photodata_list li"
+entrySelector = "ul.photodata_list li:not(:nth-child(6))"
 titleSelector = "span.caption"
 linkSelector = "a"
 imageSelector = "img.thumb"
