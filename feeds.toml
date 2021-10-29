@@ -267,6 +267,27 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[cine21_media_cover_photo]
+title = "씨네21 ─ 멀티미디어 ─ 커버 ─ 사진"
+url = "http://www.cine21.com/media/cover/photo"
+entrySelector = "ul.coverdata li"
+titleSelector = "div.tit_box p.ho_num"
+linkSelector = "a.cover_image"
+contentSelector = "div.tit_box p.date"
+imageSelector = "img.thumb"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[cine21_media_photo_shoot]
+title = "씨네21 ─ 멀티미디어 ─ 촬영사진"
+url = "http://www.cine21.com/media/photo/shoot"
+entrySelector = "ul.photodata_list li"
+titleSelector = "span.caption"
+linkSelector = "a"
+imageSelector = "img.thumb"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [navertv]
 title = "씨네21 ─ 네이버TV"
 url = "https://tv.naver.com/cine21/clips"
