@@ -44,6 +44,7 @@ http://www.cine21.com/
 
 ## 네이버 포스트
 https://m.post.naver.com/my.nhn?memberNo=15205863
+- https://moviecord.github.io/cine21/naverpost.xml
 - https://moviecord.github.io/cine21/naverpost_cine21_review.xml
 - https://moviecord.github.io/cine21/naverpost_cine21_news.xml
 - https://moviecord.github.io/cine21/naverpost_cine21_view.xml
