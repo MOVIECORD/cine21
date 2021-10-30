@@ -37,6 +37,7 @@ http://www.cine21.com/
 - 진행중인 이벤트: https://moviecord.github.io/cine21/event.xml
 - 당첨자 발표: https://moviecord.github.io/cine21/event_winner.xml
 #### [영화인 리쿠르트](https://github.com/MOVIECORD/recruit)
+- https://moviecord.github.io/recruit/cine21_recruit.xml
 #### [씨네퀴즈](https://github.com/MOVIECORD/cine21_quiz)
 
 ### 아카이브
