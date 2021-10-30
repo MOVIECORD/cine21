@@ -291,7 +291,7 @@ onFail = "stale"
 [cine21_media_video]
 title = "씨네21 ─ 멀티미디어 ─ 동영상"
 url = "http://www.cine21.com/media/video"
-entrySelector = "http://www.cine21.com/media/video"
+entrySelector = "ul.videodata_list li"
 titleSelector = "span.title"
 linkSelector = "a"
 dateSelector = "span.date"
