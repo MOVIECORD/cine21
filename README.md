@@ -7,7 +7,7 @@ http://www.cine21.com/
 ### 기사
 - 전체: https://moviecord.github.io/cine21/article.xml
 - 뉴스: https://moviecord.github.io/cine21/article_news.xml   
-- 기획: https://moviecord.github.io/cine21/article_planning.xml   
+- 기획: https://moviecord.github.io/cine21/article_plan.xml   
 - 리뷰: https://moviecord.github.io/cine21/article_review.xml   
 - 인터뷰: https://moviecord.github.io/cine21/article_interview.xml   
 - 칼럼: https://moviecord.github.io/cine21/article_column.xml   
