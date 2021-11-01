@@ -5,7 +5,7 @@
 http://www.cine21.com/
 
 ### 공지사항
-https://moviecord.github.io/cine21/notice.xml
+- https://moviecord.github.io/cine21/notice.xml
 
 ### 기사
 - 전체: https://moviecord.github.io/cine21/article.xml
