@@ -4,6 +4,9 @@
 ## 공식사이트
 http://www.cine21.com/
 
+### 공지사항
+https://moviecord.github.io/cine21/notice.xml
+
 ### 기사
 - 전체: https://moviecord.github.io/cine21/article.xml
 - 뉴스: https://moviecord.github.io/cine21/article_news.xml   
