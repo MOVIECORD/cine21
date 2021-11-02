@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2021-11-02T02:54:06.357Z</updated>
+    <updated>2021-11-02T03:34:52.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 서울무용영화제 개막작 <마기 마랭: 타임 투 액트(Maguy Marin: Time to Act)> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8256&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8256&amp;p=1"/>
+        <updated>2021-11-02T03:14:44.511Z</updated>
+        <content type="html"><![CDATA[8256]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <옥탑방 고양이> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8255&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8255&amp;p=1"/>
+        <updated>2021-11-02T03:14:44.511Z</updated>
+        <content type="html"><![CDATA[8255]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <러브 어페어: 우리가 말하는 것, 우리가 하는 것> 시사회 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8254&amp;p=1</id>
@@ -95,19 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8242&amp;p=1"/>
         <updated>2021-10-17T05:12:05.844Z</updated>
         <content type="html"><![CDATA[8242]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <킬링 오브 투 러버스>	시사회 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8241&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8241&amp;p=1"/>
-        <updated>2021-10-17T05:12:05.847Z</updated>
-        <content type="html"><![CDATA[8241]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 ＜타다: 대한민국 스타트업의 초상＞ 시사회 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8240&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8240&amp;p=1"/>
-        <updated>2021-10-17T05:12:05.848Z</updated>
-        <content type="html"><![CDATA[8240]]></content>
     </entry>
 </feed>
