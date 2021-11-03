@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2021-11-03T04:37:16.204Z</updated>
+    <updated>2021-11-03T05:32:47.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <세버그> 시사회 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8258&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8258&amp;p=1"/>
+        <updated>2021-11-03T05:12:39.458Z</updated>
+        <content type="html"><![CDATA[8258]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <행복의 속도> 시사회 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8257&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8257&amp;p=1"/>
+        <updated>2021-11-03T05:12:39.460Z</updated>
+        <content type="html"><![CDATA[8257]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 서울무용영화제 개막작 <마기 마랭: 타임 투 액트(Maguy Marin: Time to Act)> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8256&amp;p=1</id>
@@ -95,19 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8244&amp;p=1"/>
         <updated>2021-10-17T05:12:05.842Z</updated>
         <content type="html"><![CDATA[8244]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <형사 부스지마 최후의 사건> 출간기념 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8243&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8243&amp;p=1"/>
-        <updated>2021-10-17T05:12:05.842Z</updated>
-        <content type="html"><![CDATA[8243]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <십개월의 미래> 시사회 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8242&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8242&amp;p=1"/>
-        <updated>2021-10-17T05:12:05.844Z</updated>
-        <content type="html"><![CDATA[8242]]></content>
     </entry>
 </feed>
