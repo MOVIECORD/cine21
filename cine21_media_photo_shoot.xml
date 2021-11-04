@@ -4,9 +4,25 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 04:35:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 05:32:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우							장률 
+							(총5장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=110316</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=110316</guid>
+            <pubDate>Thu, 04 Nov 2021 05:31:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=110316">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2021/1104/14_20_14__61836d8ec263a[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/Z86LX/btrjQEY21dr/Lyr8MDbQTzY3JyXJpIaI00/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>장률</strong> 
+							<span class="num">(총5장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/Z86LX/btrjQEY21dr/Lyr8MDbQTzY3JyXJpIaI00/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우							성유빈 
 							(총11장)]]></title>
@@ -166,22 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/oeSpi/btrhHuxrbE8/e1pHgORmkNyO6KMokRSkR1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감독							김덕중 
-							(총4장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=110277</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=110277</guid>
-            <pubDate>Fri, 29 Oct 2021 23:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=110277">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2021/1014/10_54_01__61678db9525bc[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="http://k.kakaocdn.net/dn/cqQ5ac/btrhMtxrDx5/s8i6zYMikj1sGi5TgWTKaK/img.jpg" alt="" class="thumb">
-						<span class="caption">
-							감독							<strong>김덕중</strong> 
-							<span class="num">(총4장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/cqQ5ac/btrhMtxrDx5/s8i6zYMikj1sGi5TgWTKaK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
