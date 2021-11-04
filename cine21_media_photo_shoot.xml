@@ -4,9 +4,25 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 08:36:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 09:35:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감독							와타나베 아유무 
+							(총1장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=58422</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=58422</guid>
+            <pubDate>Thu, 04 Nov 2021 09:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=58422">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2021/1104/18_12_16__6183a3f0bf5cc[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/GUed7/btrjUThtB27/TG6PJx7hl1dXerIrS4RaOk/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							감독							<strong>와타나베 아유무</strong> 
+							<span class="num">(총1장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/GUed7/btrjUThtB27/TG6PJx7hl1dXerIrS4RaOk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우							장률 
 							(총5장)]]></title>
@@ -166,22 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/qgbej/btrhZNqzHCj/3l3apt9lFqxjbiqscJhJVK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감독							안카 다미안 
-							(총3장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=69715</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=69715</guid>
-            <pubDate>Fri, 29 Oct 2021 23:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=69715">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2021/1014/10_55_13__61678e01bf919[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="http://k.kakaocdn.net/dn/oeSpi/btrhHuxrbE8/e1pHgORmkNyO6KMokRSkR1/img.jpg" alt="" class="thumb">
-						<span class="caption">
-							감독							<strong>안카 다미안</strong> 
-							<span class="num">(총3장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/oeSpi/btrhHuxrbE8/e1pHgORmkNyO6KMokRSkR1/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
