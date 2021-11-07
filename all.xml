@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 15:35:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 16:37:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3518,6 +3518,24 @@ SF 블록버스터 으로 글로벌 흥행을 불러일으킨 배우 티모시 �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0602/16_46_14__5ed603c6be516[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <메이사의 노래> 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=7831</link>
+            <guid>http://www.cine21.com/event/view/?event_no=7831</guid>
+            <pubDate>Sun, 07 Nov 2021 16:34:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2021-11-15 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1105/17_22_49__6184e9d93eca7[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <울트라월드> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=7830</link>
+            <guid>http://www.cine21.com/event/view/?event_no=7830</guid>
+            <pubDate>Sun, 07 Nov 2021 16:34:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2021-11-22 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1105/17_19_56__6184e92c65311[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['여성영화를 말하다' <임신한 나무와 도깨비> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
             <link>http://www.cine21.com/event/view/?event_no=7829</link>
             <guid>http://www.cine21.com/event/view/?event_no=7829</guid>
@@ -3554,15 +3572,6 @@ SF 블록버스터 으로 글로벌 흥행을 불러일으킨 배우 티모시 �
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2021-11-16 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1029/15_49_31__617b997bbba3b[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <나를 잡아줘> 예매권 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7823</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7823</guid>
-            <pubDate>Wed, 27 Oct 2021 16:34:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2021-11-08 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1027/18_06_16__617916886b31b[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 <나의 끝, 당신의 시작> 시사회 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
