@@ -4,9 +4,18 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 04:39:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 05:32:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <나를 잡아줘> 예매권 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8260&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8260&amp;p=1</guid>
+            <pubDate>Mon, 08 Nov 2021 05:29:25 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2021-11-08 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1027/18_06_16__617916886b31b[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <아워 미드나잇> 시사회 초대 이벤트]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8259&amp;p=1</link>
@@ -112,17 +121,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2021-10-28 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1021/17_56_49__61712b5179cfa[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <가치 캅시다> 시사회 초대 이벤트]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8249&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8249&amp;p=1</guid>
-            <pubDate>Thu, 04 Nov 2021 03:31:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2021-10-25 20:00:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2021-10-21 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1013/14_24_16__61666d8039bab[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

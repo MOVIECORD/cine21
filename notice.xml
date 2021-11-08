@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2021-11-08T04:39:04.521Z</updated>
+    <updated>2021-11-08T05:32:48.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <나를 잡아줘> 예매권 이벤트]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8260&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8260&amp;p=1"/>
+        <updated>2021-11-08T05:13:07.289Z</updated>
+        <content type="html"><![CDATA[8260]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <아워 미드나잇> 시사회 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8259&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8246&amp;p=1"/>
         <updated>2021-10-17T05:12:05.840Z</updated>
         <content type="html"><![CDATA[8246]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <아네트> 시사회 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8245&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8245&amp;p=1"/>
-        <updated>2021-10-17T05:12:05.842Z</updated>
-        <content type="html"><![CDATA[8245]]></content>
     </entry>
 </feed>
