@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2021-11-11T01:01:01.684Z</updated>
+    <updated>2021-11-11T02:15:15.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['여성영화를 말하다' 영화 <임신한 나무와 도깨비> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8265&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8265&amp;p=1"/>
+        <updated>2021-11-11T01:57:14.905Z</updated>
+        <content type="html"><![CDATA[8265]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도서 <웨스트 사이드 스토리> 출간 기념 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8264&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8264&amp;p=1"/>
+        <updated>2021-11-11T01:57:14.906Z</updated>
+        <content type="html"><![CDATA[8264]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <운빨 로맨스> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8263&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8263&amp;p=1"/>
+        <updated>2021-11-11T01:57:14.907Z</updated>
+        <content type="html"><![CDATA[8263]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <나의 끝, 당신의 시작> 시사회 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8262&amp;p=1</id>
@@ -88,26 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8251&amp;p=1"/>
         <updated>2021-10-28T05:12:31.232Z</updated>
         <content type="html"><![CDATA[8251]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인디스페이스 기획전 섹션2 <보통의 우리, 우리의 2000's/가리베가스 그녀, 잠시 숨을 쉬다> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8250&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8250&amp;p=1"/>
-        <updated>2021-10-28T05:12:31.235Z</updated>
-        <content type="html"><![CDATA[8250]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <가치캅시다> 시사회 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8249&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8249&amp;p=1"/>
-        <updated>2021-10-21T05:12:34.488Z</updated>
-        <content type="html"><![CDATA[8249]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10월 수요단편극장 <휴먼 스토리텔러, 이란희 특별전> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8248&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8248&amp;p=1"/>
-        <updated>2021-10-19T05:12:29.711Z</updated>
-        <content type="html"><![CDATA[8248]]></content>
     </entry>
 </feed>
