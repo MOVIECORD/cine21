@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 23:32:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 02:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 05 Oct 2021 06:02:35 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0702/17_47_38__5efd9f2a363ef[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[킹메이커]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=53014</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=53014</guid>
-            <pubDate>Tue, 05 Oct 2021 06:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2019/0326/11_41_31__5c99915b7d0db[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 나라로]]></title>
@@ -80,6 +72,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1104/58697_618386f2d2736[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스파이더맨: 노 웨이 홈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58356</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58356</guid>
+            <pubDate>Wed, 10 Nov 2021 00:54:01 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1112/10_22_19__618dc1cb9766e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[캅샵: 미친놈들의 전쟁]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58546</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58546</guid>
@@ -112,12 +112,11 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1022/58672_61724c152e974[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이상존재]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58711</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58711</guid>
-            <pubDate>Thu, 11 Nov 2021 08:29:38 GMT</pubDate>
+            <title><![CDATA[하우스 오브 스네일스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58713</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58713</guid>
+            <pubDate>Fri, 12 Nov 2021 02:13:29 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1110/58711_618b6bd78d8b7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로그 인 벨지움]]></title>
@@ -128,11 +127,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1109/58700_618a0844dd6fc[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소설가 구보의 하루]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58710</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58710</guid>
-            <pubDate>Wed, 10 Nov 2021 08:30:42 GMT</pubDate>
+            <title><![CDATA[이상존재]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58711</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58711</guid>
+            <pubDate>Thu, 11 Nov 2021 08:29:38 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1110/58711_618b6bd78d8b7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노아의 방주 2: 새로운 세계로]]></title>
@@ -143,12 +143,11 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1104/58696_618339ac9a958[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스파이더맨: 노 웨이 홈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58356</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58356</guid>
-            <pubDate>Wed, 10 Nov 2021 00:54:01 GMT</pubDate>
+            <title><![CDATA[소설가 구보의 하루]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58710</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58710</guid>
+            <pubDate>Wed, 10 Nov 2021 08:30:42 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0824/58356_61246d7612c34[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
