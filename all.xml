@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 14:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 15:33:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3518,6 +3518,15 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0602/16_46_14__5ed603c6be516[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <우리가 사랑했던 그날> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=7837</link>
+            <guid>http://www.cine21.com/event/view/?event_no=7837</guid>
+            <pubDate>Mon, 15 Nov 2021 15:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2021-11-29 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1115/18_01_35__619221ef56038[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영화 <킬링카인드: 킬러의 수제자> 시사회 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
             <link>http://www.cine21.com/event/view/?event_no=7836</link>
             <guid>http://www.cine21.com/event/view/?event_no=7836</guid>
@@ -3527,17 +3536,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2021-11-22 11:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1115/09_43_32__6191ad34d5995[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <소설가 구보의 하루> 스페셜 시사회 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7834</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7834</guid>
-            <pubDate>Mon, 08 Nov 2021 15:29:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2021-11-18 19:30</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>CGV용산아이파크몰</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2021-11-16 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1108/16_52_10__6188d72a44c3b[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 <라임크라임>시사회 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
@@ -3551,17 +3549,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1108/16_44_22__6188d5568f96d[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[11월 수요단편극장 <웜(warm)메이드, 또똣한 단편전> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7832</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7832</guid>
-            <pubDate>Mon, 08 Nov 2021 15:29:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2021-11-17 19:30</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>서울아트시네마(서울극장 3층)</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2021-11-16 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1108/10_03_55__6188777b96ff8[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <울트라월드> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
             <link>http://www.cine21.com/event/view/?event_no=7830</link>
             <guid>http://www.cine21.com/event/view/?event_no=7830</guid>
@@ -3569,15 +3556,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2021-11-22 11:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1105/17_19_56__6184e92c65311[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <디어 에번 핸슨> 증정 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7827</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7827</guid>
-            <pubDate>Tue, 02 Nov 2021 01:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2021-11-16 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1102/09_38_54__6180889e4458e[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도서 <잔류 인구> 출간 기념 증정 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
