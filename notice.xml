@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2021-11-15T04:38:32.208Z</updated>
+    <updated>2021-11-15T05:34:49.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도서 <잔류 인구> 출간기념 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8268&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8268&amp;p=1"/>
+        <updated>2021-11-15T05:13:12.195Z</updated>
+        <content type="html"><![CDATA[8268]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <무녀도> 시사회 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8267&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8267&amp;p=1"/>
+        <updated>2021-11-15T05:13:12.195Z</updated>
+        <content type="html"><![CDATA[8267]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <메이사의 노래> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8266&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8266&amp;p=1"/>
+        <updated>2021-11-15T05:13:12.199Z</updated>
+        <content type="html"><![CDATA[8266]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['여성영화를 말하다' 영화 <임신한 나무와 도깨비> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8265&amp;p=1</id>
@@ -88,26 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8254&amp;p=1"/>
         <updated>2021-11-11T19:12:00.128Z</updated>
         <content type="html"><![CDATA[8254]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 서울국제프라이드영화제 초대권 증정 이벤트]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8253&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8253&amp;p=1"/>
-        <updated>2021-11-11T19:12:00.128Z</updated>
-        <content type="html"><![CDATA[8253]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <당신만 몰랐던 부동산 투자> 출간기념 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8252&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8252&amp;p=1"/>
-        <updated>2021-11-11T19:12:00.128Z</updated>
-        <content type="html"><![CDATA[8252]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인디스페이스 기획전 섹션5 <보통의 우리, 우리의 2000's/인간적인 우듀 도둑> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8251&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8251&amp;p=1"/>
-        <updated>2021-11-11T19:12:00.128Z</updated>
-        <content type="html"><![CDATA[8251]]></content>
     </entry>
 </feed>
