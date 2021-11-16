@@ -1,8 +1,219 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cine21.com/media/video</id>
-    <title>씨네21 ─ 멀티미디어 ─ 동영상</title>
-    <updated>2021-11-16T02:16:32.877Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cine21.com/media/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 멀티미디어 ─ 동영상</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 16 Nov 2021 02:47:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[＜장르만 로맨스＞ 판소리텔링 영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2Fjangr_psmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdsAH0Y%2Fbtrk6e5AOXI%2FSK3ZScwuGBkSEYUOVDmFtk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%9E%A5%EB%A5%B4%EB%A7%8C%20%EB%A1%9C%EB%A7%A8%EC%8A%A4%EF%BC%9E%20%ED%8C%90%EC%86%8C%EB%A6%AC%ED%85%94%EB%A7%81%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2Fjangr_psmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdsAH0Y%2Fbtrk6e5AOXI%2FSK3ZScwuGBkSEYUOVDmFtk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%9E%A5%EB%A5%B4%EB%A7%8C%20%EB%A1%9C%EB%A7%A8%EC%8A%A4%EF%BC%9E%20%ED%8C%90%EC%86%8C%EB%A6%AC%ED%85%94%EB%A7%81%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=41598">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2Fjangr_psmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdsAH0Y%2Fbtrk6e5AOXI%2FSK3ZScwuGBkSEYUOVDmFtk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%9E%A5%EB%A5%B4%EB%A7%8C%20%EB%A1%9C%EB%A7%A8%EC%8A%A4%EF%BC%9E%20%ED%8C%90%EC%86%8C%EB%A6%AC%ED%85%94%EB%A7%81%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2021/11/jangr_psmk.mp4">
+						<img src="http://k.kakaocdn.net/dn/dsAH0Y/btrk6e5AOXI/SK3ZScwuGBkSEYUOVDmFtk/img.jpg" alt="" class="thumb">
+						<span class="title">＜장르만 로맨스＞ 판소리텔링 영상</span>
+						<span class="date">2021-11-16</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/dsAH0Y/btrk6e5AOXI/SK3ZScwuGBkSEYUOVDmFtk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜킬링 카인드: 킬러의 수제자＞ 할로윈 스페셜 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Fkillka_hstr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FoqfiF%2FbtrkBuhQFgx%2FgCYGk99gI7xdxzcBmChwCK%2Fimg.jpg&amp;title=%EF%BC%9C%ED%82%AC%EB%A7%81%20%EC%B9%B4%EC%9D%B8%EB%93%9C%3A%20%ED%82%AC%EB%9F%AC%EC%9D%98%20%EC%88%98%EC%A0%9C%EC%9E%90%EF%BC%9E%20%ED%95%A0%EB%A1%9C%EC%9C%88%20%EC%8A%A4%ED%8E%98%EC%85%9C%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Fkillka_hstr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FoqfiF%2FbtrkBuhQFgx%2FgCYGk99gI7xdxzcBmChwCK%2Fimg.jpg&amp;title=%EF%BC%9C%ED%82%AC%EB%A7%81%20%EC%B9%B4%EC%9D%B8%EB%93%9C%3A%20%ED%82%AC%EB%9F%AC%EC%9D%98%20%EC%88%98%EC%A0%9C%EC%9E%90%EF%BC%9E%20%ED%95%A0%EB%A1%9C%EC%9C%88%20%EC%8A%A4%ED%8E%98%EC%85%9C%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=41595">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Fkillka_hstr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FoqfiF%2FbtrkBuhQFgx%2FgCYGk99gI7xdxzcBmChwCK%2Fimg.jpg&amp;title=%EF%BC%9C%ED%82%AC%EB%A7%81%20%EC%B9%B4%EC%9D%B8%EB%93%9C%3A%20%ED%82%AC%EB%9F%AC%EC%9D%98%20%EC%88%98%EC%A0%9C%EC%9E%90%EF%BC%9E%20%ED%95%A0%EB%A1%9C%EC%9C%88%20%EC%8A%A4%ED%8E%98%EC%85%9C%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2021/11/killka_hstr.mp4">
+						<img src="http://k.kakaocdn.net/dn/oqfiF/btrkBuhQFgx/gCYGk99gI7xdxzcBmChwCK/img.jpg" alt="" class="thumb">
+						<span class="title">＜킬링 카인드: 킬러의 수제자＞ 할로윈 스페셜 예고편</span>
+						<span class="date">2021-11-12</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/oqfiF/btrkBuhQFgx/gCYGk99gI7xdxzcBmChwCK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜킬링 카인드: 킬러의 수제자＞ ‘친절한 액션 설명서’ 특별영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2Fkillka_kamk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FHl4Ej%2FbtrkCSvNmaF%2FIkCQQdYFA6ZD9q3aVhEyL0%2Fimg.jpg&amp;title=%EF%BC%9C%ED%82%AC%EB%A7%81%20%EC%B9%B4%EC%9D%B8%EB%93%9C%3A%20%ED%82%AC%EB%9F%AC%EC%9D%98%20%EC%88%98%EC%A0%9C%EC%9E%90%EF%BC%9E%20%E2%80%98%EC%B9%9C%EC%A0%88%ED%95%9C%20%EC%95%A1%EC%85%98%20%EC%84%A4%EB%AA%85%EC%84%9C%E2%80%99%20%ED%8A%B9%EB%B3%84%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2Fkillka_kamk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FHl4Ej%2FbtrkCSvNmaF%2FIkCQQdYFA6ZD9q3aVhEyL0%2Fimg.jpg&amp;title=%EF%BC%9C%ED%82%AC%EB%A7%81%20%EC%B9%B4%EC%9D%B8%EB%93%9C%3A%20%ED%82%AC%EB%9F%AC%EC%9D%98%20%EC%88%98%EC%A0%9C%EC%9E%90%EF%BC%9E%20%E2%80%98%EC%B9%9C%EC%A0%88%ED%95%9C%20%EC%95%A1%EC%85%98%20%EC%84%A4%EB%AA%85%EC%84%9C%E2%80%99%20%ED%8A%B9%EB%B3%84%EC%98%81%EC%83%81</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=41594">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2Fkillka_kamk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FHl4Ej%2FbtrkCSvNmaF%2FIkCQQdYFA6ZD9q3aVhEyL0%2Fimg.jpg&amp;title=%EF%BC%9C%ED%82%AC%EB%A7%81%20%EC%B9%B4%EC%9D%B8%EB%93%9C%3A%20%ED%82%AC%EB%9F%AC%EC%9D%98%20%EC%88%98%EC%A0%9C%EC%9E%90%EF%BC%9E%20%E2%80%98%EC%B9%9C%EC%A0%88%ED%95%9C%20%EC%95%A1%EC%85%98%20%EC%84%A4%EB%AA%85%EC%84%9C%E2%80%99%20%ED%8A%B9%EB%B3%84%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2021/11/killka_kamk.mp4">
+						<img src="http://k.kakaocdn.net/dn/Hl4Ej/btrkCSvNmaF/IkCQQdYFA6ZD9q3aVhEyL0/img.jpg" alt="" class="thumb">
+						<span class="title">＜킬링 카인드: 킬러의 수제자＞ ‘친절한 액션 설명서’ 특별영상</span>
+						<span class="date">2021-11-12</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/Hl4Ej/btrkCSvNmaF/IkCQQdYFA6ZD9q3aVhEyL0/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜청춘적니＞ ‘너의 모든 것’ 뮤직 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Fjuckni_mstr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbONvRA%2FbtrkHC5Zl3C%2FXLpnDkzuGhz7sFKnAQ7IB0%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B2%AD%EC%B6%98%EC%A0%81%EB%8B%88%EF%BC%9E%20%E2%80%98%EB%84%88%EC%9D%98%20%EB%AA%A8%EB%93%A0%20%EA%B2%83%E2%80%99%20%EB%AE%A4%EC%A7%81%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Fjuckni_mstr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbONvRA%2FbtrkHC5Zl3C%2FXLpnDkzuGhz7sFKnAQ7IB0%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B2%AD%EC%B6%98%EC%A0%81%EB%8B%88%EF%BC%9E%20%E2%80%98%EB%84%88%EC%9D%98%20%EB%AA%A8%EB%93%A0%20%EA%B2%83%E2%80%99%20%EB%AE%A4%EC%A7%81%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=41592">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Fjuckni_mstr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbONvRA%2FbtrkHC5Zl3C%2FXLpnDkzuGhz7sFKnAQ7IB0%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B2%AD%EC%B6%98%EC%A0%81%EB%8B%88%EF%BC%9E%20%E2%80%98%EB%84%88%EC%9D%98%20%EB%AA%A8%EB%93%A0%20%EA%B2%83%E2%80%99%20%EB%AE%A4%EC%A7%81%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2021/11/juckni_mstr.mp4">
+						<img src="http://k.kakaocdn.net/dn/bONvRA/btrkHC5Zl3C/XLpnDkzuGhz7sFKnAQ7IB0/img.jpg" alt="" class="thumb">
+						<span class="title">＜청춘적니＞ ‘너의 모든 것’ 뮤직 예고편</span>
+						<span class="date">2021-11-12</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bONvRA/btrkHC5Zl3C/XLpnDkzuGhz7sFKnAQ7IB0/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜아워 미드나잇＞ 30초 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Fourm_30tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbfMxxf%2FbtrkG1LIhg5%2FkLw7kKtoaDDJWQtxSVEogk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%95%84%EC%9B%8C%20%EB%AF%B8%EB%93%9C%EB%82%98%EC%9E%87%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Fourm_30tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbfMxxf%2FbtrkG1LIhg5%2FkLw7kKtoaDDJWQtxSVEogk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%95%84%EC%9B%8C%20%EB%AF%B8%EB%93%9C%EB%82%98%EC%9E%87%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=41591">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Fourm_30tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbfMxxf%2FbtrkG1LIhg5%2FkLw7kKtoaDDJWQtxSVEogk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%95%84%EC%9B%8C%20%EB%AF%B8%EB%93%9C%EB%82%98%EC%9E%87%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2021/11/ourm_30tr.mp4">
+						<img src="http://k.kakaocdn.net/dn/bfMxxf/btrkG1LIhg5/kLw7kKtoaDDJWQtxSVEogk/img.jpg" alt="" class="thumb">
+						<span class="title">＜아워 미드나잇＞ 30초 예고편</span>
+						<span class="date">2021-11-12</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bfMxxf/btrkG1LIhg5/kLw7kKtoaDDJWQtxSVEogk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜나를 잡아줘＞ 인사 영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2Fholdme_hlmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbzViZt%2FbtrkEXvzgrd%2FOiKB0Z3GFl3kJIPY8VRPVK%2Fimg.jpg&amp;title=%EF%BC%9C%EB%82%98%EB%A5%BC%20%EC%9E%A1%EC%95%84%EC%A4%98%EF%BC%9E%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2Fholdme_hlmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbzViZt%2FbtrkEXvzgrd%2FOiKB0Z3GFl3kJIPY8VRPVK%2Fimg.jpg&amp;title=%EF%BC%9C%EB%82%98%EB%A5%BC%20%EC%9E%A1%EC%95%84%EC%A4%98%EF%BC%9E%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=41590">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2Fholdme_hlmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbzViZt%2FbtrkEXvzgrd%2FOiKB0Z3GFl3kJIPY8VRPVK%2Fimg.jpg&amp;title=%EF%BC%9C%EB%82%98%EB%A5%BC%20%EC%9E%A1%EC%95%84%EC%A4%98%EF%BC%9E%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2021/11/holdme_hlmk.mp4">
+						<img src="http://k.kakaocdn.net/dn/bzViZt/btrkEXvzgrd/OiKB0Z3GFl3kJIPY8VRPVK/img.jpg" alt="" class="thumb">
+						<span class="title">＜나를 잡아줘＞ 인사 영상</span>
+						<span class="date">2021-11-12</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bzViZt/btrkEXvzgrd/OiKB0Z3GFl3kJIPY8VRPVK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜13인의 무사＞ 메인 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2F13musa_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fx8C3E%2FbtrkEX3pgAr%2FZ9KYf47hJ8d3jjfAkIb8N1%2Fimg.jpg&amp;title=%EF%BC%9C13%EC%9D%B8%EC%9D%98%20%EB%AC%B4%EC%82%AC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2F13musa_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fx8C3E%2FbtrkEX3pgAr%2FZ9KYf47hJ8d3jjfAkIb8N1%2Fimg.jpg&amp;title=%EF%BC%9C13%EC%9D%B8%EC%9D%98%20%EB%AC%B4%EC%82%AC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=41589">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2F13musa_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fx8C3E%2FbtrkEX3pgAr%2FZ9KYf47hJ8d3jjfAkIb8N1%2Fimg.jpg&amp;title=%EF%BC%9C13%EC%9D%B8%EC%9D%98%20%EB%AC%B4%EC%82%AC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2021/11/13musa_mtr.mp4">
+						<img src="http://k.kakaocdn.net/dn/x8C3E/btrkEX3pgAr/Z9KYf47hJ8d3jjfAkIb8N1/img.jpg" alt="" class="thumb">
+						<span class="title">＜13인의 무사＞ 메인 예고편</span>
+						<span class="date">2021-11-12</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/x8C3E/btrkEX3pgAr/Z9KYf47hJ8d3jjfAkIb8N1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜고양이에게 밥을 주지 마세요＞ 감독 인사영상 (영진위 인디그라운드) 메이킹]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2Fgobab_simk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbIusi8%2FbtrkCTfQQTu%2FqRwZpeytK9kS1z6o4gGkVK%2Fimg.jpg&amp;title=%EF%BC%9C%EA%B3%A0%EC%96%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B0%A5%EC%9D%84%20%EC%A3%BC%EC%A7%80%20%EB%A7%88%EC%84%B8%EC%9A%94%EF%BC%9E%20%EA%B0%90%EB%8F%85%20%EC%9D%B8%EC%82%AC%EC%98%81%EC%83%81%20(%EC%98%81%EC%A7%84%EC%9C%84%20%EC%9D%B8%EB%94%94%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C)%20%EB%A9%94%EC%9D%B4%ED%82%B9</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2Fgobab_simk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbIusi8%2FbtrkCTfQQTu%2FqRwZpeytK9kS1z6o4gGkVK%2Fimg.jpg&amp;title=%EF%BC%9C%EA%B3%A0%EC%96%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B0%A5%EC%9D%84%20%EC%A3%BC%EC%A7%80%20%EB%A7%88%EC%84%B8%EC%9A%94%EF%BC%9E%20%EA%B0%90%EB%8F%85%20%EC%9D%B8%EC%82%AC%EC%98%81%EC%83%81%20(%EC%98%81%EC%A7%84%EC%9C%84%20%EC%9D%B8%EB%94%94%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C)%20%EB%A9%94%EC%9D%B4%ED%82%B9</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=41588">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2Fgobab_simk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbIusi8%2FbtrkCTfQQTu%2FqRwZpeytK9kS1z6o4gGkVK%2Fimg.jpg&amp;title=%EF%BC%9C%EA%B3%A0%EC%96%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B0%A5%EC%9D%84%20%EC%A3%BC%EC%A7%80%20%EB%A7%88%EC%84%B8%EC%9A%94%EF%BC%9E%20%EA%B0%90%EB%8F%85%20%EC%9D%B8%EC%82%AC%EC%98%81%EC%83%81%20(%EC%98%81%EC%A7%84%EC%9C%84%20%EC%9D%B8%EB%94%94%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C)%20%EB%A9%94%EC%9D%B4%ED%82%B9" data-url="/cine21.com/movie/making/2021/11/gobab_simk.mp4">
+						<img src="http://k.kakaocdn.net/dn/bIusi8/btrkCTfQQTu/qRwZpeytK9kS1z6o4gGkVK/img.jpg" alt="" class="thumb">
+						<span class="title">＜고양이에게 밥을 주지 마세요＞ 감독 인사영상 (영진위 인디그라운드) 메이킹</span>
+						<span class="date">2021-11-12</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bIusi8/btrkCTfQQTu/qRwZpeytK9kS1z6o4gGkVK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜라스트 나잇 인 소호＞ 메인 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Finsoho_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2F3ojQz%2FbtrkB4va2ed%2FmmWh8lKtLkusKQGuZKOInK%2Fimg.jpg&amp;title=%EF%BC%9C%EB%9D%BC%EC%8A%A4%ED%8A%B8%20%EB%82%98%EC%9E%87%20%EC%9D%B8%20%EC%86%8C%ED%98%B8%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Finsoho_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2F3ojQz%2FbtrkB4va2ed%2FmmWh8lKtLkusKQGuZKOInK%2Fimg.jpg&amp;title=%EF%BC%9C%EB%9D%BC%EC%8A%A4%ED%8A%B8%20%EB%82%98%EC%9E%87%20%EC%9D%B8%20%EC%86%8C%ED%98%B8%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=41587">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Finsoho_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2F3ojQz%2FbtrkB4va2ed%2FmmWh8lKtLkusKQGuZKOInK%2Fimg.jpg&amp;title=%EF%BC%9C%EB%9D%BC%EC%8A%A4%ED%8A%B8%20%EB%82%98%EC%9E%87%20%EC%9D%B8%20%EC%86%8C%ED%98%B8%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2021/11/insoho_mtr.mp4">
+						<img src="http://k.kakaocdn.net/dn/3ojQz/btrkB4va2ed/mmWh8lKtLkusKQGuZKOInK/img.jpg" alt="" class="thumb">
+						<span class="title">＜라스트 나잇 인 소호＞ 메인 예고편</span>
+						<span class="date">2021-11-12</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/3ojQz/btrkB4va2ed/mmWh8lKtLkusKQGuZKOInK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜연애 빠진 로맨스＞ 메인 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Fyunbba_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdfVah2%2FbtrkvJlYfr0%2FMK4f9jzTmCh4SHqeYb4RIK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%97%B0%EC%95%A0%20%EB%B9%A0%EC%A7%84%20%EB%A1%9C%EB%A7%A8%EC%8A%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Fyunbba_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdfVah2%2FbtrkvJlYfr0%2FMK4f9jzTmCh4SHqeYb4RIK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%97%B0%EC%95%A0%20%EB%B9%A0%EC%A7%84%20%EB%A1%9C%EB%A7%A8%EC%8A%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=41586">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Fyunbba_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdfVah2%2FbtrkvJlYfr0%2FMK4f9jzTmCh4SHqeYb4RIK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%97%B0%EC%95%A0%20%EB%B9%A0%EC%A7%84%20%EB%A1%9C%EB%A7%A8%EC%8A%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2021/11/yunbba_mtr.mp4">
+						<img src="http://k.kakaocdn.net/dn/dfVah2/btrkvJlYfr0/MK4f9jzTmCh4SHqeYb4RIK/img.jpg" alt="" class="thumb">
+						<span class="title">＜연애 빠진 로맨스＞ 메인 예고편</span>
+						<span class="date">2021-11-12</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/dfVah2/btrkvJlYfr0/MK4f9jzTmCh4SHqeYb4RIK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜라임크라임＞ 30초 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Flimec_30tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdNb39J%2FbtrkuZWtxZv%2FcMyNmnkyyScFGIsEcn8ShK%2Fimg.jpg&amp;title=%EF%BC%9C%EB%9D%BC%EC%9E%84%ED%81%AC%EB%9D%BC%EC%9E%84%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Flimec_30tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdNb39J%2FbtrkuZWtxZv%2FcMyNmnkyyScFGIsEcn8ShK%2Fimg.jpg&amp;title=%EF%BC%9C%EB%9D%BC%EC%9E%84%ED%81%AC%EB%9D%BC%EC%9E%84%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=41585">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Flimec_30tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdNb39J%2FbtrkuZWtxZv%2FcMyNmnkyyScFGIsEcn8ShK%2Fimg.jpg&amp;title=%EF%BC%9C%EB%9D%BC%EC%9E%84%ED%81%AC%EB%9D%BC%EC%9E%84%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2021/11/limec_30tr.mp4">
+						<img src="http://k.kakaocdn.net/dn/dNb39J/btrkuZWtxZv/cMyNmnkyyScFGIsEcn8ShK/img.jpg" alt="" class="thumb">
+						<span class="title">＜라임크라임＞ 30초 예고편</span>
+						<span class="date">2021-11-11</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/dNb39J/btrkuZWtxZv/cMyNmnkyyScFGIsEcn8ShK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜싸반＞ 감독 인사 영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2Fssavan_dmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcCbCHy%2FbtrkAWDPRCm%2F6kAKZT4xvKBckAdB2ExjUK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%8B%B8%EB%B0%98%EF%BC%9E%20%EA%B0%90%EB%8F%85%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2Fssavan_dmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcCbCHy%2FbtrkAWDPRCm%2F6kAKZT4xvKBckAdB2ExjUK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%8B%B8%EB%B0%98%EF%BC%9E%20%EA%B0%90%EB%8F%85%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=41584">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2Fssavan_dmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcCbCHy%2FbtrkAWDPRCm%2F6kAKZT4xvKBckAdB2ExjUK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%8B%B8%EB%B0%98%EF%BC%9E%20%EA%B0%90%EB%8F%85%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2021/11/ssavan_dmk.mp4">
+						<img src="http://k.kakaocdn.net/dn/cCbCHy/btrkAWDPRCm/6kAKZT4xvKBckAdB2ExjUK/img.jpg" alt="" class="thumb">
+						<span class="title">＜싸반＞ 감독 인사 영상</span>
+						<span class="date">2021-11-11</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cCbCHy/btrkAWDPRCm/6kAKZT4xvKBckAdB2ExjUK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜십계＞ ‘십계명’ 영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2F10gae_10mk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fby0vMC%2FbtrkuHahe1p%2FSfgNwJhbGBTRfHDYf07mJ0%2Fimg.jpg&amp;title=%EF%BC%9C%EC%8B%AD%EA%B3%84%EF%BC%9E%20%E2%80%98%EC%8B%AD%EA%B3%84%EB%AA%85%E2%80%99%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2F10gae_10mk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fby0vMC%2FbtrkuHahe1p%2FSfgNwJhbGBTRfHDYf07mJ0%2Fimg.jpg&amp;title=%EF%BC%9C%EC%8B%AD%EA%B3%84%EF%BC%9E%20%E2%80%98%EC%8B%AD%EA%B3%84%EB%AA%85%E2%80%99%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=41583">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2F10gae_10mk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fby0vMC%2FbtrkuHahe1p%2FSfgNwJhbGBTRfHDYf07mJ0%2Fimg.jpg&amp;title=%EF%BC%9C%EC%8B%AD%EA%B3%84%EF%BC%9E%20%E2%80%98%EC%8B%AD%EA%B3%84%EB%AA%85%E2%80%99%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2021/11/10gae_10mk.mp4">
+						<img src="http://k.kakaocdn.net/dn/by0vMC/btrkuHahe1p/SfgNwJhbGBTRfHDYf07mJ0/img.jpg" alt="" class="thumb">
+						<span class="title">＜십계＞ ‘십계명’ 영상</span>
+						<span class="date">2021-11-11</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/by0vMC/btrkuHahe1p/SfgNwJhbGBTRfHDYf07mJ0/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜십계＞ 특별 동영상2]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2F10gae_s2mk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdE41Sq%2FbtrkxPd218A%2F5RMCiHP51TvSZX5uplx1w1%2Fimg.jpg&amp;title=%EF%BC%9C%EC%8B%AD%EA%B3%84%EF%BC%9E%20%ED%8A%B9%EB%B3%84%20%EB%8F%99%EC%98%81%EC%83%812</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2F10gae_s2mk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdE41Sq%2FbtrkxPd218A%2F5RMCiHP51TvSZX5uplx1w1%2Fimg.jpg&amp;title=%EF%BC%9C%EC%8B%AD%EA%B3%84%EF%BC%9E%20%ED%8A%B9%EB%B3%84%20%EB%8F%99%EC%98%81%EC%83%812</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=41582">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2F10gae_s2mk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdE41Sq%2FbtrkxPd218A%2F5RMCiHP51TvSZX5uplx1w1%2Fimg.jpg&amp;title=%EF%BC%9C%EC%8B%AD%EA%B3%84%EF%BC%9E%20%ED%8A%B9%EB%B3%84%20%EB%8F%99%EC%98%81%EC%83%812" data-url="/cine21.com/movie/making/2021/11/10gae_s2mk.mp4">
+						<img src="http://k.kakaocdn.net/dn/dE41Sq/btrkxPd218A/5RMCiHP51TvSZX5uplx1w1/img.jpg" alt="" class="thumb">
+						<span class="title">＜십계＞ 특별 동영상2</span>
+						<span class="date">2021-11-11</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/dE41Sq/btrkxPd218A/5RMCiHP51TvSZX5uplx1w1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜십계＞ 특별 동영상1]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2F10gae_s1mk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcdLrVB%2FbtrkxNUQfgp%2FN4x4925n0Jx74PlFvfJQgk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%8B%AD%EA%B3%84%EF%BC%9E%20%ED%8A%B9%EB%B3%84%20%EB%8F%99%EC%98%81%EC%83%811</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2F10gae_s1mk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcdLrVB%2FbtrkxNUQfgp%2FN4x4925n0Jx74PlFvfJQgk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%8B%AD%EA%B3%84%EF%BC%9E%20%ED%8A%B9%EB%B3%84%20%EB%8F%99%EC%98%81%EC%83%811</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=41581">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2021%2F11%2F10gae_s1mk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcdLrVB%2FbtrkxNUQfgp%2FN4x4925n0Jx74PlFvfJQgk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%8B%AD%EA%B3%84%EF%BC%9E%20%ED%8A%B9%EB%B3%84%20%EB%8F%99%EC%98%81%EC%83%811" data-url="/cine21.com/movie/making/2021/11/10gae_s1mk.mp4">
+						<img src="http://k.kakaocdn.net/dn/cdLrVB/btrkxNUQfgp/N4x4925n0Jx74PlFvfJQgk/img.jpg" alt="" class="thumb">
+						<span class="title">＜십계＞ 특별 동영상1</span>
+						<span class="date">2021-11-11</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cdLrVB/btrkxNUQfgp/N4x4925n0Jx74PlFvfJQgk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜무녀도＞ 30초 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Fmunyo_30tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2F4l1tK%2FbtrkxNHbjBn%2FE0CdbpvyMTFM9uBlIfswvk%2Fimg.jpg&amp;title=%EF%BC%9C%EB%AC%B4%EB%85%80%EB%8F%84%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Fmunyo_30tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2F4l1tK%2FbtrkxNHbjBn%2FE0CdbpvyMTFM9uBlIfswvk%2Fimg.jpg&amp;title=%EF%BC%9C%EB%AC%B4%EB%85%80%EB%8F%84%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=41578">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2021%2F11%2Fmunyo_30tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2F4l1tK%2FbtrkxNHbjBn%2FE0CdbpvyMTFM9uBlIfswvk%2Fimg.jpg&amp;title=%EF%BC%9C%EB%AC%B4%EB%85%80%EB%8F%84%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2021/11/munyo_30tr.mp4">
+						<img src="http://k.kakaocdn.net/dn/4l1tK/btrkxNHbjBn/E0CdbpvyMTFM9uBlIfswvk/img.jpg" alt="" class="thumb">
+						<span class="title">＜무녀도＞ 30초 예고편</span>
+						<span class="date">2021-11-11</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/4l1tK/btrkxNHbjBn/E0CdbpvyMTFM9uBlIfswvk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

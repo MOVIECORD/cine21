@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2021-11-16T02:16:32.857Z</updated>
+    <updated>2021-11-16T02:47:02.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <소설가 구보의 하루> 시사회 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8271&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8271&amp;p=1"/>
+        <updated>2021-11-16T02:28:32.254Z</updated>
+        <content type="html"><![CDATA[8271]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11월 수요단편극장 <웜(warm)메이드, 또똣한 단편전> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8270&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8270&amp;p=1"/>
+        <updated>2021-11-16T02:28:32.254Z</updated>
+        <content type="html"><![CDATA[8270]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도서 <디어 에반 핸슨> 증정 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8269&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8269&amp;p=1"/>
+        <updated>2021-11-16T02:28:32.254Z</updated>
+        <content type="html"><![CDATA[8269]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <잔류 인구> 출간기념 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8268&amp;p=1</id>
@@ -88,26 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8257&amp;p=1"/>
         <updated>2021-11-11T19:12:00.128Z</updated>
         <content type="html"><![CDATA[8257]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 서울무용영화제 개막작 <마기 마랭: 타임 투 액트(Maguy Marin: Time to Act)> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8256&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8256&amp;p=1"/>
-        <updated>2021-11-11T19:12:00.128Z</updated>
-        <content type="html"><![CDATA[8256]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <옥탑방 고양이> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8255&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8255&amp;p=1"/>
-        <updated>2021-11-11T19:12:00.128Z</updated>
-        <content type="html"><![CDATA[8255]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <러브 어페어: 우리가 말하는 것, 우리가 하는 것> 시사회 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8254&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8254&amp;p=1"/>
-        <updated>2021-11-11T19:12:00.128Z</updated>
-        <content type="html"><![CDATA[8254]]></content>
     </entry>
 </feed>
