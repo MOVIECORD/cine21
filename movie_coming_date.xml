@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 05:32:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 06:37:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1110/09_49_51__618b172f494e5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[핫 블러드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58613</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58613</guid>
-            <pubDate>Fri, 19 Nov 2021 05:24:41 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/1119/14_21_19__6197344f4f8e8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[싸나희 순정]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58699</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58699</guid>
@@ -128,12 +120,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1108/58699_6188b599be41d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고스트버스터즈 라이즈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=55616</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=55616</guid>
+            <title><![CDATA[핫 블러드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58613</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58613</guid>
+            <pubDate>Fri, 19 Nov 2021 05:24:41 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-11-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/1119/14_21_19__6197344f4f8e8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베네데타]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58218</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58218</guid>
             <pubDate>Fri, 19 Nov 2021 05:24:41 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1111/14_53_30__618cafda24139[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/10_03_28__619454e05a290[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[귀멸의 칼날: 주합회의·나비저택 편]]></title>
@@ -144,12 +144,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1022/58668_617247d989c2f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[베네데타]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58218</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58218</guid>
-            <pubDate>Fri, 19 Nov 2021 05:24:41 GMT</pubDate>
+            <title><![CDATA[라스트 나잇 인 소호]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57471</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57471</guid>
+            <pubDate>Fri, 19 Nov 2021 06:29:04 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/10_03_28__619454e05a290[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1108/14_54_03__6188bb7b1ee21[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
