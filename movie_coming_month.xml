@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 12:47:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 13:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,6 +53,14 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=58713</guid>
             <pubDate>Fri, 19 Nov 2021 06:30:00 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[드라이브 마이 카]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58089</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58089</guid>
+            <pubDate>Fri, 19 Nov 2021 10:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1119/58089_619763220f141[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[캅샵: 미친놈들의 전쟁]]></title>
@@ -125,14 +133,6 @@
             <pubDate>Fri, 19 Nov 2021 02:08:53 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1110/58711_618b6bd78d8b7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라이브 마이 카]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58089</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58089</guid>
-            <pubDate>Fri, 19 Nov 2021 10:29:06 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1119/58089_619763220f141[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스카이파이어]]></title>
