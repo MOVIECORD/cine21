@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 15:34:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 16:40:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2832,36 +2832,84 @@ J. K. L. 베렌슨은 현대미술 분야를 취재하는 문화예술 전문 �
             <enclosure url="http://k.kakaocdn.net/dn/3hFgd/btrk5MVMO8H/baKZ8qvLJc6lDSfYV1KisK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[로또쉐어 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58686</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58686</guid>
+            <pubDate>Wed, 10 Nov 2021 15:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-11-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1029/58686_617b70f21a29b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맨 인 러브 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58682</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58682</guid>
+            <pubDate>Mon, 01 Nov 2021 01:01:11 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-11-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1119/18_12_34__61976a82a4eb4[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무녀도 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56325</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56325</guid>
+            <pubDate>Tue, 16 Nov 2021 15:26:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-11-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1103/15_55_25__6182325d23718[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유체이탈자 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55870</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55870</guid>
+            <pubDate>Tue, 16 Nov 2021 15:26:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-11-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1103/18_31_33__618256f577a96[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로그북 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58706</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58706</guid>
+            <pubDate>Thu, 11 Nov 2021 06:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-11-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1110/58706_618b1cd1636e9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호빗: 스마우그의 폐허 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=38128</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=38128</guid>
+            <pubDate>Tue, 16 Nov 2021 15:26:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-11-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2013/1111/38128_52802e6ce78d4_KR%20Pub%20main%20one%20sheet%20HDOS[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연애 빠진 로맨스 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56770</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56770</guid>
+            <pubDate>Tue, 16 Nov 2021 15:26:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-11-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1109/10_13_41__6189cb45461ce[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메이드 인 이태리 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56771</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56771</guid>
+            <pubDate>Tue, 16 Nov 2021 15:26:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-11-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1104/56771_6183827d3573a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔칸토: 마법의 세계 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58635</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58635</guid>
+            <pubDate>Wed, 10 Nov 2021 15:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-11-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1116/16_51_43__6193630fca981[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[당신은 학생인가 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58737</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58737</guid>
             <pubDate>Mon, 22 Nov 2021 13:31:46 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-11-19]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1122/58737_619b1e8f45983[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 끝, 당신의 시작 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56464</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56464</guid>
-            <pubDate>Wed, 10 Nov 2021 15:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1021/56464_61711b997ae18[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행복의 속도 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58621</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58621</guid>
-            <pubDate>Wed, 10 Nov 2021 15:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1027/14_21_41__6178e1e5f3e67[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후겟츠 웨슬리 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58675</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58675</guid>
-            <pubDate>Wed, 10 Nov 2021 15:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1103/10_33_41__6181e6f56dfd3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뱅드림! 필름 라이브 세컨드 스테이지 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2872,12 +2920,36 @@ J. K. L. 베렌슨은 현대미술 분야를 취재하는 문화예술 전문 �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1103/10_50_56__6181eb008c5ee[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[송해 1927 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58567</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58567</guid>
+            <title><![CDATA[행복의 속도 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58621</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58621</guid>
             <pubDate>Wed, 10 Nov 2021 15:27:07 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-11-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1020/11_35_12__616f80602926c[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1027/14_21_41__6178e1e5f3e67[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 끝, 당신의 시작 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56464</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56464</guid>
+            <pubDate>Wed, 10 Nov 2021 15:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-11-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1021/56464_61711b997ae18[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프렌치 디스패치 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58296</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58296</guid>
+            <pubDate>Wed, 10 Nov 2021 06:29:42 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-11-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1021/58296_6170fe7a2742f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후겟츠 웨슬리 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58675</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58675</guid>
+            <pubDate>Wed, 10 Nov 2021 15:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-11-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1103/10_33_41__6181e6f56dfd3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호빗: 뜻밖의 여정 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2904,148 +2976,12 @@ J. K. L. 베렌슨은 현대미술 분야를 취재하는 문화예술 전문 �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1027/14_31_00__6178e41402df6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[프렌치 디스패치 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58296</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58296</guid>
-            <pubDate>Wed, 10 Nov 2021 06:29:42 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1021/58296_6170fe7a2742f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디어 에반 핸슨 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58595</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58595</guid>
-            <pubDate>Wed, 03 Nov 2021 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1013/58595_616641a896c13[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[괴짜들의 로맨스 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57211</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57211</guid>
-            <pubDate>Tue, 09 Nov 2021 15:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1104/16_20_00__618389a041c1e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀멸의 칼날: 나타구모산 편 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58667</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58667</guid>
-            <pubDate>Tue, 09 Nov 2021 15:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1020/58667_616fbaae42262[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파워 오브 도그 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58732</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58732</guid>
-            <pubDate>Fri, 19 Nov 2021 02:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1119/58732_6196f8feb0417[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너에게 가는 길 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57919</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57919</guid>
-            <pubDate>Mon, 08 Nov 2021 10:27:59 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1101/10_36_27__617f449b7f8b9[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장르만 로맨스 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=54743</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=54743</guid>
-            <pubDate>Wed, 03 Nov 2021 17:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1028/54743_617a00e4cced1[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[죽이러 간다 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58664</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58664</guid>
-            <pubDate>Mon, 22 Nov 2021 13:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1027/58664_6178b16d0e0fc[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싸반 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58641</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58641</guid>
-            <pubDate>Mon, 22 Nov 2021 13:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1028/11_24_22__617a09d628583[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호빗: 스마우그의 폐허 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=38128</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=38128</guid>
-            <pubDate>Tue, 16 Nov 2021 15:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2013/1111/38128_52802e6ce78d4_KR%20Pub%20main%20one%20sheet%20HDOS[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무녀도 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56325</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56325</guid>
-            <pubDate>Tue, 16 Nov 2021 15:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1103/15_55_25__6182325d23718[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메이드 인 이태리 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56771</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56771</guid>
-            <pubDate>Tue, 16 Nov 2021 15:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1104/56771_6183827d3573a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유체이탈자 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=55870</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=55870</guid>
-            <pubDate>Tue, 16 Nov 2021 15:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1103/18_31_33__618256f577a96[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연애 빠진 로맨스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56770</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56770</guid>
-            <pubDate>Tue, 16 Nov 2021 15:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1109/10_13_41__6189cb45461ce[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔칸토: 마법의 세계 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58635</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58635</guid>
-            <pubDate>Wed, 10 Nov 2021 15:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1116/16_51_43__6193630fca981[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로또쉐어 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58686</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58686</guid>
-            <pubDate>Wed, 10 Nov 2021 15:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1029/58686_617b70f21a29b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맨 인 러브 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58682</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58682</guid>
-            <pubDate>Mon, 01 Nov 2021 01:01:11 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1119/18_12_34__61976a82a4eb4[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로그북 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58706</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58706</guid>
-            <pubDate>Thu, 11 Nov 2021 06:29:13 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1110/58706_618b1cd1636e9[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤리엘의 웨딩 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=890</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=890</guid>
+            <pubDate>Wed, 17 Nov 2021 15:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-11-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1110/09_49_51__618b172f494e5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[앰뷸런스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3054,6 +2990,14 @@ J. K. L. 베렌슨은 현대미술 분야를 취재하는 문화예술 전문 �
             <pubDate>Wed, 17 Nov 2021 06:29:13 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-11-25]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1111/13_45_39__618c9ff3d2082[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라임크라임 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57180</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57180</guid>
+            <pubDate>Wed, 17 Nov 2021 15:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-11-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1109/14_46_44__618a0b446ca39[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[숏버스 감독행 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3080,28 +3024,12 @@ J. K. L. 베렌슨은 현대미술 분야를 취재하는 문화예술 전문 �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1027/58683_6178f37407df0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라임크라임 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57180</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57180</guid>
-            <pubDate>Wed, 17 Nov 2021 15:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1109/14_46_44__618a0b446ca39[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[핫 블러드 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58613</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58613</guid>
             <pubDate>Wed, 17 Nov 2021 02:09:12 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-11-25]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/1119/14_21_19__6197344f4f8e8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤리엘의 웨딩 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=890</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=890</guid>
-            <pubDate>Wed, 17 Nov 2021 15:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-11-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1110/09_49_51__618b172f494e5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원티드 킬러 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3112,12 +3040,84 @@ J. K. L. 베렌슨은 현대미술 분야를 취재하는 문화예술 전문 �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1123/11_05_57__619c4c85ba9b1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[산타킬러스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57250</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57250</guid>
+            <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1119/57250_61973ab00115d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[킬링 카인드: 킬러의 수제자 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58520</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58520</guid>
+            <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1119/58520_619700810d51b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베네데타 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58218</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58218</guid>
+            <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/10_03_28__619454e05a290[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라스트 나잇 인 소호 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57471</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57471</guid>
+            <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1108/14_54_03__6188bb7b1ee21[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고스트버스터즈 라이즈 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55616</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55616</guid>
+            <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1111/14_53_30__618cafda24139[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[태일이 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=54052</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=54052</guid>
             <pubDate>Tue, 23 Nov 2021 07:26:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1110/14_47_20__618b5ce8005bf[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[타짜 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=14535</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=14535</guid>
+            <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1122/14535_619b5953d8048[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팬텀: 더 뮤지컬 라이브 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58693</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58693</guid>
+            <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/14_11_46__61948f123e350[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀멸의 칼날: 주합회의·나비저택 편 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58668</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58668</guid>
+            <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1022/58668_617247d989c2f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[칼리버 9: 마피아 워 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58698</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58698</guid>
+            <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1110/58698_618b13ca5a5e6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 나라로 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
