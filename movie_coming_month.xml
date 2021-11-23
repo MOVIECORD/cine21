@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 06:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 07:33:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -55,14 +55,6 @@
             <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[드라이브 마이 카]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58089</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58089</guid>
-            <pubDate>Fri, 19 Nov 2021 10:29:06 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1119/58089_619763220f141[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[캅샵: 미친놈들의 전쟁]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58546</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58546</guid>
@@ -84,7 +76,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=58671</guid>
             <pubDate>Thu, 04 Nov 2021 18:28:32 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1022/58671_61724a1ce94a8[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1123/14_21_33__619c7a5d67c6a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로그 인 벨지움]]></title>
@@ -135,12 +127,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1110/58711_618b6bd78d8b7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스카이파이어]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57613</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57613</guid>
-            <pubDate>Mon, 22 Nov 2021 02:44:08 GMT</pubDate>
+            <title><![CDATA[드라이브 마이 카]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58089</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58089</guid>
+            <pubDate>Fri, 19 Nov 2021 10:29:06 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1116/16_59_09__619364cdb907a[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1119/58089_619763220f141[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[끝없음에 관하여]]></title>
@@ -149,6 +141,14 @@
             <pubDate>Mon, 22 Nov 2021 02:10:41 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1119/58731_6196f3e9db733[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웨스트 사이드 스토리]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=54911</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=54911</guid>
+            <pubDate>Tue, 23 Nov 2021 07:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/15_57_22__614d76d240d56[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
