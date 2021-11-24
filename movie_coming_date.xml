@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 07:35:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 08:40:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1123/11_05_57__619c4c85ba9b1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[산타킬러스]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57250</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57250</guid>
-            <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1119/57250_61973ab00115d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[킬링 카인드: 킬러의 수제자]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58520</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58520</guid>
@@ -120,12 +112,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/14_11_46__61948f123e350[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[태일이]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=54052</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=54052</guid>
-            <pubDate>Tue, 23 Nov 2021 07:26:24 GMT</pubDate>
+            <title><![CDATA[산타킬러스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57250</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57250</guid>
+            <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1110/14_47_20__618b5ce8005bf[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1119/57250_61973ab00115d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타짜]]></title>
@@ -144,12 +136,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1111/14_53_30__618cafda24139[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[호빗: 다섯 군대 전투]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=41278</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=41278</guid>
-            <pubDate>Wed, 24 Nov 2021 07:26:32 GMT</pubDate>
+            <title><![CDATA[태일이]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=54052</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=54052</guid>
+            <pubDate>Tue, 23 Nov 2021 07:26:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1110/14_47_20__618b5ce8005bf[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[십계]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=23849</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=23849</guid>
+            <pubDate>Wed, 24 Nov 2021 08:33:26 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2014/1029/13_29_22__54506d224a849[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0928/11_22_46__61527c7665a64[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
