@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2021-11-29T02:18:23.112Z</updated>
+    <updated>2021-11-29T02:51:51.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <청춘적니> 시사회 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8279&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8279&amp;p=1"/>
+        <updated>2021-11-29T02:32:31.732Z</updated>
+        <content type="html"><![CDATA[8279]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도서 <보라선 열차와 사라진 아이들> 증정 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8278&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8278&amp;p=1"/>
+        <updated>2021-11-29T02:32:31.732Z</updated>
+        <content type="html"><![CDATA[8278]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <마이 뉴욕 다이어리> 시사회 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8276&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8276&amp;p=1"/>
+        <updated>2021-11-29T02:32:31.735Z</updated>
+        <content type="html"><![CDATA[8276]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <우리가 사랑했던 그날> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8275&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8275&amp;p=1"/>
+        <updated>2021-11-29T02:32:31.735Z</updated>
+        <content type="html"><![CDATA[8275]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <킬링카인드: 킬러의 수제자> 시사회 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8274&amp;p=1</id>
@@ -81,33 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8264&amp;p=1"/>
         <updated>2021-11-26T09:14:32.651Z</updated>
         <content type="html"><![CDATA[8264]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <운빨 로맨스> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8263&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8263&amp;p=1"/>
-        <updated>2021-11-26T09:14:32.652Z</updated>
-        <content type="html"><![CDATA[8263]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <나의 끝, 당신의 시작> 시사회 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8262&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8262&amp;p=1"/>
-        <updated>2021-11-26T09:14:32.653Z</updated>
-        <content type="html"><![CDATA[8262]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <오백에 삼십> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8261&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8261&amp;p=1"/>
-        <updated>2021-11-26T09:14:32.654Z</updated>
-        <content type="html"><![CDATA[8261]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <나를 잡아줘> 예매권 이벤트]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8260&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8260&amp;p=1"/>
-        <updated>2021-11-26T09:14:32.655Z</updated>
-        <content type="html"><![CDATA[8260]]></content>
     </entry>
 </feed>
