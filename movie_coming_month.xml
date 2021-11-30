@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 01:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 02:08:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1112/58717_618e107f8487a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[원샷]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58748</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58748</guid>
+            <pubDate>Wed, 24 Nov 2021 08:34:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58748_619df62311636[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레이징 파이어]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58669</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58669</guid>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 04 Nov 2021 18:28:32 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1123/14_21_33__619c7a5d67c6a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로그 인 벨지움]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58700</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58700</guid>
-            <pubDate>Tue, 09 Nov 2021 06:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1109/58700_618a0844dd6fc[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타이거 마스크]]></title>
@@ -119,14 +119,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/14_44_05__619496a526385[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[원샷]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58748</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58748</guid>
-            <pubDate>Wed, 24 Nov 2021 08:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58748_619df62311636[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아듀]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57067</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57067</guid>
@@ -148,6 +140,14 @@
             <pubDate>Tue, 30 Nov 2021 00:57:09 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/53014_619de68584493[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웨스트 사이드 스토리]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=54911</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=54911</guid>
+            <pubDate>Tue, 30 Nov 2021 02:02:05 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/15_57_22__614d76d240d56[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
