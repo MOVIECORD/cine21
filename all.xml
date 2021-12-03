@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 02:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 02:50:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2873,14 +2873,6 @@ CINE KIDS는 어린이 및 가족 영화를 상영하며 어린이를 위한 최
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2014/1029/13_29_22__54506d224a849[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[꽃손 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58754</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58754</guid>
-            <pubDate>Wed, 01 Dec 2021 16:33:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58754_61a5b64b88787[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[리유니언 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58643</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58643</guid>
@@ -2921,12 +2913,12 @@ CINE KIDS는 어린이 및 가족 영화를 상영하며 어린이를 위한 최
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58753_61a5b512cc959[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[산타킬러스 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57250</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57250</guid>
-            <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1119/57250_61973ab00115d[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[꽃손 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58754</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58754</guid>
+            <pubDate>Wed, 01 Dec 2021 16:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58754_61a5b64b88787[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라스트 나잇 인 소호 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2935,6 +2927,14 @@ CINE KIDS는 어린이 및 가족 영화를 상영하며 어린이를 위한 최
             <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1108/14_54_03__6188bb7b1ee21[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산타킬러스 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57250</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57250</guid>
+            <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1119/57250_61973ab00115d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[킬링 카인드: 킬러의 수제자 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2969,20 +2969,12 @@ CINE KIDS는 어린이 및 가족 영화를 상영하며 어린이를 위한 최
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/10_03_28__619454e05a290[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고스트버스터즈 라이즈 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=55616</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=55616</guid>
-            <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
+            <title><![CDATA[타짜 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=14535</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=14535</guid>
+            <pubDate>Fri, 03 Dec 2021 02:42:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1111/14_53_30__618cafda24139[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태일이 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=54052</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=54052</guid>
-            <pubDate>Tue, 23 Nov 2021 07:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1201/10_23_06__61a6ce7a301c0[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1122/14535_619b5953d8048[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[귀멸의 칼날: 주합회의·나비저택 편 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2991,6 +2983,14 @@ CINE KIDS는 어린이 및 가족 영화를 상영하며 어린이를 위한 최
             <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1022/58668_617247d989c2f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고스트버스터즈 라이즈 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55616</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55616</guid>
+            <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1111/14_53_30__618cafda24139[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여타짜 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3152,38 +3152,6 @@ CINE KIDS는 어린이 및 가족 영화를 상영하며 어린이를 위한 최
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1123/17_23_25__619ca4fd30607[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[원샷 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58748</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58748</guid>
-            <pubDate>Wed, 24 Nov 2021 08:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58748_619df62311636[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타이거 마스크 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58744</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58744</guid>
-            <pubDate>Wed, 24 Nov 2021 02:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58744_619d9bdfb2e76[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라라와 크리스마스 요정 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58761</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58761</guid>
-            <pubDate>Thu, 02 Dec 2021 02:44:26 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1203/10_03_14__61a96cd2257fd[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신데렐라 2: 마법에 걸린 왕자 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58715</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58715</guid>
-            <pubDate>Mon, 22 Nov 2021 02:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/14_44_05__619496a526385[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[매트릭스: 리저렉션 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58671</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58671</guid>
@@ -3197,7 +3165,39 @@ CINE KIDS는 어린이 및 가족 영화를 상영하며 어린이를 위한 최
             <guid>http://www.cine21.com/movie/info/?movie_id=57948</guid>
             <pubDate>Tue, 30 Nov 2021 07:26:48 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1007/13_59_43__615e7ebfb2b17[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1203/57948_61a97e13eb8e5[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신데렐라 2: 마법에 걸린 왕자 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58715</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58715</guid>
+            <pubDate>Mon, 22 Nov 2021 02:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/14_44_05__619496a526385[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라라와 크리스마스 요정 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58761</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58761</guid>
+            <pubDate>Thu, 02 Dec 2021 02:44:26 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1203/10_03_14__61a96cd2257fd[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[타이거 마스크 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58744</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58744</guid>
+            <pubDate>Wed, 24 Nov 2021 02:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58744_619d9bdfb2e76[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원샷 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58748</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58748</guid>
+            <pubDate>Wed, 24 Nov 2021 08:34:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58748_619df62311636[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[킹메이커 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3208,19 +3208,19 @@ CINE KIDS는 어린이 및 가족 영화를 상영하며 어린이를 위한 최
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/53014_619de68584493[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[탄생 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58534</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58534</guid>
-            <pubDate>Wed, 01 Dec 2021 08:30:57 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[스펜서 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58575</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58575</guid>
             <pubDate>Wed, 01 Dec 2021 05:28:02 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0927/58575_61511ff860982[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탄생 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58534</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58534</guid>
+            <pubDate>Wed, 01 Dec 2021 08:30:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코코순이 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3262,19 +3262,19 @@ CINE KIDS는 어린이 및 가족 영화를 상영하며 어린이를 위한 최
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0721/15_19_20__60f7bc68c5673[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[원 세컨드 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=54435</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=54435</guid>
-            <pubDate>Fri, 03 Dec 2021 02:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2019/0226/11_07_08__5c749f4c078c9[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[행복의 나라(가제) (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57453</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57453</guid>
             <pubDate>Tue, 30 Nov 2021 09:26:03 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[해적: 도깨비 깃발 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56540</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56540</guid>
+            <pubDate>Fri, 03 Dec 2021 02:44:33 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0908/16_26_29__613865a5413f3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드림 (가제) (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
@@ -3754,6 +3754,14 @@ CINE KIDS는 어린이 및 가족 영화를 상영하며 어린이를 위한 최
             <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1029/15_49_31__617b997bbba3b[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[No.1334 (씨네21 ─ 멀티미디어 ─ 커버 ─ 사진)]]></title>
+            <link>https://image.cine21.com/resize/cine21/site/2021/1203/11_35_31__61a982736462d[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/site/2021/1203/11_35_31__61a982736462d[H800-].jpg</guid>
+            <pubDate>Fri, 03 Dec 2021 02:48:29 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-07~2021-12-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/site/2021/1203/11_35_31__61a982736462d[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[No.1333 (씨네21 ─ 멀티미디어 ─ 커버 ─ 사진)]]></title>
             <link>https://image.cine21.com/resize/cine21/site/2021/1126/11_04_03__61a040933d1d3[H800-].jpg</link>
             <guid>https://image.cine21.com/resize/cine21/site/2021/1126/11_04_03__61a040933d1d3[H800-].jpg</guid>
@@ -3816,14 +3824,6 @@ CINE KIDS는 어린이 및 가족 영화를 상영하며 어린이를 위한 최
             <pubDate>Fri, 29 Oct 2021 23:20:20 GMT</pubDate>
             <content:encoded><![CDATA[2021-10-12~2021-10-19]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/1008/11_03_59__615fa70f42883[X300,360].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No.1325 (씨네21 ─ 멀티미디어 ─ 커버 ─ 사진)]]></title>
-            <link>https://image.cine21.com/resize/cine21/movie/2021/1001/11_24_12__6156714c95c8f[H800-].jpg</link>
-            <guid>https://image.cine21.com/resize/cine21/movie/2021/1001/11_24_12__6156714c95c8f[H800-].jpg</guid>
-            <pubDate>Fri, 29 Oct 2021 23:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-05~2021-10-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/1001/11_24_12__6156714c95c8f[X300,360].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[감독							와타나베 아유무 
