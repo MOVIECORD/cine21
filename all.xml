@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 15:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 16:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3481,6 +3481,17 @@ CINE KIDS는 어린이 및 가족 영화를 상영하며 어린이를 위한 최
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0417/16_35_21__5e995c3949ab1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[12월 수요단편극장 <레디-액션! 판타스틱, 이기혁 감독전> (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=7854</link>
+            <guid>http://www.cine21.com/event/view/?event_no=7854</guid>
+            <pubDate>Mon, 06 Dec 2021 16:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2021-12-15 19:30</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>서울아트시네마</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2021-12-14 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1206/10_15_56__61ad644c2eab8[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인디스페이스 라이징 쇼츠! 섹션3 초대이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
             <link>http://www.cine21.com/event/view/?event_no=7853</link>
             <guid>http://www.cine21.com/event/view/?event_no=7853</guid>
@@ -3539,15 +3550,6 @@ CINE KIDS는 어린이 및 가족 영화를 상영하며 어린이를 위한 최
                                             <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2021-12-13 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1130/17_14_56__61a5dd80e3705[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <유다의 키스> 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7847</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7847</guid>
-            <pubDate>Mon, 29 Nov 2021 05:28:29 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2021-12-07 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1129/14_12_04__61a461240e073[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립극장 <명색이 아프레걸> 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
