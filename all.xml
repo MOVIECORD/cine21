@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 17:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 18:38:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2759,6 +2759,30 @@ CGV에서는 12월 17일부터 19일까지 3일간 진행되는 NCT 127의 콘�
             <enclosure url="http://k.kakaocdn.net/dn/bdgOUN/btrmRatWFzZ/p7xZNITwkiHMNCSKraHUgK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스카이파이어 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57613</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57613</guid>
+            <pubDate>Tue, 07 Dec 2021 18:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1116/16_59_09__619364cdb907a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여타짜 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58673</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58673</guid>
+            <pubDate>Tue, 07 Dec 2021 18:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1103/58673_6181e9e07a546[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MONSTA X : THE DREAMING(몬스타엑스 : 더 드리밍) (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58687</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58687</guid>
+            <pubDate>Tue, 07 Dec 2021 18:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/15_40_48__619dde7008dfa[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[꽃손 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58754</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58754</guid>
@@ -2767,20 +2791,20 @@ CGV에서는 12월 17일부터 19일까지 3일간 진행되는 NCT 127의 콘�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58754_61a5b64b88787[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[호빗: 다섯 군대 전투 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=41278</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=41278</guid>
-            <pubDate>Wed, 01 Dec 2021 16:33:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2014/1029/13_29_22__54506d224a849[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[리유니언 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58643</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58643</guid>
             <pubDate>Wed, 01 Dec 2021 16:33:46 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-02]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1101/11_08_45__617f4c2d53e88[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호빗: 다섯 군대 전투 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=41278</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=41278</guid>
+            <pubDate>Wed, 01 Dec 2021 16:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2014/1029/13_29_22__54506d224a849[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워 빌로우 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2839,20 +2863,12 @@ CGV에서는 12월 17일부터 19일까지 3일간 진행되는 NCT 127의 콘�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58700_61a57fd0e401d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[팬텀: 더 뮤지컬 라이브 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58693</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58693</guid>
+            <title><![CDATA[라스트 나잇 인 소호 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57471</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57471</guid>
             <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/14_11_46__61948f123e350[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[킬링 카인드: 킬러의 수제자 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58520</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58520</guid>
-            <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1119/58520_619700810d51b[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1108/14_54_03__6188bb7b1ee21[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베네데타 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2863,12 +2879,20 @@ CGV에서는 12월 17일부터 19일까지 3일간 진행되는 NCT 127의 콘�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/10_03_28__619454e05a290[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라스트 나잇 인 소호 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57471</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57471</guid>
+            <title><![CDATA[킬링 카인드: 킬러의 수제자 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58520</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58520</guid>
             <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1108/14_54_03__6188bb7b1ee21[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1119/58520_619700810d51b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팬텀: 더 뮤지컬 라이브 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58693</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58693</guid>
+            <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/14_11_46__61948f123e350[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산타킬러스 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2877,30 +2901,6 @@ CGV에서는 12월 17일부터 19일까지 3일간 진행되는 NCT 127의 콘�
             <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1119/57250_61973ab00115d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태일이 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=54052</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=54052</guid>
-            <pubDate>Mon, 06 Dec 2021 06:30:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1201/10_23_06__61a6ce7a301c0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀멸의 칼날: 주합회의·나비저택 편 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58668</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58668</guid>
-            <pubDate>Tue, 23 Nov 2021 16:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1022/58668_617247d989c2f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신의 손 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58764</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58764</guid>
-            <pubDate>Mon, 06 Dec 2021 06:30:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1203/11_22_23__61a97f5f62288[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티탄 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3545,15 +3545,6 @@ CGV에서는 12월 17일부터 19일까지 3일간 진행되는 NCT 127의 콘�
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2021-12-15 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1129/14_10_06__61a460ae4e516[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <운빨로맨스> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7842</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7842</guid>
-            <pubDate>Tue, 23 Nov 2021 08:37:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2021-12-08 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1123/11_24_09__619c50c9ef2a1[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도서 <유다의 키스> 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
