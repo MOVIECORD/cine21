@@ -89,7 +89,8 @@ linkSelector = "td.subject a"
 contentSelector = "td:nth-child(1)"
 dataSelector = "td:nth-child(3)"
 dateFormat = "yyyy-MM-dd"
-waitUntil = "networkidle"
+waitForSelector = "table.tb_list"
+onFail = "stale"
 
 [article]
 title = "씨네21 ─ 기사 ─ 전체"
