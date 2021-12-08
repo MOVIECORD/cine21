@@ -4,16 +4,16 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 02:59:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 03:32:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[티탄]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58243</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58243</guid>
-            <pubDate>Wed, 01 Dec 2021 15:28:57 GMT</pubDate>
+            <title><![CDATA[총을 들지 않는 사람들: 금기에 도전]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56926</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56926</guid>
+            <pubDate>Wed, 01 Dec 2021 09:28:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1110/16_24_33__618b73b10226e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1125/15_40_41__619f2fe9c7d17[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해피 아워]]></title>
@@ -63,22 +63,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58546_619de4378eb1c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[총을 들지 않는 사람들: 금기에 도전]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56926</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56926</guid>
-            <pubDate>Wed, 01 Dec 2021 09:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1125/15_40_41__619f2fe9c7d17[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이 엠 벤전스]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58729</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58729</guid>
-            <pubDate>Wed, 01 Dec 2021 15:28:57 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/58729_6194607860bdb[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[노아의 방주 2: 새로운 세계로]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58696</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58696</guid>
@@ -93,14 +77,6 @@
             <pubDate>Wed, 01 Dec 2021 09:28:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-09]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/14_36_42__619494eaecd18[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스파이 캣]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58616</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58616</guid>
-            <pubDate>Tue, 30 Nov 2021 15:30:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1111/18_15_17__618cdf254b695[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이상존재]]></title>
@@ -125,6 +101,30 @@
             <pubDate>Wed, 01 Dec 2021 15:28:57 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-09]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/14_13_57__619dca1587196[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이 캣]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58616</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58616</guid>
+            <pubDate>Tue, 30 Nov 2021 15:30:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1111/18_15_17__618cdf254b695[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이 엠 벤전스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58729</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58729</guid>
+            <pubDate>Wed, 01 Dec 2021 15:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/58729_6194607860bdb[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티탄]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58243</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58243</guid>
+            <pubDate>Wed, 01 Dec 2021 15:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1110/16_24_33__618b73b10226e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라라와 크리스마스 요정]]></title>
