@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2021-12-08T05:31:09.649Z</updated>
+    <updated>2021-12-08T06:34:06.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <운빨 로맨스> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8284&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8284&amp;p=1"/>
+        <updated>2021-12-08T06:17:09.629Z</updated>
+        <content type="html"><![CDATA[8284]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <유다의 키스> 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8283&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8269&amp;p=1"/>
         <updated>2021-12-04T09:14:03.650Z</updated>
         <content type="html"><![CDATA[8269]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <잔류 인구> 출간기념 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8268&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8268&amp;p=1"/>
-        <updated>2021-12-04T09:14:03.650Z</updated>
-        <content type="html"><![CDATA[8268]]></content>
     </entry>
 </feed>
