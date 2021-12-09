@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 06:37:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 09:33:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -125,6 +125,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2019/0226/11_07_08__5c749f4c078c9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[엔드게임: 나는 킬러다]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58770</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58770</guid>
+            <pubDate>Thu, 09 Dec 2021 09:26:44 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/still/2021/1209/58770_61b1aa639abbc[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미싱타는 여자들]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58766</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58766</guid>
@@ -138,14 +146,6 @@
             <pubDate>Mon, 06 Dec 2021 05:27:47 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1202/58763_61a879fed3049[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 천재 추리 탐정 셜록홈즈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58755</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58755</guid>
-            <pubDate>Wed, 08 Dec 2021 05:27:13 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58755_61a5bc18c7c64[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
