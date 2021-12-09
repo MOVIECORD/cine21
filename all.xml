@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 01:02:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 02:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2885,7 +2885,7 @@ CGV에서는 12월 17일부터 19일까지 3일간 진행되는 NCT 127의 콘�
             <guid>http://www.cine21.com/movie/info/?movie_id=5683</guid>
             <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/5683_61a57888e291c[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/5683_619dd53ad917e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔드리스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2896,14 +2896,6 @@ CGV에서는 12월 17일부터 19일까지 3일간 진행되는 NCT 127의 콘�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58746_619dd22d5080e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라라와 크리스마스 요정 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58761</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58761</guid>
-            <pubDate>Tue, 07 Dec 2021 15:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1208/58761_61b0765c68dba[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스파이더맨: 노 웨이 홈 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58356</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58356</guid>
@@ -2912,12 +2904,12 @@ CGV에서는 12월 17일부터 19일까지 3일간 진행되는 NCT 127의 콘�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1208/14_18_13__61b04015db59c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[피부를 판 남자 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57420</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57420</guid>
-            <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-16]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1119/57420_61975b8d51f88[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[라라와 크리스마스 요정 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58761</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58761</guid>
+            <pubDate>Tue, 07 Dec 2021 15:33:06 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1208/58761_61b0765c68dba[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레이징 파이어 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2928,12 +2920,44 @@ CGV에서는 12월 17일부터 19일까지 3일간 진행되는 NCT 127의 콘�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58669_619dcac15a144[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[피부를 판 남자 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57420</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57420</guid>
+            <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1119/57420_61975b8d51f88[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[끝없음에 관하여 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58731</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58731</guid>
             <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-16]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/11_40_34__61a58f225239e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신데렐라 2: 마법에 걸린 왕자 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58715</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58715</guid>
+            <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/14_44_05__619496a526385[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피드백 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58759</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58759</guid>
+            <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58759_61a5d51439634[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도쿄 리벤저스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58219</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58219</guid>
+            <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1202/15_32_33__61a868813307e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빅샤크4: 바다공룡 대모험 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2952,30 +2976,6 @@ CGV에서는 12월 17일부터 19일까지 3일간 진행되는 NCT 127의 콘�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/17_11_55__61a5dccb4b9b8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[피드백 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58759</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58759</guid>
-            <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58759_61a5d51439634[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신데렐라 2: 마법에 걸린 왕자 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58715</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58715</guid>
-            <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/14_44_05__619496a526385[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄 리벤저스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58219</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58219</guid>
-            <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1202/15_32_33__61a868813307e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[드라이브 마이 카 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58089</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58089</guid>
@@ -2989,15 +2989,23 @@ CGV에서는 12월 17일부터 19일까지 3일간 진행되는 NCT 127의 콘�
             <guid>http://www.cine21.com/movie/info/?movie_id=6785</guid>
             <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2019/1202/10_35_56__5de46a7c2837e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1209/11_13_49__61b1665d767bf[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[해피 뉴 이어 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57948</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57948</guid>
-            <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
+            <title><![CDATA[리틀 뱀파이어 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57071</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57071</guid>
+            <pubDate>Thu, 09 Dec 2021 02:13:50 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1203/57948_61a97e13eb8e5[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1202/57071_61a863307c4f9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노웨어 스페셜 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58749</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58749</guid>
+            <pubDate>Thu, 09 Dec 2021 02:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1206/10_26_05__61ad66ad14238[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[램 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3014,14 +3022,6 @@ CGV에서는 12월 17일부터 19일까지 3일간 진행되는 NCT 127의 콘�
             <pubDate>Wed, 08 Dec 2021 17:34:32 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/16_47_54__61a5d72ae112c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[킹메이커 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=53014</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=53014</guid>
-            <pubDate>Wed, 08 Dec 2021 17:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1208/53014_61b03e269266e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 나라로 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
