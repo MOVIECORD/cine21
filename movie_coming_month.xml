@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 08:40:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 09:38:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1123/17_23_25__619ca4fd30607[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[타이거 마스크]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58744</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58744</guid>
+            <pubDate>Wed, 24 Nov 2021 02:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58744_619d9bdfb2e76[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[원샷]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58748</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58748</guid>
@@ -32,12 +40,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58748_619df62311636[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[타이거 마스크]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58744</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58744</guid>
-            <pubDate>Wed, 24 Nov 2021 02:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58744_619d9bdfb2e76[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[사랑 후의 두 여자]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57927</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57927</guid>
+            <pubDate>Tue, 30 Nov 2021 09:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0721/15_19_20__60f7bc68c5673[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[6/45]]></title>
@@ -70,30 +78,6 @@
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스펜서]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58575</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58575</guid>
-            <pubDate>Wed, 01 Dec 2021 05:28:02 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0927/58575_61511ff860982[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데드맨]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58691</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58691</guid>
-            <pubDate>Wed, 01 Dec 2021 05:28:02 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1109/58691_618a1188acdc4[X224,320].JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑 후의 두 여자]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57927</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57927</guid>
-            <pubDate>Tue, 30 Nov 2021 09:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0721/15_19_20__60f7bc68c5673[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[행복의 나라(가제)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57453</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57453</guid>
@@ -109,6 +93,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0908/16_26_29__613865a5413f3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[데드맨]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58691</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58691</guid>
+            <pubDate>Wed, 01 Dec 2021 05:28:02 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1109/58691_618a1188acdc4[X224,320].JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[원 세컨드]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=54435</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=54435</guid>
@@ -117,27 +109,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2019/0226/11_07_08__5c749f4c078c9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엔드게임: 나는 킬러다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58770</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58770</guid>
-            <pubDate>Thu, 09 Dec 2021 09:26:44 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/still/2021/1209/58770_61b1aa639abbc[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[스펜서]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58575</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58575</guid>
+            <pubDate>Wed, 01 Dec 2021 05:28:02 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0927/58575_61511ff860982[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미싱타는 여자들]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58766</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58766</guid>
-            <pubDate>Mon, 06 Dec 2021 05:27:47 GMT</pubDate>
+            <title><![CDATA[레이징 파이어]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58669</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58669</guid>
+            <pubDate>Mon, 13 Dec 2021 09:32:02 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1213/58669_61b6a4caeb905[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미결처리반 Q: 침묵의 암살자]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58763</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58763</guid>
-            <pubDate>Mon, 06 Dec 2021 05:27:47 GMT</pubDate>
+            <title><![CDATA[늦봄2020]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58730</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58730</guid>
+            <pubDate>Mon, 13 Dec 2021 09:32:02 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1202/58763_61a879fed3049[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/58730_61946c8cd560c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판 천재 추리 탐정 셜록홈즈]]></title>
@@ -146,6 +139,14 @@
             <pubDate>Mon, 13 Dec 2021 02:12:54 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58755_61a5bc18c7c64[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스크림]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58642</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58642</guid>
+            <pubDate>Mon, 13 Dec 2021 09:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1018/58642_616cc77b17e7c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
