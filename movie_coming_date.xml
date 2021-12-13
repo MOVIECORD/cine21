@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 01:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 02:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1208/58761_61b0765c68dba[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레이징 파이어]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58669</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58669</guid>
-            <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-16]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58669_619dcac15a144[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[피부를 판 남자]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57420</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57420</guid>
@@ -70,6 +62,14 @@
             <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-22]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/14_44_05__619496a526385[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매트릭스: 리저렉션]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58671</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58671</guid>
+            <pubDate>Mon, 13 Dec 2021 02:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1213/58671_61b69ee23a783[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피드백]]></title>
