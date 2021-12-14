@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 07:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 08:39:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,22 +147,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0630/18_10_39__60dc350fe1962[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[젠틀맨]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58369</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58369</guid>
-            <pubDate>Wed, 17 Nov 2021 02:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">젠틀맨</span>
-		
-
-									<span class="director">감독 : 김경원</span>
-											<span class="actor">배우 : 주지훈,박성웅</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1111/58369_618c6832108b0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[하이파이브]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58718</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58718</guid>
@@ -203,6 +187,21 @@
 
 									<span class="director">감독 : 허정재</span>
 											<span class="actor">배우 : 박하선</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고요한 아침]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57057</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57057</guid>
+            <pubDate>Tue, 14 Dec 2021 08:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">고요한 아침</span>
+		
+
+									<span class="director">감독 : 드니 데르쿠르</span>
+											<span class="actor">배우 : 유연석,올가 쿠릴렌코</span>
 		
 		
 							<span class="btn_detail">자세히 보기</span>
