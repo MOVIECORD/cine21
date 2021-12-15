@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2021-12-15T02:20:34.256Z</updated>
+    <updated>2021-12-15T02:53:29.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국립극장 <명색이 아프레걸> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8291&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8291&amp;p=1"/>
+        <updated>2021-12-15T02:33:30.139Z</updated>
+        <content type="html"><![CDATA[8291]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12월 수요단편극장 <레디-액션! 판타스틱, 이기혁 감독전> 초대 이벤트]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8290&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8276&amp;p=1"/>
         <updated>2021-12-04T09:14:03.644Z</updated>
         <content type="html"><![CDATA[8276]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <우리가 사랑했던 그날> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8275&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8275&amp;p=1"/>
-        <updated>2021-12-04T09:14:03.644Z</updated>
-        <content type="html"><![CDATA[8275]]></content>
     </entry>
 </feed>
