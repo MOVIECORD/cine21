@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 05:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 06:33:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,22 +22,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0507/17_34_43__5eb3c823de6d0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불도저에 탄 소녀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57431</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57431</guid>
-            <pubDate>Wed, 20 Oct 2021 03:30:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">불도저에 탄 소녀</span>
-		
-
-									<span class="director">감독 : 박이웅</span>
-											<span class="actor">배우 : 김혜윤,박혁권</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0927/57431_615143ffe38d7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[승부]]></title>
@@ -179,6 +163,37 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/58719_6194b80b43fa5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[도그데이즈(가제)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58779</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58779</guid>
+            <pubDate>Wed, 15 Dec 2021 06:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">도그데이즈(가제)</span>
+		
+
+									<span class="director">감독 : 김덕민</span>
+											<span class="actor">배우 : 유해진,윤여정</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[불도저에 탄 소녀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57431</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57431</guid>
+            <pubDate>Wed, 20 Oct 2021 03:30:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">불도저에 탄 소녀</span>
+		
+
+									<span class="director">감독 : 박이웅</span>
+											<span class="actor">배우 : 김혜윤,박혁권</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0927/57431_615143ffe38d7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보스턴 1947]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57276</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57276</guid>
@@ -271,22 +286,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0409/15_39_01__5e8ec3057b243[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교섭]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56196</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56196</guid>
-            <pubDate>Wed, 01 Dec 2021 02:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">교섭</span>
-		
-
-									<span class="director">감독 : 임순례</span>
-											<span class="actor">배우 : 황정민,현빈</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0417/16_35_21__5e995c3949ab1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
