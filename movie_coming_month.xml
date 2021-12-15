@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 14:33:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 15:34:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Wed, 24 Nov 2021 08:34:23 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58748_619df62311636[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타이거 마스크]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58744</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58744</guid>
-            <pubDate>Wed, 24 Nov 2021 02:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58744_619d9bdfb2e76[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원 세컨드]]></title>
@@ -125,20 +117,26 @@
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[해적: 도깨비 깃발]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56540</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56540</guid>
-            <pubDate>Fri, 03 Dec 2021 02:44:33 GMT</pubDate>
+            <title><![CDATA[비상선언]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56284</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56284</guid>
+            <pubDate>Wed, 15 Dec 2021 15:27:49 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0908/16_26_29__613865a5413f3[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0702/17_47_38__5efd9f2a363ef[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 천재 추리 탐정 셜록홈즈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58755</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58755</guid>
-            <pubDate>Wed, 15 Dec 2021 05:29:27 GMT</pubDate>
+            <title><![CDATA[레지던트 이블: 라쿤시티]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58782</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58782</guid>
+            <pubDate>Wed, 15 Dec 2021 15:27:49 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58755_61a5bc18c7c64[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미싱타는 여자들]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58766</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58766</guid>
+            <pubDate>Wed, 15 Dec 2021 15:27:49 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미결처리반 Q: 침묵의 암살자]]></title>

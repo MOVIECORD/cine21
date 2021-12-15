@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 14:33:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 15:34:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2722,12 +2722,36 @@ Q. 피터 파커의 일상, 어떻게 달라질까?
             <enclosure url="http://k.kakaocdn.net/dn/bJtXxo/btrnjeI7kjA/3FGCf8BtlxM4vpACgKgL3K/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아멜리에 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=5683</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=5683</guid>
+            <title><![CDATA[피부를 판 남자 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57420</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57420</guid>
             <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1119/57420_61975b8d51f88[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[끝없음에 관하여 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58731</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58731</guid>
+            <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/11_40_34__61a58f225239e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어쩌다 유모! (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58776</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58776</guid>
+            <pubDate>Wed, 15 Dec 2021 02:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1215/58776_61b944e95640e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라라와 크리스마스 요정 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58761</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58761</guid>
+            <pubDate>Tue, 07 Dec 2021 15:33:06 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/5683_619dd53ad917e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1208/58761_61b0765c68dba[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔드리스 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2746,20 +2770,20 @@ Q. 피터 파커의 일상, 어떻게 달라질까?
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1215/16_44_14__61b99cceed48f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라라와 크리스마스 요정 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58761</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58761</guid>
-            <pubDate>Tue, 07 Dec 2021 15:33:06 GMT</pubDate>
+            <title><![CDATA[아멜리에 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=5683</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=5683</guid>
+            <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1208/58761_61b0765c68dba[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/5683_619dd53ad917e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아이 엠 벤전스 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58729</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58729</guid>
+            <title><![CDATA[티탄 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58243</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58243</guid>
             <pubDate>Wed, 01 Dec 2021 15:28:57 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/58729_6194607860bdb[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1110/16_24_33__618b73b10226e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2778,12 +2802,20 @@ Q. 피터 파커의 일상, 어떻게 달라질까?
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1125/15_40_41__619f2fe9c7d17[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리슨 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57413</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57413</guid>
+            <title><![CDATA[아이 엠 벤전스 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58729</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58729</guid>
             <pubDate>Wed, 01 Dec 2021 15:28:57 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1104/16_33_53__61838ce1c6032[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/58729_6194607860bdb[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이상존재 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58711</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58711</guid>
+            <pubDate>Wed, 01 Dec 2021 09:28:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58711_619dc81e91836[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해피 아워 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2802,20 +2834,12 @@ Q. 피터 파커의 일상, 어떻게 달라질까?
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1116/13_43_48__619337040c98a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[티탄 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58243</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58243</guid>
+            <title><![CDATA[리슨 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57413</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57413</guid>
             <pubDate>Wed, 01 Dec 2021 15:28:57 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1110/16_24_33__618b73b10226e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왼팔의복서 닉 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58757</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58757</guid>
-            <pubDate>Wed, 01 Dec 2021 15:28:57 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1209/58757_61b19553cca7e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1104/16_33_53__61838ce1c6032[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소설가 구보의 하루 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2826,22 +2850,6 @@ Q. 피터 파커의 일상, 어떻게 달라질까?
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/14_36_42__619494eaecd18[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포에버 퍼스트 러브 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58758</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58758</guid>
-            <pubDate>Wed, 01 Dec 2021 15:28:57 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1201/14_06_04__61a702bce1815[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스파이 캣 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58616</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58616</guid>
-            <pubDate>Tue, 30 Nov 2021 15:30:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1111/18_15_17__618cdf254b695[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[매트릭스 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=3250</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=3250</guid>
@@ -2850,20 +2858,12 @@ Q. 피터 파커의 일상, 어떻게 달라질까?
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1213/10_19_09__61b69f8d6bf4c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[캅샵: 미친놈들의 전쟁 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58546</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58546</guid>
-            <pubDate>Wed, 15 Dec 2021 03:26:12 GMT</pubDate>
+            <title><![CDATA[스파이 캣 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58616</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58616</guid>
+            <pubDate>Tue, 30 Nov 2021 15:30:48 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58546_619de4378eb1c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상존재 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58711</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58711</guid>
-            <pubDate>Wed, 01 Dec 2021 09:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58711_619dc81e91836[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1111/18_15_17__618cdf254b695[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어쩌다 유모! (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3042,14 +3042,6 @@ Q. 피터 파커의 일상, 어떻게 달라질까?
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58748_619df62311636[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[타이거 마스크 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58744</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58744</guid>
-            <pubDate>Wed, 24 Nov 2021 02:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58744_619d9bdfb2e76[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[원 세컨드 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=54435</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=54435</guid>
@@ -3127,20 +3119,26 @@ Q. 피터 파커의 일상, 어떻게 달라질까?
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[해적: 도깨비 깃발 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56540</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56540</guid>
-            <pubDate>Fri, 03 Dec 2021 02:44:33 GMT</pubDate>
+            <title><![CDATA[비상선언 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56284</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56284</guid>
+            <pubDate>Wed, 15 Dec 2021 15:27:49 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0908/16_26_29__613865a5413f3[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0702/17_47_38__5efd9f2a363ef[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 천재 추리 탐정 셜록홈즈 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58755</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58755</guid>
-            <pubDate>Wed, 15 Dec 2021 05:29:27 GMT</pubDate>
+            <title><![CDATA[레지던트 이블: 라쿤시티 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58782</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58782</guid>
+            <pubDate>Wed, 15 Dec 2021 15:27:49 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58755_61a5bc18c7c64[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미싱타는 여자들 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58766</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58766</guid>
+            <pubDate>Wed, 15 Dec 2021 15:27:49 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미결처리반 Q: 침묵의 암살자 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
