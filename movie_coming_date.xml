@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 23:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 01:02:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1202/15_32_33__61a868813307e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[킹스맨: 퍼스트 에이전트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=55009</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=55009</guid>
-            <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/17_11_55__61a5dccb4b9b8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[피드백]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58759</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58759</guid>
             <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-22]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58759_61a5d51439634[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[킹스맨: 퍼스트 에이전트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55009</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55009</guid>
+            <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/17_11_55__61a5dccb4b9b8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매트릭스: 리저렉션]]></title>
@@ -88,20 +88,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1209/11_13_49__61b1665d767bf[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리틀 뱀파이어]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57071</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57071</guid>
-            <pubDate>Thu, 09 Dec 2021 02:13:50 GMT</pubDate>
+            <title><![CDATA[클리포드 더 빅 레드 독]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58720</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58720</guid>
+            <pubDate>Wed, 08 Dec 2021 17:34:32 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1202/57071_61a863307c4f9[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노웨어 스페셜]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58749</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58749</guid>
-            <pubDate>Thu, 09 Dec 2021 02:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1209/15_30_48__61b1a2986b24b[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/16_47_54__61a5d72ae112c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[램]]></title>
@@ -112,20 +104,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1208/11_50_11__61b01d634ec25[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[클리포드 더 빅 레드 독]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58720</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58720</guid>
-            <pubDate>Wed, 08 Dec 2021 17:34:32 GMT</pubDate>
+            <title><![CDATA[노웨어 스페셜]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58749</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58749</guid>
+            <pubDate>Thu, 09 Dec 2021 02:13:50 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/16_47_54__61a5d72ae112c[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1209/15_30_48__61b1a2986b24b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사울 레이터: 인 노 그레이트 허리]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58768</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58768</guid>
+            <title><![CDATA[해피 뉴 이어]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57948</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57948</guid>
             <pubDate>Tue, 14 Dec 2021 20:25:29 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1209/58768_61b1622776fda[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1213/11_07_08__61b6aacc130e8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리틀 뱀파이어]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57071</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57071</guid>
+            <pubDate>Thu, 09 Dec 2021 02:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1202/57071_61a863307c4f9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[킹메이커]]></title>
@@ -136,12 +136,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1208/53014_61b03e269266e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[해피 뉴 이어]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57948</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57948</guid>
+            <title><![CDATA[사울 레이터: 인 노 그레이트 허리]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58768</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58768</guid>
             <pubDate>Tue, 14 Dec 2021 20:25:29 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1213/11_07_08__61b6aacc130e8[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1209/58768_61b1622776fda[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사막을 건너 호수를 지나]]></title>
