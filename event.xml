@@ -4,17 +4,26 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 14:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 15:32:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[뮤지컬 <썸씽로튼> 기대평 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7855</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7855</guid>
-            <pubDate>Tue, 14 Dec 2021 03:30:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2021-12-20 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1213/10_05_32__61b69c5c8c6ea[T224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[연극 <오백에 삼십> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=7857</link>
+            <guid>http://www.cine21.com/event/view/?event_no=7857</guid>
+            <pubDate>Sun, 19 Dec 2021 15:29:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2021-12-30 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1217/15_53_52__61bc340038f58[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도서 <멸망 이전의 샹그릴라> 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=7856</link>
+            <guid>http://www.cine21.com/event/view/?event_no=7856</guid>
+            <pubDate>Sun, 19 Dec 2021 15:29:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-01-05 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1217/15_52_22__61bc33a64a3db[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
