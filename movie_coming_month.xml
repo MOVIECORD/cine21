@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 23:37:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 02:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=58773</guid>
             <pubDate>Wed, 15 Dec 2021 00:59:01 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1215/58773_61b9377ac7475[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1220/10_41_16__61bfdf3c49b2f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원샷]]></title>
@@ -130,21 +130,22 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=57845</guid>
             <pubDate>Thu, 16 Dec 2021 16:35:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1220/57845_61bfdbd9be456[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미싱타는 여자들]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58766</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58766</guid>
-            <pubDate>Wed, 15 Dec 2021 15:27:49 GMT</pubDate>
+            <title><![CDATA[늦봄2020]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58730</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58730</guid>
+            <pubDate>Mon, 20 Dec 2021 02:17:09 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/58730_61946c8cd560c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미결처리반 Q: 침묵의 암살자]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58763</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58763</guid>
-            <pubDate>Wed, 15 Dec 2021 02:14:25 GMT</pubDate>
+            <title><![CDATA[모비우스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55812</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55812</guid>
+            <pubDate>Mon, 20 Dec 2021 02:17:09 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1202/58763_61a879fed3049[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
