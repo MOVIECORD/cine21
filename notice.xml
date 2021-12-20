@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2021-12-20T09:35:57.909Z</updated>
+    <updated>2021-12-20T10:35:56.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <썸씽로튼> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8293&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8293&amp;p=1"/>
+        <updated>2021-12-20T10:14:46.459Z</updated>
+        <content type="html"><![CDATA[8293]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <라이온의 간식> 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8292&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8279&amp;p=1"/>
         <updated>2021-12-04T09:14:03.644Z</updated>
         <content type="html"><![CDATA[8279]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <보라선 열차와 사라진 아이들> 증정 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8278&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8278&amp;p=1"/>
-        <updated>2021-12-04T09:14:03.644Z</updated>
-        <content type="html"><![CDATA[8278]]></content>
     </entry>
 </feed>
