@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 14:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 15:36:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2924,14 +2924,6 @@ MCU의 세계관을 기발한 방법으로 재해석해 그려낸 마블 스튜�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1213/58671_61b69ee23a783[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[도쿄 리벤저스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58219</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58219</guid>
-            <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1202/15_32_33__61a868813307e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[킹스맨: 퍼스트 에이전트 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=55009</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=55009</guid>
@@ -2956,6 +2948,14 @@ MCU의 세계관을 기발한 방법으로 재해석해 그려낸 마블 스튜�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1209/11_13_49__61b1665d767bf[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[해피 뉴 이어 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57948</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57948</guid>
+            <pubDate>Tue, 14 Dec 2021 20:25:29 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1213/11_07_08__61b6aacc130e8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[램 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58734</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58734</guid>
@@ -2964,12 +2964,20 @@ MCU의 세계관을 기발한 방법으로 재해석해 그려낸 마블 스튜�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1208/11_50_11__61b01d634ec25[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[해피 뉴 이어 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57948</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57948</guid>
+            <title><![CDATA[킹메이커 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=53014</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=53014</guid>
             <pubDate>Tue, 14 Dec 2021 20:25:29 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1213/11_07_08__61b6aacc130e8[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1208/53014_61b03e269266e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사울 레이터: 인 노 그레이트 허리 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58768</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58768</guid>
+            <pubDate>Tue, 14 Dec 2021 20:25:29 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1215/11_37_56__61b9550419498[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노웨어 스페셜 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2988,20 +2996,12 @@ MCU의 세계관을 기발한 방법으로 재해석해 그려낸 마블 스튜�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1202/57071_61a863307c4f9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사울 레이터: 인 노 그레이트 허리 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58768</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58768</guid>
-            <pubDate>Tue, 14 Dec 2021 20:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1215/11_37_56__61b9550419498[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[킹메이커 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=53014</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=53014</guid>
-            <pubDate>Tue, 14 Dec 2021 20:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1208/53014_61b03e269266e[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[타이거 마스크 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58744</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58744</guid>
+            <pubDate>Wed, 15 Dec 2021 17:33:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-30]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58744_619d9bdfb2e76[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사막을 건너 호수를 지나 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3012,20 +3012,20 @@ MCU의 세계관을 기발한 방법으로 재해석해 그려낸 마블 스튜�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/17_33_42__61a5e1e6521cf[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[타이거 마스크 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58744</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58744</guid>
-            <pubDate>Wed, 15 Dec 2021 17:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58744_619d9bdfb2e76[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[숏버스 배우행 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58783</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58783</guid>
             <pubDate>Wed, 15 Dec 2021 17:33:58 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-30]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1215/58783_61b99e3f8eedb[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도쿄 리벤저스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58219</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58219</guid>
+            <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-01-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1220/14_44_14__61c0182e4dd82[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피드백 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3138,19 +3138,19 @@ MCU의 세계관을 기발한 방법으로 재해석해 그려낸 마블 스튜�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0721/15_19_20__60f7bc68c5673[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[행복의 나라(가제) (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57453</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57453</guid>
-            <pubDate>Tue, 30 Nov 2021 09:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[비상선언 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=56284</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=56284</guid>
             <pubDate>Wed, 15 Dec 2021 15:27:49 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0702/17_47_38__5efd9f2a363ef[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[행복의 나라(가제) (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57453</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57453</guid>
+            <pubDate>Tue, 30 Nov 2021 09:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[걸즈 앤 판처 최종장 제3화 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3161,19 +3161,19 @@ MCU의 세계관을 기발한 방법으로 재해석해 그려낸 마블 스튜�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1220/57845_61bfdbd9be456[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[늦봄2020 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58730</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58730</guid>
-            <pubDate>Mon, 20 Dec 2021 02:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/58730_61946c8cd560c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[모비우스 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=55812</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=55812</guid>
             <pubDate>Mon, 20 Dec 2021 02:17:09 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[극장판 천재 추리 탐정 셜록홈즈 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58755</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58755</guid>
+            <pubDate>Mon, 20 Dec 2021 15:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58755_61a5bc18c7c64[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드림 (가제) (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
