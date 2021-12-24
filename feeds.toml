@@ -301,6 +301,16 @@ imageSelector = "img.thumb"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[m_cine21_news]
+title = "씨네21 모바일 ─ 뉴스"
+url = "http://m.cine21.com/news/lists/?s=0"
+entrySelector = "ul.lst_top2 li"
+titleSelector = "div.tit"
+linkSelector = "a"
+contentSelector = "div.category"
+imageSelector = "div.thub img"
+waitUntil = "networkidle"
+
 [navertv]
 title = "씨네21 ─ 네이버TV"
 url = "https://tv.naver.com/cine21/clips"
