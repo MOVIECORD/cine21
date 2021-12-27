@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 11:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 12:40:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2863,22 +2863,6 @@ CGV여의도와 판교 템퍼시네마는 지난 주말 대부분의 회차가 �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1209/58757_61b19553cca7e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리틀 뱀파이어 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57071</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57071</guid>
-            <pubDate>Thu, 09 Dec 2021 02:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1202/57071_61a863307c4f9[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메모리: 조작살인 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58773</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58773</guid>
-            <pubDate>Wed, 15 Dec 2021 00:59:01 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1220/10_41_16__61bfdf3c49b2f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[해피 뉴 이어 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57948</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57948</guid>
@@ -2887,12 +2871,12 @@ CGV여의도와 판교 템퍼시네마는 지난 주말 대부분의 회차가 �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1213/11_07_08__61b6aacc130e8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[노웨어 스페셜 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58749</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58749</guid>
+            <title><![CDATA[리틀 뱀파이어 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57071</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57071</guid>
             <pubDate>Thu, 09 Dec 2021 02:13:50 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1209/15_30_48__61b1a2986b24b[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1202/57071_61a863307c4f9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[램 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2903,6 +2887,14 @@ CGV여의도와 판교 템퍼시네마는 지난 주말 대부분의 회차가 �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1208/11_50_11__61b01d634ec25[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[노웨어 스페셜 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58749</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58749</guid>
+            <pubDate>Thu, 09 Dec 2021 02:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1209/15_30_48__61b1a2986b24b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사울 레이터: 인 노 그레이트 허리 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58768</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58768</guid>
@@ -2911,20 +2903,12 @@ CGV여의도와 판교 템퍼시네마는 지난 주말 대부분의 회차가 �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1215/11_37_56__61b9550419498[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[필로포비아 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58791</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58791</guid>
-            <pubDate>Tue, 21 Dec 2021 18:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1221/58791_61c17f5f0f255[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사막을 건너 호수를 지나 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=55255</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=55255</guid>
-            <pubDate>Wed, 15 Dec 2021 17:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/17_33_42__61a5e1e6521cf[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[메모리: 조작살인 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58773</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58773</guid>
+            <pubDate>Wed, 15 Dec 2021 00:59:01 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1220/10_41_16__61bfdf3c49b2f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[숏버스 배우행 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2935,12 +2919,36 @@ CGV여의도와 판교 템퍼시네마는 지난 주말 대부분의 회차가 �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1215/58783_61b99e3f8eedb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사막을 건너 호수를 지나 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55255</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55255</guid>
+            <pubDate>Wed, 15 Dec 2021 17:33:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-30]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/17_33_42__61a5e1e6521cf[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[타이거 마스크 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58744</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58744</guid>
             <pubDate>Wed, 15 Dec 2021 17:33:58 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-30]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1222/10_42_16__61c282788aade[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[필로포비아 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58791</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58791</guid>
+            <pubDate>Tue, 21 Dec 2021 18:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-30]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1221/58791_61c17f5f0f255[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[긴 하루 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58800</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58800</guid>
+            <pubDate>Mon, 27 Dec 2021 12:34:47 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-30]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1227/58800_61c97b7ddd956[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피드백 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2983,12 +2991,12 @@ CGV여의도와 판교 템퍼시네마는 지난 주말 대부분의 회차가 �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1206/16676_61ad78ad91211[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[웨스트 사이드 스토리 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=54911</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=54911</guid>
-            <pubDate>Wed, 22 Dec 2021 17:36:23 GMT</pubDate>
+            <title><![CDATA[하우스 오브 구찌 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58774</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58774</guid>
+            <pubDate>Mon, 27 Dec 2021 06:30:08 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1206/54911_61ad99a40f803[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1221/58774_61c17c9dbc393[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[특송 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2997,14 +3005,6 @@ CGV여의도와 판교 템퍼시네마는 지난 주말 대부분의 회차가 �
             <pubDate>Mon, 27 Dec 2021 06:30:08 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1222/13_51_31__61c2aed38dabd[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하우스 오브 구찌 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58774</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58774</guid>
-            <pubDate>Mon, 27 Dec 2021 06:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1221/58774_61c17c9dbc393[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 나라로 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
