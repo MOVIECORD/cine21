@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 10:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 11:32:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -179,6 +179,21 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1217/17_25_22__61bc49726c7cd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2시의 데이트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58780</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58780</guid>
+            <pubDate>Wed, 29 Dec 2021 11:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">2시의 데이트</span>
+		
+
+									<span class="director">감독 : 이상근</span>
+											<span class="actor">배우 : 임윤아,안보현</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[불도저에 탄 소녀]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57431</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57431</guid>
@@ -204,21 +219,6 @@
 
 									<span class="director">감독 : 강제규</span>
 											<span class="actor">배우 : 하정우,배성우</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[첫 번째 아이]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57229</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57229</guid>
-            <pubDate>Wed, 20 Oct 2021 03:30:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">첫 번째 아이</span>
-		
-
-									<span class="director">감독 : 허정재</span>
-											<span class="actor">배우 : 박하선</span>
 		
 		
 							<span class="btn_detail">자세히 보기</span>
