@@ -4,9 +4,17 @@
         <title>씨네21 ─ 멀티미디어 ─ 커버 ─ 사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 01:04:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 02:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No.1338]]></title>
+            <link>https://image.cine21.com/resize/cine21/site/2021/1231/11_03_07__61ce64db55a22[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/site/2021/1231/11_03_07__61ce64db55a22[H800-].jpg</guid>
+            <pubDate>Fri, 31 Dec 2021 02:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022-01-04~2022-01-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/site/2021/1231/11_03_07__61ce64db55a22[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[No.1337]]></title>
             <link>https://image.cine21.com/resize/cine21/site/2021/1224/11_11_37__61c52c595a45e[H800-].jpg</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 05 Nov 2021 02:12:46 GMT</pubDate>
             <content:encoded><![CDATA[2021-11-09~2021-11-16]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/1105/11_02_14__618490a6767eb[X300,360].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No.1329]]></title>
-            <link>https://image.cine21.com/resize/cine21/site/2021/1029/10_24_25__617b4d497315d[H800-].jpg</link>
-            <guid>https://image.cine21.com/resize/cine21/site/2021/1029/10_24_25__617b4d497315d[H800-].jpg</guid>
-            <pubDate>Fri, 29 Oct 2021 23:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021-11-02~2021-11-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/site/2021/1029/10_24_25__617b4d497315d[X300,360].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
