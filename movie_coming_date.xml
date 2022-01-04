@@ -4,25 +4,9 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 14:34:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 15:35:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[씽2게더]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58140</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58140</guid>
-            <pubDate>Tue, 21 Dec 2021 18:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1222/16_16_36__61c2d0d433ae8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피드백]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58759</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58759</guid>
-            <pubDate>Wed, 08 Dec 2021 17:34:31 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/1215/18_13_51__61b9b1cf2c1b7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[러브레터]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=2676</link>
@@ -143,12 +127,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1206/11_05_47__61ad6ffb63ed0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아이 스틸 빌리브]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56085</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56085</guid>
+            <pubDate>Tue, 04 Jan 2022 15:27:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-01-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1229/14_23_27__61cbf0cfefc11[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[도쿄 리벤저스]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58219</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58219</guid>
             <pubDate>Wed, 29 Dec 2021 16:32:52 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01-19]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1222/58219_61c2c548ac5b9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스피드 : 레이스 1]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58801</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58801</guid>
+            <pubDate>Tue, 04 Jan 2022 15:27:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-01-20]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1227/58801_61c97cfd8828f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
