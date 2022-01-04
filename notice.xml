@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2022-01-04T07:33:59.747Z</updated>
+    <updated>2022-01-04T08:38:32.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영호 <킹메이커> 시사회 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8297&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8297&amp;p=1"/>
+        <updated>2022-01-04T08:17:10.565Z</updated>
+        <content type="html"><![CDATA[8297]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <피드백> 시사회 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8296&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8283&amp;p=1"/>
         <updated>2021-12-07T08:18:13.455Z</updated>
         <content type="html"><![CDATA[8283]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <총을 들지 않는 사람들: 금기에 도전> 시사회 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8282&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8282&amp;p=1"/>
-        <updated>2021-12-04T09:14:03.642Z</updated>
-        <content type="html"><![CDATA[8282]]></content>
     </entry>
 </feed>
