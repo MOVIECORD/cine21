@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 03:35:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 04:39:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,11 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/55448_614d6fb3976df[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[젠틀맨]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58369</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58369</guid>
-            <pubDate>Tue, 14 Dec 2021 07:29:09 GMT</pubDate>
+            <title><![CDATA[탄생]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58534</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58534</guid>
+            <pubDate>Wed, 01 Dec 2021 08:30:57 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1111/58369_618c6832108b0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메이의 새빨간 비밀]]></title>
@@ -32,11 +31,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58254_61a589108d01e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[탄생]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58534</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58534</guid>
-            <pubDate>Wed, 01 Dec 2021 08:30:57 GMT</pubDate>
+            <title><![CDATA[젠틀맨]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58369</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58369</guid>
+            <pubDate>Tue, 14 Dec 2021 07:29:09 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1111/58369_618c6832108b0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[6/45]]></title>
@@ -117,20 +117,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1222/11_38_25__61c28fa10de68[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레지던트 이블: 라쿤시티]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58782</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58782</guid>
-            <pubDate>Wed, 22 Dec 2021 15:30:59 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1228/58782_61caa58b86e96[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[원 세컨드]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=54435</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=54435</guid>
             <pubDate>Wed, 05 Jan 2022 02:19:46 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1222/54435_61c2b03182c99[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레지던트 이블: 라쿤시티]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58782</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58782</guid>
+            <pubDate>Wed, 22 Dec 2021 15:30:59 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1228/58782_61caa58b86e96[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블러드써스티]]></title>
