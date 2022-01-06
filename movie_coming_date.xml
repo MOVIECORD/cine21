@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 02:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 03:37:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,20 +112,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1222/58219_61c2c548ac5b9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미스터 앤 미세스 아델만]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=50543</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=50543</guid>
-            <pubDate>Wed, 05 Jan 2022 19:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1215/11_55_56__61b9593c98e4c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[걸 위드 더 카메라]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57286</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57286</guid>
             <pubDate>Wed, 05 Jan 2022 02:18:54 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01-20]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1215/57286_61b98a8f8820d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미스터 앤 미세스 아델만]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=50543</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=50543</guid>
+            <pubDate>Wed, 05 Jan 2022 19:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-01-20]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1215/11_55_56__61b9593c98e4c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스피드 : 레이스 1]]></title>
