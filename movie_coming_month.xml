@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 03:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 04:40:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,21 +16,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/55448_614d6fb3976df[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[탄생]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58534</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58534</guid>
-            <pubDate>Wed, 01 Dec 2021 08:30:57 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[메이의 새빨간 비밀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58254</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58254</guid>
-            <pubDate>Tue, 30 Nov 2021 09:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58254_61a589108d01e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[젠틀맨]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58369</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58369</guid>
@@ -39,10 +24,25 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1111/58369_618c6832108b0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코코순이]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58303</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58303</guid>
+            <pubDate>Tue, 30 Nov 2021 08:28:26 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0811/16_36_47__61137e0fd539a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[6/45]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57961</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57961</guid>
             <pubDate>Tue, 30 Nov 2021 09:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[탄생]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58534</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58534</guid>
+            <pubDate>Wed, 01 Dec 2021 08:30:57 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
         </item>
         <item>
@@ -61,12 +61,12 @@
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코코순이]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58303</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58303</guid>
-            <pubDate>Tue, 30 Nov 2021 08:28:26 GMT</pubDate>
+            <title><![CDATA[메이의 새빨간 비밀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58254</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58254</guid>
+            <pubDate>Tue, 30 Nov 2021 09:26:03 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0811/16_36_47__61137e0fd539a[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58254_61a589108d01e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데드맨]]></title>
@@ -117,20 +117,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0105/15_16_33__61d537c1c4ede[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[원 세컨드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=54435</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=54435</guid>
-            <pubDate>Wed, 05 Jan 2022 02:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1222/54435_61c2b03182c99[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[블러드써스티]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58805</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58805</guid>
             <pubDate>Wed, 29 Dec 2021 06:33:06 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1229/58805_61cbf72c01357[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원 세컨드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=54435</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=54435</guid>
+            <pubDate>Wed, 05 Jan 2022 02:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1222/54435_61c2b03182c99[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[콜로니: 지구 귀환 프로젝트]]></title>
