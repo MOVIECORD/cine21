@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/cine21/clips</id>
-    <title>씨네21 ─ 네이버TV</title>
-    <updated>2022-01-07T02:31:39.889Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/cine21/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 07 Jan 2022 03:37:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#줌터뷰] EXCLUSIVE, 스티븐스필버그 감독 찐팬 윤제균 감독이 직접 물어봤다. 어떻게 촬영?]]></title>
+            <link>https://tv.naver.com/v/24318693</link>
+            <guid>https://tv.naver.com/v/24318693</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[15:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_258/Qjkcf_1640683904849maXRA_JPEG/1640682632370.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#김혜리의콘택트] DP 모가디슈 배우 구교환이 연기하고 싶은 실존인물은 여성 뮤지션?]]></title>
+            <link>https://tv.naver.com/v/22423468</link>
+            <guid>https://tv.naver.com/v/22423468</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[22:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_14/JnyDp_16315214311936Wi08_JPEG/1631520119805.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#김혜리의콘택트] 'D.P.','모가디슈','킹덤: 아신전' 2021년 대세 배우 구교환]]></title>
+            <link>https://tv.naver.com/v/22423187</link>
+            <guid>https://tv.naver.com/v/22423187</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[22:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_121/6hZBB_1631520803538g7mD0_PNG/1631520043034.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#줌터뷰] 이제훈, 박정민이 찐 우정을 쌓을수 밖에 없었던 솔직담백한 이야기.]]></title>
+            <link>https://tv.naver.com/v/22422601</link>
+            <guid>https://tv.naver.com/v/22422601</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[19:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_36/VHmrh_1631519560237qnhzq_PNG/1631518943979.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[#줌터뷰] '파수꾼' 10주년, 이제훈과 박정민의 종횡무진 영화 토크!]]></title>
+            <link>https://tv.naver.com/v/22422586</link>
+            <guid>https://tv.naver.com/v/22422586</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[19:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_211/Ubmca_1631519524205snNKb_JPEG/1631518842991.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#줌터뷰] 라이언 레이놀즈에게는 늘 준비된 다섯 가지 연기가 있다?]]></title>
+            <link>https://tv.naver.com/v/22422313</link>
+            <guid>https://tv.naver.com/v/22422313</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[7:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_155/fs1ud_1631518921268ktirM_JPEG/1631518477208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#김혜리의콘택트] 김은희 작가님의 심층인터뷰, 킹덤, 시그널, 지리산 등 작가님의 발상은]]></title>
+            <link>https://tv.naver.com/v/22422312</link>
+            <guid>https://tv.naver.com/v/22422312</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[22:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_209/1VNzM_1631518921135NJlUb_JPEG/1631518209618.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#김혜리의콘택트] 김은희 작가와 킹덤아신전 해설, 아신역을 맡은 전지현의 비하인드]]></title>
+            <link>https://tv.naver.com/v/22422064</link>
+            <guid>https://tv.naver.com/v/22422064</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[17:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_260/1fBF3_1631518363371I2PJV_JPEG/1631517712036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#배우인터뷰] 김재화, 황미영 배우가 말하는 내 생애 가장 아름다운 이별, 숏버스 이별행]]></title>
+            <link>https://tv.naver.com/v/21578727</link>
+            <guid>https://tv.naver.com/v/21578727</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[9:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210728_73/D9oaj_1627458714085bsNeR_JPEG/1627458588900.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#CAREER] 영화 투자배급사에 궁금한 모든 것, 메가박스 본부장에게 물어봤다!]]></title>
+            <link>https://tv.naver.com/v/21576551</link>
+            <guid>https://tv.naver.com/v/21576551</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[10:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210728_255/ClFcV_1627454812917lQpOq_JPEG/1627454531743.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#씨네리뷰] 블랙위도우 살아서 돌아올까? 마블영화 드디어 공개!]]></title>
+            <link>https://tv.naver.com/v/21576159</link>
+            <guid>https://tv.naver.com/v/21576159</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[7:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210728_71/Fuid6_1627454096089HgM4R_JPEG/1627453984393.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#줌터뷰] 만나자마자 몸싸움?? 블랙위도우 스칼렛 요한슨, 플로렌스 퓨 액션신 썰]]></title>
+            <link>https://tv.naver.com/v/21575821</link>
+            <guid>https://tv.naver.com/v/21575821</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[2:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210728_203/1mDBc_1627453396302OnLtS_JPEG/1627453220344.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#씨네리뷰] 랑종의 비밀, 감독에게 직접 물어봤다 feat 반종 피산다나쿤]]></title>
+            <link>https://tv.naver.com/v/21575180</link>
+            <guid>https://tv.naver.com/v/21575180</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210728_81/c2Q5V_16274521240633prNr_JPEG/1627452002289.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#씨네토크] 영화 '모리타니안'으로 한 번에 정리해 보는 국제인도법과 인도주의!]]></title>
+            <link>https://tv.naver.com/v/21573981</link>
+            <guid>https://tv.naver.com/v/21573981</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[23:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210728_32/7ivAO_16274493021455TxwH_JPEG/1627448907278.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#씨네리뷰] 조우진이 폭탄 테러와 맞서는 긴장감 넘치는 자동차 액션 영화 발신제한.]]></title>
+            <link>https://tv.naver.com/v/21573449</link>
+            <guid>https://tv.naver.com/v/21573449</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210728_84/nUkuG_1627447933017fxGXo_JPEG/1627447833291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#CAREER] 기생충, 부산행, 옥자, 독전의 편집감독 양진모. 그가 알려주는 편집자가 되는 방법]]></title>
+            <link>https://tv.naver.com/v/21573368</link>
+            <guid>https://tv.naver.com/v/21573368</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[10:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210728_102/8cw0d_1627447747172piKBe_JPEG/1627447605045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#1분씨네] 나홍진 감독 제작한 랑종!! 공포영화 끝판왕!! 곡성보다 무섭다며? ㅎㄷㄷ]]></title>
+            <link>https://tv.naver.com/v/21573291</link>
+            <guid>https://tv.naver.com/v/21573291</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210728_122/rZobV_1627447531022mgTYf_JPEG/1627447484700.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#CAREER] 모든 영화가 망하는건 음악 때문이다!! 영화음악의 모든 것! '승리호' '최종병기 활']]></title>
+            <link>https://tv.naver.com/v/21573255</link>
+            <guid>https://tv.naver.com/v/21573255</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[10:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210728_130/EhP5Z_1627447421083WH8Fu_JPEG/1627447225415.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1분씨네] 분노의 질주 1편~9편 1분에 몰아보기.EP.2]]></title>
+            <link>https://tv.naver.com/v/20449742</link>
+            <guid>https://tv.naver.com/v/20449742</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210528_272/wSoLC_1622192376728XFt0x_JPEG/1622192349623.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1분씨네] 분노의 질주 1편~9편 1분에 몰아보기.EP.1]]></title>
+            <link>https://tv.naver.com/v/20449720</link>
+            <guid>https://tv.naver.com/v/20449720</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210528_265/ECcE7_1622192335340ccNwW_JPEG/1622192285240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1분씨네] 주말에 집에서 뭐 보지? 넷플릭스, 카카오TV, 아마존프라임 영화 추천작]]></title>
+            <link>https://tv.naver.com/v/20449683</link>
+            <guid>https://tv.naver.com/v/20449683</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210528_13/cm3qP_1622192260303TPjle_JPEG/1622192209404.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1분씨네] 오스카 여우조연상 윤여정 그녀를 파헤치다!! 1분요약!!!]]></title>
+            <link>https://tv.naver.com/v/20419655</link>
+            <guid>https://tv.naver.com/v/20419655</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210528_182/2X0bT_1622192456725oXxtV_JPEG/1622192452970.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<경기씨네 영화관> '독백' 신민재, 주가영, 변중희, 윤세현, 강민]]></title>
+            <link>https://tv.naver.com/v/17383108</link>
+            <guid>https://tv.naver.com/v/17383108</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[5:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20201221_162/n9OJg_16085389397090Da9w_JPEG/bd301e54-4364-11eb-a803-a0369ff94ec8_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<경기씨네 영화관 & 다양성 영화> 응원 영상! 이동휘, 주원, 이다희, 박세완 등]]></title>
+            <link>https://tv.naver.com/v/17382895</link>
+            <guid>https://tv.naver.com/v/17382895</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20201221_263/ioKRJ_1608538480136MKSsI_JPEG/41f94e56-4364-11eb-97dd-48df37ae3fca_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경기씨네 영화관 메인 트레일러 <이남이의 시계방>]]></title>
+            <link>https://tv.naver.com/v/17382833</link>
+            <guid>https://tv.naver.com/v/17382833</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[9:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20201221_212/vw1bO_16085383061494K75G_JPEG/ed78e125-4362-11eb-97fa-a0369ff94ed0_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<이남이의 시계방> 예고편]]></title>
+            <link>https://tv.naver.com/v/17382583</link>
+            <guid>https://tv.naver.com/v/17382583</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20201221_206/PTXs1_1608537709553eGmyz_JPEG/6021b5c5-4362-11eb-9fa5-a0369ff9545c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 평론가의 마감 비법 & 올해 영화평론상 심사 기준 공개]]></title>
+            <link>https://tv.naver.com/v/13705497</link>
+            <guid>https://tv.naver.com/v/13705497</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[17:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200508_110/PYehf_1588904318285OQYOB_JPEG/1588904288032.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보] '킹덤' 서비의 MBTI 결과. . . 씨네리 발칵 뒤집혀. . .]]></title>
+            <link>https://tv.naver.com/v/13546763</link>
+            <guid>https://tv.naver.com/v/13546763</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[10:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200427_85/Vkz8t_1587950340515SYL7w_JPEG/1587950277146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5인조 그룹 '헌터스' 드디어 데뷔 . . . 타이틀곡은 '사냥의 시간']]></title>
+            <link>https://tv.naver.com/v/13483998</link>
+            <guid>https://tv.naver.com/v/13483998</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[5:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200422_89/F85Wr_15875487059969voPY_PNG/1587546984203.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[이태원 클라쓰]의 최승권과 눈싸움 한판...! 후아유?...난 네가 궁금해 너무 궁금해!]]></title>
+            <link>https://tv.naver.com/v/13411077</link>
+            <guid>https://tv.naver.com/v/13411077</guid>
+            <pubDate>Fri, 07 Jan 2022 03:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[4:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20200417_43/dLljN_1587114396773cU1GF_PNG/1587114304363.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>

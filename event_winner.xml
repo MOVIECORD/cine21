@@ -4,9 +4,20 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 02:31:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 03:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <해적> 시사회 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8300&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8300&amp;p=1</guid>
+            <pubDate>Fri, 07 Jan 2022 03:35:02 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-01-13 19:30:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>롯데시네마 월드타워</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-01-07 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1230/10_05_21__61cd05d13fda0[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <미싱타는 여자들> 시사회 초대 이벤트]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8299&amp;p=1</link>
@@ -106,17 +117,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2021-12-14 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1206/10_15_56__61ad644c2eab8[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <노웨어 스페셜> 시사회 초대 이벤트]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8287&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8287&amp;p=1</guid>
-            <pubDate>Thu, 06 Jan 2022 10:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2021-12-15 20:00:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>CGV용산아이파크몰</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2021-12-13 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1130/17_14_56__61a5dd80e3705[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
