@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2022-01-10T05:30:27.039Z</updated>
+    <updated>2022-01-10T06:37:07.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전시 <플라워 바이 네이키드> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8301&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8301&amp;p=1"/>
+        <updated>2022-01-10T06:16:57.176Z</updated>
+        <content type="html"><![CDATA[8301]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <해적> 시사회 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8300&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8287&amp;p=1"/>
         <updated>2021-12-13T03:13:59.222Z</updated>
         <content type="html"><![CDATA[8287]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인디스페이스 라이징 쇼츠! 섹션3 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8286&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8286&amp;p=1"/>
-        <updated>2021-12-09T02:35:41.940Z</updated>
-        <content type="html"><![CDATA[8286]]></content>
     </entry>
 </feed>
