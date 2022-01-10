@@ -4,9 +4,18 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 04:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 05:30:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전시 <플라워 바이 네이키드> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8301&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8301&amp;p=1</guid>
+            <pubDate>Mon, 10 Jan 2022 05:29:31 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-01-10 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0103/10_45_02__61d2551e2d5c8[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <해적> 시사회 초대 이벤트]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8300&amp;p=1</link>
@@ -106,17 +115,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2021-12-15 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1129/14_10_06__61a460ae4e516[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12월 수요단편극장 <레디-액션! 판타스틱, 이기혁 감독전>]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8290&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8290&amp;p=1</guid>
-            <pubDate>Thu, 06 Jan 2022 10:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2021-12-15 19:30:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>서울아트시네마</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2021-12-14 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2021/1206/10_15_56__61ad644c2eab8[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
