@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 06:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 07:34:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2758,6 +2758,14 @@ CGV가 2022년 새해를 맞아 상영관 공간의 변신을 통해 고객들�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1228/2676_61cab1b4b99d7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[원샷 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58748</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58748</guid>
+            <pubDate>Mon, 10 Jan 2022 03:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-01-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58748_619df62311636[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[해탄적일천 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=16676</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=16676</guid>
@@ -2774,22 +2782,6 @@ CGV가 2022년 새해를 맞아 상영관 공간의 변신을 통해 고객들�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1229/10_15_20__61cbb6a832ec9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[원샷 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58748</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58748</guid>
-            <pubDate>Mon, 10 Jan 2022 03:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1124/58748_619df62311636[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피드백 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58759</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58759</guid>
-            <pubDate>Mon, 10 Jan 2022 03:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/1215/18_13_51__61b9b1cf2c1b7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[씽2게더 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58140</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58140</guid>
@@ -2798,12 +2790,12 @@ CGV가 2022년 새해를 맞아 상영관 공간의 변신을 통해 고객들�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0104/58140_61d3d63655ef5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[타이거마스크 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58744</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58744</guid>
+            <title><![CDATA[피드백 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58759</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58759</guid>
             <pubDate>Mon, 10 Jan 2022 03:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1222/10_42_16__61c282788aade[X224,320].jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[개봉 : 2022-01-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/1215/18_13_51__61b9b1cf2c1b7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[숏버스 배우행 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2822,6 +2814,14 @@ CGV가 2022년 새해를 맞아 상영관 공간의 변신을 통해 고객들�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1221/58791_61c17f5f0f255[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[타이거마스크 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58744</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58744</guid>
+            <pubDate>Mon, 10 Jan 2022 03:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-30]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1222/10_42_16__61c282788aade[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[긴 하루 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58800</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58800</guid>
@@ -2836,6 +2836,38 @@ CGV가 2022년 새해를 맞아 상영관 공간의 변신을 통해 고객들�
             <pubDate>Mon, 10 Jan 2022 03:27:02 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-30]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/17_33_42__61a5e1e6521cf[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해피 뉴 이어 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57948</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57948</guid>
+            <pubDate>Mon, 10 Jan 2022 03:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1213/11_07_08__61b6aacc130e8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[램 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58734</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58734</guid>
+            <pubDate>Mon, 10 Jan 2022 03:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1208/11_50_11__61b01d634ec25[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사울 레이터: 인 노 그레이트 허리 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58768</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58768</guid>
+            <pubDate>Mon, 10 Jan 2022 03:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1215/11_37_56__61b9550419498[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메모리: 조작살인 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58773</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58773</guid>
+            <pubDate>Mon, 10 Jan 2022 03:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1220/10_41_16__61bfdf3c49b2f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리틀 뱀파이어 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2854,44 +2886,12 @@ CGV가 2022년 새해를 맞아 상영관 공간의 변신을 통해 고객들�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1228/11_13_25__61ca72c5153c1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사울 레이터: 인 노 그레이트 허리 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58768</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58768</guid>
-            <pubDate>Mon, 10 Jan 2022 03:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1215/11_37_56__61b9550419498[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[노웨어 스페셜 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58749</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58749</guid>
             <pubDate>Mon, 10 Jan 2022 03:27:02 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1229/15_46_57__61cc046168ba3[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[램 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58734</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58734</guid>
-            <pubDate>Mon, 10 Jan 2022 03:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1208/11_50_11__61b01d634ec25[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메모리: 조작살인 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58773</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58773</guid>
-            <pubDate>Mon, 10 Jan 2022 03:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1220/10_41_16__61bfdf3c49b2f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해피 뉴 이어 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57948</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57948</guid>
-            <pubDate>Mon, 10 Jan 2022 03:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2021-12-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1213/11_07_08__61b6aacc130e8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[특송 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
