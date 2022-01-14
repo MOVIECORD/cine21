@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 23:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 01:06:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0105/53014_61d4eb20599d1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[해적: 도깨비 깃발]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56540</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56540</guid>
+            <pubDate>Tue, 11 Jan 2022 15:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-01-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0114/09_57_46__61e0ca8a9e1e0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[바이스 시티]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58819</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58819</guid>
@@ -104,20 +112,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0111/58819_61dd11af5156b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[해적: 도깨비 깃발]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56540</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56540</guid>
-            <pubDate>Tue, 11 Jan 2022 15:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0104/11_37_47__61d3b2fb3815d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[존경하고 사랑하는 국민 여러분]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=55627</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=55627</guid>
             <pubDate>Wed, 12 Jan 2022 05:27:05 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01-27]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/55627_61a5c5e848ac8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임신한 나무와 도깨비]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55440</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55440</guid>
+            <pubDate>Wed, 12 Jan 2022 15:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-01-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0104/55440_61d3fa0ddb1c4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트로트는 인생이다]]></title>
@@ -136,20 +144,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1222/58755_61c276811914b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[임신한 나무와 도깨비]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=55440</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=55440</guid>
-            <pubDate>Wed, 12 Jan 2022 15:28:19 GMT</pubDate>
+            <title><![CDATA[원 세컨드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=54435</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=54435</guid>
+            <pubDate>Fri, 14 Jan 2022 00:59:46 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0104/55440_61d3fa0ddb1c4[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인어가 잠든 집]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=54028</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=54028</guid>
-            <pubDate>Wed, 12 Jan 2022 15:28:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0105/54028_61d53bca1ca6b[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0114/09_45_42__61e0c7b6ec59d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
