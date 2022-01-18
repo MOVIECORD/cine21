@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 01:07:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 02:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2019/0320/17_45_45__5c91fdb93227b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불도저에 탄 소녀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57431</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57431</guid>
+            <pubDate>Thu, 06 Jan 2022 10:32:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">불도저에 탄 소녀</span>
+		
+
+									<span class="director">감독 : 박이웅</span>
+											<span class="actor">배우 : 김혜윤,박혁권</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0927/57431_615143ffe38d7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[승부]]></title>
@@ -192,22 +208,6 @@
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[불도저에 탄 소녀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57431</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57431</guid>
-            <pubDate>Thu, 06 Jan 2022 10:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">불도저에 탄 소녀</span>
-		
-
-									<span class="director">감독 : 박이웅</span>
-											<span class="actor">배우 : 김혜윤,박혁권</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0927/57431_615143ffe38d7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보스턴 1947]]></title>
