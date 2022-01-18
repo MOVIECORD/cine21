@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2022-01-17T23:35:13.582Z</updated>
+    <updated>2022-01-18T01:07:46.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <임신한 나무와 도깨비> 시사회 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8303&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8303&amp;p=1"/>
+        <updated>2022-01-18T00:47:02.352Z</updated>
+        <content type="html"><![CDATA[8303]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <엉망인 채 완전한 축제> 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8302&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8289&amp;p=1"/>
         <updated>2021-12-13T03:13:59.220Z</updated>
         <content type="html"><![CDATA[8289]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <경매하는 직장인> 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8288&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8288&amp;p=1"/>
-        <updated>2021-12-13T03:13:59.221Z</updated>
-        <content type="html"><![CDATA[8288]]></content>
     </entry>
 </feed>
