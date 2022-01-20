@@ -4,9 +4,18 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 23:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 01:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <옥탑방 고양이> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=7868</link>
+            <guid>http://www.cine21.com/event/view/?event_no=7868</guid>
+            <pubDate>Thu, 20 Jan 2022 01:05:59 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-01-26 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0119/09_58_09__61e762213ac83[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <만년이 지나도 변하지 않는 게 있어> 시사회 초대 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=7867</link>
@@ -17,15 +26,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-02-03 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0114/15_27_29__61e117d14e4ec[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <언더스터디> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7866</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7866</guid>
-            <pubDate>Mon, 10 Jan 2022 03:30:07 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-01-20 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0110/10_26_56__61db8b604aa63[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
