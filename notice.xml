@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2022-01-21T01:01:30.626Z</updated>
+    <updated>2022-01-21T02:16:57.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이벤트 당첨 권한 및 티켓을 판매하는 행위는 관련법에 저촉되는 사실을 알려드립니다]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8157&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8157&amp;p=1"/>
+        <updated>2022-01-21T01:56:35.258Z</updated>
+        <content type="html"><![CDATA[★]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 유일의 영화/영상전문지 <씨네21>과 함께할 참신한 인재를 찾습니다]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8306&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8306&amp;p=1"/>
+        <updated>2022-01-21T01:56:35.260Z</updated>
+        <content type="html"><![CDATA[8306]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <언더스터디> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8304&amp;p=1</id>
@@ -102,12 +116,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8291&amp;p=1"/>
         <updated>2021-12-15T02:33:30.139Z</updated>
         <content type="html"><![CDATA[8291]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12월 수요단편극장 <레디-액션! 판타스틱, 이기혁 감독전> 초대 이벤트]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8290&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8290&amp;p=1"/>
-        <updated>2021-12-14T02:42:12.987Z</updated>
-        <content type="html"><![CDATA[8290]]></content>
     </entry>
 </feed>
