@@ -4,16 +4,9 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 21:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 22:33:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[시카리오: 나이트 오브 이스케이프]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58848</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58848</guid>
-            <pubDate>Wed, 19 Jan 2022 08:26:50 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01-25]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[킹메이커]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=53014</link>
@@ -119,12 +112,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0105/54028_61d53bca1ca6b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[만년이 지나도 변하지 않는 게 있어]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58195</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58195</guid>
+            <title><![CDATA[애니멀 체인지]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58813</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58813</guid>
+            <pubDate>Mon, 24 Jan 2022 22:26:52 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0114/14_47_40__61e10e7c66e7b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가슴이 떨리는 건 너 때문]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58803</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58803</guid>
             <pubDate>Wed, 19 Jan 2022 15:25:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0111/58195_61dcd64fd3289[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0111/10_40_29__61dce00d55961[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[355]]></title>
@@ -143,12 +144,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0104/14_16_24__61d3d82896aeb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가슴이 떨리는 건 너 때문]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58803</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58803</guid>
+            <title><![CDATA[만년이 지나도 변하지 않는 게 있어]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58195</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58195</guid>
             <pubDate>Wed, 19 Jan 2022 15:25:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0111/10_40_29__61dce00d55961[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0111/58195_61dcd64fd3289[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
