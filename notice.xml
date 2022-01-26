@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2022-01-26T02:25:20.518Z</updated>
+    <updated>2022-01-26T03:34:35.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8157&amp;p=1"/>
         <updated>2022-01-21T01:56:35.258Z</updated>
         <content type="html"><![CDATA[★]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <옥탑방 고양이> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8307&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8307&amp;p=1"/>
+        <updated>2022-01-26T03:12:45.638Z</updated>
+        <content type="html"><![CDATA[8307]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국내 유일의 영화/영상전문지 <씨네21>과 함께할 참신한 인재를 찾습니다]]></title>
@@ -109,12 +116,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8292&amp;p=1"/>
         <updated>2021-12-16T05:12:23.103Z</updated>
         <content type="html"><![CDATA[8292]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국립극장 <명색이 아프레걸> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8291&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8291&amp;p=1"/>
-        <updated>2021-12-15T02:33:30.139Z</updated>
-        <content type="html"><![CDATA[8291]]></content>
     </entry>
 </feed>
