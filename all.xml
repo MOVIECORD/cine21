@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 16:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 17:38:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2952,12 +2952,20 @@ CGV가 선보이는 NFT 플레이 포스터는 블록체인 기술로 나만의 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1213/58669_61b6a4caeb905[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인어가 잠든 집 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=54028</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=54028</guid>
+            <title><![CDATA[가슴이 떨리는 건 너 때문 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58803</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58803</guid>
             <pubDate>Wed, 19 Jan 2022 15:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/10_03_34__61f09de6cace4[X224,320].jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0111/10_40_29__61dce00d55961[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나일 강의 죽음 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56764</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56764</guid>
+            <pubDate>Mon, 24 Jan 2022 02:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/56764_61f0d992d05b8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애니멀 체인지 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2966,14 +2974,6 @@ CGV가 선보이는 NFT 플레이 포스터는 블록체인 기술로 나만의 
             <pubDate>Mon, 24 Jan 2022 22:26:52 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0127/16_31_47__61f24a63bf8ef[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가슴이 떨리는 건 너 때문 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58803</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58803</guid>
-            <pubDate>Wed, 19 Jan 2022 15:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0111/10_40_29__61dce00d55961[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[355 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2990,22 +2990,6 @@ CGV가 선보이는 NFT 플레이 포스터는 블록체인 기술로 나만의 
             <pubDate>Wed, 19 Jan 2022 15:25:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0111/58195_61dcd64fd3289[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나일 강의 죽음 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56764</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56764</guid>
-            <pubDate>Mon, 24 Jan 2022 02:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/56764_61f0d992d05b8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온 세상이 하얗다 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57146</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57146</guid>
-            <pubDate>Wed, 26 Jan 2022 22:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0118/57146_61e655a157e4a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[굿 보스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3040,12 +3024,12 @@ CGV가 선보이는 NFT 플레이 포스터는 블록체인 기술로 나만의 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0107/10_44_19__61d79af3230a6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리코리쉬 피자 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58815</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58815</guid>
+            <title><![CDATA[온 세상이 하얗다 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57146</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57146</guid>
             <pubDate>Wed, 26 Jan 2022 22:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-16]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0118/58815_61e6227ce11a0[X224,320].jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[개봉 : 2022-02-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0118/57146_61e655a157e4a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[언차티드 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3056,12 +3040,12 @@ CGV가 선보이는 NFT 플레이 포스터는 블록체인 기술로 나만의 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0127/13_01_04__61f219006ff3c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빅 더 바이킹: 토르와 마법의 검 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58843</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58843</guid>
+            <title><![CDATA[리코리쉬 피자 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58815</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58815</guid>
             <pubDate>Wed, 26 Jan 2022 22:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0124/09_42_50__61edf60a5c4a1[X224,320].jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[개봉 : 2022-02-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0118/58815_61e6227ce11a0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대한민국 대통령 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3094,6 +3078,22 @@ CGV가 선보이는 NFT 플레이 포스터는 블록체인 기술로 나만의 
             <pubDate>Wed, 26 Jan 2022 22:23:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-17]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/11_03_15__61f0abe3dbd17[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅 더 바이킹: 토르와 마법의 검 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58843</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58843</guid>
+            <pubDate>Wed, 26 Jan 2022 22:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-17]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0124/09_42_50__61edf60a5c4a1[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피그 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58240</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58240</guid>
+            <pubDate>Thu, 27 Jan 2022 17:29:36 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-23]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0124/11_26_11__61ee0e43c6418[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 나라로 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
