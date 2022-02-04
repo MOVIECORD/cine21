@@ -4,9 +4,25 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 23:32:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 01:06:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감독							변성현 
+							(총8장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=40435</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=40435</guid>
+            <pubDate>Fri, 04 Feb 2022 01:05:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=40435">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0204/10_04_18__61fc7b92632a4[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/C0zxz/btrstKoIOSz/iKIbQZn3R3UYVrqJeL02Vk/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							감독							<strong>변성현</strong> 
+							<span class="num">(총8장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/C0zxz/btrstKoIOSz/iKIbQZn3R3UYVrqJeL02Vk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우							주현영 
 							(총5장)]]></title>
@@ -166,22 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/dnk151/btrp643ZWyL/NY5K3YuxftuloBt4rXMusK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우							박용우 
-							(총28장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=3984</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=3984</guid>
-            <pubDate>Fri, 07 Jan 2022 09:33:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=3984">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0107/17_00_08__61d7f3086e0f4[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="http://k.kakaocdn.net/dn/SIQNw/btrp0809NQc/PBOkbR1MfT0ZwtnXVF0THK/img.jpg" alt="" class="thumb">
-						<span class="caption">
-							배우							<strong>박용우</strong> 
-							<span class="num">(총28장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/SIQNw/btrp0809NQc/PBOkbR1MfT0ZwtnXVF0THK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
