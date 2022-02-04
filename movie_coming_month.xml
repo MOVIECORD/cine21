@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 01:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 02:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Wed, 01 Dec 2021 05:28:02 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1109/58691_618a1188acdc4[X224,320].JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[스펜서]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58575</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58575</guid>
-            <pubDate>Wed, 01 Dec 2021 05:28:02 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0927/58575_61511ff860982[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젠틀맨]]></title>
@@ -110,11 +102,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1018/58642_616cc77b17e7c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나이트메어 앨리]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58890</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58890</guid>
-            <pubDate>Thu, 27 Jan 2022 05:26:17 GMT</pubDate>
+            <title><![CDATA[셰터드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58891</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58891</guid>
+            <pubDate>Fri, 04 Feb 2022 02:03:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/18_14_06__61f110de98725[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인민을 위해 복무하라]]></title>
@@ -141,12 +134,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/58839_61f0b75b72f8d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[와일드 리벤지: 마지막 한 놈까지]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58885</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58885</guid>
-            <pubDate>Wed, 26 Jan 2022 16:33:07 GMT</pubDate>
+            <title><![CDATA[매미소리]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57239</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57239</guid>
+            <pubDate>Fri, 04 Feb 2022 02:03:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/58885_61f099f8e94e0[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1229/57239_61cbef5868433[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시크릿 카운터]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58850</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58850</guid>
+            <pubDate>Fri, 04 Feb 2022 02:03:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0127/13_00_21__61f218d5e5c9d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
