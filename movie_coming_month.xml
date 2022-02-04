@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 04:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 05:31:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,12 +102,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1018/58642_616cc77b17e7c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[셰터드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58891</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58891</guid>
-            <pubDate>Fri, 04 Feb 2022 02:03:19 GMT</pubDate>
+            <title><![CDATA[B컷]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58892</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58892</guid>
+            <pubDate>Fri, 04 Feb 2022 05:24:35 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/18_14_06__61f110de98725[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0127/58892_61f208f256cdd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인민을 위해 복무하라]]></title>
@@ -118,14 +118,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0124/15_04_29__61ee416dac356[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 주술회전 0]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58814</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58814</guid>
-            <pubDate>Thu, 27 Jan 2022 08:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0114/11_01_20__61e0d97005c76[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[짬뽕비권]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58839</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58839</guid>
@@ -134,12 +126,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/58839_61f0b75b72f8d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[매미소리]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57239</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57239</guid>
-            <pubDate>Fri, 04 Feb 2022 02:03:19 GMT</pubDate>
+            <title><![CDATA[나이트메어 앨리]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58890</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58890</guid>
+            <pubDate>Fri, 04 Feb 2022 05:24:35 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1229/57239_61cbef5868433[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0204/58890_61fc8587c9458[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시크릿 카운터]]></title>
@@ -148,6 +140,14 @@
             <pubDate>Fri, 04 Feb 2022 02:03:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0127/13_00_21__61f218d5e5c9d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[셰터드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58891</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58891</guid>
+            <pubDate>Fri, 04 Feb 2022 02:03:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/18_14_06__61f110de98725[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
