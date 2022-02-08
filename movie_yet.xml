@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 04:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 05:35:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,21 +22,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2019/0320/17_45_45__5c91fdb93227b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[승부]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57457</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57457</guid>
-            <pubDate>Thu, 06 Jan 2022 10:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">승부</span>
-		
-
-									<span class="director">감독 : 김형주</span>
-											<span class="actor">배우 : 유아인,이병헌</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[비광]]></title>
@@ -209,6 +194,36 @@
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[매스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58869</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58869</guid>
+            <pubDate>Tue, 08 Feb 2022 05:29:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">매스</span>
+		
+
+									<span class="director">감독 : 프란 크랜즈</span>
+											<span class="actor">배우 : 제이슨 아이삭스,앤 도드</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[승부]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57457</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57457</guid>
+            <pubDate>Thu, 06 Jan 2022 10:32:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">승부</span>
+		
+
+									<span class="director">감독 : 김형주</span>
+											<span class="actor">배우 : 유아인,이병헌</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[불도저에 탄 소녀]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57431</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57431</guid>
@@ -270,22 +285,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0409/15_43_54__5e8ec42a35e23[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야차(가제)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=55914</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=55914</guid>
-            <pubDate>Thu, 06 Jan 2022 10:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">야차(가제)</span>
-		
-
-									<span class="director">감독 : 나현</span>
-											<span class="actor">배우 : 설경구,박해수</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0210/11_12_45__5e40bc1d7dff7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
