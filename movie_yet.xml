@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 01:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 02:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,21 +240,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0927/57431_615143ffe38d7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보스턴 1947]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57276</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57276</guid>
-            <pubDate>Thu, 06 Jan 2022 10:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">보스턴 1947</span>
-		
-
-									<span class="director">감독 : 강제규</span>
-											<span class="actor">배우 : 하정우,배성우</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[드림 (가제)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=55390</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=55390</guid>
@@ -271,20 +256,36 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0507/17_34_43__5eb3c823de6d0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이상한 나라의 수학자]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=55829</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=55829</guid>
-            <pubDate>Thu, 06 Jan 2022 10:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">이상한 나라의 수학자</span>
+            <title><![CDATA[야차(가제)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55914</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55914</guid>
+            <pubDate>Wed, 09 Feb 2022 02:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">야차(가제)</span>
 		
 
-									<span class="director">감독 : 박동훈</span>
-											<span class="actor">배우 : 최민식,김동휘</span>
+									<span class="director">감독 : 나현</span>
+											<span class="actor">배우 : 설경구,박해수</span>
 		
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0409/15_43_54__5e8ec42a35e23[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0210/11_12_45__5e40bc1d7dff7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휴가]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55915</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55915</guid>
+            <pubDate>Wed, 09 Feb 2022 02:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">휴가</span>
+		
+
+									<span class="director">감독 : 육상효</span>
+											<span class="actor">배우 : 김해숙,신민아</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0210/11_27_16__5e40bf8479be4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
