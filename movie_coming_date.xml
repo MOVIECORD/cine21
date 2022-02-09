@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 05:34:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 06:39:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Wed, 26 Jan 2022 22:23:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0107/10_44_19__61d79af3230a6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 촛불]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=55911</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=55911</guid>
-            <pubDate>Tue, 25 Jan 2022 16:30:50 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0125/55911_61efb213f0300[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[굿 보스]]></title>
@@ -54,6 +46,14 @@
             <pubDate>Wed, 26 Jan 2022 22:23:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0118/57146_61e655a157e4a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 촛불]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55911</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55911</guid>
+            <pubDate>Tue, 25 Jan 2022 16:30:50 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0125/55911_61efb213f0300[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비틀즈 겟 백: 루프탑 콘서트]]></title>
@@ -88,14 +88,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0124/09_42_50__61edf60a5c4a1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 주술회전 0]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58814</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58814</guid>
-            <pubDate>Tue, 08 Feb 2022 17:29:31 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0204/58814_61fcb1e599d99[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 바다 탐험대 옥토넛 : 해저동굴 대탈출]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58845</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58845</guid>
@@ -112,14 +104,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0127/58846_61f205a2cc408[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시크릿 카운터]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58850</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58850</guid>
-            <pubDate>Tue, 08 Feb 2022 08:30:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0127/13_00_21__61f218d5e5c9d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[전투왕]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58854</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58854</guid>
@@ -128,12 +112,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0118/58854_61e679d8a73fb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대한민국 대통령]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58886</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58886</guid>
+            <title><![CDATA[극장판 주술회전 0]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58814</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58814</guid>
             <pubDate>Tue, 08 Feb 2022 17:29:31 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0127/11_36_58__61f2054a8faff[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0204/58814_61fcb1e599d99[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스크림]]></title>
@@ -142,6 +126,22 @@
             <pubDate>Tue, 08 Feb 2022 17:29:31 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-17]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0208/10_56_21__6201cdc5c9224[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시크릿 카운터]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58850</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58850</guid>
+            <pubDate>Tue, 08 Feb 2022 08:30:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-17]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0127/13_00_21__61f218d5e5c9d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대한민국 대통령]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58886</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58886</guid>
+            <pubDate>Tue, 08 Feb 2022 17:29:31 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-17]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0127/11_36_58__61f2054a8faff[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세라비: 다섯 번의 기적]]></title>
