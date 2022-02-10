@@ -4,9 +4,20 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 14:34:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 15:39:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <안테벨룸> 시사회 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=7876</link>
+            <guid>http://www.cine21.com/event/view/?event_no=7876</guid>
+            <pubDate>Thu, 10 Feb 2022 15:33:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-02-22 19:30</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>롯데시네마 월드타워</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>35 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-02-18 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0210/11_39_00__62047ac4b2eef[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 <운빨로맨스> 초대 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=7875</link>
@@ -24,28 +35,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>3 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-02-17 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0203/10_07_28__61fb2ad064721[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <축복의 집> 시사회 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7873</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7873</guid>
-            <pubDate>Thu, 27 Jan 2022 15:30:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-02-12 14:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>아리랑시네센터</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-02-11 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0127/16_05_42__61f2444607347[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <보드랍게> 시사회 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7872</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7872</guid>
-            <pubDate>Thu, 27 Jan 2022 15:30:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-02-16 19:30</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>롯데시네마 건대입구</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-02-11 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0127/12_07_02__61f20c565241e[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 14:34:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 15:39:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비틀즈 겟 백: 루프탑 콘서트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57448</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57448</guid>
+            <pubDate>Thu, 10 Feb 2022 15:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0208/10_18_42__6201c4f28caff[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나의 촛불]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=55911</link>
@@ -104,36 +112,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/10_03_34__61f09de6cace4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미결처리반 Q: 침묵의 암살자]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58763</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58763</guid>
+            <title><![CDATA[싱어송]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58810</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58810</guid>
             <pubDate>Wed, 26 Jan 2022 17:27:11 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0118/10_27_46__61e617926c113[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 천재 추리 탐정 셜록홈즈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58755</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58755</guid>
-            <pubDate>Wed, 26 Jan 2022 17:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1222/58755_61c276811914b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트로트는 인생이다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58798</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58798</guid>
-            <pubDate>Wed, 26 Jan 2022 17:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1227/58798_61c95973b42b6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 안녕 자두야: 제주도의 비밀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58861</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58861</guid>
-            <pubDate>Wed, 26 Jan 2022 17:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0119/58861_61e7b84fa21b6[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0119/14_23_29__61e7a05151272[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블러드써스티]]></title>
@@ -144,12 +128,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1229/58805_61cbf72c01357[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[싱어송]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58810</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58810</guid>
+            <title><![CDATA[미결처리반 Q: 침묵의 암살자]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58763</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58763</guid>
             <pubDate>Wed, 26 Jan 2022 17:27:11 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0119/14_23_29__61e7a05151272[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0118/10_27_46__61e617926c113[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[효자]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58849</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58849</guid>
+            <pubDate>Thu, 10 Feb 2022 15:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-01-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0119/14_04_12__61e79bccab4ff[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 천재 추리 탐정 셜록홈즈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58755</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58755</guid>
+            <pubDate>Wed, 26 Jan 2022 17:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-01-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1222/58755_61c276811914b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
