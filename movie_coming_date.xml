@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 02:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 02:58:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/11_10_46__620322a610110[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[극장판 주술회전 0]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58814</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58814</guid>
+            <pubDate>Tue, 08 Feb 2022 17:29:31 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-17]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0204/58814_61fcb1e599d99[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 바다 탐험대 옥토넛 : 해저동굴 대탈출]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58845</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58845</guid>
@@ -40,28 +48,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/11_03_15__61f0abe3dbd17[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빅 더 바이킹: 토르와 마법의 검]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58843</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58843</guid>
-            <pubDate>Tue, 08 Feb 2022 05:26:52 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0124/09_42_50__61edf60a5c4a1[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[시크릿 카운터]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58850</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58850</guid>
             <pubDate>Tue, 08 Feb 2022 08:30:48 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-17]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0127/13_00_21__61f218d5e5c9d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 주술회전 0]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58814</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58814</guid>
-            <pubDate>Tue, 08 Feb 2022 17:29:31 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0204/58814_61fcb1e599d99[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전투왕]]></title>
@@ -150,6 +142,14 @@
             <pubDate>Thu, 10 Feb 2022 15:29:57 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-24]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/17_50_20__6203804c081d7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서바이벌리스트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58889</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58889</guid>
+            <pubDate>Fri, 11 Feb 2022 02:49:36 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/58889_61f0d2a2dea46[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
