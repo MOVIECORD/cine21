@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 14:31:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 15:31:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2778,6 +2778,30 @@ KT&amp;G 사회공헌실과 키노라이츠는 상상마당의 새 출발에 앞
             <enclosure url="http://k.kakaocdn.net/dn/bjeaVd/btrs7HmknNC/s3pdDrtN8azl9v5amCGGzk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[리프레쉬 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58941</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58941</guid>
+            <pubDate>Fri, 11 Feb 2022 07:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58941_6205f7f9bd8fe[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언차티드 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57472</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57472</guid>
+            <pubDate>Thu, 27 Jan 2022 05:25:01 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/11_10_46__620322a610110[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리코리쉬 피자 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58815</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58815</guid>
+            <pubDate>Wed, 26 Jan 2022 22:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0118/58815_61e6227ce11a0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[첩혈강호 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58945</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58945</guid>
@@ -2794,28 +2818,20 @@ KT&amp;G 사회공헌실과 키노라이츠는 상상마당의 새 출발에 앞
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0208/10_18_42__6201c4f28caff[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[온 세상이 하얗다 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57146</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57146</guid>
-            <pubDate>Wed, 26 Jan 2022 22:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0118/57146_61e655a157e4a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[늦봄2020 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58730</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58730</guid>
-            <pubDate>Wed, 26 Jan 2022 22:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0107/10_44_19__61d79af3230a6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[나의 촛불 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=55911</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=55911</guid>
             <pubDate>Tue, 25 Jan 2022 16:30:50 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/55911_6205ebfec17b7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온 세상이 하얗다 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57146</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57146</guid>
+            <pubDate>Wed, 26 Jan 2022 22:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0118/57146_61e655a157e4a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 마더 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2826,36 +2842,20 @@ KT&amp;G 사회공헌실과 키노라이츠는 상상마당의 새 출발에 앞
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0118/11_10_51__61e621abea18f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[늦봄2020 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58730</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58730</guid>
+            <pubDate>Wed, 26 Jan 2022 22:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0107/10_44_19__61d79af3230a6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[굿 보스 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58851</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58851</guid>
             <pubDate>Tue, 25 Jan 2022 16:30:50 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0124/10_48_07__61ee0557544f2[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만년이 지나도 변하지 않는 게 있어 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58195</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58195</guid>
-            <pubDate>Wed, 19 Jan 2022 15:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0111/58195_61dcd64fd3289[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나일 강의 죽음 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56764</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56764</guid>
-            <pubDate>Mon, 24 Jan 2022 02:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/56764_620325552cc3e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[355 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58794</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58794</guid>
-            <pubDate>Wed, 19 Jan 2022 15:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/58794_6203167f45b1f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가슴이 떨리는 건 너 때문 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2866,12 +2866,36 @@ KT&amp;G 사회공헌실과 키노라이츠는 상상마당의 새 출발에 앞
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/13_46_45__6203473586893[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나일 강의 죽음 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56764</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56764</guid>
+            <pubDate>Mon, 24 Jan 2022 02:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/56764_620325552cc3e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[애니멀 체인지 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58813</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58813</guid>
             <pubDate>Mon, 24 Jan 2022 22:26:52 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0127/16_31_47__61f24a63bf8ef[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[355 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58794</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58794</guid>
+            <pubDate>Wed, 19 Jan 2022 15:25:55 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/58794_6203167f45b1f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만년이 지나도 변하지 않는 게 있어 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58195</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58195</guid>
+            <pubDate>Wed, 19 Jan 2022 15:25:55 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0111/58195_61dcd64fd3289[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창극 변강쇠 점 찍고 옹녀 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2896,30 +2920,6 @@ KT&amp;G 사회공헌실과 키노라이츠는 상상마당의 새 출발에 앞
             <pubDate>Wed, 19 Jan 2022 15:25:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-01-28]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/10_03_34__61f09de6cace4[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블러드써스티 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58805</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58805</guid>
-            <pubDate>Wed, 29 Dec 2021 06:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1229/58805_61cbf72c01357[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1975 킬링필드, 푸난 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=53772</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=53772</guid>
-            <pubDate>Tue, 15 Feb 2022 09:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0118/53772_61e65357f3d26[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 안녕 자두야: 제주도의 비밀 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58861</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58861</guid>
-            <pubDate>Tue, 15 Feb 2022 09:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-01-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0119/58861_61e7b84fa21b6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리프레쉬 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
