@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 01:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 02:26:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,21 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2019/0320/17_45_45__5c91fdb93227b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[승부]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57457</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57457</guid>
+            <pubDate>Fri, 11 Feb 2022 04:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">승부</span>
+		
+
+									<span class="director">감독 : 김형주</span>
+											<span class="actor">배우 : 유아인,이병헌</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[비광]]></title>
@@ -209,21 +224,6 @@
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[승부]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57457</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57457</guid>
-            <pubDate>Fri, 11 Feb 2022 04:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">승부</span>
-		
-
-									<span class="director">감독 : 김형주</span>
-											<span class="actor">배우 : 유아인,이병헌</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[불도저에 탄 소녀]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57431</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57431</guid>
@@ -240,19 +240,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0927/57431_615143ffe38d7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보스턴 1947]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57276</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57276</guid>
-            <pubDate>Fri, 11 Feb 2022 04:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">보스턴 1947</span>
+            <title><![CDATA[범죄도시2]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57360</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57360</guid>
+            <pubDate>Tue, 15 Feb 2022 02:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">범죄도시2</span>
 		
 
-									<span class="director">감독 : 강제규</span>
-											<span class="actor">배우 : 하정우,배성우</span>
+									<span class="director">감독 : 이상용</span>
+											<span class="actor">배우 : 마동석,손석구</span>
 		
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0215/57360_620affa35be44[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드림 (가제)]]></title>
