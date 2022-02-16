@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 02:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 03:32:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58941_6205f7f9bd8fe[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[언차티드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57472</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57472</guid>
-            <pubDate>Tue, 15 Feb 2022 15:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-16]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/11_10_46__620322a610110[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[리코리쉬 피자]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58815</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58815</guid>
             <pubDate>Tue, 15 Feb 2022 15:23:29 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-16]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0118/58815_61e6227ce11a0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언차티드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57472</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57472</guid>
+            <pubDate>Tue, 15 Feb 2022 15:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/11_10_46__620322a610110[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[첩혈강호]]></title>
@@ -64,6 +64,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0118/57146_61e655a157e4a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[굿 보스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58851</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58851</guid>
+            <pubDate>Wed, 09 Feb 2022 15:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0124/10_48_07__61ee0557544f2[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더 마더]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58817</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58817</guid>
@@ -80,12 +88,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0107/10_44_19__61d79af3230a6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[굿 보스]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58851</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58851</guid>
-            <pubDate>Wed, 09 Feb 2022 15:28:05 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0124/10_48_07__61ee0557544f2[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[애니멀 체인지]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58813</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58813</guid>
+            <pubDate>Tue, 08 Feb 2022 15:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0127/16_31_47__61f24a63bf8ef[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가슴이 떨리는 건 너 때문]]></title>
@@ -96,28 +104,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/13_46_45__6203473586893[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나일 강의 죽음]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56764</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56764</guid>
-            <pubDate>Tue, 08 Feb 2022 15:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/56764_620325552cc3e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애니멀 체인지]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58813</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58813</guid>
-            <pubDate>Tue, 08 Feb 2022 15:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0127/16_31_47__61f24a63bf8ef[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[355]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58794</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58794</guid>
             <pubDate>Tue, 08 Feb 2022 15:28:46 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/58794_6203167f45b1f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나일 강의 죽음]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56764</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56764</guid>
+            <pubDate>Tue, 08 Feb 2022 15:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/56764_620325552cc3e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[만년이 지나도 변하지 않는 게 있어]]></title>
