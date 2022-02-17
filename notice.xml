@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2022-02-17T02:12:45.493Z</updated>
+    <updated>2022-02-17T02:45:42.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8157&amp;p=1"/>
         <updated>2022-01-21T01:56:35.258Z</updated>
         <content type="html"><![CDATA[★]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도서 <잿빛극장>  기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8315&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8315&amp;p=1"/>
+        <updated>2022-02-17T02:22:34.406Z</updated>
+        <content type="html"><![CDATA[8315]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <운빨로맨스> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8314&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8314&amp;p=1"/>
+        <updated>2022-02-17T02:22:34.410Z</updated>
+        <content type="html"><![CDATA[8314]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 <축복의 집> 시사회 초대 이벤트 당첨자 발표]]></title>
@@ -102,19 +116,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8300&amp;p=1"/>
         <updated>2022-01-07T04:17:28.994Z</updated>
         <content type="html"><![CDATA[8300]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <미싱타는 여자들> 시사회 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8299&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8299&amp;p=1"/>
-        <updated>2022-01-06T03:16:30.065Z</updated>
-        <content type="html"><![CDATA[8299]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <멸망 이전의 샹그릴라> 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8298&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8298&amp;p=1"/>
-        <updated>2022-01-05T03:14:57.374Z</updated>
-        <content type="html"><![CDATA[8298]]></content>
     </entry>
 </feed>
