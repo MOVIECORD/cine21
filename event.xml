@@ -4,9 +4,18 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 16:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 17:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <운빨로맨스> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=7879</link>
+            <guid>http://www.cine21.com/event/view/?event_no=7879</guid>
+            <pubDate>Thu, 17 Feb 2022 17:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-03-03 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0217/10_30_24__620da5308805c[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 <옥탑방 고양이> 초대 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=7878</link>
@@ -24,17 +33,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-02-28 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0214/09_56_21__6209a8b548c33[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <안테벨룸> 시사회 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7876</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7876</guid>
-            <pubDate>Sun, 13 Feb 2022 05:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-02-22 19:30</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>롯데시네마 월드타워</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>35 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-02-18 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0211/10_14_51__6205b88b97ea2[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
