@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 04:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 05:33:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 18 Feb 2022 19:23:05 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-23]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0114/58286_61e0c9489e75d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시라노]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58818</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58818</guid>
-            <pubDate>Fri, 18 Feb 2022 19:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/17_57_13__61f10ce95363e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보드랍게]]></title>
@@ -38,6 +30,14 @@
             <pubDate>Fri, 18 Feb 2022 19:23:05 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-23]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0207/56859_6200786061dab[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시라노]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58818</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58818</guid>
+            <pubDate>Fri, 18 Feb 2022 19:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-23]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/17_57_13__61f10ce95363e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안테벨룸]]></title>
@@ -64,20 +64,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0124/11_26_11__61ee0e43c6418[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밴드스탠드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58918</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58918</guid>
-            <pubDate>Fri, 18 Feb 2022 19:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/58918_62032aed6c95f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[축복의 집]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58855</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58855</guid>
             <pubDate>Fri, 18 Feb 2022 19:23:05 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-24]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/17_50_20__6203804c081d7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밴드스탠드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58918</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58918</guid>
+            <pubDate>Fri, 18 Feb 2022 19:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/58918_62032aed6c95f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카니발 클럽]]></title>
