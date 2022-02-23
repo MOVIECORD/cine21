@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 15:35:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 16:36:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,22 +240,6 @@
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[범죄도시2]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57360</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57360</guid>
-            <pubDate>Tue, 22 Feb 2022 16:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">범죄도시2</span>
-		
-
-									<span class="director">감독 : 이상용</span>
-											<span class="actor">배우 : 마동석,손석구</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0215/57360_620affa35be44[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[행복의 나라로]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=55448</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=55448</guid>
@@ -286,6 +270,22 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0210/11_12_45__5e40bc1d7dff7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휴가]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55915</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55915</guid>
+            <pubDate>Wed, 23 Feb 2022 16:31:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">휴가</span>
+		
+
+									<span class="director">감독 : 육상효</span>
+											<span class="actor">배우 : 김해숙,신민아</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0210/11_27_16__5e40bf8479be4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
