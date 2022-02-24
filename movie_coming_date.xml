@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 14:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 15:36:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/55829_6205b39abb231[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블랙라이트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58983</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58983</guid>
+            <pubDate>Thu, 24 Feb 2022 15:28:16 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-03-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/58983_62146ce40dcf6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58336</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58336</guid>
@@ -72,20 +80,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/10_12_18__62143872290bc[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하늘의 푸르름을 아는 사람이여]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58984</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58984</guid>
-            <pubDate>Wed, 23 Feb 2022 16:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-03-16]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/58984_621471e5f2b58[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[유어 러브 송]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58935</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58935</guid>
             <pubDate>Wed, 23 Feb 2022 05:24:42 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-03-16]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0216/14_57_24__620c92441c12e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하늘의 푸르름을 아는 사람이여]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58984</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58984</guid>
+            <pubDate>Wed, 23 Feb 2022 16:29:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-03-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/58984_621471e5f2b58[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메리 미]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 23 Feb 2022 16:29:27 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-03-23]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0208/58652_6202046763317[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벨파스트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58721</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58721</guid>
-            <pubDate>Wed, 23 Feb 2022 16:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-03-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/58721_621440d26f01c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
