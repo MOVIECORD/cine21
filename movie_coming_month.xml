@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 01:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 02:27:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -139,6 +139,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=58989</guid>
             <pubDate>Wed, 23 Feb 2022 15:28:13 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0224/58989_6216e8b229dce[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어거스트 버진]]></title>
