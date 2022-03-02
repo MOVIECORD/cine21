@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 14:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 15:33:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-03-11 20:00</p>
                         <p><span class="tit">장소</span><span class="bar">|</span>CGV용산아이파크몰</p>
                                             <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-02-10 14:00</p>]]></content:encoded>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-03-10 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0225/09_56_43__6218294bb1d72[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,24 +28,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-03-07 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0218/15_23_01__620f3b45b492b[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <운빨로맨스> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7879</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7879</guid>
-            <pubDate>Thu, 17 Feb 2022 17:29:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-03-03 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0217/10_30_24__620da5308805c[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <옥탑방 고양이> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7878</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7878</guid>
-            <pubDate>Thu, 17 Feb 2022 02:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-03-03 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0217/09_54_03__620d9cab74f80[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
