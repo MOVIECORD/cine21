@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 01:02:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 02:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2799,14 +2799,6 @@ EX는 마지막 순서로 등장해 &lt;잘 부탁드립니다&gt;로 대상을 
             <enclosure url="http://k.kakaocdn.net/dn/bUYtbP/btruXZjgH69/37KAp31akKPha58iGj9YSK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인비저블 킬러 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58971</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58971</guid>
-            <pubDate>Fri, 18 Feb 2022 19:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-03-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0217/58971_620daab826710[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[소피의 세계 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58629</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58629</guid>
@@ -2823,28 +2815,20 @@ EX는 마지막 순서로 등장해 &lt;잘 부탁드립니다&gt;로 대상을 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58913_6205b85c5c97c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인비저블 킬러 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58971</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58971</guid>
+            <pubDate>Fri, 18 Feb 2022 19:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-03-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0217/58971_620daab826710[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더 배트맨 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58807</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58807</guid>
             <pubDate>Fri, 18 Feb 2022 19:23:05 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-03-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0216/11_50_28__620c667468729[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 사랑이라고 믿는 것 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56818</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56818</guid>
-            <pubDate>Fri, 18 Feb 2022 19:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0225/14_13_05__62186561cf709[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매미소리 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57239</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57239</guid>
-            <pubDate>Fri, 18 Feb 2022 19:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0207/57239_62007992d32a2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서바이벌리스트 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2863,12 +2847,12 @@ EX는 마지막 순서로 등장해 &lt;잘 부탁드립니다&gt;로 대상을 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0216/58946_620c572c1bd90[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[축복의 집 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58855</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58855</guid>
+            <title><![CDATA[매미소리 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57239</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57239</guid>
             <pubDate>Fri, 18 Feb 2022 19:23:05 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/17_50_20__6203804c081d7[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0207/57239_62007992d32a2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[광대: 소리꾼 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2879,14 +2863,6 @@ EX는 마지막 순서로 등장해 &lt;잘 부탁드립니다&gt;로 대상을 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/10_10_16__61f09f7883b90[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미인 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59001</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59001</guid>
-            <pubDate>Fri, 25 Feb 2022 01:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0225/59001_62182696ab593[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[밴드스탠드 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58918</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58918</guid>
@@ -2895,12 +2871,28 @@ EX는 마지막 순서로 등장해 &lt;잘 부탁드립니다&gt;로 대상을 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/58918_62032aed6c95f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[피그 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58240</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58240</guid>
+            <title><![CDATA[축복의 집 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58855</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58855</guid>
             <pubDate>Fri, 18 Feb 2022 19:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0124/11_26_11__61ee0e43c6418[X224,320].jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[개봉 : 2022-02-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/17_50_20__6203804c081d7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리가 사랑이라고 믿는 것 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56818</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56818</guid>
+            <pubDate>Fri, 18 Feb 2022 19:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0225/14_13_05__62186561cf709[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미인 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59001</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59001</guid>
+            <pubDate>Fri, 25 Feb 2022 01:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0225/59001_62182696ab593[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세라비: 다섯 번의 기적 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2911,12 +2903,20 @@ EX는 마지막 순서로 등장해 &lt;잘 부탁드립니다&gt;로 대상을 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0114/58286_61e0c9489e75d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보드랍게 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57176</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57176</guid>
+            <title><![CDATA[시라노 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58818</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58818</guid>
+            <pubDate>Sat, 05 Mar 2022 02:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-23]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/17_57_13__61f10ce95363e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안테벨룸 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56453</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56453</guid>
             <pubDate>Fri, 18 Feb 2022 19:23:05 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/14_10_26__62034cc2b0dbe[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0124/14_54_53__61ee3f2d9c2d6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인민을 위해 복무하라 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2927,20 +2927,20 @@ EX는 마지막 순서로 등장해 &lt;잘 부탁드립니다&gt;로 대상을 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0223/14_15_32__6215c2f44aae8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보드랍게 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57176</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57176</guid>
+            <pubDate>Fri, 18 Feb 2022 19:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-23]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/14_10_26__62034cc2b0dbe[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나이트메어 앨리 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58890</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58890</guid>
             <pubDate>Fri, 18 Feb 2022 19:23:05 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-23]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0216/58890_620c482133866[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안테벨룸 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56453</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56453</guid>
-            <pubDate>Fri, 18 Feb 2022 19:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0124/14_54_53__61ee3f2d9c2d6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블랙라이트 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
