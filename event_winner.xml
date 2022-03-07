@@ -4,9 +4,20 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 02:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 03:34:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <유어 러브 송> 시사회 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8320&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8320&amp;p=1</guid>
+            <pubDate>Mon, 07 Mar 2022 03:31:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-03-11 20:00:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>메가박스 코엑스</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-03-07 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0218/15_23_01__620f3b45b492b[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 <옥탑방 고양이> 초대 이벤트]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8318&amp;p=1</link>
@@ -102,15 +113,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-02-07 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0121/14_58_14__61ea4b7672290[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <후회하는 소녀와 축제의 밤> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8311</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8311</guid>
-            <pubDate>Mon, 07 Feb 2022 02:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-02-07 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0121/14_59_39__61ea4bcb195ae[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
