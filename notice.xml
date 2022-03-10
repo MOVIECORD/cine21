@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2022-03-10T02:31:29.995Z</updated>
+    <updated>2022-03-10T03:29:55.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8157&amp;p=1"/>
         <updated>2022-01-21T01:56:35.258Z</updated>
         <content type="html"><![CDATA[★]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <스펜서> 시사회 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8321&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8321&amp;p=1"/>
+        <updated>2022-03-10T03:18:28.753Z</updated>
+        <content type="html"><![CDATA[8321]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 <유어 러브 송> 시사회 초대 이벤트 당첨자 발표]]></title>
@@ -109,12 +116,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8307&amp;p=1"/>
         <updated>2022-01-26T03:12:45.638Z</updated>
         <content type="html"><![CDATA[8307]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 유일의 영화/영상전문지 <씨네21>과 함께할 참신한 인재를 찾습니다]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8306&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8306&amp;p=1"/>
-        <updated>2022-01-21T01:56:35.260Z</updated>
-        <content type="html"><![CDATA[8306]]></content>
     </entry>
 </feed>
