@@ -4,9 +4,25 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 19:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 20:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테이블 매너]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59031</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59031</guid>
+            <pubDate>Mon, 14 Mar 2022 20:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-03-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0314/59031_622ebdfcd8229[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그 남자는 타이타닉을 보고 싶지 않았다]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58915</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58915</guid>
+            <pubDate>Wed, 09 Mar 2022 18:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-03-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/10_12_18__62143872290bc[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레벤느망]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58568</link>
@@ -16,12 +32,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0216/14_44_07__620c8f2753234[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[그 남자는 타이타닉을 보고 싶지 않았다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58915</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58915</guid>
-            <pubDate>Wed, 09 Mar 2022 18:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-03-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/10_12_18__62143872290bc[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58336</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58336</guid>
+            <pubDate>Tue, 08 Mar 2022 17:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-03-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0224/58336_6216e3bbdb4b7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이상한 나라의 수학자]]></title>
@@ -40,20 +56,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0302/14_08_00__621efbb02e1eb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58336</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58336</guid>
-            <pubDate>Tue, 08 Mar 2022 17:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-03-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0224/58336_6216e3bbdb4b7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[건담 G의 레콘기스타 3: 우주로부터의 유산]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58986</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58986</guid>
             <pubDate>Mon, 07 Mar 2022 21:23:12 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-03-08]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/58986_621496f85e908[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인비저블 킬러]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58971</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58971</guid>
+            <pubDate>Wed, 02 Mar 2022 15:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-03-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0217/58971_620daab826710[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소피의 세계]]></title>
@@ -72,14 +88,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58913_6205b85c5c97c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인비저블 킬러]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58971</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58971</guid>
-            <pubDate>Wed, 02 Mar 2022 15:25:18 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-03-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0217/58971_620daab826710[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[더 배트맨]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58807</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58807</guid>
@@ -88,12 +96,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0216/11_50_28__620c667468729[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[매미소리]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57239</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57239</guid>
+            <title><![CDATA[광대: 소리꾼]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58147</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58147</guid>
             <pubDate>Wed, 23 Feb 2022 16:28:41 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0207/57239_62007992d32a2[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/10_10_16__61f09f7883b90[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[축복의 집]]></title>
@@ -102,30 +110,6 @@
             <pubDate>Wed, 23 Feb 2022 16:28:41 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-24]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0209/17_50_20__6203804c081d7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 사랑이라고 믿는 것]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56818</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56818</guid>
-            <pubDate>Wed, 23 Feb 2022 16:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0225/14_13_05__62186561cf709[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서바이벌리스트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58889</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58889</guid>
-            <pubDate>Wed, 23 Feb 2022 16:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/58889_61f0d2a2dea46[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광대: 소리꾼]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58147</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58147</guid>
-            <pubDate>Wed, 23 Feb 2022 16:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-02-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/10_10_16__61f09f7883b90[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밴드스탠드]]></title>
@@ -144,12 +128,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0225/59001_62182696ab593[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카니발 클럽]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58946</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58946</guid>
+            <title><![CDATA[서바이벌리스트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58889</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58889</guid>
             <pubDate>Wed, 23 Feb 2022 16:28:41 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-02-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0216/58946_620c572c1bd90[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0126/58889_61f0d2a2dea46[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매미소리]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57239</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57239</guid>
+            <pubDate>Wed, 23 Feb 2022 16:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0207/57239_62007992d32a2[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리가 사랑이라고 믿는 것]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56818</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56818</guid>
+            <pubDate>Wed, 23 Feb 2022 16:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-02-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0225/14_13_05__62186561cf709[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
