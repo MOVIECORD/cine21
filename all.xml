@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 16:37:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 17:24:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2739,12 +2739,28 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <enclosure url="http://k.kakaocdn.net/dn/coO8Mp/btrwap2LtHB/PbNMA8r5Ck5NSBca2mm0d1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[브릭스턴 테일 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59039</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59039</guid>
+            <pubDate>Mon, 21 Mar 2022 17:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-03-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0318/11_56_02__6233f4c2a7491[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[고양이들의 아파트 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58948</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58948</guid>
             <pubDate>Wed, 16 Mar 2022 19:13:36 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-03-17]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0308/58948_6226af2e710d9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캐슬 폴스: 머니 게임 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58979</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58979</guid>
+            <pubDate>Wed, 16 Mar 2022 19:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-03-17]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0223/58979_6215a4c0b0132[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이돌레시피 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2763,28 +2779,12 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0302/11_02_18__621ed02a44c52[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[캐슬 폴스: 머니 게임 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58979</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58979</guid>
-            <pubDate>Wed, 16 Mar 2022 19:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-03-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0223/58979_6215a4c0b0132[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도어맨 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58847</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58847</guid>
+            <title><![CDATA[스펜서 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58575</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58575</guid>
             <pubDate>Wed, 23 Feb 2022 16:29:27 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-03-16]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0223/58847_6215979879d04[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메리 미 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58973</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58973</guid>
-            <pubDate>Wed, 23 Feb 2022 01:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-03-16]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/58973_62144647ecae1[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0317/11_04_14__6232971eac402[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유어 러브 송 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2795,12 +2795,12 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0216/14_57_24__620c92441c12e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스펜서 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58575</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58575</guid>
-            <pubDate>Wed, 23 Feb 2022 16:29:27 GMT</pubDate>
+            <title><![CDATA[메리 미 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58973</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58973</guid>
+            <pubDate>Wed, 23 Feb 2022 01:05:50 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-03-16]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0317/11_04_14__6232971eac402[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/58973_62144647ecae1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하늘의 푸르름을 아는 사람이여 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2819,6 +2819,14 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0225/15_13_27__62187387ea757[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[도어맨 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58847</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58847</guid>
+            <pubDate>Wed, 23 Feb 2022 16:29:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-03-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0223/58847_6215979879d04[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[테이블 매너 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59031</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59031</guid>
@@ -2827,20 +2835,20 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0314/59031_622ebdfcd8229[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레벤느망 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58568</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58568</guid>
-            <pubDate>Wed, 23 Feb 2022 01:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-03-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0216/14_44_07__620c8f2753234[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[그 남자는 타이타닉을 보고 싶지 않았다 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58915</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58915</guid>
             <pubDate>Wed, 23 Feb 2022 01:05:50 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-03-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/10_12_18__62143872290bc[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레벤느망 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58568</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58568</guid>
+            <pubDate>Wed, 23 Feb 2022 01:05:50 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-03-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0216/14_44_07__620c8f2753234[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2873,14 +2881,6 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <pubDate>Mon, 07 Mar 2022 21:23:12 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-03-08]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/58986_621496f85e908[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인비저블 킬러 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58971</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58971</guid>
-            <pubDate>Fri, 18 Feb 2022 19:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-03-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0217/58971_620daab826710[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뜨거운 피 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
