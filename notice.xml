@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2022-03-21T04:22:26.676Z</updated>
+    <updated>2022-03-21T05:17:34.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8157&amp;p=1"/>
         <updated>2022-01-21T01:56:35.258Z</updated>
         <content type="html"><![CDATA[★]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도서 <지속가능한 영혼의 이용> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8324&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8324&amp;p=1"/>
+        <updated>2022-03-21T05:12:55.638Z</updated>
+        <content type="html"><![CDATA[8324]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[씨네21 객원기자 모집]]></title>
@@ -116,12 +123,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8310&amp;p=1"/>
         <updated>2022-02-07T02:27:03.047Z</updated>
         <content type="html"><![CDATA[8310]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <일회용 아내> 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8309&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8309&amp;p=1"/>
-        <updated>2022-02-07T02:27:03.047Z</updated>
-        <content type="html"><![CDATA[8309]]></content>
     </entry>
 </feed>
