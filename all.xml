@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 03:32:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 04:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2894,6 +2894,14 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0304/54503_62217339ad458[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[리디밍 러브 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58893</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58893</guid>
+            <pubDate>Tue, 08 Mar 2022 02:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-03-23]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0310/58893_62295f79451ae[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에펠 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58652</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58652</guid>
@@ -2910,12 +2918,20 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/58721_621440d26f01c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리디밍 러브 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58893</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58893</guid>
-            <pubDate>Tue, 08 Mar 2022 02:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-03-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0310/58893_62295f79451ae[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뱅드림! 팝핀’ 드림! (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59005</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59005</guid>
+            <pubDate>Fri, 11 Mar 2022 03:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-03-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0311/59005_622abd25dad25[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어거스트 버진 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58947</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58947</guid>
+            <pubDate>Tue, 15 Mar 2022 19:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-03-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0304/58947_62217f3f1997e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[킹 리차드 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2932,22 +2948,6 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <pubDate>Tue, 15 Mar 2022 19:15:35 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-03-24]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0314/59032_622ec2c795076[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뱅드림! 팝핀’ 드림! (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59005</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59005</guid>
-            <pubDate>Fri, 11 Mar 2022 03:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-03-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0311/59005_622abd25dad25[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어거스트 버진 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58947</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58947</guid>
-            <pubDate>Tue, 15 Mar 2022 19:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-03-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0304/58947_62217f3f1997e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드라이 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2974,12 +2974,12 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0316/58892_62315cb5b2a9e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배니싱: 미제사건 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57057</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57057</guid>
-            <pubDate>Tue, 15 Mar 2022 19:15:35 GMT</pubDate>
+            <title><![CDATA[하로동선 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59034</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59034</guid>
+            <pubDate>Wed, 16 Mar 2022 05:16:22 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-03-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0315/11_29_03__622ff9ef6cc77[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0316/59034_6231442c6def0[X224,320].JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[모비우스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2990,20 +2990,20 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0307/14_34_07__6225994f33725[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하로동선 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59034</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59034</guid>
-            <pubDate>Wed, 16 Mar 2022 05:16:22 GMT</pubDate>
+            <title><![CDATA[배니싱: 미제사건 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57057</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57057</guid>
+            <pubDate>Tue, 15 Mar 2022 19:15:35 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-03-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0316/59034_6231442c6def0[X224,320].JPG" length="0" type="image/JPG"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0322/11_19_33__62393235e4806[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[곡녀 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59004</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59004</guid>
-            <pubDate>Mon, 21 Mar 2022 03:25:32 GMT</pubDate>
+            <title><![CDATA[극장판 시그널 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57897</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57897</guid>
+            <pubDate>Wed, 16 Mar 2022 17:20:22 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-03-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0321/10_27_05__6237d469a202a[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0322/11_20_07__623932579310b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[재춘언니 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3014,44 +3014,20 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0307/57178_622559c1c6f68[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 시그널 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57897</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57897</guid>
-            <pubDate>Wed, 16 Mar 2022 17:20:22 GMT</pubDate>
+            <title><![CDATA[패러렐 마더스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58989</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58989</guid>
+            <pubDate>Fri, 18 Mar 2022 04:21:16 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-03-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0315/57897_622ffc6c0498d[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0322/58989_623929c4b5d84[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[앰뷸런스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58910</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58910</guid>
-            <pubDate>Mon, 21 Mar 2022 16:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-04-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0304/58910_62217bbda027d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원나잇 인 프랑스 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59021</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59021</guid>
-            <pubDate>Mon, 07 Mar 2022 22:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0307/59021_62255dcc94723[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존 덴버 죽이기 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58987</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58987</guid>
-            <pubDate>Wed, 23 Feb 2022 15:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0302/11_09_07__621ed1c31aa45[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그랑블루 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58943</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58943</guid>
-            <pubDate>Fri, 11 Feb 2022 08:31:28 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58943_62061c4b0f9b8[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[곡녀 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59004</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59004</guid>
+            <pubDate>Mon, 21 Mar 2022 03:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-03-31]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0321/10_27_05__6237d469a202a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블랙폭스 - 폭렬닌자시대 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3060,6 +3036,14 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <pubDate>Fri, 11 Feb 2022 07:27:30 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58942_6205fc69dab21[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그랑블루 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58943</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58943</guid>
+            <pubDate>Fri, 11 Feb 2022 08:31:28 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58943_62061c4b0f9b8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스파이 코드명 포춘 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3076,6 +3060,14 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <pubDate>Tue, 08 Feb 2022 05:26:52 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0124/09_42_50__61edf60a5c4a1[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[존 덴버 죽이기 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58987</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58987</guid>
+            <pubDate>Wed, 23 Feb 2022 15:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0302/11_09_07__621ed1c31aa45[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데드맨 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3102,6 +3094,14 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0811/16_36_47__61137e0fd539a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[메이의 새빨간 비밀 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58254</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58254</guid>
+            <pubDate>Tue, 30 Nov 2021 09:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58254_61a589108d01e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[6/45 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57961</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57961</guid>
@@ -3109,12 +3109,12 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[메이의 새빨간 비밀 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58254</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58254</guid>
-            <pubDate>Tue, 30 Nov 2021 09:26:03 GMT</pubDate>
+            <title><![CDATA[원나잇 인 프랑스 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59021</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59021</guid>
+            <pubDate>Mon, 07 Mar 2022 22:18:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58254_61a589108d01e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0307/59021_62255dcc94723[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가면병동 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3140,12 +3140,12 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[패러렐 마더스 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58989</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58989</guid>
-            <pubDate>Fri, 18 Mar 2022 04:21:16 GMT</pubDate>
+            <title><![CDATA[컴온 컴온 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58789</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58789</guid>
+            <pubDate>Thu, 17 Mar 2022 21:14:50 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0307/58989_6225979b8c889[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1220/58789_61bfd730d6504[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부기나이트 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3156,12 +3156,12 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0318/58977_6233e9736e427[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[컴온 컴온 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58789</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58789</guid>
-            <pubDate>Thu, 17 Mar 2022 21:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1220/58789_61bfd730d6504[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[신비한 동물들과 덤블도어의 비밀 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59003</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59003</guid>
+            <pubDate>Tue, 22 Mar 2022 04:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0308/59003_6226ca43c8e55[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이다 레드 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
