@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 05:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 06:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,21 +22,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0507/17_34_43__5eb3c823de6d0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마녀2]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57491</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57491</guid>
-            <pubDate>Fri, 11 Feb 2022 04:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">마녀2</span>
-		
-
-									<span class="director">감독 : 박훈정</span>
-											<span class="actor">배우 : 신시아</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마이캡틴]]></title>
@@ -204,6 +189,21 @@
 
 									<span class="director">감독 : 서유민</span>
 											<span class="actor">배우 : 도경수,원진아</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마녀2]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57491</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57491</guid>
+            <pubDate>Fri, 11 Feb 2022 04:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">마녀2</span>
+		
+
+									<span class="director">감독 : 박훈정</span>
+											<span class="actor">배우 : 신시아</span>
 		
 		
 							<span class="btn_detail">자세히 보기</span>
