@@ -4,9 +4,18 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 01:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 02:48:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도서 <악의 심장> 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8331&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8331&amp;p=1</guid>
+            <pubDate>Wed, 06 Apr 2022 02:47:21 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-04-06 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0328/16_38_43__624166034fb65[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도서 <다른 삶> 기대평 이벤트]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8327</link>
@@ -108,15 +117,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-03-07 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0218/15_23_01__620f3b45b492b[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <옥탑방 고양이> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8318&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8318&amp;p=1</guid>
-            <pubDate>Thu, 03 Mar 2022 04:34:10 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-03-03 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0217/09_54_03__620d9cab74f80[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
