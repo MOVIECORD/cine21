@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 18:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 19:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3056,22 +3056,6 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0404/59072_624a85172ed9c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스파이 코드명 포춘 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58916</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58916</guid>
-            <pubDate>Wed, 09 Feb 2022 02:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0217/16_33_37__620dfa51225f0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙폭스 - 폭렬닌자시대 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58942</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58942</guid>
-            <pubDate>Fri, 11 Feb 2022 07:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58942_6205fc69dab21[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[데드맨 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58691</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58691</guid>
@@ -3080,20 +3064,20 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1109/58691_618a1188acdc4[X224,320].JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[그랑블루 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58943</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58943</guid>
-            <pubDate>Fri, 11 Feb 2022 08:31:28 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58943_62061c4b0f9b8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[젠틀맨 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58369</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58369</guid>
             <pubDate>Wed, 17 Nov 2021 02:10:03 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1111/58369_618c6832108b0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이 코드명 포춘 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58916</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58916</guid>
+            <pubDate>Wed, 09 Feb 2022 02:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0217/16_33_37__620dfa51225f0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코코순이 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3119,11 +3103,27 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[블랙폭스 - 폭렬닌자시대 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58942</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58942</guid>
+            <pubDate>Fri, 11 Feb 2022 07:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58942_6205fc69dab21[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[행복의 나라(가제) (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57453</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57453</guid>
             <pubDate>Tue, 30 Nov 2021 09:26:03 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[그랑블루 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58943</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58943</guid>
+            <pubDate>Fri, 11 Feb 2022 08:31:28 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58943_62061c4b0f9b8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[존 덴버 죽이기 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3142,20 +3142,20 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0307/59021_62255dcc94723[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가면병동 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56067</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56067</guid>
-            <pubDate>Tue, 15 Feb 2022 01:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0215/56067_620af92c7979e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[비상선언 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=56284</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=56284</guid>
             <pubDate>Wed, 15 Dec 2021 15:27:49 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0702/17_47_38__5efd9f2a363ef[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가면병동 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56067</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56067</guid>
+            <pubDate>Tue, 15 Feb 2022 01:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0215/56067_620af92c7979e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컴온 컴온 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3174,28 +3174,28 @@ A. 스토리가 재밌는가? - YES. 두말할 것 없다. 한번 보기 시작�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0404/59070_624a54ec02cf2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[민스미트 작전 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58974</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58974</guid>
-            <pubDate>Wed, 06 Apr 2022 19:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0405/14_22_44__624bd224af738[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이스케이프 런 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=49500</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=49500</guid>
+            <pubDate>Mon, 11 Apr 2022 19:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0411/15_34_46__6253cc06282bf[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고스트랜드 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59042</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59042</guid>
-            <pubDate>Wed, 06 Apr 2022 04:20:56 GMT</pubDate>
+            <title><![CDATA[안녕하세요 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59125</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59125</guid>
+            <pubDate>Mon, 11 Apr 2022 19:15:02 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0325/59042_623d507e7fa2a[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0411/59125_62538cebbf034[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[파리, 13구 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59050</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59050</guid>
-            <pubDate>Mon, 11 Apr 2022 04:22:09 GMT</pubDate>
+            <title><![CDATA[어부바 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59071</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59071</guid>
+            <pubDate>Mon, 11 Apr 2022 19:15:02 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0406/16_44_49__624d44f11fb5f[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0405/59071_624b9ffbe9b44[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드림 (가제) (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
