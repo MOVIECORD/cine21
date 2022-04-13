@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 01:08:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 03:07:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -181,21 +181,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/11_05_10__621444d6d0d2a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[매스]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58869</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58869</guid>
-            <pubDate>Fri, 11 Feb 2022 04:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">매스</span>
-		
-
-									<span class="director">감독 : 프란 크랜즈</span>
-											<span class="actor">배우 : 제이슨 아이삭스,앤 도드</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[말할 수 없는 비밀]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
@@ -257,22 +242,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/55448_614d6fb3976df[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[야차(가제)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=55914</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=55914</guid>
-            <pubDate>Fri, 01 Apr 2022 03:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">야차(가제)</span>
-		
-
-									<span class="director">감독 : 나현</span>
-											<span class="actor">배우 : 설경구,박해수</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0210/11_12_45__5e40bc1d7dff7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[휴가]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=55915</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=55915</guid>
@@ -287,6 +256,38 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0210/11_27_16__5e40bf8479be4[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사흘]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55922</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55922</guid>
+            <pubDate>Wed, 13 Apr 2022 03:06:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">사흘</span>
+		
+
+									<span class="director">감독 : 현문섭</span>
+											<span class="actor">배우 : 박신양,이민기</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0409/15_39_01__5e8ec3057b243[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[교섭]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56196</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56196</guid>
+            <pubDate>Wed, 13 Apr 2022 03:06:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">교섭</span>
+		
+
+									<span class="director">감독 : 임순례</span>
+											<span class="actor">배우 : 황정민,현빈</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0417/16_35_21__5e995c3949ab1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
