@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 01:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 03:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,22 +68,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/0609/11_18_55__60c0250fafe22[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헌트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57907</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57907</guid>
-            <pubDate>Tue, 12 Apr 2022 04:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">헌트</span>
-		
-
-									<span class="director">감독 : 이정재</span>
-											<span class="actor">배우 : 이정재,정우성</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0412/57907_6254e48ab6139[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스마트폰을 떨어뜨렸을 뿐인데]]></title>
@@ -220,6 +204,21 @@
 
 									<span class="director">감독 : 이지원</span>
 											<span class="actor">배우 : 류승룡,하지원</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[승부]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57457</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57457</guid>
+            <pubDate>Thu, 14 Apr 2022 03:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">승부</span>
+		
+
+									<span class="director">감독 : 김형주</span>
+											<span class="actor">배우 : 유아인,이병헌</span>
 		
 		
 							<span class="btn_detail">자세히 보기</span>
