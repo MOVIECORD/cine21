@@ -1,22 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 17:25:43 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[영화 <니 부모 얼굴이 보고싶다> 시사회 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7896</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7896</guid>
-            <pubDate>Thu, 07 Apr 2022 01:02:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-04-20 20:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>CGV용산아이파크몰</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>30 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-04-18 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0407/10_09_52__624e39e0eedf4[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://www.cine21.com/event/list</id>
+    <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
+    <updated>2022-04-17T18:20:09.354Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://www.cine21.com/event/favicon.ico</icon>
+</feed>
