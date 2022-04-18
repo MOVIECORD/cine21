@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 04:30:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 05:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1109/58691_618a1188acdc4[X224,320].JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[원나잇 인 프랑스]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59021</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59021</guid>
-            <pubDate>Mon, 07 Mar 2022 22:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0307/59021_62255dcc94723[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스파이 코드명 포춘]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58916</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58916</guid>
@@ -80,6 +72,22 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58943_62061c4b0f9b8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[존 덴버 죽이기]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58987</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58987</guid>
+            <pubDate>Wed, 23 Feb 2022 15:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0302/11_09_07__621ed1c31aa45[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원나잇 인 프랑스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59021</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59021</guid>
+            <pubDate>Mon, 07 Mar 2022 22:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0307/59021_62255dcc94723[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[6/45]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57961</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57961</guid>
@@ -102,14 +110,6 @@
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가면병동]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56067</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56067</guid>
-            <pubDate>Tue, 15 Feb 2022 01:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0215/56067_620af92c7979e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[비상선언]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=56284</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=56284</guid>
@@ -118,12 +118,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0702/17_47_38__5efd9f2a363ef[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[존 덴버 죽이기]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58987</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58987</guid>
-            <pubDate>Wed, 23 Feb 2022 15:28:13 GMT</pubDate>
+            <title><![CDATA[가면병동]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56067</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56067</guid>
+            <pubDate>Tue, 15 Feb 2022 01:06:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0302/11_09_07__621ed1c31aa45[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0215/56067_620af92c7979e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컴온 컴온]]></title>
@@ -134,20 +134,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1220/58789_61bfd730d6504[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이스케이프 런]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=49500</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=49500</guid>
-            <pubDate>Mon, 11 Apr 2022 19:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0411/15_34_46__6253cc06282bf[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[데드캠핑 더라이브]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59070</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59070</guid>
             <pubDate>Tue, 05 Apr 2022 05:16:51 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-04]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0413/59070_625620e76bcd2[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이스케이프 런]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=49500</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=49500</guid>
+            <pubDate>Mon, 11 Apr 2022 19:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0411/15_34_46__6253cc06282bf[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
