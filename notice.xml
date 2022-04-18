@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2022-04-18T03:17:50.250Z</updated>
+    <updated>2022-04-18T04:30:29.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8157&amp;p=1"/>
         <updated>2022-01-21T01:56:35.258Z</updated>
         <content type="html"><![CDATA[★]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <니 부모 얼굴이 보고싶다> 시사회 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8338&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8338&amp;p=1"/>
+        <updated>2022-04-18T04:21:21.434Z</updated>
+        <content type="html"><![CDATA[8338]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전시 <필립 할스만 점핑어게인> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8337&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8337&amp;p=1"/>
+        <updated>2022-04-18T04:21:21.435Z</updated>
+        <content type="html"><![CDATA[8337]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 <팔마> 시사회 초대 이벤트 당첨자 발표]]></title>
@@ -109,19 +123,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8324&amp;p=1"/>
         <updated>2022-03-21T05:12:55.638Z</updated>
         <content type="html"><![CDATA[8324]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨네21 객원기자 모집]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8323&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8323&amp;p=1"/>
-        <updated>2022-03-14T10:15:29.093Z</updated>
-        <content type="html"><![CDATA[8323]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <드라이> 시사회 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8322&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8322&amp;p=1"/>
-        <updated>2022-03-14T04:20:31.846Z</updated>
-        <content type="html"><![CDATA[8322]]></content>
     </entry>
 </feed>
