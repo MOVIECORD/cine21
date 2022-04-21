@@ -4,17 +4,9 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 17:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 18:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[공기살인]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56934</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56934</guid>
-            <pubDate>Wed, 13 Apr 2022 19:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-04-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0420/56934_625f8bd62ce18[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[니 부모 얼굴이 보고 싶다]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=51054</link>
@@ -150,6 +142,14 @@
             <pubDate>Thu, 21 Apr 2022 03:26:36 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-05-04]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0413/10_34_56__625628c0006e0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배드 가이즈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59036</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59036</guid>
+            <pubDate>Thu, 21 Apr 2022 18:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-05-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0405/10_34_12__624b9c941dffe[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
