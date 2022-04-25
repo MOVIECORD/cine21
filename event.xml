@@ -1,8 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cine21.com/event/list</id>
-    <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
-    <updated>2022-04-24T23:24:13.863Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cine21.com/event/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 25 Apr 2022 01:06:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <보이지 않는 손> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=7898</link>
+            <guid>http://www.cine21.com/event/view/?event_no=7898</guid>
+            <pubDate>Mon, 25 Apr 2022 01:05:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-05-12 20:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>대학로 아트원씨어터 2관</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-05-06 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0425/09_11_06__6265e71ad8275[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도서 <가장자리> 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=7897</link>
+            <guid>http://www.cine21.com/event/view/?event_no=7897</guid>
+            <pubDate>Mon, 25 Apr 2022 01:05:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-05-06 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0425/09_08_48__6265e69077251[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

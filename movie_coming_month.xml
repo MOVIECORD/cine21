@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 23:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 01:06:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -125,6 +125,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0702/17_47_38__5efd9f2a363ef[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유투부: 파산자 클럽]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59150</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59150</guid>
+            <pubDate>Fri, 22 Apr 2022 06:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0422/59150_6262132f9c51a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이스케이프 런]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=49500</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=49500</guid>
@@ -133,20 +141,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0411/15_34_46__6253cc06282bf[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[데드캠핑 더라이브]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59070</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59070</guid>
-            <pubDate>Fri, 22 Apr 2022 19:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0413/59070_625620e76bcd2[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유투부: 파산자 클럽]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59150</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59150</guid>
-            <pubDate>Fri, 22 Apr 2022 06:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0422/59150_6262132f9c51a[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[안녕하세요]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59125</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59125</guid>
+            <pubDate>Mon, 25 Apr 2022 01:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0411/59125_62538cebbf034[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
