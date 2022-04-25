@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 04:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 05:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -101,18 +101,10 @@
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[헌트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57907</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57907</guid>
-            <pubDate>Thu, 14 Apr 2022 03:07:34 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0412/57907_6254e48ab6139[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행복의 나라(가제)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57453</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57453</guid>
-            <pubDate>Tue, 30 Nov 2021 09:26:03 GMT</pubDate>
+            <title><![CDATA[멘]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59156</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59156</guid>
+            <pubDate>Mon, 25 Apr 2022 05:18:13 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
         </item>
         <item>
@@ -132,20 +124,27 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0702/17_47_38__5efd9f2a363ef[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[행복의 나라(가제)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57453</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57453</guid>
+            <pubDate>Tue, 30 Nov 2021 09:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[헌트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57907</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57907</guid>
+            <pubDate>Thu, 14 Apr 2022 03:07:34 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0412/57907_6254e48ab6139[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이스케이프 런]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=49500</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=49500</guid>
             <pubDate>Mon, 11 Apr 2022 19:15:02 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-04]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0411/15_34_46__6253cc06282bf[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유투부: 파산자 클럽]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59150</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59150</guid>
-            <pubDate>Fri, 22 Apr 2022 06:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0422/59150_6262132f9c51a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
