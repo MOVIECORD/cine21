@@ -4,9 +4,17 @@
         <title>씨네21 ─ 멀티미디어 ─ 커버 ─ 사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 01:06:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 03:01:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No.1355]]></title>
+            <link>https://image.cine21.com/resize/cine21/site/2022/0506/11_04_23__627482274ab56[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/site/2022/0506/11_04_23__627482274ab56[H800-].jpg</guid>
+            <pubDate>Fri, 06 May 2022 03:00:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022-05-10~2022-05-17]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/site/2022/0506/11_04_23__627482274ab56[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[No.1354]]></title>
             <link>https://image.cine21.com/resize/cine21/site/2022/0429/11_09_53__626b48f18b36b[H800-].jpg</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 11 Mar 2022 02:25:51 GMT</pubDate>
             <content:encoded><![CDATA[2022-03-15~2022-03-22]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/site/2022/0311/11_07_23__622aaedb3f9b5[X300,360].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No.1346]]></title>
-            <link>https://image.cine21.com/resize/cine21/site/2022/0304/11_13_15__622175bba3ada[H800-].jpg</link>
-            <guid>https://image.cine21.com/resize/cine21/site/2022/0304/11_13_15__622175bba3ada[H800-].jpg</guid>
-            <pubDate>Fri, 04 Mar 2022 02:33:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-08~2022-03-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/site/2022/0304/11_13_15__622175bba3ada[X300,360].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
