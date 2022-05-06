@@ -1,8 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cine21.com/event/list</id>
-    <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
-    <updated>2022-05-06T03:49:46.076Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cine21.com/event/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 06 May 2022 04:24:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <안녕하세요> 시사회 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=7900</link>
+            <guid>http://www.cine21.com/event/view/?event_no=7900</guid>
+            <pubDate>Fri, 06 May 2022 04:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-05-19 19:50</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>CGV용산아이파크몰</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-05-17 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0506/12_15_32__627492d416a0b[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공연 <렛미플라이> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=7899</link>
+            <guid>http://www.cine21.com/event/view/?event_no=7899</guid>
+            <pubDate>Fri, 06 May 2022 04:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-05-19 20:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>대학로 예스24스테이지 1관</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-05-13 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0506/12_13_51__6274926f0e6c6[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
