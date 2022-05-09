@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 23:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 01:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,20 +136,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0420/10_04_58__625f5c3aac046[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[피는 물보다 진하다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59044</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59044</guid>
-            <pubDate>Wed, 04 May 2022 18:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-05-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0503/59044_627092d3d6faf[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[플레이그라운드]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59133</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59133</guid>
             <pubDate>Wed, 04 May 2022 18:20:06 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-05-25]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0427/11_18_16__6268a7e880c9e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 노비스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59137</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59137</guid>
+            <pubDate>Mon, 09 May 2022 01:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-05-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0509/59137_62786766d3c55[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
