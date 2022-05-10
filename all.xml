@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 08:30:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 09:25:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2971,20 +2971,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0413/10_16_27__6256246b2494e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[민스미트 작전 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58974</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58974</guid>
-            <pubDate>Wed, 27 Apr 2022 06:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-05-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0429/58974_626b4a5f4d936[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[어부바 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59071</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59071</guid>
             <pubDate>Tue, 26 Apr 2022 18:20:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-05-11]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0412/10_49_33__6254daad9bdc9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민스미트 작전 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58974</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58974</guid>
+            <pubDate>Wed, 27 Apr 2022 06:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-05-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0429/58974_626b4a5f4d936[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엄마 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2995,12 +2995,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0421/11_48_36__6260c604f11a8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[데드캠핑 더라이브 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59070</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59070</guid>
-            <pubDate>Tue, 26 Apr 2022 18:20:19 GMT</pubDate>
+            <title><![CDATA[나를 만나는 길 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59058</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59058</guid>
+            <pubDate>Wed, 27 Apr 2022 18:21:07 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-05-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0510/11_48_12__6279d26cb82c4[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0418/10_10_45__625cba9558aa3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크로스 더 라인 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3009,14 +3009,6 @@
             <pubDate>Tue, 26 Apr 2022 18:20:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-05-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0420/10_15_42__625f5ebe18782[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나를 만나는 길 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59058</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59058</guid>
-            <pubDate>Wed, 27 Apr 2022 18:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-05-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0418/10_10_45__625cba9558aa3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잭 인 더 박스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3049,6 +3041,14 @@
             <pubDate>Tue, 26 Apr 2022 18:20:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-05-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0412/59050_6254d0ab683d4[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데드캠핑 더라이브 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59070</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59070</guid>
+            <pubDate>Tue, 26 Apr 2022 18:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-05-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0510/11_48_12__6279d26cb82c4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아치의 노래, 정태춘 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3099,20 +3099,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0420/10_04_58__625f5c3aac046[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[그대가 조국 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59141</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59141</guid>
+            <pubDate>Tue, 10 May 2022 09:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-05-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0510/59141_627a130792663[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더 노비스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59137</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59137</guid>
             <pubDate>Mon, 09 May 2022 18:21:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-05-25]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0509/59137_62786766d3c55[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플레이그라운드 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59133</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59133</guid>
-            <pubDate>Wed, 04 May 2022 18:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-05-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0427/11_18_16__6268a7e880c9e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[멘 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
