@@ -4,9 +4,20 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 18:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 19:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <윤시내가 사라졌다> 시사회 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=7906</link>
+            <guid>http://www.cine21.com/event/view/?event_no=7906</guid>
+            <pubDate>Thu, 12 May 2022 19:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-05-25 19:30</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>롯데시네마 건대입구</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>55 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-05-23 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0512/14_26_38__627c9a8eaf9d4[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <플레이그라운드> 시사회 초대 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=7905</link>
@@ -68,17 +79,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-05-17 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0506/12_15_32__627492d416a0b[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공연 <렛미플라이> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7899</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7899</guid>
-            <pubDate>Fri, 06 May 2022 04:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-05-19 20:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>대학로 예스24스테이지 1관</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-05-13 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0506/12_13_51__6274926f0e6c6[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
