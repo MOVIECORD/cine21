@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 03:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 04:35:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,20 +128,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0519/59153_6285abda2e066[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[브로커]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56800</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56800</guid>
-            <pubDate>Tue, 24 May 2022 15:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-06-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0511/14_01_21__627b4321839d7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이공삼칠]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59158</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59158</guid>
             <pubDate>Tue, 24 May 2022 15:19:32 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-06-08]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0523/59158_628aeb5745682[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브로커]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56800</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56800</guid>
+            <pubDate>Tue, 24 May 2022 15:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-06-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0511/14_01_21__627b4321839d7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그대라는기억 연숙씨]]></title>
