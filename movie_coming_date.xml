@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 01:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 03:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 11 May 2022 19:16:58 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-05-26]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0509/13_39_11__62789aef33027[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인연을 긋다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59162</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59162</guid>
-            <pubDate>Tue, 24 May 2022 02:53:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-05-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0513/13_45_18__627de25e6776b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[명색이 아프레걸]]></title>
@@ -38,6 +30,14 @@
             <pubDate>Tue, 24 May 2022 02:53:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-05-26]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0519/59267_6285c21c48db4[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인연을 긋다]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59162</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59162</guid>
+            <pubDate>Tue, 24 May 2022 02:53:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-05-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0513/13_45_18__627de25e6776b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오마주]]></title>
@@ -62,6 +62,14 @@
             <pubDate>Wed, 11 May 2022 19:16:58 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-06-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0509/59160_62787e393b253[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[셀링 이소벨]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59155</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59155</guid>
+            <pubDate>Tue, 24 May 2022 02:53:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-06-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0523/59155_628ae189216d5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[특수요원 빼꼼]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 24 May 2022 02:53:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-06-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0509/13_36_50__62789a62b5e6d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀링 이소벨]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59155</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59155</guid>
-            <pubDate>Tue, 24 May 2022 02:53:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-06-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0523/59155_628ae189216d5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[괴물, 유령, 자유인]]></title>
