@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 07:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 08:29:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0509/13_36_50__62789a62b5e6d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[선생님, 내 옆에 앉아줄래요?]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59202</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59202</guid>
-            <pubDate>Tue, 31 May 2022 04:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-06-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0519/13_55_50__6285cdd63812f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[올리 마키의 가장 행복한 날]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=48166</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=48166</guid>
@@ -80,12 +72,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0523/59280_628ae70ab26fc[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤시내가 사라졌다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59153</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59153</guid>
-            <pubDate>Tue, 24 May 2022 15:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-06-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0519/59153_6285abda2e066[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[선생님, 내 옆에 앉아줄래요?]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59202</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59202</guid>
+            <pubDate>Tue, 31 May 2022 04:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-06-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0519/13_55_50__6285cdd63812f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[브로커]]></title>
@@ -94,6 +86,14 @@
             <pubDate>Tue, 24 May 2022 15:19:32 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-06-08]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0511/14_01_21__627b4321839d7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤시내가 사라졌다]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59153</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59153</guid>
+            <pubDate>Tue, 24 May 2022 15:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-06-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0519/59153_6285abda2e066[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이공삼칠]]></title>
@@ -112,20 +112,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0525/59211_628da609e59d9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마녀(魔女) Part2. The Other One]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57491</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57491</guid>
-            <pubDate>Wed, 25 May 2022 15:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-06-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0503/15_35_56__6270cd4c10600[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[실종]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59209</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59209</guid>
             <pubDate>Wed, 25 May 2022 15:25:41 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-06-15]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0525/10_29_57__628d8695882c5[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마녀(魔女) Part2. The Other One]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57491</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57491</guid>
+            <pubDate>Wed, 25 May 2022 15:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-06-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0503/15_35_56__6270cd4c10600[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그대라는기억 연숙씨]]></title>
@@ -136,20 +136,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0527/59163_62904d8d3e403[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[경아의 딸]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59205</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59205</guid>
-            <pubDate>Fri, 27 May 2022 06:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-06-16]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0527/13_07_22__62904e7a5e89c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아부쟁이]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59143</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59143</guid>
             <pubDate>Wed, 25 May 2022 15:25:41 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-06-16]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0523/11_23_20__628af018ed5f9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경아의 딸]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59205</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59205</guid>
+            <pubDate>Fri, 27 May 2022 06:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-06-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0527/13_07_22__62904e7a5e89c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
