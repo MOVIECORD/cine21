@@ -4,9 +4,25 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 01:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 03:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우							김아현 
+							(총4장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=120884</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=120884</guid>
+            <pubDate>Wed, 08 Jun 2022 03:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=120884">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0608/12_02_29__62a011453e719[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/Yo0lz/btrEc9EFWyJ/fKWrAYlj9oiQOvwjowMH7k/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>김아현</strong> 
+							<span class="num">(총4장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/Yo0lz/btrEc9EFWyJ/fKWrAYlj9oiQOvwjowMH7k/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감독							김보람 
 							(총8장)]]></title>
@@ -166,22 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cJuCIN/btrsXfvpB8R/TkrceK7Buuv0Hx2vaR3QUk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감독							변성현 
-							(총8장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=40435</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=40435</guid>
-            <pubDate>Fri, 04 Feb 2022 01:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=40435">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0204/10_04_18__61fc7b92632a4[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="http://k.kakaocdn.net/dn/C0zxz/btrstKoIOSz/iKIbQZn3R3UYVrqJeL02Vk/img.jpg" alt="" class="thumb">
-						<span class="caption">
-							감독							<strong>변성현</strong> 
-							<span class="num">(총8장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/C0zxz/btrstKoIOSz/iKIbQZn3R3UYVrqJeL02Vk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
