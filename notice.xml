@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2022-06-13T04:46:54.638Z</updated>
+    <updated>2022-06-13T05:29:00.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8157&amp;p=1"/>
         <updated>2022-01-21T01:56:35.258Z</updated>
         <content type="html"><![CDATA[★]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도서 <엿보는 마을> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8355&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8355&amp;p=1"/>
+        <updated>2022-06-13T05:19:55.175Z</updated>
+        <content type="html"><![CDATA[8355]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[도서 <소년A 살인사건> 기대평 이벤트 당첨자 발표]]></title>
@@ -116,12 +123,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8341&amp;p=1"/>
         <updated>2022-05-24T02:46:51.933Z</updated>
         <content type="html"><![CDATA[8341]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <가장자리> 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8340&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8340&amp;p=1"/>
-        <updated>2022-05-06T09:16:05.451Z</updated>
-        <content type="html"><![CDATA[8340]]></content>
     </entry>
 </feed>
