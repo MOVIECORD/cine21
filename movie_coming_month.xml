@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 06:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 08:30:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,11 +15,12 @@
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[멘]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59156</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59156</guid>
-            <pubDate>Tue, 24 May 2022 03:27:56 GMT</pubDate>
+            <title><![CDATA[드래곤볼 슈퍼: 슈퍼 히어로(가제)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59263</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59263</guid>
+            <pubDate>Tue, 24 May 2022 02:54:13 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0513/59263_627df1aae7ea3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성덕]]></title>
@@ -76,12 +77,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1109/58691_618a1188acdc4[X224,320].JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[드래곤볼 슈퍼: 슈퍼 히어로(가제)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59263</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59263</guid>
-            <pubDate>Tue, 24 May 2022 02:54:13 GMT</pubDate>
+            <title><![CDATA[가면병동]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56067</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56067</guid>
+            <pubDate>Mon, 13 Jun 2022 06:26:02 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0513/59263_627df1aae7ea3[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0215/56067_620af92c7979e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 나라(가제)]]></title>
@@ -122,20 +123,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1111/58369_618c6832108b0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가면병동]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56067</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56067</guid>
-            <pubDate>Mon, 13 Jun 2022 06:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0215/56067_620af92c7979e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보통의 용기]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59333</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59333</guid>
-            <pubDate>Tue, 21 Jun 2022 01:13:58 GMT</pubDate>
+            <title><![CDATA[감동주의보]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59192</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59192</guid>
+            <pubDate>Tue, 21 Jun 2022 08:28:02 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0620/17_13_14__62b02c1a3665e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0607/17_08_02__629f076275971[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴 프렌드: 누군가 죽는다]]></title>
@@ -144,6 +137,14 @@
             <pubDate>Tue, 21 Jun 2022 04:36:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-06]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0523/59281_628ae87d8a57f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보통의 용기]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59333</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59333</guid>
+            <pubDate>Tue, 21 Jun 2022 01:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0620/17_13_14__62b02c1a3665e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
