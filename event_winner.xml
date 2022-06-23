@@ -4,9 +4,20 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 01:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 03:37:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인디스페이스 비평기획 6월 '영화를 말하다' 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8359&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8359&amp;p=1</guid>
+            <pubDate>Thu, 23 Jun 2022 03:36:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-06-25 14:00:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>인디스페이스</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-06-23 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0615/14_15_18__62a96ae6389d5[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도서 <여성과 글쓰기> 기대평 이벤트]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8358&amp;p=1</link>
@@ -98,15 +109,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-05-26 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0520/09_17_54__6286de32b9820[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <두 고양이> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8346</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8346</guid>
-            <pubDate>Tue, 24 May 2022 02:56:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-05-23 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0509/09_47_08__6278648c88ecb[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
