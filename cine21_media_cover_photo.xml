@@ -4,9 +4,17 @@
         <title>씨네21 ─ 멀티미디어 ─ 커버 ─ 사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 03:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 04:46:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No.1362]]></title>
+            <link>https://image.cine21.com/resize/cine21/person/2022/0624/10_24_16__62b51240a7964[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/person/2022/0624/10_24_16__62b51240a7964[H800-].jpg</guid>
+            <pubDate>Fri, 24 Jun 2022 04:45:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022-06-28~2022-07-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/person/2022/0624/10_24_16__62b51240a7964[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[No.1361]]></title>
             <link>https://image.cine21.com/resize/cine21/movie/2022/0617/11_04_02__62abe1123a6f4[H800-].jpg</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 29 Apr 2022 03:26:57 GMT</pubDate>
             <content:encoded><![CDATA[2022-05-03~2022-05-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/site/2022/0429/11_09_53__626b48f18b36b[X300,360].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No.1353]]></title>
-            <link>https://image.cine21.com/resize/cine21/site/2022/0422/11_08_31__62620e1f811d0[H800-].jpg</link>
-            <guid>https://image.cine21.com/resize/cine21/site/2022/0422/11_08_31__62620e1f811d0[H800-].jpg</guid>
-            <pubDate>Fri, 22 Apr 2022 03:52:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022-04-26~2022-05-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/site/2022/0422/11_08_31__62620e1f811d0[X300,360].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
