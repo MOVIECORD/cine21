@@ -4,9 +4,36 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 14:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 15:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도서 <미움받는 식물들> 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=7928</link>
+            <guid>http://www.cine21.com/event/view/?event_no=7928</guid>
+            <pubDate>Sun, 26 Jun 2022 15:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-07-12 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0624/15_31_58__62b55a5e24eaf[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도서 <쓸데없는 짓이 어디 있나요> 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=7927</link>
+            <guid>http://www.cine21.com/event/view/?event_no=7927</guid>
+            <pubDate>Sun, 26 Jun 2022 15:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-07-04 16:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0622/17_01_55__62b2cc73352a6[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <포미니츠> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=7926</link>
+            <guid>http://www.cine21.com/event/view/?event_no=7926</guid>
+            <pubDate>Sun, 26 Jun 2022 15:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-07-04 16:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0622/16_55_42__62b2cafe9caed[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도서 <술푼 영화> 기대평 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=7925</link>
@@ -26,15 +53,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-06-28 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0620/09_53_50__62afc51e1670c[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <새들이 모조리 사라진다면> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7921</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7921</guid>
-            <pubDate>Sun, 19 Jun 2022 16:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-06-29 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0615/14_19_22__62a96bda8fabf[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
