@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2022-06-27T23:20:33.749Z</updated>
+    <updated>2022-06-28T01:25:18.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8157&amp;p=1"/>
         <updated>2022-01-21T01:56:35.258Z</updated>
         <content type="html"><![CDATA[★]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <로스트 도터> 시사회 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8360&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8360&amp;p=1"/>
+        <updated>2022-06-28T01:14:15.111Z</updated>
+        <content type="html"><![CDATA[8360]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인디스페이스 비평기획 6월 '영화를 말하다' 초대 이벤트 당첨자 발표]]></title>
@@ -116,12 +123,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8346&amp;p=1"/>
         <updated>2022-05-24T02:46:51.922Z</updated>
         <content type="html"><![CDATA[8346]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <플레이그라운드> 시사회 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8345&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8345&amp;p=1"/>
-        <updated>2022-05-24T02:46:51.924Z</updated>
-        <content type="html"><![CDATA[8345]]></content>
     </entry>
 </feed>
