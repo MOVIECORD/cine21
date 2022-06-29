@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 07:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 08:31:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0621/16_48_13__62b177bd1d4b1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[메모리]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59201</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59201</guid>
+            <pubDate>Wed, 29 Jun 2022 08:26:35 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-07-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0623/13_37_02__62b3edee7354d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[멘]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59156</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59156</guid>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 28 Jun 2022 15:18:20 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-07-20]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0616/15_35_34__62aacf3655f9a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외계+인 1부]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57324</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57324</guid>
-            <pubDate>Tue, 28 Jun 2022 15:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-07-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0503/57324_62708ffcd975b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
