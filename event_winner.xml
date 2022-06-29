@@ -4,9 +4,18 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 23:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 01:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도서 <새들이 모조리 사라진다면> 기대평 이벤트]]></title>
+            <link>http://dev.cine21.com/misc/cs/notice_view/?article_no=8361&amp;p=1</link>
+            <guid>http://dev.cine21.com/misc/cs/notice_view/?article_no=8361&amp;p=1</guid>
+            <pubDate>Wed, 29 Jun 2022 01:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-06-29 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0615/14_19_22__62a96bda8fabf[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <로스트 도터> 시사회 초대 이벤트]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8360&amp;p=1</link>
@@ -100,15 +109,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-06-02 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0523/09_27_00__628ad4d4be7d0[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <책들의 부엌> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8350&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8350&amp;p=1</guid>
-            <pubDate>Mon, 30 May 2022 03:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-05-31 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2022/0513/17_32_06__627e1786532ca[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
