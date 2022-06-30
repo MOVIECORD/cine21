@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 14:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 15:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -51,15 +51,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-07-04 16:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0622/16_55_42__62b2cafe9caed[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <술푼 영화> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7925</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7925</guid>
-            <pubDate>Mon, 20 Jun 2022 15:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-07-01 16:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0620/17_08_59__62b02b1bee0e1[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
