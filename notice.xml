@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2022-07-12T01:28:52.372Z</updated>
+    <updated>2022-07-12T04:13:45.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8157&amp;p=1"/>
         <updated>2022-01-21T01:56:35.258Z</updated>
         <content type="html"><![CDATA[★]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도서 <다크 플레이스의 비밀> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8366&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8366&amp;p=1"/>
+        <updated>2022-07-12T03:57:47.809Z</updated>
+        <content type="html"><![CDATA[8366]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BIFAN 부천국제판타스틱영화제 기대평 이벤트 당첨자 명단]]></title>
@@ -116,12 +123,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8352&amp;p=1"/>
         <updated>2022-06-07T04:23:55.693Z</updated>
         <content type="html"><![CDATA[8352]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <투자의 신> 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8351&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8351&amp;p=1"/>
-        <updated>2022-06-02T03:45:05.102Z</updated>
-        <content type="html"><![CDATA[8351]]></content>
     </entry>
 </feed>
