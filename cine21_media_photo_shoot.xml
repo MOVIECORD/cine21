@@ -1,8 +1,187 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cine21.com/media/photo/shoot</id>
-    <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
-    <updated>2022-07-12T04:13:45.182Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cine21.com/media/photo/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 12 Jul 2022 05:17:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우							김아현 
+							(총4장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=120884</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=120884</guid>
+            <pubDate>Tue, 12 Jul 2022 05:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=120884">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0608/12_02_29__62a011453e719[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/Yo0lz/btrEc9EFWyJ/fKWrAYlj9oiQOvwjowMH7k/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>김아현</strong> 
+							<span class="num">(총4장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/Yo0lz/btrEc9EFWyJ/fKWrAYlj9oiQOvwjowMH7k/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감독							김보람 
+							(총8장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=115807</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=115807</guid>
+            <pubDate>Tue, 12 Jul 2022 05:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=115807">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2019/0917/16_37_24__5d808d34cf4a0[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/boTOXX/btqyjcH5TVH/pqy3dkiGkThjrKwlnJl1dk/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							감독							<strong>김보람</strong> 
+							<span class="num">(총8장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/boTOXX/btqyjcH5TVH/pqy3dkiGkThjrKwlnJl1dk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							로몬 
+							(총5장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=116921</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=116921</guid>
+            <pubDate>Tue, 12 Jul 2022 05:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=116921">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0210/10_32_16__62046b209d72d[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/XX1m3/btrsS8KChrt/9Yf3pOLJKzVHf57Esvj940/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>로몬</strong> 
+							<span class="num">(총5장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/XX1m3/btrsS8KChrt/9Yf3pOLJKzVHf57Esvj940/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							조이현 
+							(총5장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=109467</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=109467</guid>
+            <pubDate>Tue, 12 Jul 2022 05:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=109467">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0210/10_31_02__62046ad6e0c4a[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/bBsG29/btrsWU598eh/I8xqykiL1FEikfrTwKK3vK/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>조이현</strong> 
+							<span class="num">(총5장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bBsG29/btrsWU598eh/I8xqykiL1FEikfrTwKK3vK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							이유미 
+							(총11장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=75226</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=75226</guid>
+            <pubDate>Tue, 12 Jul 2022 05:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=75226">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0210/10_29_47__62046a8b93de2[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/WJL3V/btrsRYaBGTr/Gqbir9TvTKyOJxkbGqFx5K/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>이유미</strong> 
+							<span class="num">(총11장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/WJL3V/btrsRYaBGTr/Gqbir9TvTKyOJxkbGqFx5K/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							유인수 
+							(총4장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=109436</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=109436</guid>
+            <pubDate>Tue, 12 Jul 2022 05:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=109436">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0210/10_28_43__62046a4b13595[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/yVIwC/btrsYIqk45U/HAmm1929OmBaAMQLkcjVa0/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>유인수</strong> 
+							<span class="num">(총4장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/yVIwC/btrsYIqk45U/HAmm1929OmBaAMQLkcjVa0/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							임재혁 
+							(총4장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=119911</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=119911</guid>
+            <pubDate>Tue, 12 Jul 2022 05:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=119911">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0210/10_28_22__62046a368f9c8[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/Ics8K/btrsXf3hi6p/KTql4TVzIUj1JI4aWYsBO1/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>임재혁</strong> 
+							<span class="num">(총4장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/Ics8K/btrsXf3hi6p/KTql4TVzIUj1JI4aWYsBO1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							윤찬영 
+							(총15장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=96298</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=96298</guid>
+            <pubDate>Tue, 12 Jul 2022 05:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=96298">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0210/10_26_27__620469c3dbda7[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/dkZWqL/btrs0uFofkX/1kvkP97GRaWC2wbm0wKJpK/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>윤찬영</strong> 
+							<span class="num">(총15장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/dkZWqL/btrs0uFofkX/1kvkP97GRaWC2wbm0wKJpK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							박지후 
+							(총8장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=108062</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=108062</guid>
+            <pubDate>Tue, 12 Jul 2022 05:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=108062">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0210/10_25_06__620469728ec81[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/b9aX6S/btrsYHLLVOs/DofcLq86YY3V6WmXdq1vT0/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>박지후</strong> 
+							<span class="num">(총8장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/b9aX6S/btrsYHLLVOs/DofcLq86YY3V6WmXdq1vT0/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							고수 
+							(총31장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=20340</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=20340</guid>
+            <pubDate>Tue, 12 Jul 2022 05:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=20340">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0210/10_23_41__6204691d5021e[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/viS5e/btrs0vEhGHC/vWqkxZYLnDrIkk0FyFNXYK/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>고수</strong> 
+							<span class="num">(총31장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/viS5e/btrs0vEhGHC/vWqkxZYLnDrIkk0FyFNXYK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							이희준 
+							(총23장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=64045</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=64045</guid>
+            <pubDate>Tue, 12 Jul 2022 05:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=64045">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0210/10_22_39__620468df6a539[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/cJuCIN/btrsXfvpB8R/TkrceK7Buuv0Hx2vaR3QUk/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>이희준</strong> 
+							<span class="num">(총23장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cJuCIN/btrsXfvpB8R/TkrceK7Buuv0Hx2vaR3QUk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
