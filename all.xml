@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 05:51:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 06:35:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1390,6 +1390,13 @@
             <content:encoded><![CDATA[★]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[연극 <옥탑방고양이> 초대 이벤트 당첨자 발표 (씨네21 ─ 공지사항)]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8368&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8368&amp;p=1</guid>
+            <pubDate>Tue, 12 Jul 2022 05:49:27 GMT</pubDate>
+            <content:encoded><![CDATA[8368]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[도서 <미움받는 식물들> 기대평 이벤트 당첨자 발표 (씨네21 ─ 공지사항)]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8367&amp;p=1</link>
             <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8367&amp;p=1</guid>
@@ -1486,13 +1493,6 @@
             <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8354&amp;p=1</guid>
             <pubDate>Wed, 08 Jun 2022 03:20:56 GMT</pubDate>
             <content:encoded><![CDATA[8354]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 <옥탑방 고양이> 초대 이벤트 당첨자 발표 (씨네21 ─ 공지사항)]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8353&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8353&amp;p=1</guid>
-            <pubDate>Wed, 08 Jun 2022 03:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[8353]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[BIFAN #6호 [인터뷰] 알렉산더 O. 필립 감독 “데이비드 린치 영화 곳곳에 '오즈의 마법사'의 흔적이 있다” (씨네21 ─ 기사 ─ 전체)]]></title>
@@ -3693,7 +3693,7 @@ MCU의 슈퍼히어로 토르의 기원을 알고 싶다면 &lt;토르: 천둥�
             <title><![CDATA[도서 <미움받는 식물들> 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8367&amp;p=1</link>
             <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8367&amp;p=1</guid>
-            <pubDate>Tue, 12 Jul 2022 05:49:27 GMT</pubDate>
+            <pubDate>Tue, 12 Jul 2022 05:37:24 GMT</pubDate>
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-07-12 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0624/15_31_58__62b55a5e24eaf[T224,320].jpg" length="0" type="image/jpg"/>
