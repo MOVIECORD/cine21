@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 01:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 03:55:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -28,6 +28,15 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-07-18 16:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/still/2022/0707/16_51_44__62c69090e9f4d[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도서 <한 개의 기쁨이 천 개의 슬픔을 이긴다> 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8374&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8374&amp;p=1</guid>
+            <pubDate>Mon, 18 Jul 2022 03:53:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-07-18 16:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/0707/17_07_04__62c6942894ae6[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도서 <나탈리 포트만의 새로 쓴 우화> 기대평 이벤트]]></title>
@@ -100,15 +109,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-07-01 16:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0620/17_08_59__62b02b1bee0e1[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <새들이 모조리 사라진다면> 기대평 이벤트]]></title>
-            <link>http://dev.cine21.com/misc/cs/notice_view/?article_no=8361&amp;p=1</link>
-            <guid>http://dev.cine21.com/misc/cs/notice_view/?article_no=8361&amp;p=1</guid>
-            <pubDate>Tue, 12 Jul 2022 04:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-06-29 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0615/14_19_22__62a96bda8fabf[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
