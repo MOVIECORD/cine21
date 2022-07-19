@@ -4,41 +4,9 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 14:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 15:26:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[스파이형 모델]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59351</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59351</guid>
-            <pubDate>Mon, 04 Jul 2022 05:38:13 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-07-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0623/16_18_14__62b413b6218a6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[썸머 필름을 타고!]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59300</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59300</guid>
-            <pubDate>Wed, 29 Jun 2022 15:50:18 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-07-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0627/12_10_45__62b91fb5bbe03[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외계+인 1부]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57324</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57324</guid>
-            <pubDate>Wed, 29 Jun 2022 15:50:18 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-07-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0711/10_55_43__62cb831f6ead5[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미니언즈2]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=55926</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=55926</guid>
-            <pubDate>Tue, 28 Jun 2022 15:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-07-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0616/15_35_34__62aacf3655f9a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[아이를 위한 아이]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59339</link>
@@ -96,14 +64,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0621/17_03_50__62b17b6696a2c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안나푸르나: 비욘드 써밋]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59383</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59383</guid>
-            <pubDate>Wed, 13 Jul 2022 01:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-07-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0713/10_44_55__62ce2397da086[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[임파서블 러브]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=54011</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=54011</guid>
@@ -112,12 +72,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0708/10_21_27__62c78697058c8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 도라에몽: 진구의 우주소전쟁 리틀스타워즈 2021]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59374</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59374</guid>
-            <pubDate>Mon, 18 Jul 2022 06:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0707/12_39_56__62c6558cb48b7[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[안나푸르나: 비욘드 써밋]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59383</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59383</guid>
+            <pubDate>Wed, 13 Jul 2022 01:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-07-28]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0713/10_44_55__62ce2397da086[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비상선언]]></title>
@@ -126,6 +86,14 @@
             <pubDate>Tue, 12 Jul 2022 15:21:23 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-08-03]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0718/11_20_14__62d4c35e56d7b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 도라에몽: 진구의 우주소전쟁 리틀스타워즈 2021]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59374</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59374</guid>
+            <pubDate>Mon, 18 Jul 2022 06:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0707/12_39_56__62c6558cb48b7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베르히만 아일랜드]]></title>
@@ -150,6 +118,38 @@
             <pubDate>Tue, 19 Jul 2022 07:17:10 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-08-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0706/14_07_07__62c5187bb4e35[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 살아남기 시리즈: 인체에서 살아남기]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59348</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59348</guid>
+            <pubDate>Tue, 19 Jul 2022 15:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0713/15_55_10__62ce6c4e4a80d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헌트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57907</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57907</guid>
+            <pubDate>Tue, 19 Jul 2022 15:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0621/11_29_26__62b12d060b5b1[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바다 탐험대 옥토넛: 탐험선 대작전]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59379</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59379</guid>
+            <pubDate>Tue, 19 Jul 2022 15:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0708/15_27_32__62c7ce547f1ac[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[굿 럭 투 유, 리오 그랜드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59370</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59370</guid>
+            <pubDate>Tue, 19 Jul 2022 15:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0715/15_06_14__62d103d687f32[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
