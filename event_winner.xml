@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 04:53:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 05:34:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,6 +26,15 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>50 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-07-25 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/still/2022/0713/10_59_08__62ce26ec4dbd6[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <2호선세입자> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8380</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8380</guid>
+            <pubDate>Mon, 25 Jul 2022 05:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>30 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-07-25 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/0713/14_04_42__62ce526a5d34a[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도서 <코로나와 잠수복> 기대평 이벤트]]></title>
@@ -102,15 +111,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-07-12 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0628/16_21_51__62baac0f01192[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <다크 플레이스의 비밀> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8366&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8366&amp;p=1</guid>
-            <pubDate>Tue, 12 Jul 2022 04:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-07-12 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0705/18_18_25__62c401e199a1c[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
