@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2022-07-25T08:29:43.590Z</updated>
+    <updated>2022-07-25T09:21:03.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <뽀로로 극장판 드래곤캐슬 대모험> 시사회 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8378&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8378&amp;p=1"/>
+        <updated>2022-07-25T09:15:05.449Z</updated>
+        <content type="html"><![CDATA[8378]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이벤트 당첨 권한 및 티켓을 판매하는 행위는 관련법에 저촉되는 사실을 알려드립니다]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8377&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8365&amp;p=1"/>
         <updated>2022-07-05T04:33:31.946Z</updated>
         <content type="html"><![CDATA[8365]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <포미니츠> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8364&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8364&amp;p=1"/>
-        <updated>2022-07-04T03:47:45.889Z</updated>
-        <content type="html"><![CDATA[8364]]></content>
     </entry>
 </feed>
