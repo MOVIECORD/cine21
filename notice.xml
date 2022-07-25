@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2022-07-25T03:52:47.451Z</updated>
+    <updated>2022-07-25T04:53:04.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이벤트 당첨 권한 및 티켓을 판매하는 행위는 관련법에 저촉되는 사실을 알려드립니다]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8377&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8377&amp;p=1"/>
+        <updated>2022-07-25T04:44:56.571Z</updated>
+        <content type="html"><![CDATA[8377]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도서 <본즈 앤 올> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8376&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8376&amp;p=1"/>
+        <updated>2022-07-25T04:44:56.577Z</updated>
+        <content type="html"><![CDATA[8376]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <코로나와 잠수복> 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8375&amp;p=1</id>
@@ -81,19 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8364&amp;p=1"/>
         <updated>2022-07-04T03:47:45.889Z</updated>
         <content type="html"><![CDATA[8364]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <쓸데없는 짓이 어디 있나요> 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8363&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8363&amp;p=1"/>
-        <updated>2022-07-04T03:47:45.890Z</updated>
-        <content type="html"><![CDATA[8363]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <술푼 영화> 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8362&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8362&amp;p=1"/>
-        <updated>2022-07-01T08:18:52.540Z</updated>
-        <content type="html"><![CDATA[8362]]></content>
     </entry>
 </feed>
