@@ -4,9 +4,22 @@
         <title>씨네21 ─ 멀티미디어 ─ 동영상</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 05:46:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 06:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[＜욕망의 그늘＞ 19금 예고편]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=42953">-->
+					<a href="javascript:;" data-url="not_logged">
+						<img src="http://k.kakaocdn.net/dn/bsHQ6O/btrIaBrp5EY/uHqMwFKg7Isbm9TJuH1pvK/img.jpg" alt="" class="thumb">
+						<span class="title">＜욕망의 그늘＞ 19금 예고편</span>
+						<span class="date">2022-07-26</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bsHQ6O/btrIaBrp5EY/uHqMwFKg7Isbm9TJuH1pvK/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[＜파로호＞ 메인 예고편]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F07%2Fdrown_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fw0v9s%2FbtrIh4FyVJi%2FUxwaUFrHCV94lzX1G7nKLk%2Fimg.jpg&amp;title=%EF%BC%9C%ED%8C%8C%EB%A1%9C%ED%98%B8%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
@@ -201,19 +214,6 @@
 						<span class="date">2022-07-22</span>
 					</a>]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/ca33ET/btrHTHSu4HJ/Aoyw5kPEcdQbeM3kq8qee0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜풀타임＞ 티저 예고편]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F07%2Ffulltime_ttr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdxqRC9%2FbtrHWvQP9B7%2FAuPAYpsVuskQ66K2TRKP1k%2Fimg.jpg&amp;title=%EF%BC%9C%ED%92%80%ED%83%80%EC%9E%84%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F07%2Ffulltime_ttr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdxqRC9%2FbtrHWvQP9B7%2FAuPAYpsVuskQ66K2TRKP1k%2Fimg.jpg&amp;title=%EF%BC%9C%ED%92%80%ED%83%80%EC%9E%84%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=42930">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F07%2Ffulltime_ttr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdxqRC9%2FbtrHWvQP9B7%2FAuPAYpsVuskQ66K2TRKP1k%2Fimg.jpg&amp;title=%EF%BC%9C%ED%92%80%ED%83%80%EC%9E%84%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2022/07/fulltime_ttr.mp4">
-						<img src="http://k.kakaocdn.net/dn/dxqRC9/btrHWvQP9B7/AuPAYpsVuskQ66K2TRKP1k/img.jpg" alt="" class="thumb">
-						<span class="title">＜풀타임＞ 티저 예고편</span>
-						<span class="date">2022-07-22</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/dxqRC9/btrHWvQP9B7/AuPAYpsVuskQ66K2TRKP1k/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
