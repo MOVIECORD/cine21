@@ -4,9 +4,25 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 14:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 15:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한산: 용의 출현]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56294</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56294</guid>
+            <pubDate>Tue, 26 Jul 2022 15:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-07-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0720/14_53_26__62d7985669521[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VR 파이터]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59377</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59377</guid>
+            <pubDate>Tue, 26 Jul 2022 15:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-07-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0718/15_29_39__62d4fdd38a5aa[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이언 크로스: 노르망디 상륙작전]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59372</link>
@@ -32,22 +48,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0623/18_10_37__62b42e0d9f920[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스파이형 모델]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59351</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59351</guid>
-            <pubDate>Tue, 19 Jul 2022 15:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-07-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0623/16_18_14__62b413b6218a6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미니언즈2]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=55926</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=55926</guid>
-            <pubDate>Tue, 19 Jul 2022 15:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-07-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0720/12_01_17__62d76ffdb7341[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[썸머 필름을 타고!]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59300</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59300</guid>
@@ -64,12 +64,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0711/10_55_43__62cb831f6ead5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[로스트 도터]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58992</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58992</guid>
-            <pubDate>Wed, 13 Jul 2022 15:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-07-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0714/13_53_28__62cfa14820f70[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[미니언즈2]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55926</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55926</guid>
+            <pubDate>Tue, 19 Jul 2022 15:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-07-20]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0720/12_01_17__62d76ffdb7341[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이형 모델]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59351</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59351</guid>
+            <pubDate>Tue, 19 Jul 2022 15:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-07-20]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0623/16_18_14__62b413b6218a6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메모리]]></title>
@@ -88,28 +96,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0627/17_58_40__62b97140ed087[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[핸썸]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59332</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59332</guid>
-            <pubDate>Tue, 12 Jul 2022 15:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-07-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0627/12_29_45__62b924299473d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[체리마호: 30살까지 동정이면 마법사가 될 수 있대]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59297</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59297</guid>
-            <pubDate>Tue, 12 Jul 2022 15:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-07-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0617/10_57_40__62abdf943c083[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 킬러: 죽어도 되는 아이]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59295</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59295</guid>
-            <pubDate>Tue, 12 Jul 2022 15:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-07-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0713/11_56_01__62ce344181ec9[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[로스트 도터]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58992</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58992</guid>
+            <pubDate>Wed, 13 Jul 2022 15:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-07-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0714/13_53_28__62cfa14820f70[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[명탐정 코난: 할로윈의 신부]]></title>
@@ -128,28 +120,36 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0701/16_57_18__62bea8de196bb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[더 킬러: 죽어도 되는 아이]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59295</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59295</guid>
+            <pubDate>Tue, 12 Jul 2022 15:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-07-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0713/11_56_01__62ce344181ec9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[체리마호: 30살까지 동정이면 마법사가 될 수 있대]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59297</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59297</guid>
+            <pubDate>Tue, 12 Jul 2022 15:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-07-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0617/10_57_40__62abdf943c083[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핸썸]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59332</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59332</guid>
+            <pubDate>Tue, 12 Jul 2022 15:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-07-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0627/12_29_45__62b924299473d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[멘]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59156</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59156</guid>
             <pubDate>Tue, 12 Jul 2022 15:20:48 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-07-13]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0707/13_11_45__62c65d016d9c0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뒤틀린 집]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58625</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58625</guid>
-            <pubDate>Tue, 12 Jul 2022 15:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-07-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0621/18_31_15__62b18fe3868b0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[큐어]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=2573</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=2573</guid>
-            <pubDate>Fri, 22 Jul 2022 09:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-07-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0616/17_18_06__62aae73ed3cfb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
