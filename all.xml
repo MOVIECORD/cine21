@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 01:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 04:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1376,6 +1376,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDNfMjY2/MDAxNTE0OTQwNDk5Njgw.48xeRxRGlvPSdaLRjOFcDg1xhytLhg85PJE0FgETvpQg.FxnXOX78PIXBWHQQY2UtKSdN1G4hJr7EMEvHxcgcRlgg.JPEG/ImU46Da7wWq4hZ0XaIHjaQSoECZE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[도서 <철수 삼촌> 기대평 이벤트 당첨자 발표 (씨네21 ─ 공지사항)]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8379&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8379&amp;p=1</guid>
+            <pubDate>Mon, 25 Jul 2022 03:51:37 GMT</pubDate>
+            <content:encoded><![CDATA[8379]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[영화 <뽀로로 극장판 드래곤캐슬 대모험> 시사회 초대 이벤트 당첨자 발표 (씨네21 ─ 공지사항)]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8378&amp;p=1</link>
             <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8378&amp;p=1</guid>
@@ -1458,13 +1465,6 @@
             <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8366&amp;p=1</guid>
             <pubDate>Tue, 12 Jul 2022 03:57:47 GMT</pubDate>
             <content:encoded><![CDATA[8366]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BIFAN 부천국제판타스틱영화제 기대평 이벤트 당첨자 명단 (씨네21 ─ 공지사항)]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8365&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8365&amp;p=1</guid>
-            <pubDate>Tue, 05 Jul 2022 03:51:45 GMT</pubDate>
-            <content:encoded><![CDATA[8365]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<집에서 혼자 죽기를 권하다: 건강하게 살다 가장 편안하게 죽는 법> (씨네21 ─ 기사 ─ 전체)]]></title>
@@ -3042,20 +3042,20 @@ Apple TV+
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0616/17_18_06__62aae73ed3cfb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[VR 파이터 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59377</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59377</guid>
-            <pubDate>Mon, 18 Jul 2022 06:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-07-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0718/15_29_39__62d4fdd38a5aa[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[한산: 용의 출현 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=56294</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=56294</guid>
             <pubDate>Tue, 05 Jul 2022 15:26:17 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-07-27]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0720/14_53_26__62d7985669521[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VR 파이터 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59377</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59377</guid>
+            <pubDate>Mon, 18 Jul 2022 06:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-07-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0718/15_29_39__62d4fdd38a5aa[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배드 럭 뱅잉 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3074,12 +3074,12 @@ Apple TV+
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0621/17_03_50__62b17b6696a2c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[초록밤 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58872</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58872</guid>
-            <pubDate>Tue, 12 Jul 2022 15:21:23 GMT</pubDate>
+            <title><![CDATA[안나푸르나: 비욘드 써밋 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59383</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59383</guid>
+            <pubDate>Wed, 13 Jul 2022 01:17:49 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-07-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0708/11_00_59__62c78fdb499c2[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0713/10_44_55__62ce2397da086[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임파서블 러브 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3090,12 +3090,12 @@ Apple TV+
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0708/10_21_27__62c78697058c8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안나푸르나: 비욘드 써밋 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59383</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59383</guid>
-            <pubDate>Wed, 13 Jul 2022 01:17:49 GMT</pubDate>
+            <title><![CDATA[초록밤 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58872</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58872</guid>
+            <pubDate>Tue, 12 Jul 2022 15:21:23 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-07-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0713/10_44_55__62ce2397da086[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0708/11_00_59__62c78fdb499c2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비상선언 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3154,12 +3154,12 @@ Apple TV+
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0721/12_07_24__62d8c2ec050c3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[모퉁이 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58880</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58880</guid>
-            <pubDate>Mon, 25 Jul 2022 09:18:30 GMT</pubDate>
+            <title><![CDATA[카우 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58617</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58617</guid>
+            <pubDate>Tue, 26 Jul 2022 04:08:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-08-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0721/16_50_06__62d9052e47268[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0725/18_18_10__62de5fd2ee6fc[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바다 탐험대 옥토넛: 탐험선 대작전 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3170,20 +3170,20 @@ Apple TV+
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0708/15_27_32__62c7ce547f1ac[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리볼버 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=20466</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=20466</guid>
-            <pubDate>Fri, 22 Jul 2022 05:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0711/10_26_48__62cb7c580eae4[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[굿 럭 투 유, 리오 그랜드 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59370</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59370</guid>
             <pubDate>Tue, 19 Jul 2022 15:23:25 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-08-11]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0720/12_15_19__62d773479afe0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리볼버 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=20466</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=20466</guid>
+            <pubDate>Fri, 22 Jul 2022 05:31:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0711/10_26_48__62cb7c580eae4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 나라(가제) (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -4007,6 +4007,32 @@ Apple TV+
             <enclosure url="http://k.kakaocdn.net/dn/cJuCIN/btrsXfvpB8R/TkrceK7Buuv0Hx2vaR3QUk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[＜탑건: 매버릭＞ 톰 크루즈 대한민국 감사 인사 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F07%2Ftopgun_tgmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbE8NgJ%2FbtrIddwfbzG%2F5XBN9Z14CXeYDbtWTt8vS0%2Fimg.jpg&amp;title=%EF%BC%9C%ED%83%91%EA%B1%B4%3A%20%EB%A7%A4%EB%B2%84%EB%A6%AD%EF%BC%9E%20%ED%86%B0%20%ED%81%AC%EB%A3%A8%EC%A6%88%20%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%EA%B0%90%EC%82%AC%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F07%2Ftopgun_tgmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbE8NgJ%2FbtrIddwfbzG%2F5XBN9Z14CXeYDbtWTt8vS0%2Fimg.jpg&amp;title=%EF%BC%9C%ED%83%91%EA%B1%B4%3A%20%EB%A7%A4%EB%B2%84%EB%A6%AD%EF%BC%9E%20%ED%86%B0%20%ED%81%AC%EB%A3%A8%EC%A6%88%20%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%EA%B0%90%EC%82%AC%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=42950">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F07%2Ftopgun_tgmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbE8NgJ%2FbtrIddwfbzG%2F5XBN9Z14CXeYDbtWTt8vS0%2Fimg.jpg&amp;title=%EF%BC%9C%ED%83%91%EA%B1%B4%3A%20%EB%A7%A4%EB%B2%84%EB%A6%AD%EF%BC%9E%20%ED%86%B0%20%ED%81%AC%EB%A3%A8%EC%A6%88%20%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%EA%B0%90%EC%82%AC%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2022/07/topgun_tgmk.mp4">
+						<img src="http://k.kakaocdn.net/dn/bE8NgJ/btrIddwfbzG/5XBN9Z14CXeYDbtWTt8vS0/img.jpg" alt="" class="thumb">
+						<span class="title">＜탑건: 매버릭＞ 톰 크루즈 대한민국 감사 인사 영상</span>
+						<span class="date">2022-07-26</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bE8NgJ/btrIddwfbzG/5XBN9Z14CXeYDbtWTt8vS0/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜DC 리그 오브 슈퍼-펫＞ 정준하&하하 관람 독려 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F07%2Fsuperpet_jhmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fou8bk%2FbtrH7QBR0pj%2FSDVKsvRZqUwPYNrFEki8U1%2Fimg.jpg&amp;title=%EF%BC%9CDC%20%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EC%8A%88%ED%8D%BC-%ED%8E%AB%EF%BC%9E%20%EC%A0%95%EC%A4%80%ED%95%98%26%ED%95%98%ED%95%98%20%EA%B4%80%EB%9E%8C%20%EB%8F%85%EB%A0%A4%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F07%2Fsuperpet_jhmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fou8bk%2FbtrH7QBR0pj%2FSDVKsvRZqUwPYNrFEki8U1%2Fimg.jpg&amp;title=%EF%BC%9CDC%20%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EC%8A%88%ED%8D%BC-%ED%8E%AB%EF%BC%9E%20%EC%A0%95%EC%A4%80%ED%95%98%26%ED%95%98%ED%95%98%20%EA%B4%80%EB%9E%8C%20%EB%8F%85%EB%A0%A4%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=42949">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F07%2Fsuperpet_jhmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fou8bk%2FbtrH7QBR0pj%2FSDVKsvRZqUwPYNrFEki8U1%2Fimg.jpg&amp;title=%EF%BC%9CDC%20%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EC%8A%88%ED%8D%BC-%ED%8E%AB%EF%BC%9E%20%EC%A0%95%EC%A4%80%ED%95%98%26%ED%95%98%ED%95%98%20%EA%B4%80%EB%9E%8C%20%EB%8F%85%EB%A0%A4%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2022/07/superpet_jhmk.mp4">
+						<img src="http://k.kakaocdn.net/dn/ou8bk/btrH7QBR0pj/SDVKsvRZqUwPYNrFEki8U1/img.jpg" alt="" class="thumb">
+						<span class="title">＜DC 리그 오브 슈퍼-펫＞ 정준하&amp;하하 관람 독려 영상</span>
+						<span class="date">2022-07-26</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/ou8bk/btrH7QBR0pj/SDVKsvRZqUwPYNrFEki8U1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[＜극장판 도라에몽: 진구의 우주소전쟁 리틀스타워즈 2021＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F07%2Fdoraemon_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbFnp4o%2FbtrH1AzB25m%2Fqk3o1ospY5Cbx6ouYvd4R0%2Fimg.jpg&amp;title=%EF%BC%9C%EA%B7%B9%EC%9E%A5%ED%8C%90%20%EB%8F%84%EB%9D%BC%EC%97%90%EB%AA%BD%3A%20%EC%A7%84%EA%B5%AC%EC%9D%98%20%EC%9A%B0%EC%A3%BC%EC%86%8C%EC%A0%84%EC%9F%81%20%EB%A6%AC%ED%8B%80%EC%8A%A4%ED%83%80%EC%9B%8C%EC%A6%88%202021%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
             <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F07%2Fdoraemon_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbFnp4o%2FbtrH1AzB25m%2Fqk3o1ospY5Cbx6ouYvd4R0%2Fimg.jpg&amp;title=%EF%BC%9C%EA%B7%B9%EC%9E%A5%ED%8C%90%20%EB%8F%84%EB%9D%BC%EC%97%90%EB%AA%BD%3A%20%EC%A7%84%EA%B5%AC%EC%9D%98%20%EC%9A%B0%EC%A3%BC%EC%86%8C%EC%A0%84%EC%9F%81%20%EB%A6%AC%ED%8B%80%EC%8A%A4%ED%83%80%EC%9B%8C%EC%A6%88%202021%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
@@ -4187,32 +4213,6 @@ Apple TV+
 						<span class="date">2022-07-22</span>
 					</a>]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/czspgo/btrHWv4kLbc/i9xlkc6ME2m21BKHGf0pA0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜굿 럭 투 유, 리오 그랜드＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F07%2Fgoodluckleo_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbGvYsZ%2FbtrHUAyv4Ar%2FHd4OmmKpXjs8qwrMk83kOK%2Fimg.jpg&amp;title=%EF%BC%9C%EA%B5%BF%20%EB%9F%AD%20%ED%88%AC%20%EC%9C%A0%2C%20%EB%A6%AC%EC%98%A4%20%EA%B7%B8%EB%9E%9C%EB%93%9C%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F07%2Fgoodluckleo_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbGvYsZ%2FbtrHUAyv4Ar%2FHd4OmmKpXjs8qwrMk83kOK%2Fimg.jpg&amp;title=%EF%BC%9C%EA%B5%BF%20%EB%9F%AD%20%ED%88%AC%20%EC%9C%A0%2C%20%EB%A6%AC%EC%98%A4%20%EA%B7%B8%EB%9E%9C%EB%93%9C%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=42928">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F07%2Fgoodluckleo_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbGvYsZ%2FbtrHUAyv4Ar%2FHd4OmmKpXjs8qwrMk83kOK%2Fimg.jpg&amp;title=%EF%BC%9C%EA%B5%BF%20%EB%9F%AD%20%ED%88%AC%20%EC%9C%A0%2C%20%EB%A6%AC%EC%98%A4%20%EA%B7%B8%EB%9E%9C%EB%93%9C%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2022/07/goodluckleo_mtr.mp4">
-						<img src="http://k.kakaocdn.net/dn/bGvYsZ/btrHUAyv4Ar/Hd4OmmKpXjs8qwrMk83kOK/img.jpg" alt="" class="thumb">
-						<span class="title">＜굿 럭 투 유, 리오 그랜드＞ 메인 예고편</span>
-						<span class="date">2022-07-22</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bGvYsZ/btrHUAyv4Ar/Hd4OmmKpXjs8qwrMk83kOK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜체리마호＞ 커플이 갈등에 대처하는 방법 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F07%2Fcherrymaho_cctr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FSydfG%2FbtrHOQJdHGB%2Fr6Mv7ARrek3iGHTwXp4Bm0%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B2%B4%EB%A6%AC%EB%A7%88%ED%98%B8%EF%BC%9E%20%EC%BB%A4%ED%94%8C%EC%9D%B4%20%EA%B0%88%EB%93%B1%EC%97%90%20%EB%8C%80%EC%B2%98%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F07%2Fcherrymaho_cctr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FSydfG%2FbtrHOQJdHGB%2Fr6Mv7ARrek3iGHTwXp4Bm0%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B2%B4%EB%A6%AC%EB%A7%88%ED%98%B8%EF%BC%9E%20%EC%BB%A4%ED%94%8C%EC%9D%B4%20%EA%B0%88%EB%93%B1%EC%97%90%20%EB%8C%80%EC%B2%98%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95</guid>
-            <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=42925">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F07%2Fcherrymaho_cctr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FSydfG%2FbtrHOQJdHGB%2Fr6Mv7ARrek3iGHTwXp4Bm0%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B2%B4%EB%A6%AC%EB%A7%88%ED%98%B8%EF%BC%9E%20%EC%BB%A4%ED%94%8C%EC%9D%B4%20%EA%B0%88%EB%93%B1%EC%97%90%20%EB%8C%80%EC%B2%98%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95" data-url="/cine21.com/movie/trailer/2022/07/cherrymaho_cctr.mp4">
-						<img src="http://k.kakaocdn.net/dn/SydfG/btrHOQJdHGB/r6Mv7ARrek3iGHTwXp4Bm0/img.jpg" alt="" class="thumb">
-						<span class="title">＜체리마호＞ 커플이 갈등에 대처하는 방법</span>
-						<span class="date">2022-07-21</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/SydfG/btrHOQJdHGB/r6Mv7ARrek3iGHTwXp4Bm0/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#줌터뷰] 〈이터널스〉 감독은 왜 마동석을 캐스팅했을까? feat.〈승리호〉 조성희 감독 (씨네21 ─ 네이버TV)]]></title>
