@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 23:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 01:28:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0627/13_03_39__62b92c1bdc3a5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뽀로로 극장판 드래곤캐슬 대모험]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59299</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59299</guid>
-            <pubDate>Tue, 12 Jul 2022 15:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-07-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0621/17_03_50__62b17b6696a2c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[초록밤]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58872</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58872</guid>
             <pubDate>Tue, 12 Jul 2022 15:21:23 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-07-28]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0708/11_00_59__62c78fdb499c2[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뽀로로 극장판 드래곤캐슬 대모험]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59299</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59299</guid>
+            <pubDate>Tue, 12 Jul 2022 15:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-07-28]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0621/17_03_50__62b17b6696a2c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임파서블 러브]]></title>
@@ -48,14 +48,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0708/10_21_27__62c78697058c8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 도라에몽: 진구의 우주소전쟁 리틀스타워즈 2021]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59374</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59374</guid>
-            <pubDate>Mon, 18 Jul 2022 06:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0725/12_08_01__62de09113e7da[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[비상선언]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=56284</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=56284</guid>
@@ -64,12 +56,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0718/11_20_14__62d4c35e56d7b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보일링 포인트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59344</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59344</guid>
-            <pubDate>Tue, 12 Jul 2022 15:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0725/18_04_31__62de5c9fa3104[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[극장판 도라에몽: 진구의 우주소전쟁 리틀스타워즈 2021]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59374</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59374</guid>
+            <pubDate>Mon, 18 Jul 2022 06:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0725/12_08_01__62de09113e7da[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베르히만 아일랜드]]></title>
@@ -80,12 +72,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0718/11_44_04__62d4c8f4ba395[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 살아남기 시리즈: 인체에서 살아남기]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59348</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59348</guid>
-            <pubDate>Tue, 19 Jul 2022 15:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0713/15_55_10__62ce6c4e4a80d[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[보일링 포인트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59344</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59344</guid>
+            <pubDate>Tue, 12 Jul 2022 15:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0725/18_04_31__62de5c9fa3104[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DC 리그 오브 슈퍼-펫]]></title>
@@ -104,28 +96,44 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0721/12_07_24__62d8c2ec050c3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[극장판 살아남기 시리즈: 인체에서 살아남기]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59348</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59348</guid>
+            <pubDate>Tue, 19 Jul 2022 15:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0713/15_55_10__62ce6c4e4a80d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바다 탐험대 옥토넛: 탐험선 대작전]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59379</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59379</guid>
+            <pubDate>Wed, 27 Jul 2022 01:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0708/15_27_32__62c7ce547f1ac[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모퉁이]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58880</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58880</guid>
+            <pubDate>Wed, 27 Jul 2022 01:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0721/16_50_06__62d9052e47268[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[굿 럭 투 유, 리오 그랜드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59370</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59370</guid>
+            <pubDate>Tue, 19 Jul 2022 15:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0720/12_15_19__62d773479afe0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카우]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58617</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58617</guid>
             <pubDate>Tue, 26 Jul 2022 04:08:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-08-11]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0725/18_18_10__62de5fd2ee6fc[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멋진 세계]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57616</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57616</guid>
-            <pubDate>Tue, 26 Jul 2022 15:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0714/14_21_06__62cfa7c276163[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유나바머: 테드 K]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59385</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59385</guid>
-            <pubDate>Tue, 26 Jul 2022 15:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0713/18_20_53__62ce8e7567a0a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리볼버]]></title>
@@ -136,20 +144,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0711/10_26_48__62cb7c580eae4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뱅크시]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56465</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56465</guid>
+            <title><![CDATA[멋진 세계]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57616</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57616</guid>
             <pubDate>Tue, 26 Jul 2022 15:21:37 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-08-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0714/56465_62cf7d9b414ae[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[굿 럭 투 유, 리오 그랜드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59370</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59370</guid>
-            <pubDate>Tue, 19 Jul 2022 15:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0720/12_15_19__62d773479afe0[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0714/14_21_06__62cfa7c276163[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
