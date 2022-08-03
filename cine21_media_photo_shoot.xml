@@ -4,9 +4,25 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 23:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 01:29:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감독							정하용 
+							(총1장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=121165</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=121165</guid>
+            <pubDate>Wed, 03 Aug 2022 01:28:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=121165">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2020/0804/16_43_06__5f29118ac3104[X310,210].JPG" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/PpmkC/btqGiq4N31K/3KLM56ggmKgV1lQnB5pNZ0/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							감독							<strong>정하용</strong> 
+							<span class="num">(총1장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/PpmkC/btqGiq4N31K/3KLM56ggmKgV1lQnB5pNZ0/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우							김아현 
 							(총4장)]]></title>
@@ -166,22 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/viS5e/btrs0vEhGHC/vWqkxZYLnDrIkk0FyFNXYK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우							이희준 
-							(총23장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=64045</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=64045</guid>
-            <pubDate>Mon, 01 Aug 2022 17:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=64045">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0210/10_22_39__620468df6a539[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="http://k.kakaocdn.net/dn/cJuCIN/btrsXfvpB8R/TkrceK7Buuv0Hx2vaR3QUk/img.jpg" alt="" class="thumb">
-						<span class="caption">
-							배우							<strong>이희준</strong> 
-							<span class="num">(총23장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/cJuCIN/btrsXfvpB8R/TkrceK7Buuv0Hx2vaR3QUk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
