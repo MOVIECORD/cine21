@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 23:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 01:28:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,20 +70,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0930/18_27_11__615582ef98cdf[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스마일]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59354</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59354</guid>
+            <title><![CDATA[드래곤볼 슈퍼: 슈퍼 히어로(가제)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59263</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59263</guid>
             <pubDate>Mon, 01 Aug 2022 17:27:26 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0628/12_09_28__62ba70e80a6d6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠틀맨]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58369</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58369</guid>
-            <pubDate>Mon, 01 Aug 2022 17:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1111/58369_618c6832108b0[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0513/59263_627df1aae7ea3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모나리자와 블러드 문]]></title>
@@ -102,6 +94,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0215/56067_620af92c7979e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스마일]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59354</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59354</guid>
+            <pubDate>Mon, 01 Aug 2022 17:27:26 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0628/12_09_28__62ba70e80a6d6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[행복의 나라(가제)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57453</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57453</guid>
@@ -117,12 +117,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58254_61a589108d01e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[드래곤볼 슈퍼: 슈퍼 히어로(가제)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59263</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59263</guid>
+            <title><![CDATA[젠틀맨]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58369</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58369</guid>
             <pubDate>Mon, 01 Aug 2022 17:27:26 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0513/59263_627df1aae7ea3[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1111/58369_618c6832108b0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[감동주의보]]></title>
