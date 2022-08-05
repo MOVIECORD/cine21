@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 01:28:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 03:49:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1109/58691_618a1188acdc4[X224,320].JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[모나리자와 블러드 문]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58004</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58004</guid>
+            <pubDate>Mon, 01 Aug 2022 17:27:26 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0729/17_12_41__62e39679f3718[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[젠틀맨]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58369</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58369</guid>
@@ -117,14 +125,6 @@
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[모나리자와 블러드 문]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58004</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58004</guid>
-            <pubDate>Mon, 01 Aug 2022 17:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0729/17_12_41__62e39679f3718[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[가면병동]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=56067</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=56067</guid>
@@ -133,20 +133,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0215/56067_620af92c7979e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[감동주의보]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59192</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59192</guid>
-            <pubDate>Mon, 01 Aug 2022 17:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0607/17_08_02__629f076275971[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뉴 프렌드: 누군가 죽는다]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59281</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59281</guid>
             <pubDate>Mon, 01 Aug 2022 17:27:26 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-06]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0523/59281_628ae87d8a57f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감동주의보]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59192</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59192</guid>
+            <pubDate>Mon, 01 Aug 2022 17:27:26 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0607/17_08_02__629f076275971[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
