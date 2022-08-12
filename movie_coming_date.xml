@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 01:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 03:34:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0722/15_15_55__62da409b0df7f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[육사오(6/45)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57961</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57961</guid>
-            <pubDate>Tue, 09 Aug 2022 16:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0728/12_27_33__62e20225b8e43[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[어웨이크]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59404</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59404</guid>
             <pubDate>Tue, 09 Aug 2022 16:23:47 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-08-24]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0809/14_32_06__62f1f15603ad0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[육사오(6/45)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57961</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57961</guid>
+            <pubDate>Tue, 09 Aug 2022 16:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0728/12_27_33__62e20225b8e43[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[작은새와 돼지씨]]></title>
@@ -112,28 +112,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0803/16_31_02__62ea2436dd974[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[말아]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59428</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59428</guid>
-            <pubDate>Thu, 11 Aug 2022 08:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0809/17_01_57__62f214757a345[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클린]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59442</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59442</guid>
+            <title><![CDATA[귀멸의 칼날: 아사쿠사 편]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59384</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59384</guid>
             <pubDate>Thu, 11 Aug 2022 03:21:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-08-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0729/17_44_37__62e39df52d062[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔젤 하트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=6183</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=6183</guid>
-            <pubDate>Wed, 10 Aug 2022 15:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0719/12_02_46__62d61ed613da8[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0713/17_16_34__62ce7f6237ed3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우먼]]></title>
@@ -144,12 +128,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0804/12_28_16__62eb3cd034fb8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[귀멸의 칼날: 아사쿠사 편]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59384</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59384</guid>
+            <title><![CDATA[클린]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59442</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59442</guid>
             <pubDate>Thu, 11 Aug 2022 03:21:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-08-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0713/17_16_34__62ce7f6237ed3[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0729/17_44_37__62e39df52d062[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[말아]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59428</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59428</guid>
+            <pubDate>Thu, 11 Aug 2022 08:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0809/17_01_57__62f214757a345[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔젤 하트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=6183</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=6183</guid>
+            <pubDate>Wed, 10 Aug 2022 15:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0719/12_02_46__62d61ed613da8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
