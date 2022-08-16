@@ -1,71 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 08:29:02 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[영화 <둠둠> 시사회 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7958</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7958</guid>
-            <pubDate>Mon, 15 Aug 2022 15:24:27 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-08-25 19:30</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>서울아트시네마</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-08-24 10:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0812/16_42_06__62f6044e5eca6[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <영원한 우정으로 1> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7957</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7957</guid>
-            <pubDate>Fri, 12 Aug 2022 01:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-08-22 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/dvd/2022/0812/09_20_42__62f59cdace961[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <한밤의 미스터리 키친> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7956</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7956</guid>
-            <pubDate>Fri, 12 Aug 2022 01:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-08-22 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0812/09_15_48__62f59bb4387e7[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <썬다운> 시사회 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7955</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7955</guid>
-            <pubDate>Fri, 12 Aug 2022 01:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-08-25 20:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-08-23 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0812/09_05_53__62f59961ddd45[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <말아> 시사회 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7954</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7954</guid>
-            <pubDate>Fri, 12 Aug 2022 01:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-08-23 19:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>인디스페이스</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-08-22 10:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/0812/08_56_20__62f59724087f8[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <궤변 말하기 대회> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7953</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7953</guid>
-            <pubDate>Tue, 09 Aug 2022 04:45:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-08-23 17:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0805/17_40_14__62ecd76e2f8de[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://www.cine21.com/event/list</id>
+    <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
+    <updated>2022-08-16T09:18:54.238Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://www.cine21.com/event/favicon.ico</icon>
+</feed>
