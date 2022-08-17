@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 01:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 06:28:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,21 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0507/17_34_43__5eb3c823de6d0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이캡틴]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57530</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57530</guid>
+            <pubDate>Tue, 16 Aug 2022 16:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">마이캡틴</span>
+		
+
+									<span class="director">감독 : 최진성</span>
+											<span class="actor">배우 : 박성웅</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[노량: 죽음의 바다]]></title>
@@ -85,22 +100,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1116/58718_619303f6988b6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정직한 후보2]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58719</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58719</guid>
-            <pubDate>Tue, 16 Aug 2022 16:28:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">정직한 후보2</span>
-		
-
-									<span class="director">감독 : 장유정</span>
-											<span class="actor">배우 : 라미란,김무열</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1117/58719_6194b80b43fa5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도그데이즈(가제)]]></title>
@@ -179,21 +178,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0221/58978_62134186f0726[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이캡틴]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57530</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57530</guid>
-            <pubDate>Tue, 16 Aug 2022 16:28:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">마이캡틴</span>
-		
-
-									<span class="director">감독 : 최진성</span>
-											<span class="actor">배우 : 박성웅</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[비광]]></title>
@@ -288,6 +272,22 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0417/16_35_21__5e995c3949ab1[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소방관]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56448</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56448</guid>
+            <pubDate>Wed, 17 Aug 2022 06:26:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">소방관</span>
+		
+
+									<span class="director">감독 : 곽경택</span>
+											<span class="actor">배우 : 곽도원,주원</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0602/16_46_14__5ed603c6be516[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
