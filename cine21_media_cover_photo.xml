@@ -4,9 +4,17 @@
         <title>씨네21 ─ 멀티미디어 ─ 커버 ─ 사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 22:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 05:31:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No.1370]]></title>
+            <link>https://image.cine21.com/resize/cine21/poster/2022/0819/10_39_14__62fee9c2f1daa[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/poster/2022/0819/10_39_14__62fee9c2f1daa[H800-].jpg</guid>
+            <pubDate>Fri, 19 Aug 2022 05:31:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022-08-23~2022-08-30]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0819/10_39_14__62fee9c2f1daa[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[No.1369]]></title>
             <link>https://image.cine21.com/resize/cine21/still/2022/0812/09_57_46__62f5a58aa72ae[H800-].jpg</link>
@@ -70,14 +78,6 @@
             <pubDate>Tue, 16 Aug 2022 10:30:29 GMT</pubDate>
             <content:encoded><![CDATA[2022-06-28~2022-07-05]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/person/2022/0624/10_24_16__62b51240a7964[X300,360].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No.1361]]></title>
-            <link>https://image.cine21.com/resize/cine21/movie/2022/0617/11_04_02__62abe1123a6f4[H800-].jpg</link>
-            <guid>https://image.cine21.com/resize/cine21/movie/2022/0617/11_04_02__62abe1123a6f4[H800-].jpg</guid>
-            <pubDate>Tue, 16 Aug 2022 10:30:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022-06-21~2022-06-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0617/11_04_02__62abe1123a6f4[X300,360].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
