@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 19:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 04:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3034,14 +3034,6 @@ CGV명동역 씨네라이브러리는 5관 모두 예술영화 전용 상영관�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0804/14_33_08__62eb5a14b430e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어웨이크 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59404</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59404</guid>
-            <pubDate>Tue, 09 Aug 2022 16:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0809/14_32_06__62f1f15603ad0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[큐브 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59343</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59343</guid>
@@ -3058,14 +3050,6 @@ CGV명동역 씨네라이브러리는 5관 모두 예술영화 전용 상영관�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0817/15_48_55__62fc8f57c993a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[파라다이스 하이웨이 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59405</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59405</guid>
-            <pubDate>Fri, 19 Aug 2022 07:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0819/15_50_20__62ff32ac6e746[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[육사오(6/45) (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57961</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57961</guid>
@@ -3074,12 +3058,20 @@ CGV명동역 씨네라이브러리는 5관 모두 예술영화 전용 상영관�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0728/12_27_33__62e20225b8e43[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코코순이 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58303</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58303</guid>
-            <pubDate>Wed, 17 Aug 2022 15:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0706/14_11_33__62c519857c583[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[어웨이크 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59404</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59404</guid>
+            <pubDate>Tue, 09 Aug 2022 16:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0809/14_32_06__62f1f15603ad0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파라다이스 하이웨이 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59405</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59405</guid>
+            <pubDate>Fri, 19 Aug 2022 07:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0819/15_50_20__62ff32ac6e746[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[말아 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3090,20 +3082,20 @@ CGV명동역 씨네라이브러리는 5관 모두 예술영화 전용 상영관�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0809/17_01_57__62f214757a345[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사랑할 땐 누구나 최악이 된다 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58655</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58655</guid>
-            <pubDate>Wed, 17 Aug 2022 15:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0804/14_54_05__62eb5efd98c9b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[클린 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59442</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59442</guid>
             <pubDate>Thu, 11 Aug 2022 03:21:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-08-25]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0729/17_44_37__62e39df52d062[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑할 땐 누구나 최악이 된다 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58655</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58655</guid>
+            <pubDate>Wed, 17 Aug 2022 15:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0804/14_54_05__62eb5efd98c9b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우먼 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3114,28 +3106,28 @@ CGV명동역 씨네라이브러리는 5관 모두 예술영화 전용 상영관�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0804/12_28_16__62eb3cd034fb8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[귀멸의 칼날: 아사쿠사 편 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59384</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59384</guid>
+            <pubDate>Thu, 11 Aug 2022 03:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0713/17_16_34__62ce7f6237ed3[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코코순이 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58303</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58303</guid>
+            <pubDate>Wed, 17 Aug 2022 15:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0706/14_11_33__62c519857c583[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인플루엔자 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57980</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57980</guid>
             <pubDate>Wed, 17 Aug 2022 15:22:39 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-08-25]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0805/16_40_49__62ecc981345a9[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔젤 하트 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=6183</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=6183</guid>
-            <pubDate>Wed, 17 Aug 2022 15:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0719/12_02_46__62d61ed613da8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파나마 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59390</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59390</guid>
-            <pubDate>Thu, 18 Aug 2022 10:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0809/14_46_05__62f1f49d50e67[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[작은새와 돼지씨 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3146,12 +3138,20 @@ CGV명동역 씨네라이브러리는 5관 모두 예술영화 전용 상영관�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0803/16_31_02__62ea2436dd974[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[귀멸의 칼날: 아사쿠사 편 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59384</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59384</guid>
-            <pubDate>Thu, 11 Aug 2022 03:21:55 GMT</pubDate>
+            <title><![CDATA[파나마 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59390</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59390</guid>
+            <pubDate>Thu, 18 Aug 2022 10:24:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-08-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0713/17_16_34__62ce7f6237ed3[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0809/14_46_05__62f1f49d50e67[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔젤 하트 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=6183</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=6183</guid>
+            <pubDate>Wed, 17 Aug 2022 15:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0719/12_02_46__62d61ed613da8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈퍼 후? (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3162,12 +3162,12 @@ CGV명동역 씨네라이브러리는 5관 모두 예술영화 전용 상영관�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0822/18_11_03__630348279264f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[K클래식 제너레이션 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59506</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59506</guid>
-            <pubDate>Mon, 22 Aug 2022 08:26:29 GMT</pubDate>
+            <title><![CDATA[락다운 213주 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59403</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59403</guid>
+            <pubDate>Tue, 23 Aug 2022 04:15:57 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-08-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0822/18_54_10__6303524231b1a[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0805/15_15_51__62ecb597ba98b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시맨틱 에러: 더 무비 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3311,12 +3311,12 @@ CGV명동역 씨네라이브러리는 5관 모두 예술영화 전용 상영관�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0623/15_06_46__62b402f63067c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블레이드 퍼피 워리어 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59207</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59207</guid>
-            <pubDate>Mon, 22 Aug 2022 08:26:52 GMT</pubDate>
+            <title><![CDATA[다크 웹 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59504</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59504</guid>
+            <pubDate>Tue, 23 Aug 2022 04:16:15 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0509/59207_6278af8cce7fa[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/14_10_06__62f48f2e3b691[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드림 (가제) (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
@@ -3639,6 +3639,26 @@ CGV명동역 씨네라이브러리는 5관 모두 예술영화 전용 상영관�
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0812/16_42_06__62f6044e5eca6[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[도서 <궤변 말하기 대회> 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8396&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8396&amp;p=1</guid>
+            <pubDate>Tue, 23 Aug 2022 04:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-08-23 17:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0805/17_40_14__62ecd76e2f8de[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 <썬다운> 시사회 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8395&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8395&amp;p=1</guid>
+            <pubDate>Tue, 23 Aug 2022 04:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-08-25 20:00:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-08-23 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0812/09_05_53__62f59961ddd45[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[도서 <한밤의 미스터리 키친> 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
             <link>https://www.cine21.com/misc/cs/notice_view/?article_no=8393&amp;p=1</link>
             <guid>https://www.cine21.com/misc/cs/notice_view/?article_no=8393&amp;p=1</guid>
@@ -3724,26 +3744,6 @@ CGV명동역 씨네라이브러리는 5관 모두 예술영화 전용 상영관�
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-08-09 16:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/still/2022/0719/16_33_58__62d65e6664157[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <운빨로맨스> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8385&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8385&amp;p=1</guid>
-            <pubDate>Tue, 09 Aug 2022 04:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-08-09 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/0722/11_33_25__62da0c757ea46[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <굿 럭 투 유, 리오 그랜드> 시사회 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8384</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8384</guid>
-            <pubDate>Tue, 16 Aug 2022 10:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-08-11 19:30:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-08-08 15:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/0722/15_51_40__62da48fcd3d29[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[No.1370 (씨네21 ─ 멀티미디어 ─ 커버 ─ 사진)]]></title>
@@ -3994,6 +3994,58 @@ CGV명동역 씨네라이브러리는 5관 모두 예술영화 전용 상영관�
             <enclosure url="http://k.kakaocdn.net/dn/viS5e/btrs0vEhGHC/vWqkxZYLnDrIkk0FyFNXYK/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[＜부적: 남의 운을 빼앗는 자＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F08%2Fbujeok_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcNqAgE%2FbtrKlU1R3wC%2F6s84C0iVsMAYhidMp9PiMK%2Fimg.jpg&amp;title=%EF%BC%9C%EB%B6%80%EC%A0%81%3A%20%EB%82%A8%EC%9D%98%20%EC%9A%B4%EC%9D%84%20%EB%B9%BC%EC%95%97%EB%8A%94%20%EC%9E%90%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F08%2Fbujeok_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcNqAgE%2FbtrKlU1R3wC%2F6s84C0iVsMAYhidMp9PiMK%2Fimg.jpg&amp;title=%EF%BC%9C%EB%B6%80%EC%A0%81%3A%20%EB%82%A8%EC%9D%98%20%EC%9A%B4%EC%9D%84%20%EB%B9%BC%EC%95%97%EB%8A%94%20%EC%9E%90%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Tue, 23 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43077">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F08%2Fbujeok_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcNqAgE%2FbtrKlU1R3wC%2F6s84C0iVsMAYhidMp9PiMK%2Fimg.jpg&amp;title=%EF%BC%9C%EB%B6%80%EC%A0%81%3A%20%EB%82%A8%EC%9D%98%20%EC%9A%B4%EC%9D%84%20%EB%B9%BC%EC%95%97%EB%8A%94%20%EC%9E%90%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2022/08/bujeok_mtr.mp4">
+						<img src="http://k.kakaocdn.net/dn/cNqAgE/btrKlU1R3wC/6s84C0iVsMAYhidMp9PiMK/img.jpg" alt="" class="thumb">
+						<span class="title">＜부적: 남의 운을 빼앗는 자＞ 메인 예고편</span>
+						<span class="date">2022-08-23</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cNqAgE/btrKlU1R3wC/6s84C0iVsMAYhidMp9PiMK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜성적표의 김민영＞ 런칭 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F08%2Fminyoung_ltr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbSXUJB%2FbtrKlUANuP4%2FcFjo6lhGprv8iFh91gT2ek%2Fimg.jpg&amp;title=%EF%BC%9C%EC%84%B1%EC%A0%81%ED%91%9C%EC%9D%98%20%EA%B9%80%EB%AF%BC%EC%98%81%EF%BC%9E%20%EB%9F%B0%EC%B9%AD%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F08%2Fminyoung_ltr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbSXUJB%2FbtrKlUANuP4%2FcFjo6lhGprv8iFh91gT2ek%2Fimg.jpg&amp;title=%EF%BC%9C%EC%84%B1%EC%A0%81%ED%91%9C%EC%9D%98%20%EA%B9%80%EB%AF%BC%EC%98%81%EF%BC%9E%20%EB%9F%B0%EC%B9%AD%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Tue, 23 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43076">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F08%2Fminyoung_ltr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbSXUJB%2FbtrKlUANuP4%2FcFjo6lhGprv8iFh91gT2ek%2Fimg.jpg&amp;title=%EF%BC%9C%EC%84%B1%EC%A0%81%ED%91%9C%EC%9D%98%20%EA%B9%80%EB%AF%BC%EC%98%81%EF%BC%9E%20%EB%9F%B0%EC%B9%AD%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2022/08/minyoung_ltr.mp4">
+						<img src="http://k.kakaocdn.net/dn/bSXUJB/btrKlUANuP4/cFjo6lhGprv8iFh91gT2ek/img.jpg" alt="" class="thumb">
+						<span class="title">＜성적표의 김민영＞ 런칭 예고편</span>
+						<span class="date">2022-08-23</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bSXUJB/btrKlUANuP4/cFjo6lhGprv8iFh91gT2ek/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜헌트＞ 글로벌 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F08%2Fh1unt_gtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdgCRWb%2FbtrKlaX98xz%2FuWRB6A5FXx5pWUHSimd27k%2Fimg.jpg&amp;title=%EF%BC%9C%ED%97%8C%ED%8A%B8%EF%BC%9E%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F08%2Fh1unt_gtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdgCRWb%2FbtrKlaX98xz%2FuWRB6A5FXx5pWUHSimd27k%2Fimg.jpg&amp;title=%EF%BC%9C%ED%97%8C%ED%8A%B8%EF%BC%9E%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Tue, 23 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43075">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F08%2Fh1unt_gtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdgCRWb%2FbtrKlaX98xz%2FuWRB6A5FXx5pWUHSimd27k%2Fimg.jpg&amp;title=%EF%BC%9C%ED%97%8C%ED%8A%B8%EF%BC%9E%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2022/08/h1unt_gtr.mp4">
+						<img src="http://k.kakaocdn.net/dn/dgCRWb/btrKlaX98xz/uWRB6A5FXx5pWUHSimd27k/img.jpg" alt="" class="thumb">
+						<span class="title">＜헌트＞ 글로벌 예고편</span>
+						<span class="date">2022-08-23</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/dgCRWb/btrKlaX98xz/uWRB6A5FXx5pWUHSimd27k/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜헌트＞ 액팅 미션 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F08%2Fhunt_ammk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FmUuYh%2FbtrKmM3zhCL%2FWJaHf5h4FacDaKGO4M4ej0%2Fimg.jpg&amp;title=%EF%BC%9C%ED%97%8C%ED%8A%B8%EF%BC%9E%20%EC%95%A1%ED%8C%85%20%EB%AF%B8%EC%85%98%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F08%2Fhunt_ammk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FmUuYh%2FbtrKmM3zhCL%2FWJaHf5h4FacDaKGO4M4ej0%2Fimg.jpg&amp;title=%EF%BC%9C%ED%97%8C%ED%8A%B8%EF%BC%9E%20%EC%95%A1%ED%8C%85%20%EB%AF%B8%EC%85%98%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Tue, 23 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43074">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F08%2Fhunt_ammk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FmUuYh%2FbtrKmM3zhCL%2FWJaHf5h4FacDaKGO4M4ej0%2Fimg.jpg&amp;title=%EF%BC%9C%ED%97%8C%ED%8A%B8%EF%BC%9E%20%EC%95%A1%ED%8C%85%20%EB%AF%B8%EC%85%98%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2022/08/hunt_ammk.mp4">
+						<img src="http://k.kakaocdn.net/dn/mUuYh/btrKmM3zhCL/WJaHf5h4FacDaKGO4M4ej0/img.jpg" alt="" class="thumb">
+						<span class="title">＜헌트＞ 액팅 미션 영상</span>
+						<span class="date">2022-08-23</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/mUuYh/btrKmM3zhCL/WJaHf5h4FacDaKGO4M4ej0/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[＜K클래식 제너레이션＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F08%2Fkclassic_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fmvwp2%2FbtrKlU8liba%2FKsBJ7BlrK8fbmH8WpRUo8K%2Fimg.jpg&amp;title=%EF%BC%9CK%ED%81%B4%EB%9E%98%EC%8B%9D%20%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%EC%85%98%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
             <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F08%2Fkclassic_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fmvwp2%2FbtrKlU8liba%2FKsBJ7BlrK8fbmH8WpRUo8K%2Fimg.jpg&amp;title=%EF%BC%9CK%ED%81%B4%EB%9E%98%EC%8B%9D%20%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%EC%85%98%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
@@ -4148,58 +4200,6 @@ CGV명동역 씨네라이브러리는 5관 모두 예술영화 전용 상영관�
 						<span class="date">2022-08-19</span>
 					</a>]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/csAQTE/btrJ3Ao9LhE/J2fxnMb3UrfsRsIABcd4d0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜파로호＞ 이중옥 배우 미니 인터뷰 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F08%2Fdrown_milmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FlAZgu%2FbtrJ3ApamXM%2FfgkJfNCzmKhzaFNkHpvKs1%2Fimg.jpg&amp;title=%EF%BC%9C%ED%8C%8C%EB%A1%9C%ED%98%B8%EF%BC%9E%20%EC%9D%B4%EC%A4%91%EC%98%A5%20%EB%B0%B0%EC%9A%B0%20%EB%AF%B8%EB%8B%88%20%EC%9D%B8%ED%84%B0%EB%B7%B0</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F08%2Fdrown_milmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FlAZgu%2FbtrJ3ApamXM%2FfgkJfNCzmKhzaFNkHpvKs1%2Fimg.jpg&amp;title=%EF%BC%9C%ED%8C%8C%EB%A1%9C%ED%98%B8%EF%BC%9E%20%EC%9D%B4%EC%A4%91%EC%98%A5%20%EB%B0%B0%EC%9A%B0%20%EB%AF%B8%EB%8B%88%20%EC%9D%B8%ED%84%B0%EB%B7%B0</guid>
-            <pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43053">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F08%2Fdrown_milmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FlAZgu%2FbtrJ3ApamXM%2FfgkJfNCzmKhzaFNkHpvKs1%2Fimg.jpg&amp;title=%EF%BC%9C%ED%8C%8C%EB%A1%9C%ED%98%B8%EF%BC%9E%20%EC%9D%B4%EC%A4%91%EC%98%A5%20%EB%B0%B0%EC%9A%B0%20%EB%AF%B8%EB%8B%88%20%EC%9D%B8%ED%84%B0%EB%B7%B0" data-url="/cine21.com/movie/making/2022/08/drown_milmk.mp4">
-						<img src="http://k.kakaocdn.net/dn/lAZgu/btrJ3ApamXM/fgkJfNCzmKhzaFNkHpvKs1/img.jpg" alt="" class="thumb">
-						<span class="title">＜파로호＞ 이중옥 배우 미니 인터뷰</span>
-						<span class="date">2022-08-19</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/lAZgu/btrJ3ApamXM/fgkJfNCzmKhzaFNkHpvKs1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜파로호＞ 임상수 감독님 미니 인터뷰 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F08%2Fdrown_midmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FEr2ad%2FbtrJYfUDoAH%2Ff0UZEExGVpEQ6aK6dAppAk%2Fimg.jpg&amp;title=%EF%BC%9C%ED%8C%8C%EB%A1%9C%ED%98%B8%EF%BC%9E%20%EC%9E%84%EC%83%81%EC%88%98%20%EA%B0%90%EB%8F%85%EB%8B%98%20%EB%AF%B8%EB%8B%88%20%EC%9D%B8%ED%84%B0%EB%B7%B0</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F08%2Fdrown_midmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FEr2ad%2FbtrJYfUDoAH%2Ff0UZEExGVpEQ6aK6dAppAk%2Fimg.jpg&amp;title=%EF%BC%9C%ED%8C%8C%EB%A1%9C%ED%98%B8%EF%BC%9E%20%EC%9E%84%EC%83%81%EC%88%98%20%EA%B0%90%EB%8F%85%EB%8B%98%20%EB%AF%B8%EB%8B%88%20%EC%9D%B8%ED%84%B0%EB%B7%B0</guid>
-            <pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43052">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F08%2Fdrown_midmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FEr2ad%2FbtrJYfUDoAH%2Ff0UZEExGVpEQ6aK6dAppAk%2Fimg.jpg&amp;title=%EF%BC%9C%ED%8C%8C%EB%A1%9C%ED%98%B8%EF%BC%9E%20%EC%9E%84%EC%83%81%EC%88%98%20%EA%B0%90%EB%8F%85%EB%8B%98%20%EB%AF%B8%EB%8B%88%20%EC%9D%B8%ED%84%B0%EB%B7%B0" data-url="/cine21.com/movie/making/2022/08/drown_midmk.mp4">
-						<img src="http://k.kakaocdn.net/dn/Er2ad/btrJYfUDoAH/f0UZEExGVpEQ6aK6dAppAk/img.jpg" alt="" class="thumb">
-						<span class="title">＜파로호＞ 임상수 감독님 미니 인터뷰</span>
-						<span class="date">2022-08-19</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/Er2ad/btrJYfUDoAH/f0UZEExGVpEQ6aK6dAppAk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜코코순이＞ 최태성 큰별쌤 강력 추천 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F08%2Fkoko_crmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FMU5PC%2FbtrJ2niFNHc%2FuXxrvbJV58em22O4y7bjQk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%BD%94%EC%BD%94%EC%88%9C%EC%9D%B4%EF%BC%9E%20%EC%B5%9C%ED%83%9C%EC%84%B1%20%ED%81%B0%EB%B3%84%EC%8C%A4%20%EA%B0%95%EB%A0%A5%20%EC%B6%94%EC%B2%9C%20%EC%98%81%EC%83%81</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F08%2Fkoko_crmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FMU5PC%2FbtrJ2niFNHc%2FuXxrvbJV58em22O4y7bjQk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%BD%94%EC%BD%94%EC%88%9C%EC%9D%B4%EF%BC%9E%20%EC%B5%9C%ED%83%9C%EC%84%B1%20%ED%81%B0%EB%B3%84%EC%8C%A4%20%EA%B0%95%EB%A0%A5%20%EC%B6%94%EC%B2%9C%20%EC%98%81%EC%83%81</guid>
-            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43051">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F08%2Fkoko_crmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FMU5PC%2FbtrJ2niFNHc%2FuXxrvbJV58em22O4y7bjQk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%BD%94%EC%BD%94%EC%88%9C%EC%9D%B4%EF%BC%9E%20%EC%B5%9C%ED%83%9C%EC%84%B1%20%ED%81%B0%EB%B3%84%EC%8C%A4%20%EA%B0%95%EB%A0%A5%20%EC%B6%94%EC%B2%9C%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2022/08/koko_crmk.mp4">
-						<img src="http://k.kakaocdn.net/dn/MU5PC/btrJ2niFNHc/uXxrvbJV58em22O4y7bjQk/img.jpg" alt="" class="thumb">
-						<span class="title">＜코코순이＞ 최태성 큰별쌤 강력 추천 영상</span>
-						<span class="date">2022-08-18</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/MU5PC/btrJ2niFNHc/uXxrvbJV58em22O4y7bjQk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜히즈 아웃 데어＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F08%2Fhesout_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbO9GH1%2FbtrJYxUy9DR%2FXTyLbKadocxUpgdySlfKFk%2Fimg.jpg&amp;title=%EF%BC%9C%ED%9E%88%EC%A6%88%20%EC%95%84%EC%9B%83%20%EB%8D%B0%EC%96%B4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F08%2Fhesout_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbO9GH1%2FbtrJYxUy9DR%2FXTyLbKadocxUpgdySlfKFk%2Fimg.jpg&amp;title=%EF%BC%9C%ED%9E%88%EC%A6%88%20%EC%95%84%EC%9B%83%20%EB%8D%B0%EC%96%B4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43050">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F08%2Fhesout_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbO9GH1%2FbtrJYxUy9DR%2FXTyLbKadocxUpgdySlfKFk%2Fimg.jpg&amp;title=%EF%BC%9C%ED%9E%88%EC%A6%88%20%EC%95%84%EC%9B%83%20%EB%8D%B0%EC%96%B4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2022/08/hesout_mtr.mp4">
-						<img src="http://k.kakaocdn.net/dn/bO9GH1/btrJYxUy9DR/XTyLbKadocxUpgdySlfKFk/img.jpg" alt="" class="thumb">
-						<span class="title">＜히즈 아웃 데어＞ 메인 예고편</span>
-						<span class="date">2022-08-18</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bO9GH1/btrJYxUy9DR/XTyLbKadocxUpgdySlfKFk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#줌터뷰] 〈이터널스〉 감독은 왜 마동석을 캐스팅했을까? feat.〈승리호〉 조성희 감독 (씨네21 ─ 네이버TV)]]></title>
