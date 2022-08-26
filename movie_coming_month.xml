@@ -4,13 +4,13 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 07:32:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 10:26:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[같은 속옷을 입는 두 여자]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58862</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58862</guid>
+            <title><![CDATA[행복의 나라(가제)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57453</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57453</guid>
             <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
         </item>
@@ -63,6 +63,13 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0217/16_33_37__620dfa51225f0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[같은 속옷을 입는 두 여자]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58862</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58862</guid>
+            <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[데드맨]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58691</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58691</guid>
@@ -103,13 +110,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0215/56067_620af92c7979e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[행복의 나라(가제)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57453</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57453</guid>
-            <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[감동주의보]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59192</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59192</guid>
@@ -134,19 +134,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0623/15_06_46__62b402f63067c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[노스맨]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59335</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59335</guid>
-            <pubDate>Fri, 26 Aug 2022 04:25:25 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[울프 하운드]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59450</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59450</guid>
             <pubDate>Fri, 26 Aug 2022 04:25:25 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-08]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0802/17_54_46__62e8e65610d58[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블레이드 퍼피 워리어]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59207</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59207</guid>
+            <pubDate>Fri, 26 Aug 2022 10:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0509/59207_6278af8cce7fa[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
