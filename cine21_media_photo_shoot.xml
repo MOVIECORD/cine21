@@ -4,9 +4,25 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 04:30:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 08:30:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감독							이승준 
+							(총3장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=83594</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=83594</guid>
+            <pubDate>Tue, 30 Aug 2022 08:30:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=83594">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2016/0531/17_43_53__574d4ec96985d[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/rRUAt/btqkgjsBwYz/ahkvStwFxgKSI5MOO57P2K/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							감독							<strong>이승준</strong> 
+							<span class="num">(총3장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/rRUAt/btqkgjsBwYz/ahkvStwFxgKSI5MOO57P2K/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감독							정하용 
 							(총1장)]]></title>
@@ -166,22 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/b9aX6S/btrsYHLLVOs/DofcLq86YY3V6WmXdq1vT0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우							고수 
-							(총31장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=20340</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=20340</guid>
-            <pubDate>Tue, 16 Aug 2022 10:31:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=20340">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0210/10_23_41__6204691d5021e[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="http://k.kakaocdn.net/dn/viS5e/btrs0vEhGHC/vWqkxZYLnDrIkk0FyFNXYK/img.jpg" alt="" class="thumb">
-						<span class="caption">
-							배우							<strong>고수</strong> 
-							<span class="num">(총31장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/viS5e/btrs0vEhGHC/vWqkxZYLnDrIkk0FyFNXYK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
