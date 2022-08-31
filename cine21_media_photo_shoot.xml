@@ -4,9 +4,25 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 06:37:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 07:46:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감독							최진성 
+							(총8장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=18935</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=18935</guid>
+            <pubDate>Wed, 31 Aug 2022 07:46:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=18935">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2021/0125/12_15_19__600e37c77b781[X310,210].JPG" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/bYQmTo/btqUGTGfSQJ/MoZ4do7QUFeP98X8FzMC01/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							감독							<strong>최진성</strong> 
+							<span class="num">(총8장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bYQmTo/btqUGTGfSQJ/MoZ4do7QUFeP98X8FzMC01/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감독							이승준 
 							(총3장)]]></title>
@@ -166,22 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/dkZWqL/btrs0uFofkX/1kvkP97GRaWC2wbm0wKJpK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우							박지후 
-							(총8장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=108062</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=108062</guid>
-            <pubDate>Tue, 16 Aug 2022 10:31:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=108062">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0210/10_25_06__620469728ec81[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="http://k.kakaocdn.net/dn/b9aX6S/btrsYHLLVOs/DofcLq86YY3V6WmXdq1vT0/img.jpg" alt="" class="thumb">
-						<span class="caption">
-							배우							<strong>박지후</strong> 
-							<span class="num">(총8장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/b9aX6S/btrsYHLLVOs/DofcLq86YY3V6WmXdq1vT0/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
