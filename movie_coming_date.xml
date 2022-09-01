@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 06:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 08:29:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0728/18_24_30__62e255ce57e78[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한여름밤의 재즈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59373</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59373</guid>
-            <pubDate>Tue, 30 Aug 2022 08:27:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0819/12_18_50__62ff011a6ca83[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[성적표의 김민영]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57982</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57982</guid>
             <pubDate>Tue, 30 Aug 2022 15:22:37 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09-08]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0823/10_46_34__6304317a9af92[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한여름밤의 재즈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59373</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59373</guid>
+            <pubDate>Tue, 30 Aug 2022 08:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0819/12_18_50__62ff011a6ca83[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노후자금이 없어!]]></title>
@@ -118,6 +118,14 @@
             <pubDate>Tue, 30 Aug 2022 15:22:37 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09-14]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0830/17_12_38__630dc6765a29a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비스트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59563</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59563</guid>
+            <pubDate>Thu, 01 Sep 2022 08:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0901/16_59_46__631066721b850[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홈리스]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 31 Aug 2022 19:19:51 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09-15]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0715/12_37_06__62d0e0e2da3cd[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[둠둠]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59388</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59388</guid>
-            <pubDate>Wed, 31 Aug 2022 19:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/12_43_38__62f47aea1bcb4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
