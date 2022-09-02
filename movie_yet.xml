@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 07:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 09:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,21 +22,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0507/17_34_43__5eb3c823de6d0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이캡틴]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57530</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57530</guid>
-            <pubDate>Tue, 16 Aug 2022 16:28:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">마이캡틴</span>
-		
-
-									<span class="director">감독 : 최진성</span>
-											<span class="actor">배우 : 박성웅</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[노량: 죽음의 바다]]></title>
@@ -180,6 +165,37 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0221/58978_62134186f0726[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[잠]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59149</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59149</guid>
+            <pubDate>Fri, 02 Sep 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">잠</span>
+		
+
+									<span class="director">감독 : 유재선</span>
+											<span class="actor">배우 : 정유미,이선균</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0421/59149_6260b83e5efa6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이캡틴]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57530</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57530</guid>
+            <pubDate>Tue, 16 Aug 2022 16:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">마이캡틴</span>
+		
+
+									<span class="director">감독 : 최진성</span>
+											<span class="actor">배우 : 박성웅</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[비광]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57492</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57492</guid>
@@ -272,22 +288,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0417/16_35_21__5e995c3949ab1[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소방관]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56448</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56448</guid>
-            <pubDate>Wed, 17 Aug 2022 06:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">소방관</span>
-		
-
-									<span class="director">감독 : 곽경택</span>
-											<span class="actor">배우 : 곽도원,주원</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0602/16_46_14__5ed603c6be516[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
