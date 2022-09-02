@@ -4,9 +4,25 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 01:31:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 07:32:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우							신주환 
+							(총2장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=96656</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=96656</guid>
+            <pubDate>Fri, 02 Sep 2022 07:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=96656">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2014/1127/10_53_42__5476842627a80[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/b4T9Tc/btqkBlSWJXk/lQcA1pIVFENFf9xhLe5LKk/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>신주환</strong> 
+							<span class="num">(총2장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/b4T9Tc/btqkBlSWJXk/lQcA1pIVFENFf9xhLe5LKk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감독							최진성 
 							(총8장)]]></title>
@@ -166,22 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/Ics8K/btrsXf3hi6p/KTql4TVzIUj1JI4aWYsBO1/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우							윤찬영 
-							(총15장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=96298</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=96298</guid>
-            <pubDate>Tue, 16 Aug 2022 10:31:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=96298">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0210/10_26_27__620469c3dbda7[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="http://k.kakaocdn.net/dn/dkZWqL/btrs0uFofkX/1kvkP97GRaWC2wbm0wKJpK/img.jpg" alt="" class="thumb">
-						<span class="caption">
-							배우							<strong>윤찬영</strong> 
-							<span class="num">(총15장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/dkZWqL/btrs0uFofkX/1kvkP97GRaWC2wbm0wKJpK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
