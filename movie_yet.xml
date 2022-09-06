@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 06:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 21:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -181,6 +181,21 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0421/59149_6260b83e5efa6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[성스러운 거미]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59604</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59604</guid>
+            <pubDate>Tue, 06 Sep 2022 21:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">성스러운 거미</span>
+		
+
+									<span class="director">감독 : 알리 아바시</span>
+											<span class="actor">배우 : 자흐라 아미르 에브라히미,메흐디 바제스타니</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[마이캡틴]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57530</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57530</guid>
@@ -205,21 +220,6 @@
 
 									<span class="director">감독 : 이지원</span>
 											<span class="actor">배우 : 류승룡,하지원</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[승부]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57457</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57457</guid>
-            <pubDate>Tue, 16 Aug 2022 16:28:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">승부</span>
-		
-
-									<span class="director">감독 : 김형주</span>
-											<span class="actor">배우 : 유아인,이병헌</span>
 		
 		
 							<span class="btn_detail">자세히 보기</span>
