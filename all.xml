@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 10:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 19:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2759,20 +2759,44 @@ OTT 통합 포털 서비스로 축적한 메타 DB의 강점을 살려 태그를
             <enclosure url="http://k.kakaocdn.net/dn/MTE3i/btrKOh49B1g/ot05BddZEXcRwJw9FeFAuk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다 잘된 거야 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58598</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58598</guid>
-            <pubDate>Wed, 24 Aug 2022 16:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0818/11_46_20__62fda7fca251f[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[노후자금이 없어! (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59579</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59579</guid>
+            <pubDate>Tue, 30 Aug 2022 15:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0826/18_31_25__630892ed662fa[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블레이즈 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59347</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59347</guid>
-            <pubDate>Wed, 24 Aug 2022 16:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0824/15_30_26__6305c582e7758[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[어쩌다 공주, 닭냥이 왕자를 부탁해! (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59378</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59378</guid>
+            <pubDate>Tue, 30 Aug 2022 08:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0728/18_24_30__62e255ce57e78[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성적표의 김민영 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57982</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57982</guid>
+            <pubDate>Tue, 30 Aug 2022 15:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0823/10_46_34__6304317a9af92[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한여름밤의 재즈 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59373</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59373</guid>
+            <pubDate>Tue, 30 Aug 2022 08:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0819/12_18_50__62ff011a6ca83[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 엄마 까투리: 도시로 간 까투리 가족 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59434</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59434</guid>
+            <pubDate>Tue, 30 Aug 2022 15:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0823/16_19_06__63047f6aca279[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쥬라기캅스 극장판: 공룡시대 대모험 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2783,6 +2807,14 @@ OTT 통합 포털 서비스로 축적한 메타 DB의 강점을 살려 태그를
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0824/14_19_40__6305b4ec74a92[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[공조2: 인터내셔날 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57553</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57553</guid>
+            <pubDate>Wed, 24 Aug 2022 16:27:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-07]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0826/12_30_09__63083e410eb65[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[모가디슈 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57275</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57275</guid>
@@ -2791,12 +2823,12 @@ OTT 통합 포털 서비스로 축적한 메타 DB의 강점을 살려 태그를
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0825/57275_6125e1f110d88[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[부적: 남의 운을 빼앗는 자 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59560</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59560</guid>
+            <title><![CDATA[블레이즈 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59347</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59347</guid>
             <pubDate>Wed, 24 Aug 2022 16:27:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0818/18_10_04__62fe01ecbb100[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0824/15_30_26__6305c582e7758[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블랙폰 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2807,6 +2839,22 @@ OTT 통합 포털 서비스로 축적한 메타 DB의 강점을 살려 태그를
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0907/15_01_56__631833d4bd743[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[부적: 남의 운을 빼앗는 자 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59560</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59560</guid>
+            <pubDate>Wed, 24 Aug 2022 16:27:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-07]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0818/18_10_04__62fe01ecbb100[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다 잘된 거야 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58598</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58598</guid>
+            <pubDate>Wed, 24 Aug 2022 16:27:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-07]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0818/11_46_20__62fda7fca251f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인생은 뷰티풀: 비타돌체 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59576</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59576</guid>
@@ -2815,27 +2863,11 @@ OTT 통합 포털 서비스로 축적한 메타 DB의 강점을 살려 태그를
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0826/11_09_51__63082b6f4a76d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공조2: 인터내셔날 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57553</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57553</guid>
-            <pubDate>Wed, 24 Aug 2022 16:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0826/12_30_09__63083e410eb65[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[라스트 선 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59601</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59601</guid>
             <pubDate>Thu, 01 Sep 2022 18:23:18 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09-01]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[데인저 파크 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59568</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59568</guid>
-            <pubDate>Wed, 24 Aug 2022 06:29:42 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0825/16_08_44__63071ffc4cb39[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리가 말하지 않은 것 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2846,20 +2878,12 @@ OTT 통합 포털 서비스로 축적한 메타 DB의 강점을 살려 태그를
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0808/13_47_53__62f095790b04e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아라시 20주년 투어 콘서트 5X20 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59496</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59496</guid>
-            <pubDate>Tue, 23 Aug 2022 14:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0810/16_20_20__62f35c3409178[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[썬다운 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59473</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59473</guid>
-            <pubDate>Tue, 23 Aug 2022 19:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/17_39_36__62f4c048ef247[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[데인저 파크 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59568</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59568</guid>
+            <pubDate>Wed, 24 Aug 2022 06:29:42 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0825/16_08_44__63071ffc4cb39[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[락다운 213주 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2870,36 +2894,12 @@ OTT 통합 포털 서비스로 축적한 메타 DB의 강점을 살려 태그를
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0902/14_04_28__63118edca168d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시맨틱 에러: 더 무비 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59433</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59433</guid>
-            <pubDate>Mon, 22 Aug 2022 09:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0728/12_14_02__62e1fefa0db0c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K클래식 제너레이션 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59506</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59506</guid>
+            <title><![CDATA[썬다운 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59473</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59473</guid>
             <pubDate>Tue, 23 Aug 2022 19:18:27 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-08-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0823/15_04_47__63046dff98120[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리미트 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59345</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59345</guid>
-            <pubDate>Tue, 23 Aug 2022 19:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0803/18_15_28__62ea3cb0acafa[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼 후? (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59567</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59567</guid>
-            <pubDate>Mon, 22 Aug 2022 09:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0822/18_11_03__630348279264f[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/17_39_36__62f4c048ef247[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노스맨 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2907,54 +2907,6 @@ OTT 통합 포털 서비스로 축적한 메타 DB의 강점을 살려 태그를
             <guid>http://www.cine21.com/movie/info/?movie_id=59335</guid>
             <pubDate>Wed, 31 Aug 2022 06:33:13 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-08-31]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어쩌다 공주, 닭냥이 왕자를 부탁해! (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59378</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59378</guid>
-            <pubDate>Tue, 30 Aug 2022 08:27:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0728/18_24_30__62e255ce57e78[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노후자금이 없어! (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59579</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59579</guid>
-            <pubDate>Tue, 30 Aug 2022 15:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0826/18_31_25__630892ed662fa[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 엄마 까투리: 도시로 간 까투리 가족 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59434</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59434</guid>
-            <pubDate>Tue, 30 Aug 2022 15:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0823/16_19_06__63047f6aca279[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한여름밤의 재즈 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59373</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59373</guid>
-            <pubDate>Tue, 30 Aug 2022 08:27:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0819/12_18_50__62ff011a6ca83[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성적표의 김민영 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57982</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57982</guid>
-            <pubDate>Tue, 30 Aug 2022 15:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0823/10_46_34__6304317a9af92[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드래곤볼 슈퍼: 슈퍼 히어로 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59263</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59263</guid>
-            <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0905/12_09_12__6315685837b82[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[9명의 번역가 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2965,20 +2917,20 @@ OTT 통합 포털 서비스로 축적한 메타 DB의 강점을 살려 태그를
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0830/17_12_38__630dc6765a29a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[드래곤볼 슈퍼: 슈퍼 히어로 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59263</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59263</guid>
+            <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0905/12_09_12__6315685837b82[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[비스트 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59563</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59563</guid>
             <pubDate>Thu, 01 Sep 2022 08:26:37 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09-14]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0901/16_59_46__631066721b850[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카고 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59561</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59561</guid>
-            <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0826/17_49_15__6308890b18760[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홈리스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3005,20 +2957,20 @@ OTT 통합 포털 서비스로 축적한 메타 DB의 강점을 살려 태그를
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0822/10_38_16__6302de085f0ca[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카고 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59561</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59561</guid>
+            <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0826/17_49_15__6308890b18760[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[당신의 이웃은 친절하지 않다 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59479</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59479</guid>
             <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09-15]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0812/18_25_11__62f61c7702208[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀멸의 칼날: 장구저택 편 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59391</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59391</guid>
-            <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0715/12_37_06__62d0e0e2da3cd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[둠둠 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3029,12 +2981,12 @@ OTT 통합 포털 서비스로 축적한 메타 DB의 강점을 살려 태그를
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/12_43_38__62f47aea1bcb4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[썬더버드 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59480</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59480</guid>
+            <title><![CDATA[귀멸의 칼날: 장구저택 편 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59391</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59391</guid>
             <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0826/17_57_43__63088b07b843d[X224,320].jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[개봉 : 2022-09-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0715/12_37_06__62d0e0e2da3cd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애프터: 에버 해피 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3043,6 +2995,54 @@ OTT 통합 포털 서비스로 축적한 메타 DB의 강점을 살려 태그를
             <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09-21]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0825/18_31_11__6307415fd1af3[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아바타 리마스터링 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=20532</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=20532</guid>
+            <pubDate>Wed, 07 Sep 2022 19:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0830/13_02_37__630d8bddb4f6e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[썬더버드 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59480</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59480</guid>
+            <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0826/17_57_43__63088b07b843d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[늑대사냥 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59453</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59453</guid>
+            <pubDate>Wed, 07 Sep 2022 19:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0902/11_05_21__631164e1db7c1[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프린세스 아야 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55341</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55341</guid>
+            <pubDate>Wed, 07 Sep 2022 19:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0823/16_24_21__630480a5c8178[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑은 비를 타고 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=608</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=608</guid>
+            <pubDate>Wed, 07 Sep 2022 19:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0905/11_23_37__63155da9641aa[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기기묘묘 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59573</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59573</guid>
+            <pubDate>Wed, 07 Sep 2022 19:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0830/17_46_48__630dce78a47e7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모나리자와 블러드 문 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3487,15 +3487,6 @@ OTT 통합 포털 서비스로 축적한 메타 DB의 강점을 살려 태그를
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-09-13 09:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/still/2022/0830/09_42_06__630d5cdee67c2[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <그 영화의 뒷모습> 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=7964</link>
-            <guid>http://www.cine21.com/event/view/?event_no=7964</guid>
-            <pubDate>Sun, 28 Aug 2022 15:25:04 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-09-08 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/0826/18_01_58__63088c06f105c[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도서 <고전 리뷰툰2> 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
