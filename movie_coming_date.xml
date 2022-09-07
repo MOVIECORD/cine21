@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 23:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 08:28:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,14 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=59335</guid>
             <pubDate>Fri, 02 Sep 2022 01:27:12 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-08-31]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어쩌다 공주, 닭냥이 왕자를 부탁해!]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59378</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59378</guid>
+            <pubDate>Tue, 30 Aug 2022 08:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0728/18_24_30__62e255ce57e78[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노후자금이 없어!]]></title>
@@ -47,14 +55,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0823/10_46_34__6304317a9af92[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어쩌다 공주, 닭냥이 왕자를 부탁해!]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59378</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59378</guid>
-            <pubDate>Tue, 30 Aug 2022 08:27:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0728/18_24_30__62e255ce57e78[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[드래곤볼 슈퍼: 슈퍼 히어로]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59263</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59263</guid>
@@ -79,36 +79,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0901/16_59_46__631066721b850[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[당신의 이웃은 친절하지 않다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59479</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59479</guid>
-            <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0812/18_25_11__62f61c7702208[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[카고]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59561</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59561</guid>
             <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09-15]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0826/17_49_15__6308890b18760[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[둠둠]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59388</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59388</guid>
-            <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/12_43_38__62f47aea1bcb4[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀멸의 칼날: 장구저택 편]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59391</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59391</guid>
-            <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0715/12_37_06__62d0e0e2da3cd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홈리스]]></title>
@@ -127,20 +103,36 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0819/11_13_56__62fef1e4570ce[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[늑대사냥]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59453</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59453</guid>
-            <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0902/11_05_21__631164e1db7c1[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[테이크 나이트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59564</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59564</guid>
+            <pubDate>Wed, 07 Sep 2022 08:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0822/10_38_16__6302de085f0ca[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애프터: 에버 해피]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59463</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59463</guid>
+            <title><![CDATA[당신의 이웃은 친절하지 않다]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59479</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59479</guid>
             <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0825/18_31_11__6307415fd1af3[X224,320].jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[개봉 : 2022-09-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0812/18_25_11__62f61c7702208[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀멸의 칼날: 장구저택 편]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59391</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59391</guid>
+            <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0715/12_37_06__62d0e0e2da3cd[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[둠둠]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59388</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59388</guid>
+            <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/12_43_38__62f47aea1bcb4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[썬더버드]]></title>
@@ -149,6 +141,14 @@
             <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09-21]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0826/17_57_43__63088b07b843d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애프터: 에버 해피]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59463</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59463</guid>
+            <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0825/18_31_11__6307415fd1af3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
