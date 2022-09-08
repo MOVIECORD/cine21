@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 04:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:57:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -55,14 +55,6 @@
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[데드맨]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58691</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58691</guid>
-            <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1109/58691_618a1188acdc4[X224,320].JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[젠틀맨]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58369</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58369</guid>
@@ -87,19 +79,19 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0215/56067_620af92c7979e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[데드맨]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58691</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58691</guid>
+            <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1109/58691_618a1188acdc4[X224,320].JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[행복의 나라(가제)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57453</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57453</guid>
             <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[폴: 600미터]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59608</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59608</guid>
-            <pubDate>Tue, 06 Sep 2022 21:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0906/17_20_24__631702c88e558[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴 프렌드: 누군가 죽는다]]></title>
@@ -140,6 +132,14 @@
             <pubDate>Wed, 07 Sep 2022 08:26:23 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/13_54_04__62f48b6ce46b8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다크 웹]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59504</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59504</guid>
+            <pubDate>Thu, 08 Sep 2022 06:55:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/14_10_06__62f48f2e3b691[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한 밤의 판타지아]]></title>

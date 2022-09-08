@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 04:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:57:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,21 +22,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0507/17_34_43__5eb3c823de6d0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노량: 죽음의 바다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57540</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57540</guid>
-            <pubDate>Tue, 16 Aug 2022 16:28:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">노량: 죽음의 바다</span>
-		
-
-									<span class="director">감독 : 김한민</span>
-											<span class="actor">배우 : 김윤석,백윤식</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보고타]]></title>
@@ -196,6 +181,37 @@
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[쌍화점]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59607</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59607</guid>
+            <pubDate>Thu, 08 Sep 2022 06:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">쌍화점</span>
+		
+
+									<span class="director">감독 : 담걸</span>
+											<span class="actor">배우 : 유천혜,조걸</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0906/15_56_22__6316ef16d0f6a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노량: 죽음의 바다]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57540</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57540</guid>
+            <pubDate>Tue, 16 Aug 2022 16:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">노량: 죽음의 바다</span>
+		
+
+									<span class="director">감독 : 김한민</span>
+											<span class="actor">배우 : 김윤석,백윤식</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[마이캡틴]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57530</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57530</guid>
@@ -272,22 +288,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0409/15_39_01__5e8ec3057b243[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교섭]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56196</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56196</guid>
-            <pubDate>Tue, 16 Aug 2022 16:28:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">교섭</span>
-		
-
-									<span class="director">감독 : 임순례</span>
-											<span class="actor">배우 : 황정민,현빈</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0417/16_35_21__5e995c3949ab1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
