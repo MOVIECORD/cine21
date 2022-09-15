@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 09:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 11:27:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2706,6 +2706,14 @@ BIAF2022 특별전 ‘토에이 애니메이션의 세계’는 국내 미공개
             <enclosure url="http://k.kakaocdn.net/dn/bDhNDW/btrLD9rrqbQ/m9AyhakXguLkGFu2jphh7k/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[테이크 나이트 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59564</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59564</guid>
+            <pubDate>Wed, 07 Sep 2022 08:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0822/10_38_16__6302de085f0ca[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[당신의 이웃은 친절하지 않다 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59479</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59479</guid>
@@ -2722,14 +2730,6 @@ BIAF2022 특별전 ‘토에이 애니메이션의 세계’는 국내 미공개
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0819/11_13_56__62fef1e4570ce[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카고 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59561</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59561</guid>
-            <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0826/17_49_15__6308890b18760[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[홈리스 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57166</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57166</guid>
@@ -2738,20 +2738,12 @@ BIAF2022 특별전 ‘토에이 애니메이션의 세계’는 국내 미공개
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0915/18_12_54__6322ec96078e0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[테이크 나이트 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59564</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59564</guid>
-            <pubDate>Wed, 07 Sep 2022 08:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0822/10_38_16__6302de085f0ca[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀멸의 칼날: 장구저택 편 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59391</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59391</guid>
+            <title><![CDATA[카고 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59561</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59561</guid>
             <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0715/12_37_06__62d0e0e2da3cd[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0826/17_49_15__6308890b18760[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[둠둠 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2762,12 +2754,12 @@ BIAF2022 특별전 ‘토에이 애니메이션의 세계’는 국내 미공개
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/12_43_38__62f47aea1bcb4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[드래곤볼 슈퍼: 슈퍼 히어로 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59263</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59263</guid>
-            <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0913/10_50_58__631fe202dff1e[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[귀멸의 칼날: 장구저택 편 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59391</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59391</guid>
+            <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0715/12_37_06__62d0e0e2da3cd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비스트 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2776,6 +2768,14 @@ BIAF2022 특별전 ‘토에이 애니메이션의 세계’는 국내 미공개
             <pubDate>Thu, 01 Sep 2022 08:26:37 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09-14]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0901/16_59_46__631066721b850[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드래곤볼 슈퍼: 슈퍼 히어로 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59263</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59263</guid>
+            <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0913/10_50_58__631fe202dff1e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[9명의 번역가 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2794,6 +2794,14 @@ BIAF2022 특별전 ‘토에이 애니메이션의 세계’는 국내 미공개
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0913/10_11_45__631fd8d15c8b0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[성적표의 김민영 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57982</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57982</guid>
+            <pubDate>Tue, 30 Aug 2022 15:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0823/10_46_34__6304317a9af92[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한여름밤의 재즈 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59373</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59373</guid>
@@ -2810,14 +2818,6 @@ BIAF2022 특별전 ‘토에이 애니메이션의 세계’는 국내 미공개
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0728/18_24_30__62e255ce57e78[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성적표의 김민영 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57982</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57982</guid>
-            <pubDate>Tue, 30 Aug 2022 15:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0823/10_46_34__6304317a9af92[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[노후자금이 없어! (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59579</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59579</guid>
@@ -2826,28 +2826,28 @@ BIAF2022 특별전 ‘토에이 애니메이션의 세계’는 국내 미공개
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0826/18_31_25__630892ed662fa[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블레이즈 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59347</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59347</guid>
+            <pubDate>Thu, 15 Sep 2022 11:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-07]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0824/15_30_26__6305c582e7758[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모가디슈 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57275</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57275</guid>
+            <pubDate>Thu, 15 Sep 2022 11:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-07]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0825/57275_6125e1f110d88[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[쥬라기캅스 극장판: 공룡시대 대모험 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59498</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59498</guid>
             <pubDate>Wed, 24 Aug 2022 16:27:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09-07]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0824/14_19_40__6305b4ec74a92[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공조2: 인터내셔날 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57553</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57553</guid>
-            <pubDate>Wed, 24 Aug 2022 16:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0826/12_30_09__63083e410eb65[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인생은 뷰티풀: 비타돌체 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59576</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59576</guid>
-            <pubDate>Thu, 25 Aug 2022 13:46:06 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0826/11_09_51__63082b6f4a76d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노스맨 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2873,22 +2873,6 @@ BIAF2022 특별전 ‘토에이 애니메이션의 세계’는 국내 미공개
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0823/16_24_21__630480a5c8178[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[썬더버드 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59480</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59480</guid>
-            <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0826/17_57_43__63088b07b843d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애프터: 에버 해피 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59463</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59463</guid>
-            <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0913/12_40_28__631ffbac5082b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[늑대사냥 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59453</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59453</guid>
@@ -2905,20 +2889,20 @@ BIAF2022 특별전 ‘토에이 애니메이션의 세계’는 국내 미공개
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0905/11_23_37__63155da9641aa[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[달이 지는 밤 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57238</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57238</guid>
-            <pubDate>Wed, 14 Sep 2022 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0830/16_01_11__630db5b717ab8[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[애프터: 에버 해피 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59463</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59463</guid>
+            <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0913/12_40_28__631ffbac5082b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지금, 이대로가 좋아요 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=24162</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=24162</guid>
-            <pubDate>Tue, 13 Sep 2022 15:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0913/18_06_05__632047fdf05a2[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[썬더버드 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59480</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59480</guid>
+            <pubDate>Tue, 06 Sep 2022 21:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0826/17_57_43__63088b07b843d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판 5등분의 신부 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2929,12 +2913,12 @@ BIAF2022 특별전 ‘토에이 애니메이션의 세계’는 국내 미공개
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0819/16_29_52__62ff3bf060b91[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기기묘묘 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59573</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59573</guid>
-            <pubDate>Tue, 13 Sep 2022 15:26:29 GMT</pubDate>
+            <title><![CDATA[달이 지는 밤 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57238</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57238</guid>
+            <pubDate>Wed, 14 Sep 2022 17:35:36 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0830/17_46_48__630dce78a47e7[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0830/16_01_11__630db5b717ab8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이의 노랫소리를 들려줘 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2945,36 +2929,28 @@ BIAF2022 특별전 ‘토에이 애니메이션의 세계’는 국내 미공개
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0830/10_14_47__630d648708aea[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지금, 이대로가 좋아요 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=24162</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=24162</guid>
+            <pubDate>Tue, 13 Sep 2022 15:26:29 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0913/18_06_05__632047fdf05a2[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기기묘묘 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59573</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59573</guid>
+            <pubDate>Tue, 13 Sep 2022 15:26:29 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0830/17_46_48__630dce78a47e7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[귀멸의 칼날: 나타구모산 편 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58667</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58667</guid>
             <pubDate>Wed, 14 Sep 2022 17:35:36 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09-26]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0713/17_28_02__62ce821235f3f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고고다이노 극장판: 얼음공룡의 비밀 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59502</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59502</guid>
-            <pubDate>Thu, 15 Sep 2022 07:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0830/15_54_05__630db40d6ff54[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성덕 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59154</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59154</guid>
-            <pubDate>Wed, 14 Sep 2022 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0901/18_54_51__6310816b88304[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물방울을 그리는 남자 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59200</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59200</guid>
-            <pubDate>Wed, 14 Sep 2022 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0905/11_06_41__631559b109804[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정직한 후보2 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2985,12 +2961,36 @@ BIAF2022 특별전 ‘토에이 애니메이션의 세계’는 국내 미공개
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0907/14_37_30__63182e1ae9cdf[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인생은 아름다워 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56741</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56741</guid>
+            <title><![CDATA[성덕 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59154</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59154</guid>
             <pubDate>Wed, 14 Sep 2022 17:35:36 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0831/16_40_31__630f106fcbb13[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0901/18_54_51__6310816b88304[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고고다이노 극장판: 얼음공룡의 비밀 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59502</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59502</guid>
+            <pubDate>Thu, 15 Sep 2022 07:36:12 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-28]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0830/15_54_05__630db40d6ff54[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[물방울을 그리는 남자 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59200</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59200</guid>
+            <pubDate>Wed, 14 Sep 2022 17:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-28]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0905/11_06_41__631559b109804[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 헬로카봇: 수상한 마술단의 비밀 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59478</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59478</guid>
+            <pubDate>Thu, 15 Sep 2022 11:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-28]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0913/18_11_38__6320494a19d7c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데드맨 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -2999,6 +2999,30 @@ BIAF2022 특별전 ‘토에이 애니메이션의 세계’는 국내 미공개
             <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1109/58691_618a1188acdc4[X224,320].JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[그랑블루 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58943</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58943</guid>
+            <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58943_62061c4b0f9b8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙폭스 - 폭렬닌자시대 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58942</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58942</guid>
+            <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58942_6205fc69dab21[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이 코드명 포춘 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58916</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58916</guid>
+            <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0217/16_33_37__620dfa51225f0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[같은 속옷을 입는 두 여자 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3024,51 +3048,12 @@ BIAF2022 특별전 ‘토에이 애니메이션의 세계’는 국내 미공개
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58254_61a589108d01e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스파이 코드명 포춘 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58916</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58916</guid>
-            <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0217/16_33_37__620dfa51225f0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙폭스 - 폭렬닌자시대 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58942</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58942</guid>
-            <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58942_6205fc69dab21[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그랑블루 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58943</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58943</guid>
-            <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58943_62061c4b0f9b8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행복의 나라(가제) (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57453</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57453</guid>
-            <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[존 덴버 죽이기 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58987</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58987</guid>
             <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0302/11_09_07__621ed1c31aa45[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가면병동 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56067</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56067</guid>
-            <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0215/56067_620af92c7979e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모나리자와 블러드 문 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3079,12 +3064,19 @@ BIAF2022 특별전 ‘토에이 애니메이션의 세계’는 국내 미공개
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0729/17_12_41__62e39679f3718[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뉴 프렌드: 누군가 죽는다 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59281</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59281</guid>
+            <title><![CDATA[가면병동 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56067</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56067</guid>
             <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0523/59281_628ae87d8a57f[X224,320].jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0215/56067_620af92c7979e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[행복의 나라(가제) (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57453</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57453</guid>
+            <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[감동주의보 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3093,6 +3085,14 @@ BIAF2022 특별전 ‘토에이 애니메이션의 세계’는 국내 미공개
             <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-06]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0607/17_08_02__629f076275971[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴 프렌드: 누군가 죽는다 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59281</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59281</guid>
+            <pubDate>Tue, 16 Aug 2022 10:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0523/59281_628ae87d8a57f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이 투 다이 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3119,20 +3119,20 @@ BIAF2022 특별전 ‘토에이 애니메이션의 세계’는 국내 미공개
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0913/10_56_10__631fe33a9a9ce[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기괴한 숲 속 마을 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59503</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59503</guid>
-            <pubDate>Tue, 13 Sep 2022 15:26:56 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/13_54_04__62f48b6ce46b8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[다크 웹 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59504</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59504</guid>
             <pubDate>Thu, 08 Sep 2022 06:55:27 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/14_10_06__62f48f2e3b691[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기괴한 숲 속 마을 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59503</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59503</guid>
+            <pubDate>Tue, 13 Sep 2022 15:26:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/13_54_04__62f48b6ce46b8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드림 (가제) (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
@@ -3793,6 +3793,45 @@ BIAF2022 특별전 ‘토에이 애니메이션의 세계’는 국내 미공개
             <enclosure url="http://k.kakaocdn.net/dn/Ics8K/btrsXf3hi6p/KTql4TVzIUj1JI4aWYsBO1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[＜아메리칸 카마수트라＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F09%2Fkamasutra_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FZucBq%2FbtrMd1yISAS%2FOey6pK7IkeV6GkaiTXdPdk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8%20%EC%B9%B4%EB%A7%88%EC%88%98%ED%8A%B8%EB%9D%BC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F09%2Fkamasutra_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FZucBq%2FbtrMd1yISAS%2FOey6pK7IkeV6GkaiTXdPdk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8%20%EC%B9%B4%EB%A7%88%EC%88%98%ED%8A%B8%EB%9D%BC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43197">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F09%2Fkamasutra_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FZucBq%2FbtrMd1yISAS%2FOey6pK7IkeV6GkaiTXdPdk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8%20%EC%B9%B4%EB%A7%88%EC%88%98%ED%8A%B8%EB%9D%BC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2022/09/kamasutra_mtr.mp4">
+						<img src="http://k.kakaocdn.net/dn/ZucBq/btrMd1yISAS/Oey6pK7IkeV6GkaiTXdPdk/img.jpg" alt="" class="thumb">
+						<span class="title">＜아메리칸 카마수트라＞ 메인 예고편</span>
+						<span class="date">2022-09-15</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/ZucBq/btrMd1yISAS/Oey6pK7IkeV6GkaiTXdPdk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜극장판 짱구는 못말려: 수수께끼! 꽃피는 천하떡잎학교＞ 미스터리 스페셜 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F09%2Fjjanggu_mstr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FblUBqb%2FbtrMcSP1g5R%2Fiq7fSzStBdtnHeuP2mKqiK%2Fimg.jpg&amp;title=%EF%BC%9C%EA%B7%B9%EC%9E%A5%ED%8C%90%20%EC%A7%B1%EA%B5%AC%EB%8A%94%20%EB%AA%BB%EB%A7%90%EB%A0%A4%3A%20%EC%88%98%EC%88%98%EA%BB%98%EB%81%BC!%20%EA%BD%83%ED%94%BC%EB%8A%94%20%EC%B2%9C%ED%95%98%EB%96%A1%EC%9E%8E%ED%95%99%EA%B5%90%EF%BC%9E%20%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EC%8A%A4%ED%8E%98%EC%85%9C%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F09%2Fjjanggu_mstr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FblUBqb%2FbtrMcSP1g5R%2Fiq7fSzStBdtnHeuP2mKqiK%2Fimg.jpg&amp;title=%EF%BC%9C%EA%B7%B9%EC%9E%A5%ED%8C%90%20%EC%A7%B1%EA%B5%AC%EB%8A%94%20%EB%AA%BB%EB%A7%90%EB%A0%A4%3A%20%EC%88%98%EC%88%98%EA%BB%98%EB%81%BC!%20%EA%BD%83%ED%94%BC%EB%8A%94%20%EC%B2%9C%ED%95%98%EB%96%A1%EC%9E%8E%ED%95%99%EA%B5%90%EF%BC%9E%20%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EC%8A%A4%ED%8E%98%EC%85%9C%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43196">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F09%2Fjjanggu_mstr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FblUBqb%2FbtrMcSP1g5R%2Fiq7fSzStBdtnHeuP2mKqiK%2Fimg.jpg&amp;title=%EF%BC%9C%EA%B7%B9%EC%9E%A5%ED%8C%90%20%EC%A7%B1%EA%B5%AC%EB%8A%94%20%EB%AA%BB%EB%A7%90%EB%A0%A4%3A%20%EC%88%98%EC%88%98%EA%BB%98%EB%81%BC!%20%EA%BD%83%ED%94%BC%EB%8A%94%20%EC%B2%9C%ED%95%98%EB%96%A1%EC%9E%8E%ED%95%99%EA%B5%90%EF%BC%9E%20%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EC%8A%A4%ED%8E%98%EC%85%9C%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2022/09/jjanggu_mstr.mp4">
+						<img src="http://k.kakaocdn.net/dn/blUBqb/btrMcSP1g5R/iq7fSzStBdtnHeuP2mKqiK/img.jpg" alt="" class="thumb">
+						<span class="title">＜극장판 짱구는 못말려: 수수께끼! 꽃피는 천하떡잎학교＞ 미스터리 스페셜 예고편</span>
+						<span class="date">2022-09-15</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/blUBqb/btrMcSP1g5R/iq7fSzStBdtnHeuP2mKqiK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜리멤버＞ 1차 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F09%2Fremember_1tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcvkWge%2FbtrMd2K0Lg1%2FXercNkkRm6nKSnKiQOkhvk%2Fimg.jpg&amp;title=%EF%BC%9C%EB%A6%AC%EB%A9%A4%EB%B2%84%EF%BC%9E%201%EC%B0%A8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F09%2Fremember_1tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcvkWge%2FbtrMd2K0Lg1%2FXercNkkRm6nKSnKiQOkhvk%2Fimg.jpg&amp;title=%EF%BC%9C%EB%A6%AC%EB%A9%A4%EB%B2%84%EF%BC%9E%201%EC%B0%A8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43195">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F09%2Fremember_1tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcvkWge%2FbtrMd2K0Lg1%2FXercNkkRm6nKSnKiQOkhvk%2Fimg.jpg&amp;title=%EF%BC%9C%EB%A6%AC%EB%A9%A4%EB%B2%84%EF%BC%9E%201%EC%B0%A8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2022/09/remember_1tr.mp4">
+						<img src="http://k.kakaocdn.net/dn/cvkWge/btrMd2K0Lg1/XercNkkRm6nKSnKiQOkhvk/img.jpg" alt="" class="thumb">
+						<span class="title">＜리멤버＞ 1차 예고편</span>
+						<span class="date">2022-09-15</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/cvkWge/btrMd2K0Lg1/XercNkkRm6nKSnKiQOkhvk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[＜썬더버드＞ 30초 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F09%2Fthunderb_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcSRf3p%2FbtrMcP6Csmm%2FpDWY7fZjVoKGFfNXFIrpH0%2Fimg.jpg&amp;title=%EF%BC%9C%EC%8D%AC%EB%8D%94%EB%B2%84%EB%93%9C%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
             <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F09%2Fthunderb_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcSRf3p%2FbtrMcP6Csmm%2FpDWY7fZjVoKGFfNXFIrpH0%2Fimg.jpg&amp;title=%EF%BC%9C%EC%8D%AC%EB%8D%94%EB%B2%84%EB%93%9C%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
@@ -3960,45 +3999,6 @@ BIAF2022 특별전 ‘토에이 애니메이션의 세계’는 국내 미공개
 						<span class="date">2022-09-13</span>
 					</a>]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cSzcqz/btrL5bN9Awo/xQml4UAM2E15iabBqA8ny0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜이스케이프＞ 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F09%2Fkettle_tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fv5R81%2FbtrL3zWH9Pb%2FnX646lwuAzgmJzd5KexHIK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%9D%B4%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F09%2Fkettle_tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fv5R81%2FbtrL3zWH9Pb%2FnX646lwuAzgmJzd5KexHIK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%9D%B4%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43176">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F09%2Fkettle_tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fv5R81%2FbtrL3zWH9Pb%2FnX646lwuAzgmJzd5KexHIK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%9D%B4%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2022/09/kettle_tr.mp4">
-						<img src="http://k.kakaocdn.net/dn/v5R81/btrL3zWH9Pb/nX646lwuAzgmJzd5KexHIK/img.jpg" alt="" class="thumb">
-						<span class="title">＜이스케이프＞ 예고편</span>
-						<span class="date">2022-09-13</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/v5R81/btrL3zWH9Pb/nX646lwuAzgmJzd5KexHIK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜로스트 걸＞ 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F09%2Flostgirl_tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FWfD6C%2FbtrLZzJOu9f%2FVzE0hNs1RpqmkcCe8ObfeK%2Fimg.jpg&amp;title=%EF%BC%9C%EB%A1%9C%EC%8A%A4%ED%8A%B8%20%EA%B1%B8%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F09%2Flostgirl_tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FWfD6C%2FbtrLZzJOu9f%2FVzE0hNs1RpqmkcCe8ObfeK%2Fimg.jpg&amp;title=%EF%BC%9C%EB%A1%9C%EC%8A%A4%ED%8A%B8%20%EA%B1%B8%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43175">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F09%2Flostgirl_tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FWfD6C%2FbtrLZzJOu9f%2FVzE0hNs1RpqmkcCe8ObfeK%2Fimg.jpg&amp;title=%EF%BC%9C%EB%A1%9C%EC%8A%A4%ED%8A%B8%20%EA%B1%B8%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2022/09/lostgirl_tr.mp4">
-						<img src="http://k.kakaocdn.net/dn/WfD6C/btrLZzJOu9f/VzE0hNs1RpqmkcCe8ObfeK/img.jpg" alt="" class="thumb">
-						<span class="title">＜로스트 걸＞ 예고편</span>
-						<span class="date">2022-09-13</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/WfD6C/btrLZzJOu9f/VzE0hNs1RpqmkcCe8ObfeK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜프린세스 아야＞ 추석 인사 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F09%2Faya_cgmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fbmd9pK%2FbtrL4bndErc%2Fh2Ky4t2BAz8uoSMOojRSF1%2Fimg.jpg&amp;title=%EF%BC%9C%ED%94%84%EB%A6%B0%EC%84%B8%EC%8A%A4%20%EC%95%84%EC%95%BC%EF%BC%9E%20%EC%B6%94%EC%84%9D%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F09%2Faya_cgmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fbmd9pK%2FbtrL4bndErc%2Fh2Ky4t2BAz8uoSMOojRSF1%2Fimg.jpg&amp;title=%EF%BC%9C%ED%94%84%EB%A6%B0%EC%84%B8%EC%8A%A4%20%EC%95%84%EC%95%BC%EF%BC%9E%20%EC%B6%94%EC%84%9D%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81</guid>
-            <pubDate>Tue, 13 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43174">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2022%2F09%2Faya_cgmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fbmd9pK%2FbtrL4bndErc%2Fh2Ky4t2BAz8uoSMOojRSF1%2Fimg.jpg&amp;title=%EF%BC%9C%ED%94%84%EB%A6%B0%EC%84%B8%EC%8A%A4%20%EC%95%84%EC%95%BC%EF%BC%9E%20%EC%B6%94%EC%84%9D%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2022/09/aya_cgmk.mp4">
-						<img src="http://k.kakaocdn.net/dn/bmd9pK/btrL4bndErc/h2Ky4t2BAz8uoSMOojRSF1/img.jpg" alt="" class="thumb">
-						<span class="title">＜프린세스 아야＞ 추석 인사 영상</span>
-						<span class="date">2022-09-13</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bmd9pK/btrL4bndErc/h2Ky4t2BAz8uoSMOojRSF1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#줌터뷰] 〈이터널스〉 감독은 왜 마동석을 캐스팅했을까? feat.〈승리호〉 조성희 감독 (씨네21 ─ 네이버TV)]]></title>
