@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 08:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 11:28:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -119,22 +119,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0907/14_37_30__63182e1ae9cdf[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성덕]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59154</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59154</guid>
-            <pubDate>Wed, 14 Sep 2022 17:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0916/11_45_27__6323e34716a13[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고고다이노 극장판: 얼음공룡의 비밀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59502</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59502</guid>
-            <pubDate>Thu, 15 Sep 2022 07:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0830/15_54_05__630db40d6ff54[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[물방울을 그리는 남자]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59200</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59200</guid>
@@ -143,12 +127,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0905/11_06_41__631559b109804[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[성덕]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59154</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59154</guid>
+            <pubDate>Wed, 14 Sep 2022 17:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-28]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0916/11_45_27__6323e34716a13[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 헬로카봇: 수상한 마술단의 비밀]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59478</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59478</guid>
             <pubDate>Thu, 15 Sep 2022 11:24:01 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09-28]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0913/18_11_38__6320494a19d7c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인생은 아름다워]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56741</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56741</guid>
+            <pubDate>Fri, 16 Sep 2022 11:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09-28]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0831/16_40_31__630f106fcbb13[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
