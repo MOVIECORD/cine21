@@ -4,9 +4,18 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 01:35:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 04:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <선택> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8407&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8407&amp;p=1</guid>
+            <pubDate>Tue, 20 Sep 2022 04:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-09-20 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0907/13_51_06__6318233a99655[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도서 'EBS 당신의 문해력' 기대평 이벤트]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8403&amp;p=1</link>
@@ -104,15 +113,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-08-24 10:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0812/16_42_06__62f6044e5eca6[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <궤변 말하기 대회> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8396&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8396&amp;p=1</guid>
-            <pubDate>Tue, 23 Aug 2022 04:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-08-23 17:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/0805/17_40_14__62ecd76e2f8de[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
