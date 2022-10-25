@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 23:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 18:47:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDNfMjY2/MDAxNTE0OTQwNDk5Njgw.48xeRxRGlvPSdaLRjOFcDg1xhytLhg85PJE0FgETvpQg.FxnXOX78PIXBWHQQY2UtKSdN1G4hJr7EMEvHxcgcRlgg.JPEG/ImU46Da7wWq4hZ0XaIHjaQSoECZE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 <트루웨스트> 초대 이벤트 당첨자 발표 (씨네21 ─ 공지사항)]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8427&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8427&amp;p=1</guid>
+            <pubDate>Tue, 25 Oct 2022 18:43:03 GMT</pubDate>
+            <content:encoded><![CDATA[8427]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[도서 <우리에게는 비밀이 없다> 기대평 이벤트 당첨자 발표 (씨네21 ─ 공지사항)]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8426&amp;p=1</link>
             <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8426&amp;p=1</guid>
@@ -1298,13 +1305,6 @@
             <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8415&amp;p=1</guid>
             <pubDate>Thu, 06 Oct 2022 12:34:56 GMT</pubDate>
             <content:encoded><![CDATA[8415]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[도서 <아웃랜더 1> 기대평 이벤트 당첨자 발표 (씨네21 ─ 공지사항)]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8414&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8414&amp;p=1</guid>
-            <pubDate>Thu, 06 Oct 2022 12:34:56 GMT</pubDate>
-            <content:encoded><![CDATA[8414]]></content:encoded>
         </item>
     </channel>
 </rss>
