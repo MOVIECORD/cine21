@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2022-10-31T12:42:14.618Z</updated>
+    <updated>2022-10-31T13:54:03.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <블랙 사이트> 예매권 증정 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8431&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8431&amp;p=1"/>
+        <updated>2022-10-31T13:48:29.681Z</updated>
+        <content type="html"><![CDATA[8431]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <알카라스의 여름> 시사회 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8430&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8419&amp;p=1"/>
         <updated>2022-10-11T01:22:46.516Z</updated>
         <content type="html"><![CDATA[8419]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <미혹> 시사회 초대 이벤트 당첨자 명단]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8418&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8418&amp;p=1"/>
-        <updated>2022-10-11T01:22:46.518Z</updated>
-        <content type="html"><![CDATA[8418]]></content>
     </entry>
 </feed>
