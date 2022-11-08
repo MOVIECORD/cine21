@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2022-11-08T05:31:58.985Z</updated>
+    <updated>2022-11-08T06:23:45.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <폴: 600미터> 시사회 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8435&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8435&amp;p=1"/>
+        <updated>2022-11-08T06:19:32.884Z</updated>
+        <content type="html"><![CDATA[8435]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제6회 서울무용영화제 개막작 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8434&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8423&amp;p=1"/>
         <updated>2022-11-07T10:19:50.205Z</updated>
         <content type="html"><![CDATA[8423]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <아이 없는 부부와 고양이> 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8422&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8422&amp;p=1"/>
-        <updated>2022-11-07T10:19:50.205Z</updated>
-        <content type="html"><![CDATA[8422]]></content>
     </entry>
 </feed>
