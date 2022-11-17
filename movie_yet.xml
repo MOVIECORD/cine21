@@ -1,8 +1,293 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cine21.com/movie/lists/yet</id>
-    <title>씨네21 ─ 영화 ─ 개봉 미정</title>
-    <updated>2022-11-16T12:33:14.475Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cine21.com/movie/lists/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 영화 ─ 개봉 미정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 17 Nov 2022 01:20:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드림 (가제)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55390</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55390</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">드림 (가제)</span>
+		
+
+									<span class="director">감독 : 이병헌</span>
+											<span class="actor">배우 : 박서준,아이유</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0507/17_34_43__5eb3c823de6d0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2시의 데이트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58780</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58780</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">2시의 데이트</span>
+		
+
+									<span class="director">감독 : 이상근</span>
+											<span class="actor">배우 : 임윤아,안보현</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[탈주]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58804</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58804</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">탈주</span>
+		
+
+									<span class="director">감독 : 이종필</span>
+											<span class="actor">배우 : 이제훈,구교환</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/11_05_10__621444d6d0d2a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[말할 수 없는 비밀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">말할 수 없는 비밀</span>
+		
+
+									<span class="director">감독 : 서유민</span>
+											<span class="actor">배우 : 도경수,원진아</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울의 봄]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58978</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58978</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">서울의 봄</span>
+		
+
+									<span class="director">감독 : 김성수</span>
+											<span class="actor">배우 : 황정민,정우성</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0221/58978_62134186f0726[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59149</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59149</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">잠</span>
+		
+
+									<span class="director">감독 : 유재선</span>
+											<span class="actor">배우 : 정유미,이선균</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0421/59149_6260b83e5efa6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성스러운 거미]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59604</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59604</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">성스러운 거미</span>
+		
+
+									<span class="director">감독 : 알리 아바시</span>
+											<span class="actor">배우 : 자흐라 아미르 에브라히미,메흐디 바제스타니</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쌍화점]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59607</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59607</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">쌍화점</span>
+		
+
+									<span class="director">감독 : 담걸</span>
+											<span class="actor">배우 : 유천혜,조걸</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0906/15_56_22__6316ef16d0f6a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바빌론]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59651</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59651</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">바빌론</span>
+		
+
+									<span class="director">감독 : 데이미언 셔젤</span>
+											<span class="actor">배우 : 브래드 피트,마고 로비</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0916/59651_6323df7a7fc22[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화란]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59696</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59696</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">화란</span>
+		
+
+									<span class="director">감독 : 김창훈</span>
+											<span class="actor">배우 : 홍사빈,송중기</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[암스테르담]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59700</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59700</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">암스테르담</span>
+		
+
+									<span class="director">감독 : 데이비드 O. 러셀</span>
+											<span class="actor">배우 : 크리스찬 베일,마고 로비</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1004/15_16_12__633bcfac5f938[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드라이브]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59755</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59755</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">드라이브</span>
+		
+
+									<span class="director">감독 : 박동희</span>
+											<span class="actor">배우 : 박주현,김여진</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1013/17_33_19__6347cd4f2b704[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비룡외전]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59825</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59825</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">비룡외전</span>
+		
+
+									<span class="director">감독 : 찌 탕</span>
+											<span class="actor">배우 : 유에타오 리우,서소강</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1027/15_51_27__635a2a6f8d9db[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[씩 오브 마이셀프]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59903</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59903</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">씩 오브 마이셀프</span>
+		
+
+									<span class="director">감독 : 크리스토퍼 보글리</span>
+				
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[도그데이즈(가제)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58779</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58779</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">도그데이즈(가제)</span>
+		
+
+									<span class="director">감독 : 김덕민</span>
+											<span class="actor">배우 : 유해진,윤여정</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1217/17_25_22__61bc49726c7cd[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이파이브]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58718</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58718</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">하이파이브</span>
+		
+
+									<span class="director">감독 : 강형철</span>
+											<span class="actor">배우 : 이재인,유아인</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1116/58718_619303f6988b6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스마트폰을 떨어뜨렸을 뿐인데]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58165</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58165</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">스마트폰을 떨어뜨렸을 뿐인데</span>
+		
+
+									<span class="director">감독 : 김태준</span>
+											<span class="actor">배우 : 천우희,임시완</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0630/18_10_39__60dc350fe1962[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[행복의 나라로]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55448</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55448</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">행복의 나라로</span>
+		
+
+									<span class="director">감독 : 임상수</span>
+											<span class="actor">배우 : 최민식,박해일</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/55448_614d6fb3976df[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

@@ -1,8 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cine21.com/event/winner</id>
-    <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
-    <updated>2022-11-16T12:33:14.476Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cine21.com/event/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 17 Nov 2022 01:20:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <2호선세입자> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8439&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8439&amp;p=1</guid>
+            <pubDate>Thu, 17 Nov 2022 01:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-11-14 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/1026/18_11_26__6358f9bea7fc3[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <오백에 삼십> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8441&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8441&amp;p=1</guid>
+            <pubDate>Thu, 17 Nov 2022 01:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-11-14 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1026/18_14_48__6358fa8851883[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <운빨로맨스> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8442&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8442&amp;p=1</guid>
+            <pubDate>Thu, 17 Nov 2022 01:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-11-14 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/1026/18_16_55__6358fb07a6634[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 <세이레> 무대인사 시사회 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8440&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8440&amp;p=1</guid>
+            <pubDate>Thu, 17 Nov 2022 01:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-11-17 20:00:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-11-14 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/dvd/2022/1103/18_52_33__63638f616e47e[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <옥탑방고양이> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8443&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8443&amp;p=1</guid>
+            <pubDate>Thu, 17 Nov 2022 01:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-11-14 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/1104/17_32_49__6364ce31cede8[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도서 <달팽이 식당> 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8438&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8438&amp;p=1</guid>
+            <pubDate>Thu, 17 Nov 2022 01:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-11-09 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/1028/14_18_05__635b660dbb4e3[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도서 <우중괴담> 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8437&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8437&amp;p=1</guid>
+            <pubDate>Thu, 17 Nov 2022 01:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-11-08 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/1028/14_12_19__635b64b3a9628[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 <동감> 시사회 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8436&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8436&amp;p=1</guid>
+            <pubDate>Thu, 17 Nov 2022 01:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-11-09 19:50:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>메가박스 코엑스</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-11-07 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/1028/14_19_50__635b6676df82e[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 <폴: 600미터> 시사회 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8435&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8435&amp;p=1</guid>
+            <pubDate>Thu, 17 Nov 2022 01:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-11-07 19:30:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>메가박스 코엑스</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>75 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-11-04 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/1028/14_27_38__635b684a8d45c[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제6회 서울무용영화제 개막작 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8434&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8434&amp;p=1</guid>
+            <pubDate>Thu, 17 Nov 2022 01:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2022-11-05 16:00:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span></p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-11-01 11:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/1014/11_30_44__6348c9d4e1914[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 <블랙 사이트> 예매권 증정 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8431&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8431&amp;p=1</guid>
+            <pubDate>Thu, 17 Nov 2022 01:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-10-31 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/1021/08_55_44__6351e0009eff0[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

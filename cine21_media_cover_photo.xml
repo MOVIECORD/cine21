@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cine21.com/media/cover/photo</id>
-    <title>씨네21 ─ 멀티미디어 ─ 커버 ─ 사진</title>
-    <updated>2022-11-16T12:33:14.479Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cine21.com/media/cover/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 멀티미디어 ─ 커버 ─ 사진</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 17 Nov 2022 01:20:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No.1381]]></title>
+            <link>https://image.cine21.com/resize/cine21/poster/2022/1111/10_15_59__636da24f164b7[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/poster/2022/1111/10_15_59__636da24f164b7[H800-].jpg</guid>
+            <pubDate>Thu, 17 Nov 2022 01:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-15~2022-11-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1111/10_15_59__636da24f164b7[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No.1380]]></title>
+            <link>https://image.cine21.com/resize/cine21/poster/2022/1104/10_31_38__63646b7a03bea[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/poster/2022/1104/10_31_38__63646b7a03bea[H800-].jpg</guid>
+            <pubDate>Thu, 17 Nov 2022 01:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-08~2022-11-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1104/10_31_38__63646b7a03bea[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No.1379]]></title>
+            <link>https://image.cine21.com/resize/cine21/movie/2022/1028/10_13_39__635b2cc31f40c[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/movie/2022/1028/10_13_39__635b2cc31f40c[H800-].jpg</guid>
+            <pubDate>Thu, 17 Nov 2022 01:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-01~2022-11-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/1028/10_13_39__635b2cc31f40c[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No.1378]]></title>
+            <link>https://image.cine21.com/resize/cine21/poster/2022/1021/09_33_01__6351e8bdc0867[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/poster/2022/1021/09_33_01__6351e8bdc0867[H800-].jpg</guid>
+            <pubDate>Thu, 17 Nov 2022 01:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022-10-25~2022-11-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1021/09_33_01__6351e8bdc0867[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No.1377]]></title>
+            <link>https://image.cine21.com/resize/cine21/still/2022/1014/10_45_01__6348bf1d08f2d[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/still/2022/1014/10_45_01__6348bf1d08f2d[H800-].jpg</guid>
+            <pubDate>Thu, 17 Nov 2022 01:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022-10-18~2022-10-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/1014/10_45_01__6348bf1d08f2d[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No.1376]]></title>
+            <link>https://image.cine21.com/resize/cine21/person/2022/1007/08_45_41__633f68a5276d2[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/person/2022/1007/08_45_41__633f68a5276d2[H800-].jpg</guid>
+            <pubDate>Thu, 17 Nov 2022 01:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022-10-11~2022-10-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/person/2022/1007/08_45_41__633f68a5276d2[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No.1375]]></title>
+            <link>https://image.cine21.com/resize/cine21/still/2022/0930/09_15_33__63363525d759d[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/still/2022/0930/09_15_33__63363525d759d[H800-].jpg</guid>
+            <pubDate>Thu, 17 Nov 2022 01:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022-10-04~2022-10-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/0930/09_15_33__63363525d759d[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No.1374]]></title>
+            <link>https://image.cine21.com/resize/cine21/still/2022/0923/10_33_13__632d0cd9d980b[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/still/2022/0923/10_33_13__632d0cd9d980b[H800-].jpg</guid>
+            <pubDate>Thu, 17 Nov 2022 01:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022-09-27~2022-10-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/0923/10_33_13__632d0cd9d980b[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No.1373]]></title>
+            <link>https://image.cine21.com/resize/cine21/still/2022/0916/11_13_45__6323dbd91d79f[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/still/2022/0916/11_13_45__6323dbd91d79f[H800-].jpg</guid>
+            <pubDate>Thu, 17 Nov 2022 01:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022-09-20~2022-09-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/0916/11_13_45__6323dbd91d79f[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
