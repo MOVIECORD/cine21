@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 05:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 14:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 17 Nov 2022 01:18:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0729/17_12_41__62e39679f3718[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙폭스 - 폭렬닌자시대]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58942</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58942</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58942_6205fc69dab21[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데드맨]]></title>
@@ -69,14 +77,6 @@
             <pubDate>Thu, 17 Nov 2022 01:18:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0215/56067_620af92c7979e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙폭스 - 폭렬닌자시대]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58942</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58942</guid>
-            <pubDate>Thu, 17 Nov 2022 01:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58942_6205fc69dab21[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[감동주의보]]></title>
