@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 07:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 13:45:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -92,7 +92,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=59948</guid>
             <pubDate>Thu, 17 Nov 2022 01:17:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-11-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1115/12_53_55__63730d531794c[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1121/17_56_21__637b3d3588215[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세이레]]></title>
@@ -111,20 +111,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1118/12_59_51__6377033732ab9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[머슴 바울]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59935</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59935</guid>
-            <pubDate>Thu, 17 Nov 2022 01:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-11-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1108/16_55_44__636a0b80e535f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[픽션들]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59823</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59823</guid>
             <pubDate>Thu, 17 Nov 2022 01:17:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-11-24]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1102/10_41_24__6361cac4eb502[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[머슴 바울]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59935</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59935</guid>
+            <pubDate>Thu, 17 Nov 2022 01:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-11-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1108/16_55_44__636a0b80e535f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우수]]></title>
