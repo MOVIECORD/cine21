@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 01:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 03:07:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -135,20 +135,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/13_54_04__62f48b6ce46b8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사랑 결혼 그밖에 것들]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59665</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59665</guid>
-            <pubDate>Thu, 17 Nov 2022 01:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0922/15_35_15__632c02238ad43[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[악에 바쳐]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59647</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59647</guid>
             <pubDate>Thu, 17 Nov 2022 01:18:20 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0914/15_20_51__632172c3742c8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑 결혼 그밖에 것들]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59665</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59665</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0922/15_35_15__632c02238ad43[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
