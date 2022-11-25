@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 06:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 09:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -103,6 +103,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0802/17_54_46__62e8e65610d58[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다크 웹]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59504</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59504</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/14_10_06__62f48f2e3b691[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기괴한 숲 속 마을]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59503</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59503</guid>
@@ -119,12 +127,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0714/17_43_23__62cfd72b004db[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다크 웹]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59504</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59504</guid>
+            <title><![CDATA[사랑 결혼 그밖에 것들]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59665</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59665</guid>
             <pubDate>Thu, 17 Nov 2022 01:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/14_10_06__62f48f2e3b691[X224,320].jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[개봉 : 2022-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0922/15_35_15__632c02238ad43[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[악에 바쳐]]></title>
@@ -133,14 +141,6 @@
             <pubDate>Thu, 17 Nov 2022 01:18:20 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0914/15_20_51__632172c3742c8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑 결혼 그밖에 것들]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59665</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59665</guid>
-            <pubDate>Thu, 17 Nov 2022 01:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0922/15_35_15__632c02238ad43[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어게인]]></title>
