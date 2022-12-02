@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 03:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 04:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2813,7 +2813,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=59863</guid>
             <pubDate>Tue, 29 Nov 2022 15:17:28 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-12-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1110/18_32_43__636cc53be4662[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1202/13_23_57__63897ddd3aa64[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청춘시련 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -3019,6 +3019,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=59994</guid>
             <pubDate>Fri, 02 Dec 2022 01:06:00 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-12-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1202/13_19_30__63897cd2eded0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[견왕: 이누오 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3903,6 +3904,19 @@
             <enclosure url="http://k.kakaocdn.net/dn/Ics8K/btrsXf3hi6p/KTql4TVzIUj1JI4aWYsBO1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[＜영웅＞ 뮤직 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F12%2Fhero_mutr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2022%2F1202%2F13_14_19__63897b9b54002%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EC%98%81%EC%9B%85%EF%BC%9E%20%EB%AE%A4%EC%A7%81%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F12%2Fhero_mutr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2022%2F1202%2F13_14_19__63897b9b54002%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EC%98%81%EC%9B%85%EF%BC%9E%20%EB%AE%A4%EC%A7%81%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 02 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43618">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F12%2Fhero_mutr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2022%2F1202%2F13_14_19__63897b9b54002%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EC%98%81%EC%9B%85%EF%BC%9E%20%EB%AE%A4%EC%A7%81%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2022/12/hero_mutr.mp4">
+						<img src="https://image.cine21.com/resize/cine21/movie/2022/1202/13_14_19__63897b9b54002[X211,130].jpg" alt="" class="thumb">
+						<span class="title">＜영웅＞ 뮤직 예고편</span>
+						<span class="date">2022-12-02</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/1202/13_14_19__63897b9b54002[X211,130].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[＜더 메뉴＞ 리뷰 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F12%2Fthemenu_rtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2022%2F1202%2F11_14_35__63895f8bb360b%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EB%8D%94%20%EB%A9%94%EB%89%B4%EF%BC%9E%20%EB%A6%AC%EB%B7%B0%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
             <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F12%2Fthemenu_rtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2022%2F1202%2F11_14_35__63895f8bb360b%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EB%8D%94%20%EB%A9%94%EB%89%B4%EF%BC%9E%20%EB%A6%AC%EB%B7%B0%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
@@ -4096,19 +4110,6 @@
 						<span class="date">2022-11-29</span>
 					</a>]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/rP6vS/btrStQ4BwAr/HAhNXbwoj4HA4wKEIiFkmk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜화이트 노이즈＞ 티저 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F11%2Fwhitenoise_ttr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FnaVL9%2FbtrSf9eqCev%2FftTUbFEwECPykDytno0Slk%2Fimg.jpg&amp;title=%EF%BC%9C%ED%99%94%EC%9D%B4%ED%8A%B8%20%EB%85%B8%EC%9D%B4%EC%A6%88%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F11%2Fwhitenoise_ttr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FnaVL9%2FbtrSf9eqCev%2FftTUbFEwECPykDytno0Slk%2Fimg.jpg&amp;title=%EF%BC%9C%ED%99%94%EC%9D%B4%ED%8A%B8%20%EB%85%B8%EC%9D%B4%EC%A6%88%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Mon, 28 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43600">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2022%2F11%2Fwhitenoise_ttr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FnaVL9%2FbtrSf9eqCev%2FftTUbFEwECPykDytno0Slk%2Fimg.jpg&amp;title=%EF%BC%9C%ED%99%94%EC%9D%B4%ED%8A%B8%20%EB%85%B8%EC%9D%B4%EC%A6%88%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2022/11/whitenoise_ttr.mp4">
-						<img src="http://k.kakaocdn.net/dn/naVL9/btrSf9eqCev/ftTUbFEwECPykDytno0Slk/img.jpg" alt="" class="thumb">
-						<span class="title">＜화이트 노이즈＞ 티저 예고편</span>
-						<span class="date">2022-11-28</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/naVL9/btrSf9eqCev/ftTUbFEwECPykDytno0Slk/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#줌터뷰] 〈이터널스〉 감독은 왜 마동석을 캐스팅했을까? feat.〈승리호〉 조성희 감독 (씨네21 ─ 네이버TV)]]></title>
