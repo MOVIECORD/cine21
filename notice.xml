@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2022-12-01T21:17:59.786Z</updated>
+    <updated>2022-12-02T01:07:44.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도서 <블랙박스 : 세상에서 너를 지우려면> 기대평 이벤트	당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8449&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8449&amp;p=1"/>
+        <updated>2022-12-02T01:03:21.807Z</updated>
+        <content type="html"><![CDATA[8449]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <만인의 연인> 시사회 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8448&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8437&amp;p=1"/>
         <updated>2022-11-14T10:18:19.077Z</updated>
         <content type="html"><![CDATA[8437]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <동감> 시사회 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8436&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8436&amp;p=1"/>
-        <updated>2022-11-09T01:16:01.592Z</updated>
-        <content type="html"><![CDATA[8436]]></content>
     </entry>
 </feed>
