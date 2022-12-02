@@ -4,25 +4,9 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 07:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 16:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[헤이지니&럭키강이 비밀의 문]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59880</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59880</guid>
-            <pubDate>Wed, 30 Nov 2022 17:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-12-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1201/20_33_05__638890f19e6a2[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요정]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59872</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59872</guid>
-            <pubDate>Wed, 30 Nov 2022 17:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-12-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1108/14_24_13__6369e7fde1afd[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[극장판 가면라이더: 세이버X젠카이저 슈퍼히어로 전기]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59863</link>
@@ -40,12 +24,19 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1108/13_36_10__6369dcbab9c01[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[동행: 10년의 발걸음]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59775</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59775</guid>
+            <title><![CDATA[양성인간]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59972</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59972</guid>
             <pubDate>Wed, 30 Nov 2022 17:19:48 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-12-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1103/15_27_37__63635f590c544[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤이지니&럭키강이 비밀의 문]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59880</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59880</guid>
+            <pubDate>Wed, 30 Nov 2022 17:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1201/20_33_05__638890f19e6a2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판 뽀로로와 친구들: 바이러스를 없애줘!]]></title>
@@ -64,27 +55,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1108/18_51_42__636a26ae54659[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[양성인간]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59972</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59972</guid>
+            <title><![CDATA[동행: 10년의 발걸음]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59775</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59775</guid>
             <pubDate>Wed, 30 Nov 2022 17:19:48 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-12-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1103/15_27_37__63635f590c544[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[원피스 필름 레드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59658</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59658</guid>
-            <pubDate>Tue, 29 Nov 2022 15:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-11-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1025/19_02_23__6357b42f6952e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그녀가 말했다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59818</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59818</guid>
-            <pubDate>Tue, 29 Nov 2022 15:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-11-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1115/19_05_10__6373645650894[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[요정]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59872</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59872</guid>
+            <pubDate>Wed, 30 Nov 2022 17:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1108/14_24_13__6369e7fde1afd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화감독 노동주]]></title>
@@ -95,44 +79,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1011/15_01_36__634506c0ee0a5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[본즈 앤 올]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59824</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59824</guid>
+            <title><![CDATA[그녀가 말했다]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59818</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59818</guid>
             <pubDate>Tue, 29 Nov 2022 15:17:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-11-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1031/17_28_50__635f87424b1da[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔시티 드림 더 무비 : 인 어 드림]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59947</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59947</guid>
-            <pubDate>Tue, 29 Nov 2022 15:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-11-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1118/10_52_46__6376e56ee6198[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[압꾸정]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56748</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56748</guid>
-            <pubDate>Tue, 29 Nov 2022 15:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-11-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1201/12_18_05__63881cedd626b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탄생]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58534</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58534</guid>
-            <pubDate>Tue, 29 Nov 2022 15:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-11-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1201/11_21_37__63880fb140ee0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너와 사랑한 시간]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59870</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59870</guid>
-            <pubDate>Thu, 01 Dec 2022 03:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-11-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1101/59870_6360c1499027e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1115/19_05_10__6373645650894[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘 밤, 세계에서 이 사랑이 사라진다 해도]]></title>
@@ -143,12 +95,60 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1103/18_29_53__63638a11932ea[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[본즈 앤 올]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59824</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59824</guid>
+            <pubDate>Tue, 29 Nov 2022 15:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-11-30]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1031/17_28_50__635f87424b1da[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원피스 필름 레드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59658</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59658</guid>
+            <pubDate>Tue, 29 Nov 2022 15:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-11-30]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1025/19_02_23__6357b42f6952e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너와 사랑한 시간]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59870</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59870</guid>
+            <pubDate>Thu, 01 Dec 2022 03:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-11-30]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1101/59870_6360c1499027e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탄생]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58534</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58534</guid>
+            <pubDate>Tue, 29 Nov 2022 15:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-11-30]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1201/11_21_37__63880fb140ee0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[압꾸정]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56748</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56748</guid>
+            <pubDate>Tue, 29 Nov 2022 15:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-11-30]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1201/12_18_05__63881cedd626b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그 겨울, 나는]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58868</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58868</guid>
             <pubDate>Tue, 29 Nov 2022 15:17:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-11-30]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1114/12_02_32__6371afc89db06[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔시티 드림 더 무비 : 인 어 드림]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59947</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59947</guid>
+            <pubDate>Tue, 29 Nov 2022 15:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-11-30]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1118/10_52_46__6376e56ee6198[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
