@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 05:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 10:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,14 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=59335</guid>
             <pubDate>Thu, 17 Nov 2022 01:17:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-08-31]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[혜옥이]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59934</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59934</guid>
+            <pubDate>Tue, 29 Nov 2022 15:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1115/16_06_34__63733a7a46f6f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마이 선]]></title>
@@ -55,28 +63,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1123/15_36_10__637dbf5aa8eed[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[혜옥이]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59934</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59934</guid>
-            <pubDate>Tue, 29 Nov 2022 15:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-12-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1115/16_06_34__63733a7a46f6f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[1번국도]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59946</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59946</guid>
             <pubDate>Tue, 29 Nov 2022 15:17:28 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-12-08]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1115/10_29_21__6372eb71890ec[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아바타: 물의 길]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59233</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59233</guid>
-            <pubDate>Wed, 30 Nov 2022 17:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-12-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1115/13_44_22__6373192666c64[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신비아파트 극장판 차원도깨비와 7개의 세계]]></title>
@@ -95,12 +87,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1122/59943_637c8f5a2a17b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나나]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59080</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59080</guid>
-            <pubDate>Tue, 06 Dec 2022 18:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-12-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1122/15_35_43__637c6dbf7f6d7[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아바타: 물의 길]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59233</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59233</guid>
+            <pubDate>Wed, 30 Nov 2022 17:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1115/13_44_22__6373192666c64[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤직 by SIA]]></title>
@@ -111,12 +103,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1129/12_00_16__638575c045c46[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지옥의 화원]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58069</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58069</guid>
+            <title><![CDATA[나나]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59080</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59080</guid>
             <pubDate>Tue, 06 Dec 2022 18:20:46 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-12-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1118/17_04_35__63773c93d8aeb[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1122/15_35_43__637c6dbf7f6d7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[페르시아어 수업]]></title>
@@ -125,6 +117,14 @@
             <pubDate>Tue, 06 Dec 2022 12:31:06 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-12-15]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1121/14_16_26__637b09aa4a597[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지옥의 화원]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58069</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58069</guid>
+            <pubDate>Tue, 06 Dec 2022 18:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1118/17_04_35__63773c93d8aeb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코르사주]]></title>
