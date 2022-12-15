@@ -1,8 +1,155 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cine21.com/movie/lists/playing</id>
-    <title>씨네21 ─ 영화 ─ 현재 상영중</title>
-    <updated>2022-12-15T18:22:24.172Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cine21.com/movie/lists/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 영화 ─ 현재 상영중</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 15 Dec 2022 22:20:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나나]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59080</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59080</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1122/15_35_43__637c6dbf7f6d7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤직 by SIA]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59938</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59938</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1129/12_00_16__638575c045c46[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페르시아어 수업]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59905</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59905</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1121/14_16_26__637b09aa4a597[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지옥의 화원]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58069</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58069</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1118/17_04_35__63773c93d8aeb[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야쿠자 프린세스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60020</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60020</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1209/12_19_34__6392a9465fc5f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신비아파트 극장판 차원도깨비와 7개의 세계]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59939</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59939</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1118/13_15_39__637706eb62975[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라 비 앙 로즈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59943</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59943</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1122/59943_637c8f5a2a17b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아바타: 물의 길]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59233</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59233</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1215/17_26_20__639ada2c08f82[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 게임]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59799</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59799</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1111/10_52_11__636daacb4c337[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1번국도]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59946</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59946</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1115/10_29_21__6372eb71890ec[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이 선]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59994</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59994</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1202/13_19_30__63897cd2eded0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[견왕: 이누오]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59961</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59961</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1123/15_36_10__637dbf5aa8eed[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혜옥이]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59934</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59934</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1115/16_06_34__63733a7a46f6f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[튜브펫 주식회사]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59971</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59971</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1124/19_36_35__637f493311490[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 메뉴]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59826</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59826</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-07]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1108/15_08_39__6369f2679c64f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스페이스 키드: 우주에서 살아남기]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59940</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59940</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-07]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1118/10_57_58__6376e6a6e70ed[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프레이 포 더 데블]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59742</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59742</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-07]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1108/14_57_37__6369efd103bb4[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화이트 노이즈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59949</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59949</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-07]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1122/17_16_24__637c85583a4a1[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
