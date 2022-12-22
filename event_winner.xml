@@ -4,9 +4,18 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 21:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 01:06:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <운빨로맨스> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8461&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8461&amp;p=1</guid>
+            <pubDate>Thu, 22 Dec 2022 01:05:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2022-12-22 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1201/09_42_55__6387f88f0086a[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <장화신은 고양이: 끝내주는 모험> 시사회 초대 이벤트]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8460&amp;p=1</link>
@@ -110,15 +119,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>50 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-12-02 15:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/still/2022/1116/15_49_18__637487eeada40[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <블랙박스 : 세상에서 너를 지우려면> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8449&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8449&amp;p=1</guid>
-            <pubDate>Wed, 30 Nov 2022 05:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-11-30 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/1116/10_08_14__637437fe8a2ba[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
