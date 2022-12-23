@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2022-12-22T19:16:27.284Z</updated>
+    <updated>2022-12-23T01:04:35.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <장화신은 고양이: 끝내주는 모험> 시사회 초대 이벤트 당처자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8460&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8460&amp;p=1"/>
+        <updated>2022-12-23T00:59:58.189Z</updated>
+        <content type="html"><![CDATA[8460]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <크레이지 컴페티션> 시사회 초대 이벤트]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8459&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8448&amp;p=1"/>
         <updated>2022-11-30T06:20:07.477Z</updated>
         <content type="html"><![CDATA[8448]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <원피스 필름 레드> 시사회 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8447&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8447&amp;p=1"/>
-        <updated>2022-11-30T06:20:07.485Z</updated>
-        <content type="html"><![CDATA[8447]]></content>
     </entry>
 </feed>
