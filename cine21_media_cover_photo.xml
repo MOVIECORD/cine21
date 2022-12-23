@@ -4,9 +4,17 @@
         <title>씨네21 ─ 멀티미디어 ─ 커버 ─ 사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 01:04:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 02:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No.1387]]></title>
+            <link>https://image.cine21.com/resize/cine21/still/2022/1223/10_47_48__63a508c4e5939[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/still/2022/1223/10_47_48__63a508c4e5939[H800-].jpg</guid>
+            <pubDate>Fri, 23 Dec 2022 02:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-27~2023-01-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/1223/10_47_48__63a508c4e5939[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[No.1386]]></title>
             <link>https://image.cine21.com/resize/cine21/movie/2022/1216/11_22_46__639bd676eabc1[H800-].jpg</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 17 Nov 2022 01:19:50 GMT</pubDate>
             <content:encoded><![CDATA[2022-11-01~2022-11-08]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/1028/10_13_39__635b2cc31f40c[X300,360].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No.1378]]></title>
-            <link>https://image.cine21.com/resize/cine21/poster/2022/1021/09_33_01__6351e8bdc0867[H800-].jpg</link>
-            <guid>https://image.cine21.com/resize/cine21/poster/2022/1021/09_33_01__6351e8bdc0867[H800-].jpg</guid>
-            <pubDate>Thu, 17 Nov 2022 01:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[2022-10-25~2022-11-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1021/09_33_01__6351e8bdc0867[X300,360].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
