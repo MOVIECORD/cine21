@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 19:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 03:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,14 @@
             <content:encoded><![CDATA[개봉 : 2022-08-31]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[이스터 선데이]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60021</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60021</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-28]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1209/13_11_23__6392b56b8be8b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[크레이지 컴페티션]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59982</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59982</guid>
@@ -37,14 +45,6 @@
             <pubDate>Thu, 15 Dec 2022 22:18:39 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-12-28]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1209/12_47_15__6392afc385241[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이스터 선데이]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60021</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60021</guid>
-            <pubDate>Thu, 15 Dec 2022 22:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-12-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1209/13_11_23__6392b56b8be8b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젠틀맨]]></title>
@@ -102,6 +102,14 @@
             <content:encoded><![CDATA[개봉 : 2023-01-02]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[스위치]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57550</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57550</guid>
+            <pubDate>Tue, 20 Dec 2022 20:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-01-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1206/13_06_14__638ebfb62e824[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[처음 꽃향기를 만난 순간]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60029</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60029</guid>
@@ -110,20 +118,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1216/15_28_51__639c1023bd354[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더 퍼스트 슬램덩크]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59945</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59945</guid>
-            <pubDate>Tue, 20 Dec 2022 20:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-01-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1216/11_00_31__639bd13f407fe[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[3000년의 기다림]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59941</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59941</guid>
             <pubDate>Wed, 21 Dec 2022 18:21:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-01-04]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1209/13_47_28__6392bde0d5d3f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 퍼스트 슬램덩크]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59945</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59945</guid>
+            <pubDate>Tue, 20 Dec 2022 20:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-01-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1216/11_00_31__639bd13f407fe[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[패닉 런]]></title>
@@ -140,14 +148,6 @@
             <pubDate>Tue, 20 Dec 2022 20:20:28 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-01-04]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1201/18_21_08__63887204c11d6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스위치]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57550</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57550</guid>
-            <pubDate>Tue, 20 Dec 2022 20:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-01-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1206/13_06_14__638ebfb62e824[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
