@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2022-12-30T09:21:17.883Z</updated>
+    <updated>2022-12-30T15:23:35.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도서 <원청> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8465&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8465&amp;p=1"/>
+        <updated>2022-12-30T15:15:34.150Z</updated>
+        <content type="html"><![CDATA[8465]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <이태석> 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8464&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8453&amp;p=1"/>
         <updated>2022-12-13T12:25:23.661Z</updated>
         <content type="html"><![CDATA[8453]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <나나> 시사회 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8452&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8452&amp;p=1"/>
-        <updated>2022-12-12T04:17:14.973Z</updated>
-        <content type="html"><![CDATA[8452]]></content>
     </entry>
 </feed>
