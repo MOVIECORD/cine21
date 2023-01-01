@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 09:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 15:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2820,6 +2820,14 @@ MP3가 촉발시킨 감정들
             <enclosure url="http://k.kakaocdn.net/dn/c7mPGs/btrTgqZXnc2/IhYPK40H07H7uom7WMNPe0/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오! 나의 어시님 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60040</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60040</guid>
+            <pubDate>Wed, 21 Dec 2022 18:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-01-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1230/18_10_29__63aeab0593880[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[요로나: 끝나지 않은 저주 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60043</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60043</guid>
@@ -2834,6 +2842,14 @@ MP3가 촉발시킨 감정들
             <pubDate>Thu, 15 Dec 2022 22:18:39 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-12-29]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1213/13_15_10__6397fc4ee324c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태석 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59977</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59977</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1202/16_56_30__6389afae380b3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라스트 필름 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2852,28 +2868,12 @@ MP3가 촉발시킨 감정들
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1206/13_19_07__638ec2bb54250[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이태석 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59977</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59977</guid>
-            <pubDate>Thu, 15 Dec 2022 22:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-12-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1202/16_56_30__6389afae380b3[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[젠틀맨 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58369</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58369</guid>
             <pubDate>Thu, 15 Dec 2022 22:18:39 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-12-28]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1228/15_43_43__63abe59f90eb3[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몬스터 신부: 101번째 프로포즈 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59758</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59758</guid>
-            <pubDate>Thu, 15 Dec 2022 22:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-12-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1209/12_47_15__6392afc385241[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크레이지 컴페티션 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2892,6 +2892,14 @@ MP3가 촉발시킨 감정들
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1209/13_11_23__6392b56b8be8b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[몬스터 신부: 101번째 프로포즈 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59758</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59758</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-28]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1209/12_47_15__6392afc385241[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[드라이브 마이 카 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58089</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58089</guid>
@@ -2900,20 +2908,20 @@ MP3가 촉발시킨 감정들
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1206/12_59_43__638ebe2f22810[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가가린 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59944</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59944</guid>
-            <pubDate>Thu, 15 Dec 2022 22:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-12-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1202/10_55_06__63895afa9eef0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[눈의 여왕5: 스노우 프린세스와 미러랜드의 비밀 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59962</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59962</guid>
             <pubDate>Thu, 15 Dec 2022 22:18:39 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-12-22]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1221/16_49_48__63a2ba9ce5ad9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가가린 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59944</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59944</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1202/10_55_06__63895afa9eef0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코르사주 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2940,28 +2948,20 @@ MP3가 촉발시킨 감정들
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1213/13_41_56__63980294c88ec[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤직 by SIA (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59938</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59938</guid>
-            <pubDate>Thu, 15 Dec 2022 22:18:10 GMT</pubDate>
+            <title><![CDATA[지옥의 화원 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58069</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58069</guid>
+            <pubDate>Sun, 01 Jan 2023 15:20:09 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-12-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1129/12_00_16__638575c045c46[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1118/17_04_35__63773c93d8aeb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나나 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59080</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59080</guid>
-            <pubDate>Thu, 29 Dec 2022 15:16:01 GMT</pubDate>
+            <title><![CDATA[야쿠자 프린세스 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60020</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60020</guid>
+            <pubDate>Sun, 01 Jan 2023 15:20:09 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-12-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1122/15_35_43__637c6dbf7f6d7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페르시아어 수업 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59905</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59905</guid>
-            <pubDate>Thu, 15 Dec 2022 22:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-12-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1121/14_16_26__637b09aa4a597[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1209/12_19_34__6392a9465fc5f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한산: 용의 출현 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2979,12 +2979,12 @@ MP3가 촉발시킨 감정들
             <content:encoded><![CDATA[개봉 : 2022-08-31]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오! 나의 어시님 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60040</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60040</guid>
-            <pubDate>Wed, 21 Dec 2022 18:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-01-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1230/18_10_29__63aeab0593880[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[처음 꽃향기를 만난 순간 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60029</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60029</guid>
+            <pubDate>Mon, 19 Dec 2022 07:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-01-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1216/15_28_51__639c1023bd354[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 퍼스트 슬램덩크 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3003,14 +3003,6 @@ MP3가 촉발시킨 감정들
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1213/11_47_22__6397e7bacb103[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[3000년의 기다림 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59941</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59941</guid>
-            <pubDate>Wed, 21 Dec 2022 18:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-01-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1209/13_47_28__6392bde0d5d3f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[장화신은 고양이: 끝내주는 모험 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59018</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59018</guid>
@@ -3027,12 +3019,12 @@ MP3가 촉발시킨 감정들
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1206/13_06_14__638ebfb62e824[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[처음 꽃향기를 만난 순간 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60029</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60029</guid>
-            <pubDate>Mon, 19 Dec 2022 07:17:33 GMT</pubDate>
+            <title><![CDATA[3000년의 기다림 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59941</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59941</guid>
+            <pubDate>Wed, 21 Dec 2022 18:21:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-01-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1216/15_28_51__639c1023bd354[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1209/13_47_28__6392bde0d5d3f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강남 좀비 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3043,20 +3035,20 @@ MP3가 촉발시킨 감정들
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1208/13_52_09__63916d79a1232[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[문맨 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60022</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60022</guid>
-            <pubDate>Wed, 28 Dec 2022 16:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-01-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1230/17_06_23__63ae9bff88978[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[시간을 꿈꾸는 소녀 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59992</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59992</guid>
             <pubDate>Tue, 27 Dec 2022 17:14:13 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-01-11]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1228/14_51_42__63abd96e84a19[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문맨 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60022</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60022</guid>
+            <pubDate>Wed, 28 Dec 2022 16:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-01-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1230/17_06_23__63ae9bff88978[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해시태그 시그네 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3091,12 +3083,12 @@ MP3가 촉발시킨 감정들
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1223/11_07_20__63a50d5848981[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라일 라일 크로커다일 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60011</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60011</guid>
-            <pubDate>Thu, 29 Dec 2022 15:16:26 GMT</pubDate>
+            <title><![CDATA[유령 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57486</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57486</guid>
+            <pubDate>Sun, 01 Jan 2023 15:20:32 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-01-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1223/11_17_46__63a50fca1f8fd[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1228/17_23_27__63abfcff418d5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[캐리와 슈퍼콜라 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3105,6 +3097,14 @@ MP3가 촉발시킨 감정들
             <pubDate>Thu, 29 Dec 2022 15:16:26 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-01-18]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1226/17_42_06__63a95e5e5b066[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라일 라일 크로커다일 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60011</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60011</guid>
+            <pubDate>Thu, 29 Dec 2022 15:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-01-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1223/11_17_46__63a50fca1f8fd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모나리자와 블러드 문 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3550,15 +3550,6 @@ MP3가 촉발시킨 감정들
             <enclosure url="https://image.cine21.com/resize/cine21/still/2022/1223/15_16_18__63a547b20359a[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[도서 <체셔 크로싱> 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8033</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8033</guid>
-            <pubDate>Sun, 25 Dec 2022 16:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-01-02 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/1223/15_13_37__63a54711c8b13[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <옥탑방고양이> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8032</link>
             <guid>http://www.cine21.com/event/view/?event_no=8032</guid>
@@ -3577,15 +3568,6 @@ MP3가 촉발시킨 감정들
                                             <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-01-04 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/still/2022/1223/14_54_59__63a542b31402a[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <아래층 소녀의 비밀 직업> 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8030</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8030</guid>
-            <pubDate>Sun, 18 Dec 2022 20:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-01-02 16:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/1221/09_56_16__63a259b0d0228[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도서 <당신 곁의 파피용> 증정 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>

@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 09:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 15:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,15 +26,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/still/2022/1223/15_16_18__63a547b20359a[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[도서 <체셔 크로싱> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8033</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8033</guid>
-            <pubDate>Sun, 25 Dec 2022 16:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-01-02 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/1223/15_13_37__63a54711c8b13[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <옥탑방고양이> 초대 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8032</link>
             <guid>http://www.cine21.com/event/view/?event_no=8032</guid>
@@ -53,15 +44,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-01-04 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/still/2022/1223/14_54_59__63a542b31402a[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <아래층 소녀의 비밀 직업> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8030</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8030</guid>
-            <pubDate>Sun, 18 Dec 2022 20:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-01-02 16:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/1221/09_56_16__63a259b0d0228[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
