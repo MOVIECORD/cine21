@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 18:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 06:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -103,14 +103,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0802/17_54_46__62e8e65610d58[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다크 웹]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59504</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59504</guid>
-            <pubDate>Thu, 15 Dec 2022 22:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/14_10_06__62f48f2e3b691[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[한 밤의 판타지아]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59386</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59386</guid>
@@ -125,6 +117,14 @@
             <pubDate>Thu, 15 Dec 2022 22:18:51 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/13_54_04__62f48b6ce46b8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다크 웹]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59504</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59504</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/14_10_06__62f48f2e3b691[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑 결혼 그밖에 것들]]></title>
@@ -143,12 +143,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0914/15_20_51__632172c3742c8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영화 너무 좋아 폼포 씨]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59776</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59776</guid>
-            <pubDate>Wed, 28 Dec 2022 10:18:07 GMT</pubDate>
+            <title><![CDATA[곤륜겁지교인루]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59892</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59892</guid>
+            <pubDate>Mon, 02 Jan 2023 06:21:13 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1017/15_17_07__634cf3634c7d4[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1102/12_29_53__6361e431a1d73[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
