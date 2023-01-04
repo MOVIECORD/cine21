@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 07:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 08:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1376,6 +1376,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDNfMjY2/MDAxNTE0OTQwNDk5Njgw.48xeRxRGlvPSdaLRjOFcDg1xhytLhg85PJE0FgETvpQg.FxnXOX78PIXBWHQQY2UtKSdN1G4hJr7EMEvHxcgcRlgg.JPEG/ImU46Da7wWq4hZ0XaIHjaQSoECZE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[도서 <체셔 크로싱> 기대평 이벤트	당첨자 발표 (씨네21 ─ 공지사항)]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8469&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8469&amp;p=1</guid>
+            <pubDate>Mon, 02 Jan 2023 06:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[8469]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[도서 <아래층 소녀의 비밀 직업> 기대평 이벤트 당첨자 명단 (씨네21 ─ 공지사항)]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8468&amp;p=1</link>
             <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8468&amp;p=1</guid>
@@ -1458,13 +1465,6 @@
             <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8457&amp;p=1</guid>
             <pubDate>Thu, 15 Dec 2022 08:25:26 GMT</pubDate>
             <content:encoded><![CDATA[8457]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[도서 <레이디스> 기대평 이벤트 당첨자 발표 (씨네21 ─ 공지사항)]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8456&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8456&amp;p=1</guid>
-            <pubDate>Tue, 13 Dec 2022 02:59:14 GMT</pubDate>
-            <content:encoded><![CDATA[8456]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[리뷰] ‘더 퍼스트 슬램덩크’, 꺾이지 않는 마음, 변하지 않는 감동. 움직이는 만화의 힘 (씨네21 ─ 기사 ─ 전체)]]></title>
@@ -2955,20 +2955,20 @@ MP3가 촉발시킨 감정들
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1230/17_06_23__63ae9bff88978[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나는 마을 방과후 교사입니다 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60045</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60045</guid>
-            <pubDate>Wed, 28 Dec 2022 16:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-01-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1230/16_30_19__63ae938b223f7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[시간을 꿈꾸는 소녀 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59992</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59992</guid>
             <pubDate>Tue, 27 Dec 2022 17:14:13 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-01-11]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1228/14_51_42__63abd96e84a19[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 마을 방과후 교사입니다 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60045</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60045</guid>
+            <pubDate>Wed, 28 Dec 2022 16:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-01-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1230/16_30_19__63ae938b223f7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해시태그 시그네 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3011,36 +3011,12 @@ MP3가 촉발시킨 감정들
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1223/11_07_20__63a50d5848981[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[겨울 이야기 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=19742</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=19742</guid>
-            <pubDate>Tue, 03 Jan 2023 16:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-01-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1228/14_58_43__63abdb13cd718[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라일 라일 크로커다일 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60011</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60011</guid>
-            <pubDate>Tue, 03 Jan 2023 16:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-01-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1223/11_17_46__63a50fca1f8fd[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[캐리와 슈퍼콜라 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59997</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59997</guid>
             <pubDate>Tue, 03 Jan 2023 16:23:08 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-01-18]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0103/17_21_21__63b3e58102f0c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교섭 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56196</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56196</guid>
-            <pubDate>Tue, 03 Jan 2023 16:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-01-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1228/16_38_55__63abf28fcb46e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유령 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3051,12 +3027,36 @@ MP3가 촉발시킨 감정들
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1228/17_23_27__63abfcff418d5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[교섭 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56196</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56196</guid>
+            <pubDate>Tue, 03 Jan 2023 16:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-01-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1228/16_38_55__63abf28fcb46e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울 이야기 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=19742</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=19742</guid>
+            <pubDate>Tue, 03 Jan 2023 16:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-01-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1228/14_58_43__63abdb13cd718[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유랑의 달 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60038</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60038</guid>
             <pubDate>Mon, 02 Jan 2023 06:20:51 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-01-18]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1228/16_57_54__63abf702014d7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라일 라일 크로커다일 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60011</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60011</guid>
+            <pubDate>Tue, 03 Jan 2023 16:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-01-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1223/11_17_46__63a50fca1f8fd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판 파워레인저 캡틴포스: 지구를 위한 싸움 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3881,6 +3881,19 @@ MP3가 촉발시킨 감정들
             <enclosure url="http://k.kakaocdn.net/dn/Ics8K/btrsXf3hi6p/KTql4TVzIUj1JI4aWYsBO1/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[＜프린스 챠밍＞ OST 컬렉션 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F01%2Fcharming_ocmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F0104%2F17_32_26__63b5399a4e9f5%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%ED%94%84%EB%A6%B0%EC%8A%A4%20%EC%B1%A0%EB%B0%8D%EF%BC%9E%20OST%20%EC%BB%AC%EB%A0%89%EC%85%98%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F01%2Fcharming_ocmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F0104%2F17_32_26__63b5399a4e9f5%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%ED%94%84%EB%A6%B0%EC%8A%A4%20%EC%B1%A0%EB%B0%8D%EF%BC%9E%20OST%20%EC%BB%AC%EB%A0%89%EC%85%98%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43782">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F01%2Fcharming_ocmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F0104%2F17_32_26__63b5399a4e9f5%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%ED%94%84%EB%A6%B0%EC%8A%A4%20%EC%B1%A0%EB%B0%8D%EF%BC%9E%20OST%20%EC%BB%AC%EB%A0%89%EC%85%98%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/01/charming_ocmk.mp4">
+						<img src="https://image.cine21.com/resize/cine21/movie/2023/0104/17_32_26__63b5399a4e9f5[X211,130].jpg" alt="" class="thumb">
+						<span class="title">＜프린스 챠밍＞ OST 컬렉션 영상</span>
+						<span class="date">2023-01-04</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0104/17_32_26__63b5399a4e9f5[X211,130].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[＜교섭＞ 캐릭터 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F01%2Fpointmen_cmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F0104%2F14_32_46__63b50f7e6b10c%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EA%B5%90%EC%84%AD%EF%BC%9E%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%98%81%EC%83%81</link>
             <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F01%2Fpointmen_cmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F0104%2F14_32_46__63b50f7e6b10c%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EA%B5%90%EC%84%AD%EF%BC%9E%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%98%81%EC%83%81</guid>
@@ -4074,19 +4087,6 @@ MP3가 촉발시킨 감정들
 						<span class="date">2023-01-03</span>
 					</a>]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/cL9MxC/btrVgiyB9I4/LNKN0w6pcP6IyzJ34gK0DK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜이태석＞ 감동의 리뷰 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F01%2Fleetaeseok_rmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FQm4u7%2FbtrVjP3ypip%2FUUujVM4eDfXzrN13OALV30%2Fimg.jpg&amp;title=%EF%BC%9C%EC%9D%B4%ED%83%9C%EC%84%9D%EF%BC%9E%20%EA%B0%90%EB%8F%99%EC%9D%98%20%EB%A6%AC%EB%B7%B0%20%EC%98%81%EC%83%81</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F01%2Fleetaeseok_rmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FQm4u7%2FbtrVjP3ypip%2FUUujVM4eDfXzrN13OALV30%2Fimg.jpg&amp;title=%EF%BC%9C%EC%9D%B4%ED%83%9C%EC%84%9D%EF%BC%9E%20%EA%B0%90%EB%8F%99%EC%9D%98%20%EB%A6%AC%EB%B7%B0%20%EC%98%81%EC%83%81</guid>
-            <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43765">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F01%2Fleetaeseok_rmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FQm4u7%2FbtrVjP3ypip%2FUUujVM4eDfXzrN13OALV30%2Fimg.jpg&amp;title=%EF%BC%9C%EC%9D%B4%ED%83%9C%EC%84%9D%EF%BC%9E%20%EA%B0%90%EB%8F%99%EC%9D%98%20%EB%A6%AC%EB%B7%B0%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/01/leetaeseok_rmk.mp4">
-						<img src="http://k.kakaocdn.net/dn/Qm4u7/btrVjP3ypip/UUujVM4eDfXzrN13OALV30/img.jpg" alt="" class="thumb">
-						<span class="title">＜이태석＞ 감동의 리뷰 영상</span>
-						<span class="date">2023-01-03</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/Qm4u7/btrVjP3ypip/UUujVM4eDfXzrN13OALV30/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#줌터뷰] 〈이터널스〉 감독은 왜 마동석을 캐스팅했을까? feat.〈승리호〉 조성희 감독 (씨네21 ─ 네이버TV)]]></title>
