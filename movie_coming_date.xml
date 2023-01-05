@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 04:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 09:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -31,20 +31,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1230/17_06_23__63ae9bff88978[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시간을 꿈꾸는 소녀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59992</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59992</guid>
-            <pubDate>Tue, 27 Dec 2022 17:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-01-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1228/14_51_42__63abd96e84a19[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[나는 마을 방과후 교사입니다]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60045</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60045</guid>
             <pubDate>Wed, 28 Dec 2022 16:21:52 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-01-11]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1230/16_30_19__63ae938b223f7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시간을 꿈꾸는 소녀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59992</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59992</guid>
+            <pubDate>Tue, 27 Dec 2022 17:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-01-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1228/14_51_42__63abd96e84a19[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해시태그 시그네]]></title>
@@ -87,12 +87,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0103/16_58_57__63b3e041ce592[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유랑의 달]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60038</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60038</guid>
-            <pubDate>Mon, 02 Jan 2023 06:20:51 GMT</pubDate>
+            <title><![CDATA[겨울 이야기]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=19742</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=19742</guid>
+            <pubDate>Tue, 03 Jan 2023 16:23:08 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-01-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1228/16_57_54__63abf702014d7[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1228/14_58_43__63abdb13cd718[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라일 라일 크로커다일]]></title>
@@ -111,14 +111,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0103/17_21_21__63b3e58102f0c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[겨울 이야기]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=19742</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=19742</guid>
-            <pubDate>Tue, 03 Jan 2023 16:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-01-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1228/14_58_43__63abdb13cd718[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[교섭]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=56196</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=56196</guid>
@@ -135,6 +127,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1228/17_23_27__63abfcff418d5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유랑의 달]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60038</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60038</guid>
+            <pubDate>Mon, 02 Jan 2023 06:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-01-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0105/17_42_39__63b68d7fb670d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 파워레인저 캡틴포스: 지구를 위한 싸움]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59966</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59966</guid>
@@ -143,12 +143,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1216/16_49_08__639c22f4166fe[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엄마의 땅: 그리샤와 숲의 주인]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60025</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60025</guid>
-            <pubDate>Wed, 04 Jan 2023 15:21:04 GMT</pubDate>
+            <title><![CDATA[상견니]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60054</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60054</guid>
+            <pubDate>Thu, 05 Jan 2023 09:20:17 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-01-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1230/14_43_44__63ae7a901fd34[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0103/20_22_33__63b40ff971c52[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
