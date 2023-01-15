@@ -4,9 +4,38 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Jan 2023 09:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 18:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <단순한 열정> 시사회 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8042</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8042</guid>
+            <pubDate>Sun, 15 Jan 2023 18:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-01-31 19:30</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>CGV용산아이파크몰</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-01-27 16:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0113/16_59_05__63c10f490d3cc[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 <안녕, 소중한 사람> 예매권 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8041</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8041</guid>
+            <pubDate>Sun, 15 Jan 2023 18:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-01-30 16:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/still/2023/0113/16_57_01__63c10ecd586e8[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도서 <선생님이 알아서는 안 되는 학교 폭력 일기> 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8039</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8039</guid>
+            <pubDate>Sun, 15 Jan 2023 18:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-01-25 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/still/2023/0113/10_28_43__63c0b3cb1421e[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <천룡팔부: 교봉전> 기대평 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8038</link>
@@ -15,15 +44,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-01-20 13:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0106/09_54_47__63b77157198f9[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <유랑의 달> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8036</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8036</guid>
-            <pubDate>Mon, 02 Jan 2023 06:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-01-16 11:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0102/08_46_14__63b21b4644ee1[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
