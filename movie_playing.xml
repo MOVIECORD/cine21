@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 07:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 11:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,36 +32,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1223/11_07_20__63a50d5848981[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[문맨]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60022</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60022</guid>
-            <pubDate>Tue, 10 Jan 2023 23:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-01-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1230/17_06_23__63ae9bff88978[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해시태그 시그네]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59903</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59903</guid>
-            <pubDate>Tue, 10 Jan 2023 23:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-01-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1214/16_06_36__639975fc6535b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[프린스 챠밍]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59861</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59861</guid>
             <pubDate>Tue, 10 Jan 2023 23:18:09 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-01-11]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1228/17_05_54__63abf8e2c91bb[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 마을 방과후 교사입니다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60045</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60045</guid>
-            <pubDate>Tue, 10 Jan 2023 23:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-01-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1230/16_30_19__63ae938b223f7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시간을 꿈꾸는 소녀]]></title>
@@ -72,12 +48,44 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1228/14_51_42__63abd96e84a19[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[문맨]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60022</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60022</guid>
+            <pubDate>Tue, 10 Jan 2023 23:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-01-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1230/17_06_23__63ae9bff88978[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 마을 방과후 교사입니다]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60045</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60045</guid>
+            <pubDate>Tue, 10 Jan 2023 23:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-01-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1230/16_30_19__63ae938b223f7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해시태그 시그네]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59903</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59903</guid>
+            <pubDate>Tue, 10 Jan 2023 23:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-01-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1214/16_06_36__639975fc6535b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[강남 좀비]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59875</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59875</guid>
             <pubDate>Wed, 04 Jan 2023 15:20:41 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-01-05]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1208/13_52_09__63916d79a1232[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[처음 꽃향기를 만난 순간]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60029</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60029</guid>
+            <pubDate>Tue, 03 Jan 2023 16:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-01-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1216/15_28_51__639c1023bd354[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[패닉 런]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 03 Jan 2023 16:22:41 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-01-04]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0104/15_18_53__63b51a4d14383[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[처음 꽃향기를 만난 순간]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60029</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60029</guid>
-            <pubDate>Tue, 03 Jan 2023 16:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-01-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1216/15_28_51__639c1023bd354[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장화신은 고양이: 끝내주는 모험]]></title>
