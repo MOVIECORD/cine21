@@ -4,9 +4,25 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 23:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 03:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감독							김주환 
+							(총4장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=75360</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=75360</guid>
+            <pubDate>Thu, 19 Jan 2023 03:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=75360">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2010/0421/P0000064_1[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/bE6hzz/btqlgBMIqsK/zzLnnVFpSi54b8kqgpScjk/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							감독							<strong>김주환</strong> 
+							<span class="num">(총4장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bE6hzz/btqlgBMIqsK/zzLnnVFpSi54b8kqgpScjk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우							탕웨이 
 							(총17장)]]></title>
@@ -166,22 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/WJL3V/btrsRYaBGTr/Gqbir9TvTKyOJxkbGqFx5K/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우							유인수 
-							(총4장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=109436</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=109436</guid>
-            <pubDate>Thu, 17 Nov 2022 01:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=109436">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0210/10_28_43__62046a4b13595[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="http://k.kakaocdn.net/dn/yVIwC/btrsYIqk45U/HAmm1929OmBaAMQLkcjVa0/img.jpg" alt="" class="thumb">
-						<span class="caption">
-							배우							<strong>유인수</strong> 
-							<span class="num">(총4장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/yVIwC/btrsYIqk45U/HAmm1929OmBaAMQLkcjVa0/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
