@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 08:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 19:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,15 +66,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-01-25 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/still/2023/0113/10_28_43__63c0b3cb1421e[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <천룡팔부: 교봉전> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8038</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8038</guid>
-            <pubDate>Sun, 08 Jan 2023 15:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-01-20 13:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0106/09_54_47__63b77157198f9[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
