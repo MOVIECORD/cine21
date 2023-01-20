@@ -4,9 +4,18 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 19:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 02:34:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <천룡팔부: 교봉전> 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8476&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8476&amp;p=1</guid>
+            <pubDate>Fri, 20 Jan 2023 02:33:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-01-20 13:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0106/09_54_47__63b77157198f9[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <유랑의 달> 기대평 이벤트]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8475&amp;p=1</link>
@@ -102,15 +111,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2022-12-26 16:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2022/1215/16_41_58__639acfc604e06[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <옛날 옛적 어느 마을에 역시 시체가 있었습니다> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8463&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8463&amp;p=1</guid>
-            <pubDate>Mon, 26 Dec 2022 03:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2022-12-26 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/still/2022/1207/17_12_05__63904ad5c7fe9[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
