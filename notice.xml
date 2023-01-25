@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-01-25T05:18:02.164Z</updated>
+    <updated>2023-01-25T07:27:23.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <유랑의 달> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8475&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8475&amp;p=1"/>
+        <updated>2023-01-25T07:19:31.300Z</updated>
+        <content type="html"><![CDATA[8475]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <라인> 시사회 초대 이벤트 당첨자 명단]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8474&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8463&amp;p=1"/>
         <updated>2022-12-26T03:14:20.955Z</updated>
         <content type="html"><![CDATA[8463]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제3회 한국 영화음악 콘서트 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8462&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8462&amp;p=1"/>
-        <updated>2022-12-26T03:14:20.956Z</updated>
-        <content type="html"><![CDATA[8462]]></content>
     </entry>
 </feed>
