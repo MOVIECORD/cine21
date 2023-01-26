@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-01-25T22:19:41.943Z</updated>
+    <updated>2023-01-26T10:20:35.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <천룡팔부: 교봉전> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8476&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8476&amp;p=1"/>
+        <updated>2023-01-26T10:14:21.974Z</updated>
+        <content type="html"><![CDATA[8476]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <유랑의 달> 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8475&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8464&amp;p=1"/>
         <updated>2022-12-26T03:14:20.948Z</updated>
         <content type="html"><![CDATA[8464]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <옛날 옛적 어느 마을에 역시 시체가 있었습니다> 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8463&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8463&amp;p=1"/>
-        <updated>2022-12-26T03:14:20.955Z</updated>
-        <content type="html"><![CDATA[8463]]></content>
     </entry>
 </feed>
