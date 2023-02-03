@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 14:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 15:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,15 +26,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-02-10 12:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/still/2023/0120/11_11_56__63c9f86c4dcdf[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <옥탑방고양이> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8046</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8046</guid>
-            <pubDate>Fri, 20 Jan 2023 02:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-02-06 10:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0120/11_04_52__63c9f6c46e914[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
