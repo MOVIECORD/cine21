@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-02-06T01:09:17.234Z</updated>
+    <updated>2023-02-06T15:25:11.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <다음 소희> 시사회 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8482&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8482&amp;p=1"/>
+        <updated>2023-02-06T15:16:11.480Z</updated>
+        <content type="html"><![CDATA[8482]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <안녕, 소중한 사람> 예매권 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8481&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8470&amp;p=1"/>
         <updated>2023-01-09T08:18:05.161Z</updated>
         <content type="html"><![CDATA[8470]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <체셔 크로싱> 기대평 이벤트	당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8469&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8469&amp;p=1"/>
-        <updated>2023-01-04T08:16:52.139Z</updated>
-        <content type="html"><![CDATA[8469]]></content>
     </entry>
 </feed>
