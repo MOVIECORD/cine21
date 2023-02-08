@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 04:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 08:27:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0802/17_54_46__62e8e65610d58[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[앤트맨과 와스프: 퀀텀매니아]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59819</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59819</guid>
+            <pubDate>Wed, 08 Feb 2023 04:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-02-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0208/10_41_26__63e2fdc6bacc8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어메이징 모리스]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59993</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59993</guid>
@@ -61,14 +69,6 @@
             <pubDate>Tue, 07 Feb 2023 17:16:20 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-02-15]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0131/18_43_52__63d8e2d8f2a55[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앤트맨과 와스프: 퀀텀매니아]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59819</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59819</guid>
-            <pubDate>Wed, 08 Feb 2023 04:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-02-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0208/10_41_26__63e2fdc6bacc8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[두다다쿵: 후후섬의 비밀]]></title>
@@ -95,6 +95,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0112/16_49_43__63bfbb97ba187[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마루이 비디오]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60092</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60092</guid>
+            <pubDate>Tue, 07 Feb 2023 17:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-02-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0203/11_15_26__63dc6e3e3394f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미녀와 야수: 마법에 걸린 왕자]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60128</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60128</guid>
@@ -109,14 +117,6 @@
             <pubDate>Tue, 07 Feb 2023 17:16:20 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-02-22]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0131/10_22_57__63d86d7112624[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마루이 비디오]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60092</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60092</guid>
-            <pubDate>Tue, 07 Feb 2023 17:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-02-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0203/11_15_26__63dc6e3e3394f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[살수]]></title>
