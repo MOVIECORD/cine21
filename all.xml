@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 08:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 09:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2923,14 +2923,6 @@ Apple TV+
             <content:encoded><![CDATA[개봉 : 2022-08-31]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[바다 탐험대 옥토넛 육지수호 대작전 : 열대우림을 지켜라! (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60114</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60114</guid>
-            <pubDate>Wed, 08 Feb 2023 16:27:37 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-02-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0113/12_43_03__63c0d347cf320[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[시몬 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60166</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60166</guid>
@@ -2945,6 +2937,14 @@ Apple TV+
             <pubDate>Tue, 07 Feb 2023 17:16:20 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-02-23]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0221/16_25_54__63f47202e5a9d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바다 탐험대 옥토넛 육지수호 대작전 : 열대우림을 지켜라! (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60114</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60114</guid>
+            <pubDate>Wed, 08 Feb 2023 16:27:37 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-02-23]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0113/12_43_03__63c0d347cf320[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리틀 엘렌: 외계인과 안테나 대소동 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2979,14 +2979,6 @@ Apple TV+
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0217/14_25_36__63ef0fd0ec687[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[멍뭉이 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60125</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60125</guid>
-            <pubDate>Tue, 14 Feb 2023 17:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-03-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0126/60125_63d1fe8e02166[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[대외비 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=56287</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=56287</guid>
@@ -2995,12 +2987,28 @@ Apple TV+
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0216/12_33_48__63eda41c5cec1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[멍뭉이 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60125</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60125</guid>
+            <pubDate>Tue, 14 Feb 2023 17:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-03-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0126/60125_63d1fe8e02166[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더 웨일 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60110</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60110</guid>
             <pubDate>Tue, 21 Feb 2023 07:18:50 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-03-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0217/12_45_33__63eef85d9c438[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리드 3 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60161</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60161</guid>
+            <pubDate>Wed, 22 Feb 2023 09:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-03-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0222/17_42_12__63f5d56452489[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[귀멸의 칼날: 상현집결, 그리고 도공 마을로 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3019,6 +3027,14 @@ Apple TV+
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0220/14_34_40__63f30670e60af[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[콜 제인 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59996</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59996</guid>
+            <pubDate>Wed, 22 Feb 2023 09:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-03-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0208/17_13_31__63e359ab1c7ee[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[똑똑똑 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60156</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60156</guid>
@@ -3033,30 +3049,6 @@ Apple TV+
             <pubDate>Tue, 21 Feb 2023 16:25:05 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-03-08]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0213/15_00_01__63e9d1e186b40[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6번 칸 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58857</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58857</guid>
-            <pubDate>Tue, 21 Feb 2023 16:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-03-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0217/13_05_22__63eefd026676c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스즈메의 문단속 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59392</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59392</guid>
-            <pubDate>Tue, 21 Feb 2023 16:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-03-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0208/11_44_17__63e30c819086c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메이의 새빨간 비밀 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58254</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58254</guid>
-            <pubDate>Thu, 15 Dec 2022 22:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58254_61a589108d01e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그랑블루 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3091,6 +3083,14 @@ Apple TV+
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1109/58691_618a1188acdc4[X224,320].JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[메이의 새빨간 비밀 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58254</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58254</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58254_61a589108d01e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[행복의 나라(가제) (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57453</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57453</guid>
@@ -3114,20 +3114,20 @@ Apple TV+
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0221/16_48_02__63f477326349a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[감동주의보 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59192</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59192</guid>
-            <pubDate>Thu, 15 Dec 2022 22:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0607/17_08_02__629f076275971[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뉴 프렌드: 누군가 죽는다 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59281</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59281</guid>
             <pubDate>Thu, 15 Dec 2022 22:18:51 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-06]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0523/59281_628ae87d8a57f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감동주의보 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59192</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59192</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0607/17_08_02__629f076275971[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이 투 다이 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3138,20 +3138,20 @@ Apple TV+
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0623/15_06_46__62b402f63067c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기괴한 숲 속 마을 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59503</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59503</guid>
-            <pubDate>Thu, 15 Dec 2022 22:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/13_54_04__62f48b6ce46b8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[다크 웹 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59504</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59504</guid>
             <pubDate>Thu, 15 Dec 2022 22:18:51 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-09]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/14_10_06__62f48f2e3b691[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기괴한 숲 속 마을 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59503</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59503</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/13_54_04__62f48b6ce46b8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한 밤의 판타지아 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3186,12 +3186,12 @@ Apple TV+
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1102/12_29_53__6361e431a1d73[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어게인 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59956</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59956</guid>
-            <pubDate>Wed, 22 Feb 2023 08:24:08 GMT</pubDate>
+            <title><![CDATA[영화 너무 좋아 폼포 씨 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59776</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59776</guid>
+            <pubDate>Wed, 22 Feb 2023 09:18:39 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1115/59956_63735e4bcedd9[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1017/15_17_07__634cf3634c7d4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[생각 그런거 없는데요 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
@@ -3867,6 +3867,58 @@ Apple TV+
             <enclosure url="http://k.kakaocdn.net/dn/WJL3V/btrsRYaBGTr/Gqbir9TvTKyOJxkbGqFx5K/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[＜여섯 개의 밤＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F02%2Flayover_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F0222%2F18_17_35__63f5ddaf1d2dd%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EC%97%AC%EC%84%AF%20%EA%B0%9C%EC%9D%98%20%EB%B0%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F02%2Flayover_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F0222%2F18_17_35__63f5ddaf1d2dd%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EC%97%AC%EC%84%AF%20%EA%B0%9C%EC%9D%98%20%EB%B0%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44015">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F02%2Flayover_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F0222%2F18_17_35__63f5ddaf1d2dd%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EC%97%AC%EC%84%AF%20%EA%B0%9C%EC%9D%98%20%EB%B0%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/02/layover_mtr.mp4">
+						<img src="https://image.cine21.com/resize/cine21/movie/2023/0222/18_17_35__63f5ddaf1d2dd[X211,130].jpg" alt="" class="thumb">
+						<span class="title">＜여섯 개의 밤＞ 메인 예고편</span>
+						<span class="date">2023-02-22</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0222/18_17_35__63f5ddaf1d2dd[X211,130].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜꼬마돼지 베이브의 바다 대모험＞ 30초 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F02%2Flittlepig_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F0222%2F18_10_20__63f5dbfc83417%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EA%BC%AC%EB%A7%88%EB%8F%BC%EC%A7%80%20%EB%B2%A0%EC%9D%B4%EB%B8%8C%EC%9D%98%20%EB%B0%94%EB%8B%A4%20%EB%8C%80%EB%AA%A8%ED%97%98%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F02%2Flittlepig_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F0222%2F18_10_20__63f5dbfc83417%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EA%BC%AC%EB%A7%88%EB%8F%BC%EC%A7%80%20%EB%B2%A0%EC%9D%B4%EB%B8%8C%EC%9D%98%20%EB%B0%94%EB%8B%A4%20%EB%8C%80%EB%AA%A8%ED%97%98%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44014">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F02%2Flittlepig_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F0222%2F18_10_20__63f5dbfc83417%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EA%BC%AC%EB%A7%88%EB%8F%BC%EC%A7%80%20%EB%B2%A0%EC%9D%B4%EB%B8%8C%EC%9D%98%20%EB%B0%94%EB%8B%A4%20%EB%8C%80%EB%AA%A8%ED%97%98%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/02/littlepig_30tr.mp4">
+						<img src="https://image.cine21.com/resize/cine21/movie/2023/0222/18_10_20__63f5dbfc83417[X211,130].jpg" alt="" class="thumb">
+						<span class="title">＜꼬마돼지 베이브의 바다 대모험＞ 30초 예고편</span>
+						<span class="date">2023-02-22</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0222/18_10_20__63f5dbfc83417[X211,130].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜꼬마돼지 베이브의 바다 대모험＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F02%2Flittlepig_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F0222%2F18_07_05__63f5db39893fe%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EA%BC%AC%EB%A7%88%EB%8F%BC%EC%A7%80%20%EB%B2%A0%EC%9D%B4%EB%B8%8C%EC%9D%98%20%EB%B0%94%EB%8B%A4%20%EB%8C%80%EB%AA%A8%ED%97%98%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F02%2Flittlepig_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F0222%2F18_07_05__63f5db39893fe%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EA%BC%AC%EB%A7%88%EB%8F%BC%EC%A7%80%20%EB%B2%A0%EC%9D%B4%EB%B8%8C%EC%9D%98%20%EB%B0%94%EB%8B%A4%20%EB%8C%80%EB%AA%A8%ED%97%98%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44013">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F02%2Flittlepig_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F0222%2F18_07_05__63f5db39893fe%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EA%BC%AC%EB%A7%88%EB%8F%BC%EC%A7%80%20%EB%B2%A0%EC%9D%B4%EB%B8%8C%EC%9D%98%20%EB%B0%94%EB%8B%A4%20%EB%8C%80%EB%AA%A8%ED%97%98%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/02/littlepig_mtr.mp4">
+						<img src="https://image.cine21.com/resize/cine21/movie/2023/0222/18_07_05__63f5db39893fe[X211,130].jpg" alt="" class="thumb">
+						<span class="title">＜꼬마돼지 베이브의 바다 대모험＞ 메인 예고편</span>
+						<span class="date">2023-02-22</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0222/18_07_05__63f5db39893fe[X211,130].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜똑똑똑＞ 인류의 멸망 vs 가족의 희생 당신의 선택은? (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F02%2Fknock_hfmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F0222%2F17_54_05__63f5d82d8cb0b%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EB%98%91%EB%98%91%EB%98%91%EF%BC%9E%20%EC%9D%B8%EB%A5%98%EC%9D%98%20%EB%A9%B8%EB%A7%9D%20vs%20%EA%B0%80%EC%A1%B1%EC%9D%98%20%ED%9D%AC%EC%83%9D%20%EB%8B%B9%EC%8B%A0%EC%9D%98%20%EC%84%A0%ED%83%9D%EC%9D%80%3F</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F02%2Fknock_hfmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F0222%2F17_54_05__63f5d82d8cb0b%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EB%98%91%EB%98%91%EB%98%91%EF%BC%9E%20%EC%9D%B8%EB%A5%98%EC%9D%98%20%EB%A9%B8%EB%A7%9D%20vs%20%EA%B0%80%EC%A1%B1%EC%9D%98%20%ED%9D%AC%EC%83%9D%20%EB%8B%B9%EC%8B%A0%EC%9D%98%20%EC%84%A0%ED%83%9D%EC%9D%80%3F</guid>
+            <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44012">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F02%2Fknock_hfmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F0222%2F17_54_05__63f5d82d8cb0b%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EB%98%91%EB%98%91%EB%98%91%EF%BC%9E%20%EC%9D%B8%EB%A5%98%EC%9D%98%20%EB%A9%B8%EB%A7%9D%20vs%20%EA%B0%80%EC%A1%B1%EC%9D%98%20%ED%9D%AC%EC%83%9D%20%EB%8B%B9%EC%8B%A0%EC%9D%98%20%EC%84%A0%ED%83%9D%EC%9D%80%3F" data-url="/cine21.com/movie/making/2023/02/knock_hfmk.mp4">
+						<img src="https://image.cine21.com/resize/cine21/movie/2023/0222/17_54_05__63f5d82d8cb0b[X211,130].jpg" alt="" class="thumb">
+						<span class="title">＜똑똑똑＞ 인류의 멸망 vs 가족의 희생 당신의 선택은?</span>
+						<span class="date">2023-02-22</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0222/17_54_05__63f5d82d8cb0b[X211,130].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[＜똑똑똑＞ 낯선 방문자들로 인해 부서지는 평화로운 순간 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F02%2Fknock_cpmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F0222%2F17_50_16__63f5d748d89a9%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EB%98%91%EB%98%91%EB%98%91%EF%BC%9E%20%EB%82%AF%EC%84%A0%20%EB%B0%A9%EB%AC%B8%EC%9E%90%EB%93%A4%EB%A1%9C%20%EC%9D%B8%ED%95%B4%20%EB%B6%80%EC%84%9C%EC%A7%80%EB%8A%94%20%ED%8F%89%ED%99%94%EB%A1%9C%EC%9A%B4%20%EC%88%9C%EA%B0%84</link>
             <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F02%2Fknock_cpmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F0222%2F17_50_16__63f5d748d89a9%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EB%98%91%EB%98%91%EB%98%91%EF%BC%9E%20%EB%82%AF%EC%84%A0%20%EB%B0%A9%EB%AC%B8%EC%9E%90%EB%93%A4%EB%A1%9C%20%EC%9D%B8%ED%95%B4%20%EB%B6%80%EC%84%9C%EC%A7%80%EB%8A%94%20%ED%8F%89%ED%99%94%EB%A1%9C%EC%9A%B4%20%EC%88%9C%EA%B0%84</guid>
@@ -4021,58 +4073,6 @@ Apple TV+
 						<span class="date">2023-02-20</span>
 					</a>]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/bsPZCP/btrZ2AhItKt/bGTz7ee0EUUP8SJviTwHGK/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜카운트＞ 찐 반응 영상 1탄 - 스포츠 편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F02%2Fcount_rasmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FqmmQ0%2FbtrZ9FVM3WI%2FJdNLUz27bucZbyqr9npmSk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B9%B4%EC%9A%B4%ED%8A%B8%EF%BC%9E%20%EC%B0%90%20%EB%B0%98%EC%9D%91%20%EC%98%81%EC%83%81%201%ED%83%84%20-%20%EC%8A%A4%ED%8F%AC%EC%B8%A0%20%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F02%2Fcount_rasmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FqmmQ0%2FbtrZ9FVM3WI%2FJdNLUz27bucZbyqr9npmSk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B9%B4%EC%9A%B4%ED%8A%B8%EF%BC%9E%20%EC%B0%90%20%EB%B0%98%EC%9D%91%20%EC%98%81%EC%83%81%201%ED%83%84%20-%20%EC%8A%A4%ED%8F%AC%EC%B8%A0%20%ED%8E%B8</guid>
-            <pubDate>Mon, 20 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43998">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F02%2Fcount_rasmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FqmmQ0%2FbtrZ9FVM3WI%2FJdNLUz27bucZbyqr9npmSk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B9%B4%EC%9A%B4%ED%8A%B8%EF%BC%9E%20%EC%B0%90%20%EB%B0%98%EC%9D%91%20%EC%98%81%EC%83%81%201%ED%83%84%20-%20%EC%8A%A4%ED%8F%AC%EC%B8%A0%20%ED%8E%B8" data-url="/cine21.com/movie/making/2023/02/count_rasmk.mp4">
-						<img src="http://k.kakaocdn.net/dn/qmmQ0/btrZ9FVM3WI/JdNLUz27bucZbyqr9npmSk/img.jpg" alt="" class="thumb">
-						<span class="title">＜카운트＞ 찐 반응 영상 1탄 - 스포츠 편</span>
-						<span class="date">2023-02-20</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/qmmQ0/btrZ9FVM3WI/JdNLUz27bucZbyqr9npmSk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜콜 제인＞ 분노의 회의실 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F02%2Fcalljane_fmmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FrZl6y%2FbtrZ5kr36fO%2F6tagHMTM9C04a4xLO9IkYk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%BD%9C%20%EC%A0%9C%EC%9D%B8%EF%BC%9E%20%EB%B6%84%EB%85%B8%EC%9D%98%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EC%98%81%EC%83%81</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F02%2Fcalljane_fmmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FrZl6y%2FbtrZ5kr36fO%2F6tagHMTM9C04a4xLO9IkYk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%BD%9C%20%EC%A0%9C%EC%9D%B8%EF%BC%9E%20%EB%B6%84%EB%85%B8%EC%9D%98%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EC%98%81%EC%83%81</guid>
-            <pubDate>Mon, 20 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43997">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F02%2Fcalljane_fmmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FrZl6y%2FbtrZ5kr36fO%2F6tagHMTM9C04a4xLO9IkYk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%BD%9C%20%EC%A0%9C%EC%9D%B8%EF%BC%9E%20%EB%B6%84%EB%85%B8%EC%9D%98%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/02/calljane_fmmk.mp4">
-						<img src="http://k.kakaocdn.net/dn/rZl6y/btrZ5kr36fO/6tagHMTM9C04a4xLO9IkYk/img.jpg" alt="" class="thumb">
-						<span class="title">＜콜 제인＞ 분노의 회의실 영상</span>
-						<span class="date">2023-02-20</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/rZl6y/btrZ5kr36fO/6tagHMTM9C04a4xLO9IkYk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜6번 칸＞ 30초 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F02%2Fnumbersix_30tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fus6HE%2FbtrZ6JrBHBG%2FMBnVHvt6kPskhBudGncOVk%2Fimg.jpg&amp;title=%EF%BC%9C6%EB%B2%88%20%EC%B9%B8%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F02%2Fnumbersix_30tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fus6HE%2FbtrZ6JrBHBG%2FMBnVHvt6kPskhBudGncOVk%2Fimg.jpg&amp;title=%EF%BC%9C6%EB%B2%88%20%EC%B9%B8%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Mon, 20 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43996">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F02%2Fnumbersix_30tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fus6HE%2FbtrZ6JrBHBG%2FMBnVHvt6kPskhBudGncOVk%2Fimg.jpg&amp;title=%EF%BC%9C6%EB%B2%88%20%EC%B9%B8%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/02/numbersix_30tr.mp4">
-						<img src="http://k.kakaocdn.net/dn/us6HE/btrZ6JrBHBG/MBnVHvt6kPskhBudGncOVk/img.jpg" alt="" class="thumb">
-						<span class="title">＜6번 칸＞ 30초 예고편</span>
-						<span class="date">2023-02-20</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/us6HE/btrZ6JrBHBG/MBnVHvt6kPskhBudGncOVk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜카메라를 멈추면 안돼! 프랑스에서도＞ 인터뷰 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F02%2Ffinalcut_imk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdFIieS%2FbtrZK07cKS8%2FkPT31TRBnvizao3VMucG31%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%EB%A9%88%EC%B6%94%EB%A9%B4%20%EC%95%88%EB%8F%BC!%20%ED%94%84%EB%9E%91%EC%8A%A4%EC%97%90%EC%84%9C%EB%8F%84%EF%BC%9E%20%EC%9D%B8%ED%84%B0%EB%B7%B0%20%EC%98%81%EC%83%81</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F02%2Ffinalcut_imk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdFIieS%2FbtrZK07cKS8%2FkPT31TRBnvizao3VMucG31%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%EB%A9%88%EC%B6%94%EB%A9%B4%20%EC%95%88%EB%8F%BC!%20%ED%94%84%EB%9E%91%EC%8A%A4%EC%97%90%EC%84%9C%EB%8F%84%EF%BC%9E%20%EC%9D%B8%ED%84%B0%EB%B7%B0%20%EC%98%81%EC%83%81</guid>
-            <pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=43994">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F02%2Ffinalcut_imk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdFIieS%2FbtrZK07cKS8%2FkPT31TRBnvizao3VMucG31%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%EB%A9%88%EC%B6%94%EB%A9%B4%20%EC%95%88%EB%8F%BC!%20%ED%94%84%EB%9E%91%EC%8A%A4%EC%97%90%EC%84%9C%EB%8F%84%EF%BC%9E%20%EC%9D%B8%ED%84%B0%EB%B7%B0%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/02/finalcut_imk.mp4">
-						<img src="http://k.kakaocdn.net/dn/dFIieS/btrZK07cKS8/kPT31TRBnvizao3VMucG31/img.jpg" alt="" class="thumb">
-						<span class="title">＜카메라를 멈추면 안돼! 프랑스에서도＞ 인터뷰 영상</span>
-						<span class="date">2023-02-17</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/dFIieS/btrZK07cKS8/kPT31TRBnvizao3VMucG31/img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#줌터뷰] 〈이터널스〉 감독은 왜 마동석을 캐스팅했을까? feat.〈승리호〉 조성희 감독 (씨네21 ─ 네이버TV)]]></title>
