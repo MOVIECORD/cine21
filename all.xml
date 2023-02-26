@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 15:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 16:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3500,6 +3500,24 @@ VHS 테이프와 캠코더, 브라운관 TV를 송출 수단으로 갖는 마루
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0507/17_34_43__5eb3c823de6d0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[도서 <실버뷰> 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8059</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8059</guid>
+            <pubDate>Sun, 26 Feb 2023 16:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-03-06 16:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/still/2023/0224/16_43_49__63f86ab516836[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도서 <살인자와 프로파일러> 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8058</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8058</guid>
+            <pubDate>Sun, 26 Feb 2023 16:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-03-06 16:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0224/16_42_41__63f86a7141063[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영화 <어떤 영웅> 시사회 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8057</link>
             <guid>http://www.cine21.com/event/view/?event_no=8057</guid>
@@ -3529,15 +3547,6 @@ VHS 테이프와 캠코더, 브라운관 TV를 송출 수단으로 갖는 마루
                                             <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-03-03 13:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/still/2023/0217/12_13_19__63eef0cfdb38f[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <영화관에 간 철학> 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8054</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8054</guid>
-            <pubDate>Tue, 14 Feb 2023 22:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-02-27 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/still/2023/0214/09_48_37__63eada655f3c5[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 <콜 제인> 시사회 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
