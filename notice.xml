@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-03-02T23:24:04.507Z</updated>
+    <updated>2023-03-03T03:04:19.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도서 <영화관에 간 철학> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8491&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8491&amp;p=1"/>
+        <updated>2023-03-03T02:54:33.290Z</updated>
+        <content type="html"><![CDATA[8491]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <더 웨일> 시사회 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8490&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8479&amp;p=1"/>
         <updated>2023-01-30T06:18:50.899Z</updated>
         <content type="html"><![CDATA[8479]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <해피엔딩에서 너를 기다릴게> 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8478&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8478&amp;p=1"/>
-        <updated>2023-01-27T07:12:37.999Z</updated>
-        <content type="html"><![CDATA[8478]]></content>
     </entry>
 </feed>
