@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 14:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 15:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,14 +23,6 @@
             <content:encoded><![CDATA[개봉 : 2022-08-31]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[패밀리 디너]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60155</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60155</guid>
-            <pubDate>Thu, 02 Mar 2023 07:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-03-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0302/15_00_39__64003b87d182d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[플레인]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60157</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60157</guid>
@@ -47,14 +39,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0210/15_21_33__63e5e26d4ad8d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이니셰린의 밴시]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60149</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60149</guid>
-            <pubDate>Tue, 28 Feb 2023 19:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-03-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0221/14_53_07__63f45c435bf00[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[어떤 영웅]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58630</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58630</guid>
@@ -69,6 +53,14 @@
             <pubDate>Tue, 28 Feb 2023 19:15:49 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-03-15]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0216/13_32_36__63edb1e490815[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이니셰린의 밴시]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60149</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60149</guid>
+            <pubDate>Tue, 28 Feb 2023 19:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-03-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0221/14_53_07__63f45c435bf00[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 벙커]]></title>
@@ -149,6 +141,14 @@
             <pubDate>Tue, 07 Mar 2023 17:16:20 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-03-29]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0308/16_02_57__64083321763e5[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 연인에게]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60142</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60142</guid>
+            <pubDate>Wed, 08 Mar 2023 15:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-03-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0228/15_00_03__63fd98636407f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
