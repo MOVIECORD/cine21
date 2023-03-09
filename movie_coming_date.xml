@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 03:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 03:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -87,6 +87,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0223/15_33_07__63f708a3ed340[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[웅남이]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60132</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60132</guid>
+            <pubDate>Thu, 09 Mar 2023 03:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-03-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0309/11_26_10__640943c2e71e4[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[파벨만스]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59920</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59920</guid>
@@ -141,14 +149,6 @@
             <pubDate>Tue, 07 Mar 2023 17:16:20 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-03-29]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0308/16_02_57__64083321763e5[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 연인에게]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60142</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60142</guid>
-            <pubDate>Wed, 08 Mar 2023 15:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-03-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0228/15_00_03__63fd98636407f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
