@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 14:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 15:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,15 +44,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-03-17 17:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0302/18_18_03__640069cb90c24[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <회란기> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8061</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8061</guid>
-            <pubDate>Sun, 05 Mar 2023 17:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-03-14 17:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/still/2023/0302/18_16_31__6400696fdd699[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
