@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-03-14T23:19:08.768Z</updated>
+    <updated>2023-03-15T01:07:59.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도서 <오색 찬란 실패담> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8501&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8501&amp;p=1"/>
+        <updated>2023-03-15T01:02:19.253Z</updated>
+        <content type="html"><![CDATA[8501]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <회란기> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8500&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8488&amp;p=1"/>
         <updated>2023-02-20T02:50:28.016Z</updated>
         <content type="html"><![CDATA[8488]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 'TAR 타르' 시사회 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8487&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8487&amp;p=1"/>
-        <updated>2023-02-20T02:50:28.017Z</updated>
-        <content type="html"><![CDATA[8487]]></content>
     </entry>
 </feed>
