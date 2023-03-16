@@ -4,9 +4,20 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 14:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 15:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <장기자랑> 시사회 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8069</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8069</guid>
+            <pubDate>Thu, 16 Mar 2023 15:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-04-03 19:30</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-04-03 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0316/10_10_59__64126ca35422c[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <블루 서멀, 같은 하늘을 보고 싶어> 예매권 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8068</link>
@@ -24,15 +35,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-03-20 17:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0306/18_13_23__6405aeb35702b[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <운빨로맨스> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8062</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8062</guid>
-            <pubDate>Thu, 02 Mar 2023 16:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-03-17 17:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0302/18_18_03__640069cb90c24[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
