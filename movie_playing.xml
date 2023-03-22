@@ -4,9 +4,33 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 14:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 15:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포커 페이스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60192</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60192</guid>
+            <pubDate>Wed, 22 Mar 2023 15:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-03-23]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0317/18_44_35__64143683ed8a3[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베스퍼]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59709</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59709</guid>
+            <pubDate>Wed, 22 Mar 2023 15:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-03-23]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0317/14_21_51__6413f8ef4aad0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꼬마돼지 베이브의 바다 대모험]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60164</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60164</guid>
+            <pubDate>Wed, 22 Mar 2023 15:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-03-23]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0222/17_59_48__63f5d98491543[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모나리자와 블러드 문]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58004</link>
@@ -14,22 +38,6 @@
             <pubDate>Tue, 21 Mar 2023 15:13:57 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-03-22]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0322/13_58_20__641a8aeca41aa[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[틸]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60173</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60173</guid>
-            <pubDate>Tue, 21 Mar 2023 15:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-03-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0228/14_50_05__63fd960d8a0c6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팔로우드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60163</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60163</guid>
-            <pubDate>Tue, 21 Mar 2023 15:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-03-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0223/15_33_07__63f708a3ed340[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웅남이]]></title>
@@ -56,6 +64,22 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0221/18_55_02__63f494f61d739[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[팔로우드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60163</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60163</guid>
+            <pubDate>Tue, 21 Mar 2023 15:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-03-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0223/15_33_07__63f708a3ed340[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[틸]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60173</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60173</guid>
+            <pubDate>Tue, 21 Mar 2023 15:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-03-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0228/14_50_05__63fd960d8a0c6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[치킨래빗: 잃어버린 보물을 찾아서]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60165</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60165</guid>
@@ -72,20 +96,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0315/11_50_09__64113261170d7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[플레인]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60157</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60157</guid>
+            <title><![CDATA[샤잠! 신들의 분노]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60145</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60145</guid>
             <pubDate>Tue, 14 Mar 2023 16:23:59 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-03-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0315/15_26_49__641165297d754[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어떤 영웅]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58630</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58630</guid>
-            <pubDate>Tue, 14 Mar 2023 16:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-03-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0302/14_14_54__640030ce9f4c6[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0210/15_21_33__63e5e26d4ad8d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 벙커]]></title>
@@ -96,6 +112,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0306/14_53_52__64057ff0f3685[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[플레인]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60157</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60157</guid>
+            <pubDate>Tue, 14 Mar 2023 16:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-03-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0315/15_26_49__641165297d754[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소울메이트]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=56641</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=56641</guid>
@@ -104,12 +128,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0315/11_21_18__64112b9eca669[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[샤잠! 신들의 분노]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60145</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60145</guid>
+            <title><![CDATA[어떤 영웅]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58630</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58630</guid>
             <pubDate>Tue, 14 Mar 2023 16:23:59 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-03-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0210/15_21_33__63e5e26d4ad8d[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0302/14_14_54__640030ce9f4c6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[패밀리 디너]]></title>
@@ -120,36 +144,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0302/15_00_39__64003b87d182d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[똑똑똑]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60156</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60156</guid>
-            <pubDate>Tue, 07 Mar 2023 16:21:01 GMT</pubDate>
+            <title><![CDATA[콜 제인]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59996</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59996</guid>
+            <pubDate>Wed, 22 Mar 2023 15:17:27 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-03-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0214/15_09_57__63eb25b5a77e9[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그대 어이가리]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60130</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60130</guid>
-            <pubDate>Tue, 07 Mar 2023 16:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-03-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0213/15_00_01__63e9d1e186b40[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스즈메의 문단속]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59392</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59392</guid>
-            <pubDate>Tue, 07 Mar 2023 16:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-03-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0208/11_44_17__63e30c819086c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6번 칸]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58857</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58857</guid>
-            <pubDate>Tue, 07 Mar 2023 16:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-03-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0217/13_05_22__63eefd026676c[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0213/16_08_48__63e9e20043313[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
