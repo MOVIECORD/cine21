@@ -4,9 +4,18 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 03:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 04:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <블루 서멀, 같은 하늘을 보고 싶어> 예매권 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8506&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8506&amp;p=1</guid>
+            <pubDate>Wed, 22 Mar 2023 04:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-03-22 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/still/2023/0310/11_42_24__640a991074423[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <파벨만스> 예매권 이벤트]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8505&amp;p=1</link>
@@ -100,15 +109,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>30 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-03-06 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/still/2023/0223/17_40_39__63f7268704644[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <응, 잘가> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8497&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8497&amp;p=1</guid>
-            <pubDate>Mon, 06 Mar 2023 02:59:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-03-06 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/still/2023/0224/17_19_55__63f8732be3a96[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
