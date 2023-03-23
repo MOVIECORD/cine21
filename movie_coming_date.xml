@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 14:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 15:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -127,6 +127,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0314/19_16_52__641049945cfac[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[리바운드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60178</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60178</guid>
+            <pubDate>Thu, 23 Mar 2023 15:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-04-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0314/19_13_17__641048bdc1ea9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘 출가합니다]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60189</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60189</guid>
@@ -135,20 +143,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0309/11_46_41__6409489148948[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[불멸의 여자]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60185</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60185</guid>
-            <pubDate>Thu, 23 Mar 2023 08:18:39 GMT</pubDate>
+            <title><![CDATA[뮤턴트 이스케이프]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60236</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60236</guid>
+            <pubDate>Thu, 23 Mar 2023 15:17:23 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-04-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0308/14_57_01__640823adea53f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에어]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60183</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60183</guid>
-            <pubDate>Thu, 23 Mar 2023 08:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-04-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0316/17_18_54__6412d0ee425b8[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0307/18_56_34__64070a52d5ae3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
