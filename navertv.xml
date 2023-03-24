@@ -4,7 +4,7 @@
         <title>씨네21 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 07:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 08:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,14 +184,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210728_102/8cw0d_1627447747172piKBe_JPEG/1627447605045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[#1분씨네] 나홍진 감독 제작한 랑종!! 공포영화 끝판왕!! 곡성보다 무섭다며? ㅎㄷㄷ]]></title>
-            <link>https://tv.naver.com/v/21573291</link>
-            <guid>https://tv.naver.com/v/21573291</guid>
-            <pubDate>Thu, 17 Nov 2022 01:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[0:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210728_122/rZobV_1627447531022mgTYf_JPEG/1627447484700.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[#CAREER] 모든 영화가 망하는건 음악 때문이다!! 영화음악의 모든 것! '승리호' '최종병기 활']]></title>
             <link>https://tv.naver.com/v/21573255</link>
             <guid>https://tv.naver.com/v/21573255</guid>
@@ -246,6 +238,14 @@
             <pubDate>Thu, 17 Nov 2022 01:20:45 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20201221_263/ioKRJ_1608538480136MKSsI_JPEG/41f94e56-4364-11eb-97dd-48df37ae3fca_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경기씨네 영화관 메인 트레일러 <이남이의 시계방>]]></title>
+            <link>https://tv.naver.com/v/17382833</link>
+            <guid>https://tv.naver.com/v/17382833</guid>
+            <pubDate>Fri, 24 Mar 2023 08:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[9:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20201221_212/vw1bO_16085383061494K75G_JPEG/ed78e125-4362-11eb-97fa-a0369ff94ed0_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
