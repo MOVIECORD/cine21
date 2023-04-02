@@ -1,8 +1,219 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cine21.com/media/video</id>
-    <title>씨네21 ─ 멀티미디어 ─ 동영상</title>
-    <updated>2023-04-02T18:17:54.792Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cine21.com/media/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 멀티미디어 ─ 동영상</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 02 Apr 2023 19:15:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[＜불멸의 여자＞ 셀럽 추천&응원 영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Fimmortal_srmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FsSras%2Fbtr7g8jmyM6%2FFd8bl29yAm4oFb03kErJW1%2Fimg.jpg&amp;title=%EF%BC%9C%EB%B6%88%EB%A9%B8%EC%9D%98%20%EC%97%AC%EC%9E%90%EF%BC%9E%20%EC%85%80%EB%9F%BD%20%EC%B6%94%EC%B2%9C%26%EC%9D%91%EC%9B%90%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Fimmortal_srmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FsSras%2Fbtr7g8jmyM6%2FFd8bl29yAm4oFb03kErJW1%2Fimg.jpg&amp;title=%EF%BC%9C%EB%B6%88%EB%A9%B8%EC%9D%98%20%EC%97%AC%EC%9E%90%EF%BC%9E%20%EC%85%80%EB%9F%BD%20%EC%B6%94%EC%B2%9C%26%EC%9D%91%EC%9B%90%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44196">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Fimmortal_srmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FsSras%2Fbtr7g8jmyM6%2FFd8bl29yAm4oFb03kErJW1%2Fimg.jpg&amp;title=%EF%BC%9C%EB%B6%88%EB%A9%B8%EC%9D%98%20%EC%97%AC%EC%9E%90%EF%BC%9E%20%EC%85%80%EB%9F%BD%20%EC%B6%94%EC%B2%9C%26%EC%9D%91%EC%9B%90%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/03/immortal_srmk.mp4">
+						<img src="http://k.kakaocdn.net/dn/sSras/btr7g8jmyM6/Fd8bl29yAm4oFb03kErJW1/img.jpg" alt="" class="thumb">
+						<span class="title">＜불멸의 여자＞ 셀럽 추천&amp;응원 영상</span>
+						<span class="date">2023-03-31</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/sSras/btr7g8jmyM6/Fd8bl29yAm4oFb03kErJW1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜섀도우 마스터＞ 메인 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F03%2Fshadow_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FRAsSt%2Fbtr7dXKt3a5%2FkNtu0WGZK6KwScNrBKJn9k%2Fimg.jpg&amp;title=%EF%BC%9C%EC%84%80%EB%8F%84%EC%9A%B0%20%EB%A7%88%EC%8A%A4%ED%84%B0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F03%2Fshadow_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FRAsSt%2Fbtr7dXKt3a5%2FkNtu0WGZK6KwScNrBKJn9k%2Fimg.jpg&amp;title=%EF%BC%9C%EC%84%80%EB%8F%84%EC%9A%B0%20%EB%A7%88%EC%8A%A4%ED%84%B0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44195">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F03%2Fshadow_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FRAsSt%2Fbtr7dXKt3a5%2FkNtu0WGZK6KwScNrBKJn9k%2Fimg.jpg&amp;title=%EF%BC%9C%EC%84%80%EB%8F%84%EC%9A%B0%20%EB%A7%88%EC%8A%A4%ED%84%B0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/03/shadow_mtr.mp4">
+						<img src="http://k.kakaocdn.net/dn/RAsSt/btr7dXKt3a5/kNtu0WGZK6KwScNrBKJn9k/img.jpg" alt="" class="thumb">
+						<span class="title">＜섀도우 마스터＞ 메인 예고편</span>
+						<span class="date">2023-03-31</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/RAsSt/btr7dXKt3a5/kNtu0WGZK6KwScNrBKJn9k/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜여섯 개의 밤＞ 마르틴 부버 여섯 개의 말 영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Flayover_mbmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FenjDFV%2Fbtr7hSghosX%2Fhf0BsunqxV2o5rYGHMsgMk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%97%AC%EC%84%AF%20%EA%B0%9C%EC%9D%98%20%EB%B0%A4%EF%BC%9E%20%EB%A7%88%EB%A5%B4%ED%8B%B4%20%EB%B6%80%EB%B2%84%20%EC%97%AC%EC%84%AF%20%EA%B0%9C%EC%9D%98%20%EB%A7%90%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Flayover_mbmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FenjDFV%2Fbtr7hSghosX%2Fhf0BsunqxV2o5rYGHMsgMk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%97%AC%EC%84%AF%20%EA%B0%9C%EC%9D%98%20%EB%B0%A4%EF%BC%9E%20%EB%A7%88%EB%A5%B4%ED%8B%B4%20%EB%B6%80%EB%B2%84%20%EC%97%AC%EC%84%AF%20%EA%B0%9C%EC%9D%98%20%EB%A7%90%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44194">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Flayover_mbmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FenjDFV%2Fbtr7hSghosX%2Fhf0BsunqxV2o5rYGHMsgMk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%97%AC%EC%84%AF%20%EA%B0%9C%EC%9D%98%20%EB%B0%A4%EF%BC%9E%20%EB%A7%88%EB%A5%B4%ED%8B%B4%20%EB%B6%80%EB%B2%84%20%EC%97%AC%EC%84%AF%20%EA%B0%9C%EC%9D%98%20%EB%A7%90%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/03/layover_mbmk.mp4">
+						<img src="http://k.kakaocdn.net/dn/enjDFV/btr7hSghosX/hf0BsunqxV2o5rYGHMsgMk/img.jpg" alt="" class="thumb">
+						<span class="title">＜여섯 개의 밤＞ 마르틴 부버 여섯 개의 말 영상</span>
+						<span class="date">2023-03-31</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/enjDFV/btr7hSghosX/hf0BsunqxV2o5rYGHMsgMk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜오디션＞ 시이나 에이히 개봉 감사 영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Faudition_sagmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FwP9oL%2Fbtr7eVFpBNj%2FY1fTFgrq3UMovLEIsVa7M0%2Fimg.jpg&amp;title=%EF%BC%9C%EC%98%A4%EB%94%94%EC%85%98%EF%BC%9E%20%EC%8B%9C%EC%9D%B4%EB%82%98%20%EC%97%90%EC%9D%B4%ED%9E%88%20%EA%B0%9C%EB%B4%89%20%EA%B0%90%EC%82%AC%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Faudition_sagmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FwP9oL%2Fbtr7eVFpBNj%2FY1fTFgrq3UMovLEIsVa7M0%2Fimg.jpg&amp;title=%EF%BC%9C%EC%98%A4%EB%94%94%EC%85%98%EF%BC%9E%20%EC%8B%9C%EC%9D%B4%EB%82%98%20%EC%97%90%EC%9D%B4%ED%9E%88%20%EA%B0%9C%EB%B4%89%20%EA%B0%90%EC%82%AC%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44193">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Faudition_sagmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FwP9oL%2Fbtr7eVFpBNj%2FY1fTFgrq3UMovLEIsVa7M0%2Fimg.jpg&amp;title=%EF%BC%9C%EC%98%A4%EB%94%94%EC%85%98%EF%BC%9E%20%EC%8B%9C%EC%9D%B4%EB%82%98%20%EC%97%90%EC%9D%B4%ED%9E%88%20%EA%B0%9C%EB%B4%89%20%EA%B0%90%EC%82%AC%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/03/audition_sagmk.mp4">
+						<img src="http://k.kakaocdn.net/dn/wP9oL/btr7eVFpBNj/Y1fTFgrq3UMovLEIsVa7M0/img.jpg" alt="" class="thumb">
+						<span class="title">＜오디션＞ 시이나 에이히 개봉 감사 영상</span>
+						<span class="date">2023-03-31</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/wP9oL/btr7eVFpBNj/Y1fTFgrq3UMovLEIsVa7M0/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜사랑의 고고학＞ 30초 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F03%2Farchaeology_30tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FBhbBL%2Fbtr7dWdLqpF%2FU7b1KFtQJpyRISWFw4ZcSK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%82%AC%EB%9E%91%EC%9D%98%20%EA%B3%A0%EA%B3%A0%ED%95%99%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F03%2Farchaeology_30tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FBhbBL%2Fbtr7dWdLqpF%2FU7b1KFtQJpyRISWFw4ZcSK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%82%AC%EB%9E%91%EC%9D%98%20%EA%B3%A0%EA%B3%A0%ED%95%99%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44192">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F03%2Farchaeology_30tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FBhbBL%2Fbtr7dWdLqpF%2FU7b1KFtQJpyRISWFw4ZcSK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%82%AC%EB%9E%91%EC%9D%98%20%EA%B3%A0%EA%B3%A0%ED%95%99%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/03/archaeology_30tr.mp4">
+						<img src="http://k.kakaocdn.net/dn/BhbBL/btr7dWdLqpF/U7b1KFtQJpyRISWFw4ZcSK/img.jpg" alt="" class="thumb">
+						<span class="title">＜사랑의 고고학＞ 30초 예고편</span>
+						<span class="date">2023-03-31</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/BhbBL/btr7dWdLqpF/U7b1KFtQJpyRISWFw4ZcSK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜마리아: 전쟁의 사도＞ 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F03%2Fmaria_tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbixHgx%2Fbtr63ZNsoIr%2FXeE09OBuqO45HXfaTfg47K%2Fimg.jpg&amp;title=%EF%BC%9C%EB%A7%88%EB%A6%AC%EC%95%84%3A%20%EC%A0%84%EC%9F%81%EC%9D%98%20%EC%82%AC%EB%8F%84%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F03%2Fmaria_tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbixHgx%2Fbtr63ZNsoIr%2FXeE09OBuqO45HXfaTfg47K%2Fimg.jpg&amp;title=%EF%BC%9C%EB%A7%88%EB%A6%AC%EC%95%84%3A%20%EC%A0%84%EC%9F%81%EC%9D%98%20%EC%82%AC%EB%8F%84%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44191">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F03%2Fmaria_tr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbixHgx%2Fbtr63ZNsoIr%2FXeE09OBuqO45HXfaTfg47K%2Fimg.jpg&amp;title=%EF%BC%9C%EB%A7%88%EB%A6%AC%EC%95%84%3A%20%EC%A0%84%EC%9F%81%EC%9D%98%20%EC%82%AC%EB%8F%84%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/03/maria_tr.mp4">
+						<img src="http://k.kakaocdn.net/dn/bixHgx/btr63ZNsoIr/XeE09OBuqO45HXfaTfg47K/img.jpg" alt="" class="thumb">
+						<span class="title">＜마리아: 전쟁의 사도＞ 예고편</span>
+						<span class="date">2023-03-30</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bixHgx/btr63ZNsoIr/XeE09OBuqO45HXfaTfg47K/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜존 윅 4＞ 비하인드 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F03%2Fjohnwick_btr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FYX4u3%2Fbtr63mhSpYp%2FuBeB7KBIHmszsxaNaPKwoK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%A1%B4%20%EC%9C%85%204%EF%BC%9E%20%EB%B9%84%ED%95%98%EC%9D%B8%EB%93%9C%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F03%2Fjohnwick_btr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FYX4u3%2Fbtr63mhSpYp%2FuBeB7KBIHmszsxaNaPKwoK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%A1%B4%20%EC%9C%85%204%EF%BC%9E%20%EB%B9%84%ED%95%98%EC%9D%B8%EB%93%9C%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44187">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F03%2Fjohnwick_btr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FYX4u3%2Fbtr63mhSpYp%2FuBeB7KBIHmszsxaNaPKwoK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%A1%B4%20%EC%9C%85%204%EF%BC%9E%20%EB%B9%84%ED%95%98%EC%9D%B8%EB%93%9C%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/03/johnwick_btr.mp4">
+						<img src="http://k.kakaocdn.net/dn/YX4u3/btr63mhSpYp/uBeB7KBIHmszsxaNaPKwoK/img.jpg" alt="" class="thumb">
+						<span class="title">＜존 윅 4＞ 비하인드 예고편</span>
+						<span class="date">2023-03-30</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/YX4u3/btr63mhSpYp/uBeB7KBIHmszsxaNaPKwoK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜존 윅 4＞ 60초 안에 마스터 하기]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Fjohnwick_mmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbXpAMt%2Fbtr65nUPU8C%2FHdg8vUk4MwQcjQUAlbZEIk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%A1%B4%20%EC%9C%85%204%EF%BC%9E%2060%EC%B4%88%20%EC%95%88%EC%97%90%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%ED%95%98%EA%B8%B0</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Fjohnwick_mmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbXpAMt%2Fbtr65nUPU8C%2FHdg8vUk4MwQcjQUAlbZEIk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%A1%B4%20%EC%9C%85%204%EF%BC%9E%2060%EC%B4%88%20%EC%95%88%EC%97%90%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%ED%95%98%EA%B8%B0</guid>
+            <pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44186">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Fjohnwick_mmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbXpAMt%2Fbtr65nUPU8C%2FHdg8vUk4MwQcjQUAlbZEIk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%A1%B4%20%EC%9C%85%204%EF%BC%9E%2060%EC%B4%88%20%EC%95%88%EC%97%90%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%ED%95%98%EA%B8%B0" data-url="/cine21.com/movie/making/2023/03/johnwick_mmk.mp4">
+						<img src="http://k.kakaocdn.net/dn/bXpAMt/btr65nUPU8C/Hdg8vUk4MwQcjQUAlbZEIk/img.jpg" alt="" class="thumb">
+						<span class="title">＜존 윅 4＞ 60초 안에 마스터 하기</span>
+						<span class="date">2023-03-30</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bXpAMt/btr65nUPU8C/Hdg8vUk4MwQcjQUAlbZEIk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜파벨만스＞ 조성희 감독 GV 하이라이트 영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Ffabelmans_mhmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbbVN4l%2Fbtr62GASC7F%2FxtD2Ziem3tVCbw750kBsP1%2Fimg.jpg&amp;title=%EF%BC%9C%ED%8C%8C%EB%B2%A8%EB%A7%8C%EC%8A%A4%EF%BC%9E%20%EC%A1%B0%EC%84%B1%ED%9D%AC%20%EA%B0%90%EB%8F%85%20GV%20%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Ffabelmans_mhmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbbVN4l%2Fbtr62GASC7F%2FxtD2Ziem3tVCbw750kBsP1%2Fimg.jpg&amp;title=%EF%BC%9C%ED%8C%8C%EB%B2%A8%EB%A7%8C%EC%8A%A4%EF%BC%9E%20%EC%A1%B0%EC%84%B1%ED%9D%AC%20%EA%B0%90%EB%8F%85%20GV%20%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44185">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Ffabelmans_mhmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbbVN4l%2Fbtr62GASC7F%2FxtD2Ziem3tVCbw750kBsP1%2Fimg.jpg&amp;title=%EF%BC%9C%ED%8C%8C%EB%B2%A8%EB%A7%8C%EC%8A%A4%EF%BC%9E%20%EC%A1%B0%EC%84%B1%ED%9D%AC%20%EA%B0%90%EB%8F%85%20GV%20%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/03/fabelmans_mhmk.mp4">
+						<img src="http://k.kakaocdn.net/dn/bbVN4l/btr62GASC7F/xtD2Ziem3tVCbw750kBsP1/img.jpg" alt="" class="thumb">
+						<span class="title">＜파벨만스＞ 조성희 감독 GV 하이라이트 영상</span>
+						<span class="date">2023-03-30</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bbVN4l/btr62GASC7F/xtD2Ziem3tVCbw750kBsP1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜찬란한 나의 복수＞ 개봉 기념 영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Fglorious_rcmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbCSAa9%2Fbtr6NXwKVmx%2Fa6nK5I3OkTOXsfKBaT9crk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B0%AC%EB%9E%80%ED%95%9C%20%EB%82%98%EC%9D%98%20%EB%B3%B5%EC%88%98%EF%BC%9E%20%EA%B0%9C%EB%B4%89%20%EA%B8%B0%EB%85%90%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Fglorious_rcmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbCSAa9%2Fbtr6NXwKVmx%2Fa6nK5I3OkTOXsfKBaT9crk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B0%AC%EB%9E%80%ED%95%9C%20%EB%82%98%EC%9D%98%20%EB%B3%B5%EC%88%98%EF%BC%9E%20%EA%B0%9C%EB%B4%89%20%EA%B8%B0%EB%85%90%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44184">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Fglorious_rcmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbCSAa9%2Fbtr6NXwKVmx%2Fa6nK5I3OkTOXsfKBaT9crk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B0%AC%EB%9E%80%ED%95%9C%20%EB%82%98%EC%9D%98%20%EB%B3%B5%EC%88%98%EF%BC%9E%20%EA%B0%9C%EB%B4%89%20%EA%B8%B0%EB%85%90%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/03/glorious_rcmk.mp4">
+						<img src="http://k.kakaocdn.net/dn/bCSAa9/btr6NXwKVmx/a6nK5I3OkTOXsfKBaT9crk/img.jpg" alt="" class="thumb">
+						<span class="title">＜찬란한 나의 복수＞ 개봉 기념 영상</span>
+						<span class="date">2023-03-29</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bCSAa9/btr6NXwKVmx/a6nK5I3OkTOXsfKBaT9crk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜찬란한 나의 복수＞ 개봉 인사 영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Fglorious_rgmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FWbKTj%2Fbtr6GqzLB3G%2F0SLe56kIlQ8KPZUdVv1kKK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B0%AC%EB%9E%80%ED%95%9C%20%EB%82%98%EC%9D%98%20%EB%B3%B5%EC%88%98%EF%BC%9E%20%EA%B0%9C%EB%B4%89%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Fglorious_rgmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FWbKTj%2Fbtr6GqzLB3G%2F0SLe56kIlQ8KPZUdVv1kKK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B0%AC%EB%9E%80%ED%95%9C%20%EB%82%98%EC%9D%98%20%EB%B3%B5%EC%88%98%EF%BC%9E%20%EA%B0%9C%EB%B4%89%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44183">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Fglorious_rgmk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FWbKTj%2Fbtr6GqzLB3G%2F0SLe56kIlQ8KPZUdVv1kKK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B0%AC%EB%9E%80%ED%95%9C%20%EB%82%98%EC%9D%98%20%EB%B3%B5%EC%88%98%EF%BC%9E%20%EA%B0%9C%EB%B4%89%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/03/glorious_rgmk.mp4">
+						<img src="http://k.kakaocdn.net/dn/WbKTj/btr6GqzLB3G/0SLe56kIlQ8KPZUdVv1kKK/img.jpg" alt="" class="thumb">
+						<span class="title">＜찬란한 나의 복수＞ 개봉 인사 영상</span>
+						<span class="date">2023-03-29</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/WbKTj/btr6GqzLB3G/0SLe56kIlQ8KPZUdVv1kKK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜찬란한 나의 복수＞ 영화감독 추천영상 2]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Fglorious_dr2mk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FAiKxh%2Fbtr6K35hxhT%2FZeSvkDvLCkioiPSq6w1ah1%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B0%AC%EB%9E%80%ED%95%9C%20%EB%82%98%EC%9D%98%20%EB%B3%B5%EC%88%98%EF%BC%9E%20%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%B6%94%EC%B2%9C%EC%98%81%EC%83%81%202</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Fglorious_dr2mk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FAiKxh%2Fbtr6K35hxhT%2FZeSvkDvLCkioiPSq6w1ah1%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B0%AC%EB%9E%80%ED%95%9C%20%EB%82%98%EC%9D%98%20%EB%B3%B5%EC%88%98%EF%BC%9E%20%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%B6%94%EC%B2%9C%EC%98%81%EC%83%81%202</guid>
+            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44182">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Fglorious_dr2mk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FAiKxh%2Fbtr6K35hxhT%2FZeSvkDvLCkioiPSq6w1ah1%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B0%AC%EB%9E%80%ED%95%9C%20%EB%82%98%EC%9D%98%20%EB%B3%B5%EC%88%98%EF%BC%9E%20%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%B6%94%EC%B2%9C%EC%98%81%EC%83%81%202" data-url="/cine21.com/movie/making/2023/03/glorious_dr2mk.mp4">
+						<img src="http://k.kakaocdn.net/dn/AiKxh/btr6K35hxhT/ZeSvkDvLCkioiPSq6w1ah1/img.jpg" alt="" class="thumb">
+						<span class="title">＜찬란한 나의 복수＞ 영화감독 추천영상 2</span>
+						<span class="date">2023-03-29</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/AiKxh/btr6K35hxhT/ZeSvkDvLCkioiPSq6w1ah1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜찬란한 나의 복수＞ 영화감독 추천영상 1]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Fglorious_dr1mk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbstLcE%2Fbtr6Nj07YEL%2FmjCzKxhKWHS91KLx3XERv1%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B0%AC%EB%9E%80%ED%95%9C%20%EB%82%98%EC%9D%98%20%EB%B3%B5%EC%88%98%EF%BC%9E%20%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%B6%94%EC%B2%9C%EC%98%81%EC%83%81%201</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Fglorious_dr1mk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbstLcE%2Fbtr6Nj07YEL%2FmjCzKxhKWHS91KLx3XERv1%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B0%AC%EB%9E%80%ED%95%9C%20%EB%82%98%EC%9D%98%20%EB%B3%B5%EC%88%98%EF%BC%9E%20%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%B6%94%EC%B2%9C%EC%98%81%EC%83%81%201</guid>
+            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44181">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F03%2Fglorious_dr1mk.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbstLcE%2Fbtr6Nj07YEL%2FmjCzKxhKWHS91KLx3XERv1%2Fimg.jpg&amp;title=%EF%BC%9C%EC%B0%AC%EB%9E%80%ED%95%9C%20%EB%82%98%EC%9D%98%20%EB%B3%B5%EC%88%98%EF%BC%9E%20%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%B6%94%EC%B2%9C%EC%98%81%EC%83%81%201" data-url="/cine21.com/movie/making/2023/03/glorious_dr1mk.mp4">
+						<img src="http://k.kakaocdn.net/dn/bstLcE/btr6Nj07YEL/mjCzKxhKWHS91KLx3XERv1/img.jpg" alt="" class="thumb">
+						<span class="title">＜찬란한 나의 복수＞ 영화감독 추천영상 1</span>
+						<span class="date">2023-03-29</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bstLcE/btr6Nj07YEL/mjCzKxhKWHS91KLx3XERv1/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜피기＞ 메인 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F03%2Fpiggy_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fb7duMT%2Fbtr6P4aFWYr%2FKdGwSodNOH5KRwk9JiPCdK%2Fimg.jpg&amp;title=%EF%BC%9C%ED%94%BC%EA%B8%B0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F03%2Fpiggy_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fb7duMT%2Fbtr6P4aFWYr%2FKdGwSodNOH5KRwk9JiPCdK%2Fimg.jpg&amp;title=%EF%BC%9C%ED%94%BC%EA%B8%B0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44180">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F03%2Fpiggy_mtr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fb7duMT%2Fbtr6P4aFWYr%2FKdGwSodNOH5KRwk9JiPCdK%2Fimg.jpg&amp;title=%EF%BC%9C%ED%94%BC%EA%B8%B0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/03/piggy_mtr.mp4">
+						<img src="http://k.kakaocdn.net/dn/b7duMT/btr6P4aFWYr/KdGwSodNOH5KRwk9JiPCdK/img.jpg" alt="" class="thumb">
+						<span class="title">＜피기＞ 메인 예고편</span>
+						<span class="date">2023-03-29</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/b7duMT/btr6P4aFWYr/KdGwSodNOH5KRwk9JiPCdK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜오늘 출가합니다＞ ‘아빠는 스님’ MV]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmvideo%2F2023%2F03%2Fleave_dsmv.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fo0l8l%2Fbtr6RYgJVox%2FLYEklWI8ojjw0xyTSds8rk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%98%A4%EB%8A%98%20%EC%B6%9C%EA%B0%80%ED%95%A9%EB%8B%88%EB%8B%A4%EF%BC%9E%20%E2%80%98%EC%95%84%EB%B9%A0%EB%8A%94%20%EC%8A%A4%EB%8B%98%E2%80%99%20MV</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmvideo%2F2023%2F03%2Fleave_dsmv.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fo0l8l%2Fbtr6RYgJVox%2FLYEklWI8ojjw0xyTSds8rk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%98%A4%EB%8A%98%20%EC%B6%9C%EA%B0%80%ED%95%A9%EB%8B%88%EB%8B%A4%EF%BC%9E%20%E2%80%98%EC%95%84%EB%B9%A0%EB%8A%94%20%EC%8A%A4%EB%8B%98%E2%80%99%20MV</guid>
+            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44179">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmvideo%2F2023%2F03%2Fleave_dsmv.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fo0l8l%2Fbtr6RYgJVox%2FLYEklWI8ojjw0xyTSds8rk%2Fimg.jpg&amp;title=%EF%BC%9C%EC%98%A4%EB%8A%98%20%EC%B6%9C%EA%B0%80%ED%95%A9%EB%8B%88%EB%8B%A4%EF%BC%9E%20%E2%80%98%EC%95%84%EB%B9%A0%EB%8A%94%20%EC%8A%A4%EB%8B%98%E2%80%99%20MV" data-url="/cine21.com/movie/mvideo/2023/03/leave_dsmv.mp4">
+						<img src="http://k.kakaocdn.net/dn/o0l8l/btr6RYgJVox/LYEklWI8ojjw0xyTSds8rk/img.jpg" alt="" class="thumb">
+						<span class="title">＜오늘 출가합니다＞ ‘아빠는 스님’ MV</span>
+						<span class="date">2023-03-29</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/o0l8l/btr6RYgJVox/LYEklWI8ojjw0xyTSds8rk/img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜제비＞ 캐릭터 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F03%2Fswallow_ctr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbLtPkc%2Fbtr6NXpUVE6%2Fw2ndYgCloacqL3OrgUPJDK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%A0%9C%EB%B9%84%EF%BC%9E%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F03%2Fswallow_ctr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbLtPkc%2Fbtr6NXpUVE6%2Fw2ndYgCloacqL3OrgUPJDK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%A0%9C%EB%B9%84%EF%BC%9E%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44178">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F03%2Fswallow_ctr.mp4&amp;poster=http%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbLtPkc%2Fbtr6NXpUVE6%2Fw2ndYgCloacqL3OrgUPJDK%2Fimg.jpg&amp;title=%EF%BC%9C%EC%A0%9C%EB%B9%84%EF%BC%9E%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/03/swallow_ctr.mp4">
+						<img src="http://k.kakaocdn.net/dn/bLtPkc/btr6NXpUVE6/w2ndYgCloacqL3OrgUPJDK/img.jpg" alt="" class="thumb">
+						<span class="title">＜제비＞ 캐릭터 예고편</span>
+						<span class="date">2023-03-29</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/bLtPkc/btr6NXpUVE6/w2ndYgCloacqL3OrgUPJDK/img.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
