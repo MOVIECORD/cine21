@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 01:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 02:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3618,6 +3618,17 @@ Apple TV+
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0327/09_49_39__6420e82376740[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[영화 <제비> 시사회 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8512&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8512&amp;p=1</guid>
+            <pubDate>Tue, 04 Apr 2023 02:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-04-06 20:00:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>메가박스 코엑스</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-04-04 09:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0327/09_45_16__6420e71c9e9a5[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영화 <오늘 출가합니다> GV 시사회 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8509&amp;p=1</link>
             <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8509&amp;p=1</guid>
@@ -3718,15 +3729,6 @@ Apple TV+
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-03-14 17:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/still/2023/0302/18_16_31__6400696fdd699[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <인생 박물관> 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8502&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8502&amp;p=1</guid>
-            <pubDate>Tue, 14 Mar 2023 02:06:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-03-14 17:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/still/2023/0302/18_22_25__64006ad138d1e[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[No.1400 (씨네21 ─ 멀티미디어 ─ 커버 ─ 사진)]]></title>
