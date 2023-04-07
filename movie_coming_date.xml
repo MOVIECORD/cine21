@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 02:35:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 03:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,12 +39,12 @@
             <content:encoded><![CDATA[개봉 : 2022-08-31]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[레디 플레이어 원]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=52072</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=52072</guid>
+            <title><![CDATA[사랑의 고고학]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59684</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59684</guid>
             <pubDate>Tue, 04 Apr 2023 15:15:46 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-04-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0404/18_41_09__642bf0b546996[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0324/18_52_24__641d72d89fa8c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제비]]></title>
@@ -63,20 +63,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0330/19_21_47__642562bb93258[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[레디 플레이어 원]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=52072</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=52072</guid>
+            <pubDate>Tue, 04 Apr 2023 15:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-04-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0404/18_41_09__642bf0b546996[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[존 윅 4]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60321</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60321</guid>
             <pubDate>Tue, 28 Mar 2023 15:19:41 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-04-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0330/14_48_12__6425229c5825f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑의 고고학]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59684</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59684</guid>
-            <pubDate>Tue, 04 Apr 2023 15:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-04-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0324/18_52_24__641d72d89fa8c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[물안에서]]></title>
