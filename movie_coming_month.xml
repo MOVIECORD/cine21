@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 09:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 10:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 15 Dec 2022 22:18:51 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58942_6205fc69dab21[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그랑블루]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58943</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58943</guid>
-            <pubDate>Thu, 15 Dec 2022 22:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58943_62061c4b0f9b8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스파이 코드명 포춘]]></title>
@@ -61,6 +53,14 @@
             <pubDate>Thu, 15 Dec 2022 22:18:51 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0215/56067_620af92c7979e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그랑블루]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58943</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58943</guid>
+            <pubDate>Thu, 15 Dec 2022 22:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58943_62061c4b0f9b8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴 프렌드: 누군가 죽는다]]></title>
@@ -127,14 +127,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0922/15_35_15__632c02238ad43[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어게인]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59956</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59956</guid>
-            <pubDate>Tue, 28 Mar 2023 03:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1115/59956_63735e4bcedd9[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[영화 너무 좋아 폼포 씨]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59776</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59776</guid>
@@ -143,12 +135,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1017/15_17_07__634cf3634c7d4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[캅 시크릿]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59969</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59969</guid>
-            <pubDate>Mon, 10 Apr 2023 06:19:33 GMT</pubDate>
+            <title><![CDATA[어게인]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59956</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59956</guid>
+            <pubDate>Tue, 28 Mar 2023 03:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1115/59956_63735e4bcedd9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팬픽에서 연애까지]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59955</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59955</guid>
+            <pubDate>Tue, 11 Apr 2023 10:16:38 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1124/13_44_52__637ef6c4e6f69[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1122/19_31_11__637ca4ef95288[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
