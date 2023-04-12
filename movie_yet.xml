@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 02:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 03:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,21 +212,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1207/17_21_38__63904d12a7331[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밀수]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60124</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60124</guid>
-            <pubDate>Wed, 22 Feb 2023 10:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">밀수</span>
-		
-
-									<span class="director">감독 : 류승완</span>
-				
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0125/16_14_47__63d0d6e7a8ec7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[왕을 찾아서]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60181</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60181</guid>
@@ -272,6 +257,22 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1217/17_25_22__61bc49726c7cd[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이파이브]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58718</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58718</guid>
+            <pubDate>Wed, 12 Apr 2023 03:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">하이파이브</span>
+		
+
+									<span class="director">감독 : 강형철</span>
+											<span class="actor">배우 : 이재인,유아인</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1116/58718_619303f6988b6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카일리 블루스]]></title>
