@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 02:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 02:39:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,6 +44,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=60392</guid>
             <pubDate>Fri, 14 Apr 2023 02:04:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-04-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0414/11_44_07__6438bdf7e7c7e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[렌필드]]></title>
