@@ -4,9 +4,17 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 14:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 15:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하룻밤]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60392</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60392</guid>
+            <pubDate>Sat, 15 Apr 2023 15:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-04-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0414/11_44_07__6438bdf7e7c7e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[킬링 로맨스]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60310</link>
@@ -16,28 +24,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0414/15_44_50__6438f6621122c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제비]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60193</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60193</guid>
+            <title><![CDATA[존 윅 4]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60321</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60321</guid>
             <pubDate>Tue, 11 Apr 2023 15:18:54 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-04-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0307/13_46_17__6406c1994b952[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레디 플레이어 원]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=52072</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=52072</guid>
-            <pubDate>Tue, 11 Apr 2023 15:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-04-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0404/18_41_09__642bf0b546996[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물안에서]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60222</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60222</guid>
-            <pubDate>Tue, 11 Apr 2023 15:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-04-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_42_20__64195fdc06267[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0330/14_48_12__6425229c5825f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑의 고고학]]></title>
@@ -56,28 +48,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0330/19_21_47__642562bb93258[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[존 윅 4]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60321</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60321</guid>
+            <title><![CDATA[물안에서]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60222</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60222</guid>
             <pubDate>Tue, 11 Apr 2023 15:18:54 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-04-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0330/14_48_12__6425229c5825f[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_42_20__64195fdc06267[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[솔라 플라워]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60313</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60313</guid>
-            <pubDate>Wed, 05 Apr 2023 16:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-04-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0317/14_15_50__6413f78661a57[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[제비]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60193</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60193</guid>
+            <pubDate>Tue, 11 Apr 2023 15:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-04-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0307/13_46_17__6406c1994b952[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카구야 님은 고백받고 싶어 -첫 키스는 끝나지 않아-]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60190</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60190</guid>
-            <pubDate>Wed, 05 Apr 2023 16:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-04-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0317/21_20_43__64145b1be78f5[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[레디 플레이어 원]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=52072</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=52072</guid>
+            <pubDate>Tue, 11 Apr 2023 15:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-04-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0404/18_41_09__642bf0b546996[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮌헨 오데온스 광장 콘서트]]></title>
@@ -88,12 +80,36 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0413/12_39_50__64377986f0d54[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카구야 님은 고백받고 싶어 -첫 키스는 끝나지 않아-]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60190</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60190</guid>
+            <pubDate>Wed, 05 Apr 2023 16:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-04-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0317/21_20_43__64145b1be78f5[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오글리스: 웰컴 투 냄새 마을]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60184</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60184</guid>
             <pubDate>Wed, 05 Apr 2023 16:21:23 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-04-06]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0307/18_36_31__6407059f8c021[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔라 플라워]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60313</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60313</guid>
+            <pubDate>Wed, 05 Apr 2023 16:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-04-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0317/14_15_50__6413f78661a57[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에어]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60183</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60183</guid>
+            <pubDate>Tue, 04 Apr 2023 15:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-04-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0316/17_18_54__6412d0ee425b8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘 출가합니다]]></title>
@@ -126,22 +142,6 @@
             <pubDate>Tue, 04 Apr 2023 15:15:35 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-04-05]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0314/19_13_17__641048bdc1ea9[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에어]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60183</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60183</guid>
-            <pubDate>Tue, 04 Apr 2023 15:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-04-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0316/17_18_54__6412d0ee425b8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤턴트 이스케이프]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60236</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60236</guid>
-            <pubDate>Tue, 04 Apr 2023 15:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-04-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0307/18_56_34__64070a52d5ae3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마리아 칼라스: 세기의 디바]]></title>
