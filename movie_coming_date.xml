@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 07:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 08:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -79,20 +79,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0419/15_03_12__643f8420a33fa[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[토리와 로키타]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60242</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60242</guid>
-            <pubDate>Tue, 25 Apr 2023 15:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-05-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0407/13_26_58__642f9b92cb8c6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[유랑지구2]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60320</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60320</guid>
             <pubDate>Wed, 26 Apr 2023 16:19:08 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-05-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0413/13_14_05__6437818d2f4c0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엑소시스트: 더 바티칸]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60426</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60426</guid>
+            <pubDate>Tue, 25 Apr 2023 15:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-05-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0420/15_46_36__6440dfcc418a2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스트리머]]></title>
@@ -119,12 +119,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0413/14_16_03__6437901334245[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엑소시스트: 더 바티칸]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60426</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60426</guid>
+            <title><![CDATA[토리와 로키타]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60242</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60242</guid>
             <pubDate>Tue, 25 Apr 2023 15:17:04 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-05-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0420/15_46_36__6440dfcc418a2[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0407/13_26_58__642f9b92cb8c6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[롱디]]></title>
