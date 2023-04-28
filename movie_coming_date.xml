@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 01:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 02:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,20 +39,20 @@
             <content:encoded><![CDATA[개봉 : 2022-08-31]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[클로즈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60215</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60215</guid>
-            <pubDate>Tue, 25 Apr 2023 14:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-05-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0407/12_04_38__642f88469c5b2[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[가디언즈 오브 갤럭시: Volume 3]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59995</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59995</guid>
             <pubDate>Tue, 25 Apr 2023 15:17:04 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-05-03]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0424/15_29_36__644621d026abf[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클로즈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60215</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60215</guid>
+            <pubDate>Tue, 25 Apr 2023 14:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-05-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0407/12_04_38__642f88469c5b2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리턴 투 서울]]></title>
@@ -79,20 +79,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0419/15_03_12__643f8420a33fa[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[바람개비]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60344</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60344</guid>
-            <pubDate>Tue, 25 Apr 2023 15:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-05-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0417/15_19_13__643ce4e139598[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스트리머]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60340</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60340</guid>
             <pubDate>Tue, 25 Apr 2023 15:17:04 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-05-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0421/12_28_38__644202e608a1f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바람개비]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60344</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60344</guid>
+            <pubDate>Tue, 25 Apr 2023 15:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-05-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0417/15_19_13__643ce4e139598[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유랑지구2]]></title>
