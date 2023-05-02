@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-05-02T04:19:10.999Z</updated>
+    <updated>2023-05-02T05:16:54.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <이 구역의 이기적인 로맨스>초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8525&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8525&amp;p=1"/>
+        <updated>2023-05-02T05:11:40.835Z</updated>
+        <content type="html"><![CDATA[8525]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <옥탑방 고양이> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8524&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8524&amp;p=1"/>
+        <updated>2023-05-02T05:11:40.837Z</updated>
+        <content type="html"><![CDATA[8524]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <극장판 짱구는 못말려: 동물소환 닌자 배꼽수비대> 시사회 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8523&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8523&amp;p=1"/>
+        <updated>2023-05-02T05:11:40.838Z</updated>
+        <content type="html"><![CDATA[8523]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <나쁜자석> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8522&amp;p=1</id>
@@ -74,26 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8513&amp;p=1"/>
         <updated>2023-04-10T02:01:35.869Z</updated>
         <content type="html"><![CDATA[8513]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <제비> 시사회 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8512&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8512&amp;p=1"/>
-        <updated>2023-04-10T02:01:35.870Z</updated>
-        <content type="html"><![CDATA[8512]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <라스트 필름 쇼> 시사회 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8511&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8511&amp;p=1"/>
-        <updated>2023-04-10T02:01:35.871Z</updated>
-        <content type="html"><![CDATA[8511]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <리바운드> 시사회 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8510&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8510&amp;p=1"/>
-        <updated>2023-04-04T00:57:34.815Z</updated>
-        <content type="html"><![CDATA[8510]]></content>
     </entry>
 </feed>
