@@ -4,9 +4,41 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 21:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 22:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감독							타츠나리 오타 
+							(총1장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=123285</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=123285</guid>
+            <pubDate>Fri, 05 May 2023 22:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=123285">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2023/0506/07_21_16__6455815caf2c8[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/resize/cine21/person/2023/0506/07_21_16__6455815caf2c8[X310,210].jpg" alt="" class="thumb">
+						<span class="caption">
+							감독							<strong>타츠나리 오타</strong> 
+							<span class="num">(총1장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/person/2023/0506/07_21_16__6455815caf2c8[X310,210].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감독							마리아 아파리시오 
+							(총1장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=123286</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=123286</guid>
+            <pubDate>Fri, 05 May 2023 22:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=123286">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2023/0506/07_17_48__6455808ca935a[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/resize/cine21/person/2023/0506/07_17_48__6455808ca935a[X310,210].jpg" alt="" class="thumb">
+						<span class="caption">
+							감독							<strong>마리아 아파리시오</strong> 
+							<span class="num">(총1장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/person/2023/0506/07_17_48__6455808ca935a[X310,210].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제작							케빈 파이기 
 							(총2장)]]></title>
@@ -150,38 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/boTOXX/btqyjcH5TVH/pqy3dkiGkThjrKwlnJl1dk/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우							로몬 
-							(총5장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=116921</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=116921</guid>
-            <pubDate>Mon, 01 May 2023 14:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=116921">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0210/10_32_16__62046b209d72d[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="http://k.kakaocdn.net/dn/XX1m3/btrsS8KChrt/9Yf3pOLJKzVHf57Esvj940/img.jpg" alt="" class="thumb">
-						<span class="caption">
-							배우							<strong>로몬</strong> 
-							<span class="num">(총5장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/XX1m3/btrsS8KChrt/9Yf3pOLJKzVHf57Esvj940/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우							조이현 
-							(총5장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=109467</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=109467</guid>
-            <pubDate>Mon, 01 May 2023 14:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=109467">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0210/10_31_02__62046ad6e0c4a[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="http://k.kakaocdn.net/dn/bBsG29/btrsWU598eh/I8xqykiL1FEikfrTwKK3vK/img.jpg" alt="" class="thumb">
-						<span class="caption">
-							배우							<strong>조이현</strong> 
-							<span class="num">(총5장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/bBsG29/btrsWU598eh/I8xqykiL1FEikfrTwKK3vK/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
