@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 06:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 07:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,22 +22,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0109/12_34_19__63bb8b3b65af8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탈주]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58804</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58804</guid>
-            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">탈주</span>
-		
-
-									<span class="director">감독 : 이종필</span>
-											<span class="actor">배우 : 이제훈,구교환</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/11_05_10__621444d6d0d2a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[말할 수 없는 비밀]]></title>
@@ -241,6 +225,22 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0421/15_33_00__64422e1c1c69c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탈주]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58804</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58804</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">탈주</span>
+		
+
+									<span class="director">감독 : 이종필</span>
+											<span class="actor">배우 : 이제훈,구교환</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/11_05_10__621444d6d0d2a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2시의 데이트]]></title>
