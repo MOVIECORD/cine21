@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 08:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 09:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,12 +39,12 @@
             <content:encoded><![CDATA[개봉 : 2022-08-31]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쥬라기 어드벤처: 비밀의 문]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60466</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60466</guid>
-            <pubDate>Mon, 08 May 2023 11:13:27 GMT</pubDate>
+            <title><![CDATA[말이야 바른 말이지]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60365</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60365</guid>
+            <pubDate>Tue, 09 May 2023 15:17:46 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-05-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0502/18_33_17__6450d8dd72bc9[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0427/17_32_57__644a333942691[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빈 필하모닉 정기연주회: 크리스티안 틸레만]]></title>
@@ -71,6 +71,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0419/19_05_35__643fbcefa050c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쥬라기 어드벤처: 비밀의 문]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60466</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60466</guid>
+            <pubDate>Mon, 08 May 2023 11:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-05-17]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0502/18_33_17__6450d8dd72bc9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[슬픔의 삼각형]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60213</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60213</guid>
@@ -85,14 +93,6 @@
             <pubDate>Mon, 08 May 2023 11:13:27 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-05-17]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0420/17_22_03__6440f62ba9c23[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말이야 바른 말이지]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60365</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60365</guid>
-            <pubDate>Tue, 09 May 2023 15:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-05-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0427/17_32_57__644a333942691[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[페이퍼 스파이더스]]></title>
