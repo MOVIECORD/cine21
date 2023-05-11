@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 07:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 08:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0109/12_34_19__63bb8b3b65af8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탈주]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58804</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58804</guid>
+            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">탈주</span>
+		
+
+									<span class="director">감독 : 이종필</span>
+											<span class="actor">배우 : 이제훈,구교환</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/11_05_10__621444d6d0d2a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[말할 수 없는 비밀]]></title>
@@ -196,21 +212,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0407/22_49_50__64301f7e5a034[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[노트르담 온 파이어]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60394</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60394</guid>
-            <pubDate>Tue, 18 Apr 2023 03:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">노트르담 온 파이어</span>
-		
-
-									<span class="director">감독 : 장-자크 아노</span>
-											<span class="actor">배우 : 사무엘 래버스,장-폴 보르데스</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[어쩌다 활동가]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60421</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60421</guid>
@@ -225,22 +226,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0421/15_33_00__64422e1c1c69c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탈주]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58804</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58804</guid>
-            <pubDate>Thu, 17 Nov 2022 01:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">탈주</span>
-		
-
-									<span class="director">감독 : 이종필</span>
-											<span class="actor">배우 : 이제훈,구교환</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/11_05_10__621444d6d0d2a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2시의 데이트]]></title>
@@ -288,6 +273,22 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/55448_614d6fb3976df[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휴가]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55915</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55915</guid>
+            <pubDate>Thu, 11 May 2023 08:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">휴가</span>
+		
+
+									<span class="director">감독 : 육상효</span>
+											<span class="actor">배우 : 김해숙,신민아</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0210/11_27_16__5e40bf8479be4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
