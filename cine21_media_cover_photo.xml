@@ -4,9 +4,17 @@
         <title>씨네21 ─ 멀티미디어 ─ 커버 ─ 사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 01:01:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 02:05:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No.1406]]></title>
+            <link>https://image.cine21.com/resize/cine21/movie/2023/0512/10_10_33__645d92098898c[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/movie/2023/0512/10_10_33__645d92098898c[H800-].jpg</guid>
+            <pubDate>Fri, 12 May 2023 02:05:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023-05-16~2023-05-23]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0512/10_10_33__645d92098898c[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[No.1405]]></title>
             <link>https://image.cine21.com/resize/cine21/movie/2023/0504/11_33_52__6453199067e76[H800-].jpg</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 01 May 2023 14:16:57 GMT</pubDate>
             <content:encoded><![CDATA[2023-03-21~2023-03-28]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0317/10_35_54__6413c3fad6eb8[X300,360].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No.1397]]></title>
-            <link>https://image.cine21.com/resize/cine21/still/2023/0310/10_32_27__640a88abe6108[H800-].jpg</link>
-            <guid>https://image.cine21.com/resize/cine21/still/2023/0310/10_32_27__640a88abe6108[H800-].jpg</guid>
-            <pubDate>Mon, 01 May 2023 14:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[2023-03-14~2023-03-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/still/2023/0310/10_32_27__640a88abe6108[X300,360].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
