@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 08:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 09:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0503/16_55_06__6452135a7181b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[거신: 바람의 아이]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60396</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60396</guid>
+            <pubDate>Tue, 09 May 2023 15:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-05-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0508/12_06_28__64586734aafe1[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[극장판 리틀 슈퍼맨 샘샘]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60432</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60432</guid>
@@ -63,14 +71,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0502/19_31_02__6450e66687d72[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[거신: 바람의 아이]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60396</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60396</guid>
-            <pubDate>Tue, 09 May 2023 15:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-05-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0508/12_06_28__64586734aafe1[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[인어공주]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60160</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60160</guid>
@@ -85,6 +85,13 @@
             <pubDate>Tue, 16 May 2023 17:13:45 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-05-24]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0511/16_20_09__645c972911708[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈가 앤 스타]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60536</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60536</guid>
+            <pubDate>Wed, 17 May 2023 09:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-05-24]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[줄리아의 인생극장]]></title>
@@ -141,14 +148,6 @@
             <pubDate>Tue, 16 May 2023 17:13:45 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-05-27]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0510/16_20_44__645b45cc5e554[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이드 온]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60431</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60431</guid>
-            <pubDate>Wed, 17 May 2023 06:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-05-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0508/12_38_08__64586ea0c5fd8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
