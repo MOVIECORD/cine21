@@ -4,9 +4,20 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 09:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 10:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <스프린터> 시사회 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8534&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8534&amp;p=1</guid>
+            <pubDate>Fri, 19 May 2023 10:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-05-23 19:30:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>메가박스 코엑스</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>35 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-05-19 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0510/10_09_17__645aeebdf150d[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <사랑하는 당신에게> 시사회 이벤트]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8533&amp;p=1</link>
@@ -100,17 +111,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-04-27 09:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0418/10_05_11__643decc718be7[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <극장판 짱구는 못말려: 동물소환 닌자 배꼽수비대> 시사회 초대 이벤트]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8523&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8523&amp;p=1</guid>
-            <pubDate>Mon, 01 May 2023 14:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-04-29 14:30:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-04-25 09:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0417/10_02_24__643c9aa0e4837[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
