@@ -4,9 +4,25 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 07:27:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 08:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성우							김선혜 
+							(총1장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=72498</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=72498</guid>
+            <pubDate>Fri, 19 May 2023 08:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=72498">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2023/0519/16_56_29__64672bad49f5a[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/resize/cine21/person/2023/0519/16_56_29__64672bad49f5a[X310,210].jpg" alt="" class="thumb">
+						<span class="caption">
+							성우							<strong>김선혜</strong> 
+							<span class="num">(총1장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/person/2023/0519/16_56_29__64672bad49f5a[X310,210].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감독							타츠나리 오타 
 							(총1장)]]></title>
@@ -166,22 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/Yo0lz/btrEc9EFWyJ/fKWrAYlj9oiQOvwjowMH7k/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감독							김보람 
-							(총8장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=115807</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=115807</guid>
-            <pubDate>Mon, 01 May 2023 14:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=115807">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2019/0917/16_37_24__5d808d34cf4a0[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="http://k.kakaocdn.net/dn/boTOXX/btqyjcH5TVH/pqy3dkiGkThjrKwlnJl1dk/img.jpg" alt="" class="thumb">
-						<span class="caption">
-							감독							<strong>김보람</strong> 
-							<span class="num">(총8장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/boTOXX/btqyjcH5TVH/pqy3dkiGkThjrKwlnJl1dk/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
