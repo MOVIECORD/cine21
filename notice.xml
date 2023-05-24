@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-05-24T01:03:58.726Z</updated>
+    <updated>2023-05-24T02:16:45.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <사슴의 왕> 시사회 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8536&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8536&amp;p=1"/>
+        <updated>2023-05-24T02:11:45.035Z</updated>
+        <content type="html"><![CDATA[8536]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <말없는 소녀> 시사회 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8535&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8524&amp;p=1"/>
         <updated>2023-05-02T05:11:40.837Z</updated>
         <content type="html"><![CDATA[8524]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <극장판 짱구는 못말려: 동물소환 닌자 배꼽수비대> 시사회 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8523&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8523&amp;p=1"/>
-        <updated>2023-05-02T05:11:40.838Z</updated>
-        <content type="html"><![CDATA[8523]]></content>
     </entry>
 </feed>
