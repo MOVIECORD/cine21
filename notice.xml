@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-05-30T01:05:00.198Z</updated>
+    <updated>2023-05-30T02:19:57.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <이 구역의 이기적인 로맨스> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8538&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8538&amp;p=1"/>
+        <updated>2023-05-30T02:15:02.751Z</updated>
+        <content type="html"><![CDATA[8538]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <라이드온> 시사회 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8537&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8526&amp;p=1"/>
         <updated>2023-05-02T06:16:10.183Z</updated>
         <content type="html"><![CDATA[8526]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <이 구역의 이기적인 로맨스>초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8525&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8525&amp;p=1"/>
-        <updated>2023-05-02T05:11:40.835Z</updated>
-        <content type="html"><![CDATA[8525]]></content>
     </entry>
 </feed>
