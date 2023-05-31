@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-05-30T23:18:59.277Z</updated>
+    <updated>2023-05-31T01:10:56.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <도넛> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8539&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8539&amp;p=1"/>
+        <updated>2023-05-31T01:06:32.231Z</updated>
+        <content type="html"><![CDATA[8539]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <이 구역의 이기적인 로맨스> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8538&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8527&amp;p=1"/>
         <updated>2023-05-02T06:16:10.180Z</updated>
         <content type="html"><![CDATA[8527]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <2호선세입자> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8526&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8526&amp;p=1"/>
-        <updated>2023-05-02T06:16:10.183Z</updated>
-        <content type="html"><![CDATA[8526]]></content>
     </entry>
 </feed>
