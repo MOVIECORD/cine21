@@ -4,9 +4,25 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 06:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 07:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감독							백 
+							(총2장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=94818</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=94818</guid>
+            <pubDate>Thu, 01 Jun 2023 07:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=94818">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2015/0817/18_15_10__55d1a61e344d5[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="http://k.kakaocdn.net/dn/C80qr/btqlfRCr6NL/pa1j1eWQiyXk2u2EjkVMFk/img.jpg" alt="" class="thumb">
+						<span class="caption">
+							감독							<strong>백</strong> 
+							<span class="num">(총2장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="http://k.kakaocdn.net/dn/C80qr/btqlfRCr6NL/pa1j1eWQiyXk2u2EjkVMFk/img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성우							김선혜 
 							(총1장)]]></title>
@@ -166,22 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="http://k.kakaocdn.net/dn/PpmkC/btqGiq4N31K/3KLM56ggmKgV1lQnB5pNZ0/img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우							김아현 
-							(총4장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=120884</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=120884</guid>
-            <pubDate>Mon, 01 May 2023 14:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=120884">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0608/12_02_29__62a011453e719[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="http://k.kakaocdn.net/dn/Yo0lz/btrEc9EFWyJ/fKWrAYlj9oiQOvwjowMH7k/img.jpg" alt="" class="thumb">
-						<span class="caption">
-							배우							<strong>김아현</strong> 
-							<span class="num">(총4장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="http://k.kakaocdn.net/dn/Yo0lz/btrEc9EFWyJ/fKWrAYlj9oiQOvwjowMH7k/img.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
