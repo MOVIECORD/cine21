@@ -4,9 +4,20 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 05:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 07:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <노트르담 온 파이어>시사회 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8542&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8542&amp;p=1</guid>
+            <pubDate>Fri, 02 Jun 2023 07:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-06-05 19:30:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>메가박스 코엑스</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-06-02 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0524/13_01_24__646d8c142285b[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도서 <변론의 법칙> 기대평 이벤트]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8541&amp;p=1</link>
@@ -108,15 +119,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-05-09 11:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0420/12_21_19__6440afafa97ee[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <가여운 것들> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8531&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8531&amp;p=1</guid>
-            <pubDate>Mon, 08 May 2023 03:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-05-08 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2023/0427/14_42_58__644a0b6230237[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
