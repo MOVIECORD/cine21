@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 14:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 15:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2883,20 +2883,28 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
             <enclosure url="https://image.cine21.com/crop/data/6466c6c731ce2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[부기맨 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60534</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60534</guid>
+            <pubDate>Wed, 24 May 2023 15:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-06-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0601/11_32_42__6478034ae715a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트랜스포머: 비스트의 서막 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60005</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60005</guid>
+            <pubDate>Thu, 25 May 2023 15:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-06-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0602/17_50_32__6479ad58bca0f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[익스파이어드 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60561</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60561</guid>
             <pubDate>Tue, 23 May 2023 15:19:32 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-06-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0523/15_26_12__646c5c84e00d7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드림팰리스 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60364</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60364</guid>
-            <pubDate>Sun, 21 May 2023 01:04:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-05-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0518/20_38_31__64660e37bc908[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라이드 온 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2907,12 +2915,12 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0508/12_38_08__64586ea0c5fd8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세인트 세이야: 더 비기닝 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60487</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60487</guid>
+            <title><![CDATA[악당들 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60368</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60368</guid>
             <pubDate>Tue, 23 May 2023 15:19:32 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-05-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0522/15_18_31__646b093727306[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0517/16_16_25__64647f499f68c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[범죄도시3 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2931,20 +2939,28 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0504/18_30_31__64537b371f0ff[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사랑하는 당신에게 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60404</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60404</guid>
-            <pubDate>Mon, 22 May 2023 05:15:26 GMT</pubDate>
+            <title><![CDATA[드림팰리스 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60364</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60364</guid>
+            <pubDate>Sun, 21 May 2023 01:04:39 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-05-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0531/11_54_39__6476b6efb4865[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0518/20_38_31__64660e37bc908[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[악당들 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60368</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60368</guid>
+            <title><![CDATA[마인드케이지 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60566</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60566</guid>
+            <pubDate>Wed, 24 May 2023 03:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-05-31]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0524/12_40_55__646d87479e62d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세인트 세이야: 더 비기닝 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60487</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60487</guid>
             <pubDate>Tue, 23 May 2023 15:19:32 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-05-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0517/16_16_25__64647f499f68c[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0522/15_18_31__646b093727306[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판 포켓몬스터DP : 아르세우스 초극의 시공으로 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2955,12 +2971,12 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0427/19_12_39__644a4a979be43[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마인드케이지 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60566</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60566</guid>
-            <pubDate>Wed, 24 May 2023 03:15:18 GMT</pubDate>
+            <title><![CDATA[사랑하는 당신에게 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60404</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60404</guid>
+            <pubDate>Mon, 22 May 2023 05:15:26 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-05-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0524/12_40_55__646d87479e62d[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0531/11_54_39__6476b6efb4865[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타임 이즈 업2 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2995,12 +3011,12 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0526/09_42_32__64700078763d0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[줄리아의 인생극장 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60433</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60433</guid>
-            <pubDate>Mon, 05 Jun 2023 06:24:19 GMT</pubDate>
+            <title><![CDATA[남은 인생 10년 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60456</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60456</guid>
+            <pubDate>Mon, 05 Jun 2023 15:15:38 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-05-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0424/19_13_05__64465631b700e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0511/17_26_37__645ca6bd019d4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내 아내 이야기 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -3009,22 +3025,6 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
             <pubDate>Tue, 23 May 2023 16:18:33 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-05-24]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0427/17_11_11__644a2e1f16883[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈가 앤 스타 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60536</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60536</guid>
-            <pubDate>Wed, 31 May 2023 15:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-05-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0517/18_52_43__6464a3eb38357[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인어공주 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60160</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60160</guid>
-            <pubDate>Mon, 05 Jun 2023 06:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-05-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0524/10_53_32__646d6e1c32539[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[거울 속 외딴 성 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3058,44 +3058,12 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
             <content:encoded><![CDATA[개봉 : 2022-08-31]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트랜스포머: 비스트의 서막 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60005</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60005</guid>
-            <pubDate>Thu, 25 May 2023 15:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-06-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0602/17_50_32__6479ad58bca0f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부기맨 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60534</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60534</guid>
-            <pubDate>Wed, 24 May 2023 15:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-06-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0601/11_32_42__6478034ae715a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자우림, 더 원더랜드 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60617</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60617</guid>
-            <pubDate>Fri, 02 Jun 2023 01:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-06-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0602/11_09_35__64794f5f7faca[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[북 클럽: 넥스트 챕터 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60519</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60519</guid>
             <pubDate>Tue, 30 May 2023 15:15:30 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-06-07]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0512/17_47_12__645dfd10bac73[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈 필하모닉 정기연주회: 헤르베르트 블롬슈테트 & 레오니다스 카바코스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60381</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60381</guid>
-            <pubDate>Tue, 30 May 2023 15:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-06-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0412/19_49_58__64368cd6380d6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[익스트림 페스티벌 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3106,12 +3074,20 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0523/14_56_08__646c5578b6c89[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이윽고 바다에 닿다 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60467</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60467</guid>
+            <title><![CDATA[자우림, 더 원더랜드 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60617</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60617</guid>
+            <pubDate>Fri, 02 Jun 2023 01:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-06-07]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0602/11_09_35__64794f5f7faca[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빈 필하모닉 정기연주회: 헤르베르트 블롬슈테트 & 레오니다스 카바코스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60381</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60381</guid>
             <pubDate>Tue, 30 May 2023 15:15:30 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-06-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0502/18_43_51__6450db573fa74[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0412/19_49_58__64368cd6380d6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그 여름 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3120,6 +3096,22 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
             <pubDate>Tue, 30 May 2023 07:14:48 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-06-07]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0516/14_22_54__6463132eacd48[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이윽고 바다에 닿다 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60467</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60467</guid>
+            <pubDate>Tue, 30 May 2023 15:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-06-07]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0502/18_43_51__6450db573fa74[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안나푸르나 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60407</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60407</guid>
+            <pubDate>Tue, 30 May 2023 15:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-06-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0510/19_28_36__645b71d4d0530[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿠툴룬: 전쟁의 여신 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3138,14 +3130,6 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0524/19_44_37__646dea952d5ac[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안나푸르나 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60407</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60407</guid>
-            <pubDate>Tue, 30 May 2023 15:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-06-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0510/19_28_36__645b71d4d0530[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오네긴 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60532</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60532</guid>
@@ -3154,20 +3138,36 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0517/15_29_11__64647437ad008[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나의 사소한 슬픔 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60485</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60485</guid>
+            <pubDate>Mon, 05 Jun 2023 15:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-06-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0518/19_41_02__646600be499f8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너의 눈을 들여다보면 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60346</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60346</guid>
+            <pubDate>Mon, 05 Jun 2023 15:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-06-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0524/14_18_56__646d9e404e810[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위대한 작은 농장 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60582</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60582</guid>
+            <pubDate>Mon, 05 Jun 2023 15:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-06-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0531/15_13_14__6476e57ad0b7b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[엘리멘탈 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59976</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59976</guid>
             <pubDate>Mon, 05 Jun 2023 11:23:05 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-06-14]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0530/14_43_36__64758d0859bb9[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙 워터: 어비스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56626</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56626</guid>
-            <pubDate>Mon, 05 Jun 2023 09:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-06-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0503/16_47_24__6452118c49d4d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 나라(가제) (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3641,15 +3641,6 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-06-09 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0518/10_11_01__64657b259649f[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <오백에삼십> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8107</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8107</guid>
-            <pubDate>Fri, 02 Jun 2023 04:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-06-07 16:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0517/17_07_48__64648b54eadea[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <늘근도둑 이야기> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
