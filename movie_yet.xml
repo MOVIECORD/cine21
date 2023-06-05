@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 07:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 08:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,21 +22,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/55448_614d6fb3976df[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말할 수 없는 비밀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
-            <pubDate>Tue, 23 May 2023 12:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">말할 수 없는 비밀</span>
-		
-
-									<span class="director">감독 : 서유민</span>
-											<span class="actor">배우 : 도경수,원진아</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울의 봄]]></title>
@@ -197,6 +182,36 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0511/18_06_21__645cb00d261e9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[부활남]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60614</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60614</guid>
+            <pubDate>Mon, 05 Jun 2023 08:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">부활남</span>
+		
+
+									<span class="director">감독 : 백</span>
+											<span class="actor">배우 : 구교환,신승호</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[말할 수 없는 비밀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
+            <pubDate>Tue, 23 May 2023 12:27:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">말할 수 없는 비밀</span>
+		
+
+									<span class="director">감독 : 서유민</span>
+											<span class="actor">배우 : 도경수,원진아</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[탈주]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58804</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58804</guid>
@@ -274,22 +289,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0602/16_46_14__5ed603c6be516[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원더랜드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56449</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56449</guid>
-            <pubDate>Mon, 05 Jun 2023 04:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">원더랜드</span>
-		
-
-									<span class="director">감독 : 김태용</span>
-											<span class="actor">배우 : 박보검,배수지</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0602/17_28_51__5ed60dc3b6633[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
