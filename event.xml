@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 14:29:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 15:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -28,17 +28,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/event/2023/0601/18_44_54__64786896d9de1[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영화 <위대한 작은 농장> 시사회 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8115</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8115</guid>
-            <pubDate>Mon, 05 Jun 2023 20:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-06-09 19:30</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>아트나인</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-06-08 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2023/0601/14_42_05__64782fad30c54[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <이 구역의 이기적인 로맨스> 초대 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8108</link>
             <guid>http://www.cine21.com/event/view/?event_no=8108</guid>
@@ -46,15 +35,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-06-09 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0518/10_11_01__64657b259649f[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <늘근도둑 이야기> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8101</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8101</guid>
-            <pubDate>Mon, 05 Jun 2023 20:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-06-09 17:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2023/0508/18_04_07__6458bb07266b5[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
