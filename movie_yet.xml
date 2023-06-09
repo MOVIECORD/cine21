@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 13:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 14:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,6 +197,21 @@
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[야당]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60633</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60633</guid>
+            <pubDate>Fri, 09 Jun 2023 14:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">야당</span>
+		
+
+									<span class="director">감독 : 황병국</span>
+											<span class="actor">배우 : 강하늘,유해진</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[말할 수 없는 비밀]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
@@ -226,21 +241,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/11_05_10__621444d6d0d2a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2시의 데이트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58780</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58780</guid>
-            <pubDate>Tue, 23 May 2023 12:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">2시의 데이트</span>
-		
-
-									<span class="director">감독 : 이상근</span>
-											<span class="actor">배우 : 임윤아,안보현</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[휴가]]></title>
