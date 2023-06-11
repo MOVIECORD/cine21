@@ -4,9 +4,18 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 14:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 15:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <오백에삼십> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8120</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8120</guid>
+            <pubDate>Sun, 11 Jun 2023 15:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-06-28 16:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0608/17_00_10__64818a8a0f873[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 <진짜 나쁜 소녀> 초대 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8119</link>
@@ -37,15 +46,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-06-20 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0605/11_01_11__647d41e7acfb2[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <옥탑방 고양이> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8116</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8116</guid>
-            <pubDate>Thu, 08 Jun 2023 19:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-06-12 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2023/0601/18_44_54__64786896d9de1[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
