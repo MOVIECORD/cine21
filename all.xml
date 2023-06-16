@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 02:58:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 03:32:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2814,6 +2814,14 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
             <enclosure url="https://image.cine21.com/crop/data/583/647f930ad60fe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쿠툴룬: 전쟁의 여신 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60616</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60616</guid>
+            <pubDate>Fri, 02 Jun 2023 01:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-06-28]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0602/11_15_42__647950ceba593[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[슈가: 로드 투 디데이 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60590</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60590</guid>
@@ -2846,14 +2854,6 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0607/11_49_53__647ff0517dbd3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엘리멘탈 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59976</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59976</guid>
-            <pubDate>Tue, 13 Jun 2023 07:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-06-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0530/14_43_36__64758d0859bb9[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[나의 사소한 슬픔 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60485</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60485</guid>
@@ -2862,12 +2862,12 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0518/19_41_02__646600be499f8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[위대한 작은 농장 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60582</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60582</guid>
+            <title><![CDATA[엘리멘탈 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59976</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59976</guid>
             <pubDate>Tue, 13 Jun 2023 07:19:11 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-06-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0607/10_49_36__647fe2308c1f3[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0530/14_43_36__64758d0859bb9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너의 눈을 들여다보면 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2884,6 +2884,14 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
             <pubDate>Tue, 13 Jun 2023 07:19:11 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-06-14]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0503/16_47_24__6452118c49d4d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위대한 작은 농장 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60582</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60582</guid>
+            <pubDate>Tue, 13 Jun 2023 07:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-06-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0607/10_49_36__647fe2308c1f3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오네긴 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2908,14 +2916,6 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
             <pubDate>Tue, 30 May 2023 15:15:30 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-06-08]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0510/19_28_36__645b71d4d0530[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠툴룬: 전쟁의 여신 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60616</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60616</guid>
-            <pubDate>Fri, 02 Jun 2023 01:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-06-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0602/11_15_42__647950ceba593[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[북 클럽: 넥스트 챕터 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -3936,6 +3936,71 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
             <enclosure url="https://image.cine21.com/crop/data/101/647f7384b2f6c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[＜트랜스포머: 비스트의 서막＞ 맥시멀 특별 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F06%2FTrans_mmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F493%2F648bcf86cad1f.jpg&amp;title=%EF%BC%9C%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%3A%20%EB%B9%84%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EC%84%9C%EB%A7%89%EF%BC%9E%20%EB%A7%A5%EC%8B%9C%EB%A9%80%20%ED%8A%B9%EB%B3%84%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F06%2FTrans_mmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F493%2F648bcf86cad1f.jpg&amp;title=%EF%BC%9C%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%3A%20%EB%B9%84%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EC%84%9C%EB%A7%89%EF%BC%9E%20%EB%A7%A5%EC%8B%9C%EB%A9%80%20%ED%8A%B9%EB%B3%84%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44547">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F06%2FTrans_mmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F493%2F648bcf86cad1f.jpg&amp;title=%EF%BC%9C%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%3A%20%EB%B9%84%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EC%84%9C%EB%A7%89%EF%BC%9E%20%EB%A7%A5%EC%8B%9C%EB%A9%80%20%ED%8A%B9%EB%B3%84%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/06/Trans_mmk.mp4">
+						<img src="https://image.cine21.com/crop/data/493/648bcf86cad1f.jpg" alt="" class="thumb">
+						<span class="title">＜트랜스포머: 비스트의 서막＞ 맥시멀 특별 영상</span>
+						<span class="date">2023-06-16</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/493/648bcf86cad1f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜트랜스포머: 비스트의 서막＞ 뉴비전 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F06%2FTrans_nvmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F130%2F648bcf851b9f9.jpg&amp;title=%EF%BC%9C%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%3A%20%EB%B9%84%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EC%84%9C%EB%A7%89%EF%BC%9E%20%EB%89%B4%EB%B9%84%EC%A0%84%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F06%2FTrans_nvmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F130%2F648bcf851b9f9.jpg&amp;title=%EF%BC%9C%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%3A%20%EB%B9%84%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EC%84%9C%EB%A7%89%EF%BC%9E%20%EB%89%B4%EB%B9%84%EC%A0%84%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44546">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F06%2FTrans_nvmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F130%2F648bcf851b9f9.jpg&amp;title=%EF%BC%9C%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%3A%20%EB%B9%84%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EC%84%9C%EB%A7%89%EF%BC%9E%20%EB%89%B4%EB%B9%84%EC%A0%84%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/06/Trans_nvmk.mp4">
+						<img src="https://image.cine21.com/crop/data/130/648bcf851b9f9.jpg" alt="" class="thumb">
+						<span class="title">＜트랜스포머: 비스트의 서막＞ 뉴비전 영상</span>
+						<span class="date">2023-06-16</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/130/648bcf851b9f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜쿠툴룬: 전쟁의 여신＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2FKhutulun_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F021%2F648bc835b72d5.jpg&amp;title=%EF%BC%9C%EC%BF%A0%ED%88%B4%EB%A3%AC%3A%20%EC%A0%84%EC%9F%81%EC%9D%98%20%EC%97%AC%EC%8B%A0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2FKhutulun_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F021%2F648bc835b72d5.jpg&amp;title=%EF%BC%9C%EC%BF%A0%ED%88%B4%EB%A3%AC%3A%20%EC%A0%84%EC%9F%81%EC%9D%98%20%EC%97%AC%EC%8B%A0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44544">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2FKhutulun_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F021%2F648bc835b72d5.jpg&amp;title=%EF%BC%9C%EC%BF%A0%ED%88%B4%EB%A3%AC%3A%20%EC%A0%84%EC%9F%81%EC%9D%98%20%EC%97%AC%EC%8B%A0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/06/Khutulun_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/021/648bc835b72d5.jpg" alt="" class="thumb">
+						<span class="title">＜쿠툴룬: 전쟁의 여신＞ 메인 예고편</span>
+						<span class="date">2023-06-16</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/021/648bc835b72d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜보 이즈 어프레이드＞ 마틴 스콜세지 감독 극찬 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F06%2Fbeau_mmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F157%2F648bc3801ec0c.jpg&amp;title=%EF%BC%9C%EB%B3%B4%20%EC%9D%B4%EC%A6%88%20%EC%96%B4%ED%94%84%EB%A0%88%EC%9D%B4%EB%93%9C%EF%BC%9E%20%EB%A7%88%ED%8B%B4%20%EC%8A%A4%EC%BD%9C%EC%84%B8%EC%A7%80%20%EA%B0%90%EB%8F%85%20%EA%B7%B9%EC%B0%AC%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F06%2Fbeau_mmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F157%2F648bc3801ec0c.jpg&amp;title=%EF%BC%9C%EB%B3%B4%20%EC%9D%B4%EC%A6%88%20%EC%96%B4%ED%94%84%EB%A0%88%EC%9D%B4%EB%93%9C%EF%BC%9E%20%EB%A7%88%ED%8B%B4%20%EC%8A%A4%EC%BD%9C%EC%84%B8%EC%A7%80%20%EA%B0%90%EB%8F%85%20%EA%B7%B9%EC%B0%AC%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44543">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F06%2Fbeau_mmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F157%2F648bc3801ec0c.jpg&amp;title=%EF%BC%9C%EB%B3%B4%20%EC%9D%B4%EC%A6%88%20%EC%96%B4%ED%94%84%EB%A0%88%EC%9D%B4%EB%93%9C%EF%BC%9E%20%EB%A7%88%ED%8B%B4%20%EC%8A%A4%EC%BD%9C%EC%84%B8%EC%A7%80%20%EA%B0%90%EB%8F%85%20%EA%B7%B9%EC%B0%AC%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/06/beau_mmk.mp4">
+						<img src="https://image.cine21.com/crop/data/157/648bc3801ec0c.jpg" alt="" class="thumb">
+						<span class="title">＜보 이즈 어프레이드＞ 마틴 스콜세지 감독 극찬 영상</span>
+						<span class="date">2023-06-16</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/157/648bc3801ec0c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜206: 사라지지 않는＞ 30초 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2FUnearthed_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F951%2F648bbec917a16.jpg&amp;title=%EF%BC%9C206%3A%20%EC%82%AC%EB%9D%BC%EC%A7%80%EC%A7%80%20%EC%95%8A%EB%8A%94%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2FUnearthed_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F951%2F648bbec917a16.jpg&amp;title=%EF%BC%9C206%3A%20%EC%82%AC%EB%9D%BC%EC%A7%80%EC%A7%80%20%EC%95%8A%EB%8A%94%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44542">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2FUnearthed_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F951%2F648bbec917a16.jpg&amp;title=%EF%BC%9C206%3A%20%EC%82%AC%EB%9D%BC%EC%A7%80%EC%A7%80%20%EC%95%8A%EB%8A%94%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/06/Unearthed_30tr.mp4">
+						<img src="https://image.cine21.com/crop/data/951/648bbec917a16.jpg" alt="" class="thumb">
+						<span class="title">＜206: 사라지지 않는＞ 30초 예고편</span>
+						<span class="date">2023-06-16</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/951/648bbec917a16.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[＜파이어하트＞ 30초 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Ffireheart_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F818%2F648a69579b215.jpg&amp;title=%EF%BC%9C%ED%8C%8C%EC%9D%B4%EC%96%B4%ED%95%98%ED%8A%B8%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
             <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Ffireheart_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F818%2F648a69579b215.jpg&amp;title=%EF%BC%9C%ED%8C%8C%EC%9D%B4%EC%96%B4%ED%95%98%ED%8A%B8%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
@@ -3973,6 +4038,32 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
 						<span class="date">2023-06-15</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/772/648a61cd45b4c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜슈가: 로드 투 디데이＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fsuga_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F864%2F648bcacd9e7de.jpg&amp;title=%EF%BC%9C%EC%8A%88%EA%B0%80%3A%20%EB%A1%9C%EB%93%9C%20%ED%88%AC%20%EB%94%94%EB%8D%B0%EC%9D%B4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fsuga_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F864%2F648bcacd9e7de.jpg&amp;title=%EF%BC%9C%EC%8A%88%EA%B0%80%3A%20%EB%A1%9C%EB%93%9C%20%ED%88%AC%20%EB%94%94%EB%8D%B0%EC%9D%B4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Wed, 14 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44536">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fsuga_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F864%2F648bcacd9e7de.jpg&amp;title=%EF%BC%9C%EC%8A%88%EA%B0%80%3A%20%EB%A1%9C%EB%93%9C%20%ED%88%AC%20%EB%94%94%EB%8D%B0%EC%9D%B4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/06/suga_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/864/648bcacd9e7de.jpg" alt="" class="thumb">
+						<span class="title">＜슈가: 로드 투 디데이＞ 메인 예고편</span>
+						<span class="date">2023-06-14</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/864/648bcacd9e7de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜제이홉 인 더 박스＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fjhope_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F716%2F648bcd2970910.jpg&amp;title=%EF%BC%9C%EC%A0%9C%EC%9D%B4%ED%99%89%20%EC%9D%B8%20%EB%8D%94%20%EB%B0%95%EC%8A%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fjhope_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F716%2F648bcd2970910.jpg&amp;title=%EF%BC%9C%EC%A0%9C%EC%9D%B4%ED%99%89%20%EC%9D%B8%20%EB%8D%94%20%EB%B0%95%EC%8A%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Wed, 14 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44535">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fjhope_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F716%2F648bcd2970910.jpg&amp;title=%EF%BC%9C%EC%A0%9C%EC%9D%B4%ED%99%89%20%EC%9D%B8%20%EB%8D%94%20%EB%B0%95%EC%8A%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/06/jhope_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/716/648bcd2970910.jpg" alt="" class="thumb">
+						<span class="title">＜제이홉 인 더 박스＞ 메인 예고편</span>
+						<span class="date">2023-06-14</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/716/648bcd2970910.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[＜좋.댓.구＞ 티저 에고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
@@ -4051,97 +4142,6 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
 						<span class="date">2023-06-14</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/043/648916583f576.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜디어 마이 러브＞ 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fdear_tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F370%2F64882fe6c3b8a.jpg&amp;title=%EF%BC%9C%EB%94%94%EC%96%B4%20%EB%A7%88%EC%9D%B4%20%EB%9F%AC%EB%B8%8C%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fdear_tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F370%2F64882fe6c3b8a.jpg&amp;title=%EF%BC%9C%EB%94%94%EC%96%B4%20%EB%A7%88%EC%9D%B4%20%EB%9F%AC%EB%B8%8C%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44525">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fdear_tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F370%2F64882fe6c3b8a.jpg&amp;title=%EF%BC%9C%EB%94%94%EC%96%B4%20%EB%A7%88%EC%9D%B4%20%EB%9F%AC%EB%B8%8C%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/06/dear_tr.mp4">
-						<img src="https://image.cine21.com/crop/data/370/64882fe6c3b8a.jpg" alt="" class="thumb">
-						<span class="title">＜디어 마이 러브＞ 예고편</span>
-						<span class="date">2023-06-13</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/370/64882fe6c3b8a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜트랜스포머: 비스트의 서막＞ 페루 로케이션 특별영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F06%2Ftrans_pmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F024%2F64880951675be.jpg&amp;title=%EF%BC%9C%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%3A%20%EB%B9%84%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EC%84%9C%EB%A7%89%EF%BC%9E%20%ED%8E%98%EB%A3%A8%20%EB%A1%9C%EC%BC%80%EC%9D%B4%EC%85%98%20%ED%8A%B9%EB%B3%84%EC%98%81%EC%83%81</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F06%2Ftrans_pmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F024%2F64880951675be.jpg&amp;title=%EF%BC%9C%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%3A%20%EB%B9%84%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EC%84%9C%EB%A7%89%EF%BC%9E%20%ED%8E%98%EB%A3%A8%20%EB%A1%9C%EC%BC%80%EC%9D%B4%EC%85%98%20%ED%8A%B9%EB%B3%84%EC%98%81%EC%83%81</guid>
-            <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44524">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F06%2Ftrans_pmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F024%2F64880951675be.jpg&amp;title=%EF%BC%9C%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%3A%20%EB%B9%84%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EC%84%9C%EB%A7%89%EF%BC%9E%20%ED%8E%98%EB%A3%A8%20%EB%A1%9C%EC%BC%80%EC%9D%B4%EC%85%98%20%ED%8A%B9%EB%B3%84%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/06/trans_pmk.mp4">
-						<img src="https://image.cine21.com/crop/data/024/64880951675be.jpg" alt="" class="thumb">
-						<span class="title">＜트랜스포머: 비스트의 서막＞ 페루 로케이션 특별영상</span>
-						<span class="date">2023-06-13</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/024/64880951675be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜플래시＞ 파이널 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fflash_ftr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F636%2F6487fd50256f0.jpg&amp;title=%EF%BC%9C%ED%94%8C%EB%9E%98%EC%8B%9C%EF%BC%9E%20%ED%8C%8C%EC%9D%B4%EB%84%90%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fflash_ftr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F636%2F6487fd50256f0.jpg&amp;title=%EF%BC%9C%ED%94%8C%EB%9E%98%EC%8B%9C%EF%BC%9E%20%ED%8C%8C%EC%9D%B4%EB%84%90%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44523">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fflash_ftr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F636%2F6487fd50256f0.jpg&amp;title=%EF%BC%9C%ED%94%8C%EB%9E%98%EC%8B%9C%EF%BC%9E%20%ED%8C%8C%EC%9D%B4%EB%84%90%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/06/flash_ftr.mp4">
-						<img src="https://image.cine21.com/crop/data/636/6487fd50256f0.jpg" alt="" class="thumb">
-						<span class="title">＜플래시＞ 파이널 예고편</span>
-						<span class="date">2023-06-13</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/636/6487fd50256f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜파이어하트＞ 조지아의 이중생활 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F06%2Ffireheart_2mk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F631%2F6487c85ba129a.jpg&amp;title=%EF%BC%9C%ED%8C%8C%EC%9D%B4%EC%96%B4%ED%95%98%ED%8A%B8%EF%BC%9E%20%EC%A1%B0%EC%A7%80%EC%95%84%EC%9D%98%20%EC%9D%B4%EC%A4%91%EC%83%9D%ED%99%9C%20%EC%98%81%EC%83%81</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F06%2Ffireheart_2mk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F631%2F6487c85ba129a.jpg&amp;title=%EF%BC%9C%ED%8C%8C%EC%9D%B4%EC%96%B4%ED%95%98%ED%8A%B8%EF%BC%9E%20%EC%A1%B0%EC%A7%80%EC%95%84%EC%9D%98%20%EC%9D%B4%EC%A4%91%EC%83%9D%ED%99%9C%20%EC%98%81%EC%83%81</guid>
-            <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44522">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F06%2Ffireheart_2mk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F631%2F6487c85ba129a.jpg&amp;title=%EF%BC%9C%ED%8C%8C%EC%9D%B4%EC%96%B4%ED%95%98%ED%8A%B8%EF%BC%9E%20%EC%A1%B0%EC%A7%80%EC%95%84%EC%9D%98%20%EC%9D%B4%EC%A4%91%EC%83%9D%ED%99%9C%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/06/fireheart_2mk.mp4">
-						<img src="https://image.cine21.com/crop/data/631/6487c85ba129a.jpg" alt="" class="thumb">
-						<span class="title">＜파이어하트＞ 조지아의 이중생활 영상</span>
-						<span class="date">2023-06-13</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/631/6487c85ba129a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜악마들＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fdevils_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F387%2F6487c05be4a5f.jpg&amp;title=%EF%BC%9C%EC%95%85%EB%A7%88%EB%93%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fdevils_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F387%2F6487c05be4a5f.jpg&amp;title=%EF%BC%9C%EC%95%85%EB%A7%88%EB%93%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44521">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fdevils_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F387%2F6487c05be4a5f.jpg&amp;title=%EF%BC%9C%EC%95%85%EB%A7%88%EB%93%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/06/devils_mtr.mp4">
-						<img src="https://image.cine21.com/crop/data/387/6487c05be4a5f.jpg" alt="" class="thumb">
-						<span class="title">＜악마들＞ 메인 예고편</span>
-						<span class="date">2023-06-13</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/387/6487c05be4a5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜더 썬＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fson_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F338%2F6486e3ead3a5e.jpg&amp;title=%EF%BC%9C%EB%8D%94%20%EC%8D%AC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fson_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F338%2F6486e3ead3a5e.jpg&amp;title=%EF%BC%9C%EB%8D%94%20%EC%8D%AC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44520">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fson_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F338%2F6486e3ead3a5e.jpg&amp;title=%EF%BC%9C%EB%8D%94%20%EC%8D%AC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/06/son_mtr.mp4">
-						<img src="https://image.cine21.com/crop/data/338/6486e3ead3a5e.jpg" alt="" class="thumb">
-						<span class="title">＜더 썬＞ 메인 예고편</span>
-						<span class="date">2023-06-12</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/338/6486e3ead3a5e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜그 노래＞ 예고편2 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fsong_2tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F043%2F6486ca8371057.jpg&amp;title=%EF%BC%9C%EA%B7%B8%20%EB%85%B8%EB%9E%98%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B82</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fsong_2tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F043%2F6486ca8371057.jpg&amp;title=%EF%BC%9C%EA%B7%B8%20%EB%85%B8%EB%9E%98%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B82</guid>
-            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=44519">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F06%2Fsong_2tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F043%2F6486ca8371057.jpg&amp;title=%EF%BC%9C%EA%B7%B8%20%EB%85%B8%EB%9E%98%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B82" data-url="/cine21.com/movie/trailer/2023/06/song_2tr.mp4">
-						<img src="https://image.cine21.com/crop/data/043/6486ca8371057.jpg" alt="" class="thumb">
-						<span class="title">＜그 노래＞ 예고편2</span>
-						<span class="date">2023-06-12</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/043/6486ca8371057.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#줌터뷰] 〈이터널스〉 감독은 왜 마동석을 캐스팅했을까? feat.〈승리호〉 조성희 감독 (씨네21 ─ 네이버TV)]]></title>

@@ -4,9 +4,17 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 02:58:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 03:32:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠툴룬: 전쟁의 여신]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60616</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60616</guid>
+            <pubDate>Wed, 07 Jun 2023 15:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-06-28]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0602/11_15_42__647950ceba593[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슈가: 로드 투 디데이]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60590</link>
@@ -40,14 +48,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0607/11_49_53__647ff0517dbd3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엘리멘탈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59976</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59976</guid>
-            <pubDate>Tue, 13 Jun 2023 15:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-06-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0530/14_43_36__64758d0859bb9[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[나의 사소한 슬픔]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60485</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60485</guid>
@@ -56,12 +56,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0518/19_41_02__646600be499f8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[위대한 작은 농장]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60582</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60582</guid>
+            <title><![CDATA[엘리멘탈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59976</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59976</guid>
             <pubDate>Tue, 13 Jun 2023 15:19:03 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-06-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0607/10_49_36__647fe2308c1f3[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0530/14_43_36__64758d0859bb9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너의 눈을 들여다보면]]></title>
@@ -78,6 +78,14 @@
             <pubDate>Tue, 13 Jun 2023 15:19:03 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-06-14]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0503/16_47_24__6452118c49d4d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위대한 작은 농장]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60582</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60582</guid>
+            <pubDate>Tue, 13 Jun 2023 15:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-06-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0607/10_49_36__647fe2308c1f3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오네긴]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Wed, 07 Jun 2023 15:17:39 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-06-08]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0510/19_28_36__645b71d4d0530[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠툴룬: 전쟁의 여신]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60616</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60616</guid>
-            <pubDate>Wed, 07 Jun 2023 15:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-06-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0602/11_15_42__647950ceba593[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[북 클럽: 넥스트 챕터]]></title>
