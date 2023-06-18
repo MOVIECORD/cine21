@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 14:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 15:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3532,6 +3532,24 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0409/15_39_01__5e8ec3057b243[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 <2시 22분> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8125</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8125</guid>
+            <pubDate>Sun, 18 Jun 2023 15:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-07-03 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0616/18_42_47__648c2e972dd72[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <보이 A> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8124</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8124</guid>
+            <pubDate>Sun, 18 Jun 2023 15:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-07-03 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0616/18_39_16__648c2dc4ee8e5[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연극 <슬기로운 신혼생활> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8123</link>
             <guid>http://www.cine21.com/event/view/?event_no=8123</guid>
@@ -3539,15 +3557,6 @@ SF 보다 Vol.1 얼음_곽재식, 구병모, 남유하, 박문영, 연여름, �
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-06-22 17:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0613/17_04_17__64882301c24fb[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제 27회 부천국제판타스틱영화제 예매권 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8122</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8122</guid>
-            <pubDate>Mon, 12 Jun 2023 04:25:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>75 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-06-19 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0612/11_03_43__64867cfff3a74[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <이 구역의 이기적인 로맨스> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
