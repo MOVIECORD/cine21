@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-06-19T01:23:21.036Z</updated>
+    <updated>2023-06-19T03:01:51.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <옥탑방 고양이>초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8550&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8550&amp;p=1"/>
+        <updated>2023-06-19T02:41:38.446Z</updated>
+        <content type="html"><![CDATA[8550]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <이 구역의 이기적인 로맨스> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8549&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8538&amp;p=1"/>
         <updated>2023-05-30T02:15:02.751Z</updated>
         <content type="html"><![CDATA[8538]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <라이드온> 시사회 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8537&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8537&amp;p=1"/>
-        <updated>2023-05-26T07:12:28.558Z</updated>
-        <content type="html"><![CDATA[8537]]></content>
     </entry>
 </feed>
