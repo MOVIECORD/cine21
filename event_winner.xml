@@ -4,9 +4,20 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 09:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 10:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <스즈메의 문단속> 특별 상영회 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8556&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8556&amp;p=1</guid>
+            <pubDate>Tue, 27 Jun 2023 10:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-06-30 19:30:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>메가박스 코엑스 돌비시네마관</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-06-27 19:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0619/19_46_36__6490320c8f362[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 <슬기로운 신혼생활> 초대 이벤트]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8555&amp;p=1</link>
@@ -102,15 +113,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-06-07 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2023/0525/12_50_38__646edb0eb3c92[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <오백에삼십> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8544&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8544&amp;p=1</guid>
-            <pubDate>Wed, 07 Jun 2023 03:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-06-07 16:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0517/17_07_48__64648b54eadea[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
