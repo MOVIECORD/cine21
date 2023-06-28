@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-06-28T01:22:53.469Z</updated>
+    <updated>2023-06-28T03:03:59.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <스즈메의 문단속> 특별 상영회 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8556&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8556&amp;p=1"/>
+        <updated>2023-06-28T02:56:32.887Z</updated>
+        <content type="html"><![CDATA[8556]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <슬기로운 신혼생활> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8555&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8544&amp;p=1"/>
         <updated>2023-06-07T01:08:07.180Z</updated>
         <content type="html"><![CDATA[8544]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <로버트 맥키의 캐릭터>기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8543&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8543&amp;p=1"/>
-        <updated>2023-06-07T01:08:07.214Z</updated>
-        <content type="html"><![CDATA[8543]]></content>
     </entry>
 </feed>
