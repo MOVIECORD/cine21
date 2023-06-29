@@ -4,9 +4,17 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 08:40:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 09:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[좀비 사용 설명서]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60527</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60527</guid>
+            <pubDate>Tue, 27 Jun 2023 15:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-07-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0629/18_35_57__649d507dea34e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[만해 한용운 님의 침묵]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60661</link>
@@ -79,14 +87,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0517/16_42_57__64648581e7403[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[좀비 사용 설명서]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60527</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60527</guid>
-            <pubDate>Tue, 27 Jun 2023 15:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-06-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0621/15_58_25__64929f91bcf14[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[하나님의 마음]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60425</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60425</guid>
@@ -111,20 +111,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0614/13_45_30__648945ea620d6[X224,320].jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[귀공자]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60406</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60406</guid>
-            <pubDate>Tue, 20 Jun 2023 17:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-06-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0621/14_57_26__64929146aeed4[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[북 오브 러브]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60569</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60569</guid>
             <pubDate>Tue, 20 Jun 2023 17:22:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-06-21]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0531/16_20_24__6476f5385338c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀공자]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60406</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60406</guid>
+            <pubDate>Tue, 20 Jun 2023 17:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-06-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0621/14_57_26__64929146aeed4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수라]]></title>
