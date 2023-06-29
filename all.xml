@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 14:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 15:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3594,6 +3594,15 @@ SF계의 거장 옥타비아 버틀러가 그려낸 디스토피아 ‘우화’
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-07-10 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0627/14_15_56__649a708c016fe[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <늘근도둑이야기> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8131</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8131</guid>
+            <pubDate>Thu, 29 Jun 2023 15:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-07-24 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0627/14_11_39__649a6f8b4dedf[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <이 구역의 이기적인 로맨스> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
