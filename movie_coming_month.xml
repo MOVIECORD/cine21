@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 08:35:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 09:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58943_62061c4b0f9b8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블랙폭스 - 폭렬닌자시대]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58942</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58942</guid>
-            <pubDate>Wed, 17 May 2023 21:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58942_6205fc69dab21[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스파이 코드명 포춘]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58916</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58916</guid>
             <pubDate>Wed, 17 May 2023 21:13:51 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0217/16_33_37__620dfa51225f0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙폭스 - 폭렬닌자시대]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58942</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58942</guid>
+            <pubDate>Wed, 17 May 2023 21:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58942_6205fc69dab21[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 나라(가제)]]></title>
@@ -87,14 +87,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0623/15_06_46__62b402f63067c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다섯 번째 흉추]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59712</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59712</guid>
-            <pubDate>Thu, 29 Jun 2023 09:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0629/11_33_18__649ced6e2705a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[다크 웹]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59504</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59504</guid>
@@ -119,20 +111,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0714/17_43_23__62cfd72b004db[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사랑 결혼 그밖에 것들]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59665</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59665</guid>
-            <pubDate>Wed, 17 May 2023 21:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0922/15_35_15__632c02238ad43[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[악에 바쳐]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59647</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59647</guid>
             <pubDate>Wed, 17 May 2023 21:13:51 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0914/15_20_51__632172c3742c8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑 결혼 그밖에 것들]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59665</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59665</guid>
+            <pubDate>Wed, 17 May 2023 21:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0922/15_35_15__632c02238ad43[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어게인]]></title>
@@ -149,6 +141,14 @@
             <pubDate>Wed, 17 May 2023 21:13:51 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-11]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1017/15_17_07__634cf3634c7d4[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캅 시크릿]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59969</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59969</guid>
+            <pubDate>Fri, 30 Jun 2023 09:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1124/13_44_52__637ef6c4e6f69[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
