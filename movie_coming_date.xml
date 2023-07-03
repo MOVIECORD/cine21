@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 11:27:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 12:46:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,6 +39,14 @@
             <content:encoded><![CDATA[개봉 : 2022-08-31]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[기적을 믿는 소녀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57868</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57868</guid>
+            <pubDate>Tue, 27 Jun 2023 15:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-07-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0608/14_31_55__648167cbe5ffe[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빈틈없는 사이]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60428</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60428</guid>
@@ -63,14 +71,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0609/16_29_30__6482d4da4e73d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[악마들]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60555</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60555</guid>
-            <pubDate>Tue, 27 Jun 2023 10:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-07-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0608/10_55_07__648134fb33a83[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[엔니오: 더 마에스트로]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60539</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60539</guid>
@@ -79,12 +79,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0614/12_44_50__648937b26beb2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보 이즈 어프레이드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60526</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60526</guid>
-            <pubDate>Wed, 21 Jun 2023 15:15:27 GMT</pubDate>
+            <title><![CDATA[악마들]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60555</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60555</guid>
+            <pubDate>Tue, 27 Jun 2023 10:17:31 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-07-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0523/16_17_24__646c688449da2[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0608/10_55_07__648134fb33a83[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[풍재기시]]></title>
@@ -95,12 +95,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0613/18_46_46__64883b068766d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기적을 믿는 소녀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57868</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57868</guid>
-            <pubDate>Tue, 27 Jun 2023 15:16:32 GMT</pubDate>
+            <title><![CDATA[보 이즈 어프레이드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60526</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60526</guid>
+            <pubDate>Wed, 21 Jun 2023 15:15:27 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-07-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0608/14_31_55__648167cbe5ffe[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0523/16_17_24__646c688449da2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[플래닛]]></title>
