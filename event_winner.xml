@@ -4,9 +4,20 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 01:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 03:04:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <작은정원> 시사회 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8562&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8562&amp;p=1</guid>
+            <pubDate>Tue, 04 Jul 2023 03:03:25 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-07-06 20:00:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-07-04 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0627/10_39_37__649a3dd95e027[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <보이 A> 초대 이벤트]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8559&amp;p=1</link>
@@ -102,17 +113,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>75 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-06-19 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0612/11_03_43__64867cfff3a74[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <206, 사라지지 않는> 시사회 이벤트]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8551&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8551&amp;p=1</guid>
-            <pubDate>Thu, 15 Jun 2023 03:27:28 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-06-16 19:30:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>롯데시네마 월드타워</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-06-15 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0608/10_29_58__64812f16424f6[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
