@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 05:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 06:34:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -63,6 +63,22 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0614/18_13_41__648984c5a1d73[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블레이즈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60669</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60669</guid>
+            <pubDate>Tue, 04 Jul 2023 15:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-07-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0627/16_04_46__649a8a0e77482[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디어 마이 러브]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60619</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60619</guid>
+            <pubDate>Wed, 28 Jun 2023 15:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-07-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0615/16_54_19__648ac3abdc38e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[슬기로운 아내 수업]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=56096</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=56096</guid>
@@ -79,22 +95,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0622/18_22_53__649412ed43279[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비밀의 언덕]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59688</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59688</guid>
-            <pubDate>Tue, 04 Jul 2023 15:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-07-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0703/13_29_38__64a24eb25f51f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블레이즈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60669</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60669</guid>
-            <pubDate>Tue, 04 Jul 2023 15:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-07-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0627/16_04_46__649a8a0e77482[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[미션 임파서블: 데드 레코닝 PART ONE]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59282</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59282</guid>
@@ -103,12 +103,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0703/14_02_31__64a25667b02c6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[디어 마이 러브]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60619</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60619</guid>
-            <pubDate>Wed, 28 Jun 2023 15:16:36 GMT</pubDate>
+            <title><![CDATA[비밀의 언덕]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59688</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59688</guid>
+            <pubDate>Tue, 04 Jul 2023 15:17:15 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-07-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0615/16_54_19__648ac3abdc38e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0703/13_29_38__64a24eb25f51f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판 피노키오 위대한 모험]]></title>
@@ -117,6 +117,14 @@
             <pubDate>Tue, 04 Jul 2023 15:17:15 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-07-13]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0607/18_03_50__648047f69bc52[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보통의 카스미]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60649</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60649</guid>
+            <pubDate>Wed, 05 Jul 2023 06:27:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-07-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0614/12_22_18__6489326a1fc60[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 썬]]></title>
@@ -141,14 +149,6 @@
             <pubDate>Tue, 04 Jul 2023 15:17:15 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-07-19]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0704/11_11_29__64a37fd16136c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그녀가 좋아하는 것은]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60651</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60651</guid>
-            <pubDate>Tue, 04 Jul 2023 15:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-07-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0704/15_28_21__64a3bc0506900[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
