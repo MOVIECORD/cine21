@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 14:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 15:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -225,23 +225,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0630/18_01_27__649e99e7081a0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[루키]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60678</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60678</guid>
-            <pubDate>Mon, 03 Jul 2023 11:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">루키</span>
-		
-
-									<span class="director">감독 : 리벤 반 바엘렌</span>
-											<span class="actor">배우 : 마테오 시모니,베를 바에텐스</span>
-		
-									<span class="adult">청불</span>
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0630/18_34_20__649ea19c9a4b9[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[암스테르담]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59700</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59700</guid>
@@ -272,6 +255,21 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0221/58978_62134186f0726[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[말할 수 없는 비밀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
+            <pubDate>Wed, 05 Jul 2023 15:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">말할 수 없는 비밀</span>
+		
+
+									<span class="director">감독 : 서유민</span>
+											<span class="actor">배우 : 도경수,원진아</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[휴가]]></title>
