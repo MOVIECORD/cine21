@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 08:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 09:31:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,22 +22,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/55448_614d6fb3976df[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라이브]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59755</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59755</guid>
-            <pubDate>Tue, 23 May 2023 12:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">드라이브</span>
-		
-
-									<span class="director">감독 : 박동희</span>
-											<span class="actor">배우 : 박주현,김여진</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1013/17_33_19__6347cd4f2b704[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최고의 감독]]></title>
@@ -134,6 +118,22 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0418/13_00_51__643e15f3512c5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[위시]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60455</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60455</guid>
+            <pubDate>Thu, 06 Jul 2023 09:27:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">위시</span>
+		
+
+									<span class="director">감독 : 크리스 벅,폰 비라선손</span>
+											<span class="actor">배우 : 크리스 파인,알란 터딕</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0515/19_57_04__6462100047a9e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[조인트]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60508</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60508</guid>
@@ -225,6 +225,39 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0630/18_01_27__649e99e7081a0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[루키]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60678</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60678</guid>
+            <pubDate>Thu, 06 Jul 2023 09:27:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">루키</span>
+		
+
+									<span class="director">감독 : 리벤 반 바엘렌</span>
+											<span class="actor">배우 : 마테오 시모니,베를 바에텐스</span>
+		
+									<span class="adult">청불</span>
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0630/18_34_20__649ea19c9a4b9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드라이브]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59755</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59755</guid>
+            <pubDate>Tue, 23 May 2023 12:27:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">드라이브</span>
+		
+
+									<span class="director">감독 : 박동희</span>
+											<span class="actor">배우 : 박주현,김여진</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1013/17_33_19__6347cd4f2b704[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[암스테르담]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59700</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59700</guid>
@@ -255,37 +288,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0221/58978_62134186f0726[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말할 수 없는 비밀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
-            <pubDate>Wed, 05 Jul 2023 15:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">말할 수 없는 비밀</span>
-		
-
-									<span class="director">감독 : 서유민</span>
-											<span class="actor">배우 : 도경수,원진아</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[휴가]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=55915</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=55915</guid>
-            <pubDate>Tue, 23 May 2023 12:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">휴가</span>
-		
-
-									<span class="director">감독 : 육상효</span>
-											<span class="actor">배우 : 김해숙,신민아</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0210/11_27_16__5e40bf8479be4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
