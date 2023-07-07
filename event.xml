@@ -4,9 +4,20 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 14:30:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 15:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <살바도르 달리: 불멸을 찾아서> 시사회 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8143</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8143</guid>
+            <pubDate>Fri, 07 Jul 2023 15:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-07-27 16:30</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-07-26 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0707/17_19_07__64a7ca7bb52fa[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도서 <다크투어, 내 여행의 이름> 기대평 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8142</link>
@@ -93,15 +104,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0629/10_06_32__649cd918f1930[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[도서 <패밀리 트리> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8132</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8132</guid>
-            <pubDate>Tue, 27 Jun 2023 15:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-07-10 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0627/14_15_56__649a708c016fe[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <늘근도둑이야기> 초대 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8131</link>
             <guid>http://www.cine21.com/event/view/?event_no=8131</guid>
@@ -109,15 +111,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-07-24 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0627/14_11_39__649a6f8b4dedf[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <더 케이지> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8127</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8127</guid>
-            <pubDate>Sun, 25 Jun 2023 15:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-07-10 16:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0622/16_34_25__6493f98127ae1[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 14:30:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 15:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 27 Jun 2023 15:16:17 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-07-19]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0629/18_35_57__649d507dea34e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 도라에몽: 진구와 하늘의 유토피아]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60607</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60607</guid>
+            <pubDate>Fri, 07 Jul 2023 15:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-07-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0614/18_13_41__648984c5a1d73[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[군산전기]]></title>
@@ -141,14 +149,6 @@
             <pubDate>Wed, 05 Jul 2023 15:18:16 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-06-28]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0613/12_29_43__6487e2a72c7e6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠툴룬: 전쟁의 여신]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60616</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60616</guid>
-            <pubDate>Wed, 07 Jun 2023 15:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-06-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0602/11_15_42__647950ceba593[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
