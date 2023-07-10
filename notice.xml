@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-07-10T01:24:34.635Z</updated>
+    <updated>2023-07-10T03:05:53.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도서 <더 케이지> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8565&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8565&amp;p=1"/>
+        <updated>2023-07-10T02:59:32.721Z</updated>
+        <content type="html"><![CDATA[8565]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <러브 라이프> 시사회 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8564&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8564&amp;p=1"/>
+        <updated>2023-07-10T02:59:32.722Z</updated>
+        <content type="html"><![CDATA[8564]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <이 구역의 이기적인 로맨스> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8563&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8563&amp;p=1"/>
+        <updated>2023-07-10T02:59:32.722Z</updated>
+        <content type="html"><![CDATA[8563]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <작은정원> 시사회 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8562&amp;p=1</id>
@@ -74,26 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8553&amp;p=1"/>
         <updated>2023-06-22T06:16:08.665Z</updated>
         <content type="html"><![CDATA[8553]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 27회 부천국제판타스틱영화제 예매권 이벤트]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8552&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8552&amp;p=1"/>
-        <updated>2023-06-20T02:14:48.112Z</updated>
-        <content type="html"><![CDATA[8552]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <206, 사라지지 않는> 시사회 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8551&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8551&amp;p=1"/>
-        <updated>2023-06-20T02:14:48.114Z</updated>
-        <content type="html"><![CDATA[8551]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <옥탑방 고양이>초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8550&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8550&amp;p=1"/>
-        <updated>2023-06-19T02:41:38.446Z</updated>
-        <content type="html"><![CDATA[8550]]></content>
     </entry>
 </feed>
