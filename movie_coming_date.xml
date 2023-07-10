@@ -4,9 +4,17 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 08:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 09:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[살바도르 달리 : 불멸을 찾아서]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57346</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57346</guid>
+            <pubDate>Mon, 10 Jul 2023 09:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2021-08-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0710/16_34_44__64abb494ed36d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[거울 속 외딴 성]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60176</link>
@@ -100,7 +108,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=60429</guid>
             <pubDate>Tue, 04 Jul 2023 15:17:15 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-07-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0629/16_19_53__649d3099d4ddc[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0710/15_41_47__64aba82b51cb0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러브 라이프]]></title>
@@ -141,14 +149,6 @@
             <pubDate>Fri, 07 Jul 2023 15:16:41 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-07-20]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0704/13_16_25__64a39d1955d81[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명탐정코난: 흑철의 어영]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60672</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60672</guid>
-            <pubDate>Thu, 06 Jul 2023 14:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-07-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0627/14_46_29__649a77b506118[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
