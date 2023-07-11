@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-07-11T01:09:09.527Z</updated>
+    <updated>2023-07-11T03:03:05.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도서 <패밀리 트리> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8566&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8566&amp;p=1"/>
+        <updated>2023-07-11T02:49:11.677Z</updated>
+        <content type="html"><![CDATA[8566]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <더 케이지> 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8565&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8554&amp;p=1"/>
         <updated>2023-06-27T09:14:07.335Z</updated>
         <content type="html"><![CDATA[8554]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <진짜 나쁜 소녀> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8553&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8553&amp;p=1"/>
-        <updated>2023-06-22T06:16:08.665Z</updated>
-        <content type="html"><![CDATA[8553]]></content>
     </entry>
 </feed>

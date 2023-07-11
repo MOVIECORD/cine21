@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 01:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 03:03:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -242,6 +242,22 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0630/18_34_20__649ea19c9a4b9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[라스트 리소트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60684</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60684</guid>
+            <pubDate>Tue, 11 Jul 2023 03:01:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">라스트 리소트</span>
+		
+
+									<span class="director">감독 : 장 마크 미뉴</span>
+											<span class="actor">배우 : 존 푸,클레이톤 노크로스</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0706/15_36_49__64a6610169077[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[드라이브]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59755</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59755</guid>
@@ -272,22 +288,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1004/15_16_12__633bcfac5f938[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울의 봄]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58978</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58978</guid>
-            <pubDate>Tue, 23 May 2023 12:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">서울의 봄</span>
-		
-
-									<span class="director">감독 : 김성수</span>
-											<span class="actor">배우 : 황정민,정우성</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0221/58978_62134186f0726[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
