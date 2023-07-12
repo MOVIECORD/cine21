@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-07-11T23:18:10.877Z</updated>
+    <updated>2023-07-12T01:22:27.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <보통의 카스미> 시사회 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8567&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8567&amp;p=1"/>
+        <updated>2023-07-12T01:11:09.365Z</updated>
+        <content type="html"><![CDATA[8567]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <패밀리 트리> 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8566&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8555&amp;p=1"/>
         <updated>2023-06-28T01:17:21.092Z</updated>
         <content type="html"><![CDATA[8555]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <1986 그 여름, 그리고 고등어통조림> 시사회 이벤트 당첨자 명단]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8554&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8554&amp;p=1"/>
-        <updated>2023-06-27T09:14:07.335Z</updated>
-        <content type="html"><![CDATA[8554]]></content>
     </entry>
 </feed>
