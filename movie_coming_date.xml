@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 11:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 12:42:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,7 +84,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=60713</guid>
             <pubDate>Tue, 11 Jul 2023 22:17:17 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-07-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0711/14_56_08__64aceef8e4e27[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0714/14_35_21__64b0de99cbc2b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 썬]]></title>
@@ -95,20 +95,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0626/10_50_28__6498eee449f6d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 슈퍼윙스: 맥시멈 스피드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60629</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60629</guid>
-            <pubDate>Tue, 11 Jul 2023 22:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-07-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0704/13_16_25__64a39d1955d81[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[슈퍼 키드 헤일리]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60540</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60540</guid>
             <pubDate>Tue, 11 Jul 2023 22:17:17 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-07-20]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0623/15_10_13__6495374578ffe[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 슈퍼윙스: 맥시멈 스피드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60629</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60629</guid>
+            <pubDate>Tue, 11 Jul 2023 22:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-07-20]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0704/13_16_25__64a39d1955d81[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소녀작가 입문기]]></title>
