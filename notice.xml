@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-07-17T01:33:55.324Z</updated>
+    <updated>2023-07-17T03:06:37.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <인시디어스: 빨간 문> 예매권 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8570&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8570&amp;p=1"/>
+        <updated>2023-07-17T03:02:20.477Z</updated>
+        <content type="html"><![CDATA[8570]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <문 너머의 세계들> 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8569&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8558&amp;p=1"/>
         <updated>2023-07-03T02:55:53.255Z</updated>
         <content type="html"><![CDATA[8558]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <이 구역의 이기적인 로맨스> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8557&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8557&amp;p=1"/>
-        <updated>2023-07-03T02:55:53.264Z</updated>
-        <content type="html"><![CDATA[8557]]></content>
     </entry>
 </feed>
