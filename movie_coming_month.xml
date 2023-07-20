@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 05:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 06:34:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -119,20 +119,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0914/15_20_51__632172c3742c8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어게인]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59956</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59956</guid>
-            <pubDate>Thu, 13 Jul 2023 22:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1115/59956_63735e4bcedd9[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[영화 너무 좋아 폼포 씨]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59776</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59776</guid>
             <pubDate>Thu, 13 Jul 2023 22:15:52 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2022-11]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1017/15_17_07__634cf3634c7d4[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어게인]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59956</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59956</guid>
+            <pubDate>Thu, 13 Jul 2023 22:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2022-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1115/59956_63735e4bcedd9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[캅 시크릿]]></title>
