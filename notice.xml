@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-07-21T04:33:08.025Z</updated>
+    <updated>2023-07-21T05:27:19.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도서 <신을 구한 라이프보트> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8576&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8576&amp;p=1"/>
+        <updated>2023-07-21T05:12:02.864Z</updated>
+        <content type="html"><![CDATA[8576]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <비공식작전>시사회 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8575&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8564&amp;p=1"/>
         <updated>2023-07-10T02:59:32.722Z</updated>
         <content type="html"><![CDATA[8564]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <이 구역의 이기적인 로맨스> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8563&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8563&amp;p=1"/>
-        <updated>2023-07-10T02:59:32.722Z</updated>
-        <content type="html"><![CDATA[8563]]></content>
     </entry>
 </feed>
