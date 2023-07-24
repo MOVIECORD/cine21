@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-07-23T23:20:40.073Z</updated>
+    <updated>2023-07-24T01:13:03.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <여덟 개의 산> 시사회 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8577&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8577&amp;p=1"/>
+        <updated>2023-07-24T01:03:20.270Z</updated>
+        <content type="html"><![CDATA[8577]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <신을 구한 라이프보트> 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8576&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8565&amp;p=1"/>
         <updated>2023-07-10T02:59:32.721Z</updated>
         <content type="html"><![CDATA[8565]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <러브 라이프> 시사회 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8564&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8564&amp;p=1"/>
-        <updated>2023-07-10T02:59:32.722Z</updated>
-        <content type="html"><![CDATA[8564]]></content>
     </entry>
 </feed>
