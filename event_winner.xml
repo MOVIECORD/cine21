@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 05:27:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 06:34:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,24 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-07-24 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0707/17_50_17__64a7d1c911473[T224,320].png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <운빨로맨스> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8582&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8582&amp;p=1</guid>
+            <pubDate>Mon, 24 Jul 2023 06:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-07-24 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0712/10_21_34__64ae001e07e2a[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도서 <삼국평화고등학교 테러 사건> 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8583&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8583&amp;p=1</guid>
+            <pubDate>Mon, 24 Jul 2023 06:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-07-24 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0717/10_53_51__64b49f2f64b2a[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <이 구역의 이기적인 로맨스> 초대 이벤트]]></title>
@@ -91,26 +109,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-07-17 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0705/18_45_25__64a53bb570475[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <인시디어스: 빨간 문> 예매권 이벤트]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8570&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8570&amp;p=1</guid>
-            <pubDate>Fri, 21 Jul 2023 21:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>1970-01-01 09:00:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span></p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-07-14 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0630/18_39_30__649ea2d2ed5a3[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <넷플릭스 세계사> 증정 이벤트]]></title>
-            <link>http://www.cine21.com/event/winner</link>
-            <guid>http://www.cine21.com/event/winner</guid>
-            <pubDate>Mon, 24 Jul 2023 03:27:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-07-14 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0704/11_54_21__64a389dd2a271[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
