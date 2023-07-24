@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 02:52:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 03:30:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-07-24 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0627/14_11_39__649a6f8b4dedf[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <3일간의 비> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8581&amp;p=1http://www.cine21.com/misc/cs/notice_view/?article_no=8581&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8581&amp;p=1http://www.cine21.com/misc/cs/notice_view/?article_no=8581&amp;p=1</guid>
+            <pubDate>Mon, 24 Jul 2023 03:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-07-24 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0707/17_50_17__64a7d1c911473[T224,320].png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[연극 <이 구역의 이기적인 로맨스> 초대 이벤트]]></title>
@@ -98,19 +107,10 @@
             <title><![CDATA[도서 <넷플릭스 세계사> 증정 이벤트]]></title>
             <link>http://www.cine21.com/event/winner</link>
             <guid>http://www.cine21.com/event/winner</guid>
-            <pubDate>Mon, 24 Jul 2023 01:10:37 GMT</pubDate>
+            <pubDate>Mon, 24 Jul 2023 03:27:39 GMT</pubDate>
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-07-14 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0704/11_54_21__64a389dd2a271[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <문 너머의 세계들> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8569&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8569&amp;p=1</guid>
-            <pubDate>Fri, 21 Jul 2023 21:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-07-12 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0703/11_19_28__64a23030353a3[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
