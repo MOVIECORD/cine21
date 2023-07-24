@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 09:32:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 10:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -260,21 +260,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0711/11_58_44__64acc564ee432[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아만다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60715</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60715</guid>
-            <pubDate>Thu, 20 Jul 2023 01:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">아만다</span>
-		
-
-									<span class="director">감독 : 캐롤라이나 카발리</span>
-											<span class="actor">배우 : 베네데타 포르카톨리,갈라테아 벨루지</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[최고의 감독]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59978</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59978</guid>
@@ -288,6 +273,22 @@
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[드라이브]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59755</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59755</guid>
+            <pubDate>Mon, 24 Jul 2023 10:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">드라이브</span>
+		
+
+									<span class="director">감독 : 박동희</span>
+											<span class="actor">배우 : 박주현,김여진</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1013/17_33_19__6347cd4f2b704[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
