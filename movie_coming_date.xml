@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 02:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 02:43:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,20 +39,20 @@
             <content:encoded><![CDATA[개봉 : 2022-08-31]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[욕망의 손길]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60743</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60743</guid>
+            <pubDate>Thu, 27 Jul 2023 02:37:01 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-07-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0727/12_00_59__64c1ddebe60e3[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에고이스트]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60666</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60666</guid>
             <pubDate>Wed, 26 Jul 2023 10:24:04 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-07-26]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0719/12_49_57__64b75d653afef[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비공식작전]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60620</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60620</guid>
-            <pubDate>Wed, 19 Jul 2023 15:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0711/14_21_03__64ace6bfc91db[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[살바도르 달리 : 불멸을 찾아서]]></title>
@@ -63,14 +63,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0710/16_34_44__64abb494ed36d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[몬스터 패밀리2]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60663</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60663</guid>
-            <pubDate>Wed, 26 Jul 2023 13:27:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0704/17_04_42__64a3d29aa3009[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[더 문]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=56974</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=56974</guid>
@@ -79,12 +71,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0718/18_17_50__64b658be7c285[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비공식작전]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60620</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60620</guid>
+            <pubDate>Wed, 19 Jul 2023 15:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-08-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0711/14_21_03__64ace6bfc91db[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다섯 번째 흉추]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59712</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59712</guid>
             <pubDate>Wed, 26 Jul 2023 13:27:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-08-02]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0717/17_10_38__64b4f77e75cce[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몬스터 패밀리2]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60663</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60663</guid>
+            <pubDate>Wed, 26 Jul 2023 13:27:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-08-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0704/17_04_42__64a3d29aa3009[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신입사원: 더 무비]]></title>
@@ -127,14 +135,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0726/15_57_55__64c0c3f379736[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연악: 나의 운명]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60723</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60723</guid>
-            <pubDate>Wed, 26 Jul 2023 13:27:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0717/15_31_23__64b4e03b12717[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[바다 탐험대 옥토넛 어보브 앤 비욘드 : 육지 넘어 하늘까지!]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60676</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60676</guid>
@@ -143,12 +143,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0629/14_38_44__649d18e49d270[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[달짝지근해: 7510]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60738</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60738</guid>
+            <title><![CDATA[연악: 나의 운명]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60723</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60723</guid>
             <pubDate>Wed, 26 Jul 2023 13:27:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0725/16_01_40__64bf73544556b[X224,320].jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[개봉 : 2023-08-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0717/15_31_23__64b4e03b12717[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
