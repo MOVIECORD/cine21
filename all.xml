@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 12:43:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 13:32:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3297,21 +3297,6 @@ SF계의 거장 옥타비아 버틀러가 그려낸 디스토피아 ‘우화’
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/55448_614d6fb3976df[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[피트 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60009</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60009</guid>
-            <pubDate>Wed, 12 Jul 2023 15:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">피트</span>
-		
-
-									<span class="director">감독 : 김민승</span>
-											<span class="actor">배우 : 정은표,차정환</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[동에 번쩍 서에 번쩍 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60010</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60010</guid>
@@ -3550,15 +3535,31 @@ SF계의 거장 옥타비아 버틀러가 그려낸 디스토피아 ‘우화’
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최고의 감독 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59978</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59978</guid>
-            <pubDate>Thu, 20 Jul 2023 01:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">최고의 감독</span>
+            <title><![CDATA[대도시의 사랑법 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60739</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60739</guid>
+            <pubDate>Thu, 27 Jul 2023 13:28:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">대도시의 사랑법</span>
 		
 
-									<span class="director">감독 : 문소리</span>
-											<span class="actor">배우 : 문소리,윤상화</span>
+									<span class="director">감독 : 이언희</span>
+											<span class="actor">배우 : 김고은,노상현</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0725/18_10_28__64bf91845aaa9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피트 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60009</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60009</guid>
+            <pubDate>Wed, 12 Jul 2023 15:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">피트</span>
+		
+
+									<span class="director">감독 : 김민승</span>
+											<span class="actor">배우 : 정은표,차정환</span>
 		
 		
 							<span class="btn_detail">자세히 보기</span>
