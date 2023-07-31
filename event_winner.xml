@@ -4,9 +4,20 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 01:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 02:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <마에스트로> 시사회 이벤트]]></title>
+            <link>http://www.cine21.com/event/k***ki@nate.com</link>
+            <guid>http://www.cine21.com/event/k***ki@nate.com</guid>
+            <pubDate>Mon, 31 Jul 2023 02:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-08-01 19:30:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>씨네큐브 광화문</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-07-31 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0717/11_04_46__64b4a1be3c4d3[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <살바도르 달리: 불멸을 찾아서> 시사회 이벤트]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8584&amp;p=1</link>
@@ -102,15 +113,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>50 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-07-18 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0710/16_29_50__64abb36e690ab[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악극 <붉은 머리 안> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8572&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8572&amp;p=1</guid>
-            <pubDate>Sun, 30 Jul 2023 02:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-07-17 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0705/12_48_13__64a4e7fdd5790[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
