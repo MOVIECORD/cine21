@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 03:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 04:31:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3051,14 +3051,6 @@ SF계의 거장 옥타비아 버틀러가 그려낸 디스토피아 ‘우화’
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0719/12_49_57__64b75d653afef[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비공식작전 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60620</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60620</guid>
-            <pubDate>Wed, 19 Jul 2023 15:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0711/14_21_03__64ace6bfc91db[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[몬스터 패밀리2 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60663</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60663</guid>
@@ -3083,20 +3075,20 @@ SF계의 거장 옥타비아 버틀러가 그려낸 디스토피아 ‘우화’
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0710/16_34_44__64abb494ed36d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비공식작전 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60620</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60620</guid>
+            <pubDate>Wed, 19 Jul 2023 15:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-08-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0711/14_21_03__64ace6bfc91db[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더 문 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=56974</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=56974</guid>
             <pubDate>Wed, 26 Jul 2023 13:27:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-08-02]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0718/18_17_50__64b658be7c285[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신입사원: 더 무비 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60685</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60685</guid>
-            <pubDate>Wed, 26 Jul 2023 13:27:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0714/17_20_25__64b105496bcbd[X224,320].jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[더 도어 : 다섯 개의 문 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3107,12 +3099,12 @@ SF계의 거장 옥타비아 버틀러가 그려낸 디스토피아 ‘우화’
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0724/16_01_13__64be21b9e9145[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이름 없는 춤 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60717</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60717</guid>
+            <title><![CDATA[신입사원: 더 무비 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60685</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60685</guid>
             <pubDate>Wed, 26 Jul 2023 13:27:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0724/15_35_46__64be1bc284efc[X224,320].jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[개봉 : 2023-08-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0714/17_20_25__64b105496bcbd[X224,320].jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[마에스트로 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3129,6 +3121,14 @@ SF계의 거장 옥타비아 버틀러가 그려낸 디스토피아 ‘우화’
             <pubDate>Wed, 26 Jul 2023 13:27:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-08-09]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0726/15_57_55__64c0c3f379736[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이름 없는 춤 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60717</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60717</guid>
+            <pubDate>Wed, 26 Jul 2023 13:27:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-08-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0724/15_35_46__64be1bc284efc[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데드맨 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
