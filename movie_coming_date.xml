@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 09:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 10:27:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -95,20 +95,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0726/15_57_55__64c0c3f379736[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연악: 나의 운명]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60723</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60723</guid>
-            <pubDate>Sat, 05 Aug 2023 10:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0717/15_31_23__64b4e03b12717[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[바다 탐험대 옥토넛 어보브 앤 비욘드 : 육지 넘어 하늘까지!]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60676</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60676</guid>
             <pubDate>Sat, 05 Aug 2023 10:17:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-08-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0629/14_38_44__649d18e49d270[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연악: 나의 운명]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60723</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60723</guid>
+            <pubDate>Sat, 05 Aug 2023 10:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-08-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0717/15_31_23__64b4e03b12717[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오펜하이머]]></title>
@@ -140,15 +140,15 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=57014</guid>
             <pubDate>Sat, 05 Aug 2023 10:17:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-08-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0712/16_10_21__64ae51dd5a832[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0802/10_41_11__64c9b43744b2e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[킬러의 레스토랑]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60744</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60744</guid>
-            <pubDate>Mon, 07 Aug 2023 04:17:30 GMT</pubDate>
+            <title><![CDATA[지옥만세]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59798</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59798</guid>
+            <pubDate>Mon, 07 Aug 2023 10:20:57 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-08-16]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0727/18_11_44__64c234d09ce7a[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0801/17_08_36__64c8bd84b2a19[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
