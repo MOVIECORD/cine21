@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-08-07T01:06:57.382Z</updated>
+    <updated>2023-08-07T02:09:28.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도서 <원자 스파이> 기대평 이벤트	당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8587&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8587&amp;p=1"/>
+        <updated>2023-08-07T02:03:49.510Z</updated>
+        <content type="html"><![CDATA[8587]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <0과 1의 계절> 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8586&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8574&amp;p=1"/>
         <updated>2023-07-19T02:08:03.859Z</updated>
         <content type="html"><![CDATA[8574]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <다크투어, 내 여행의 이름> 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8573&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8573&amp;p=1"/>
-        <updated>2023-07-18T02:58:27.389Z</updated>
-        <content type="html"><![CDATA[8573]]></content>
     </entry>
 </feed>
