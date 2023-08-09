@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-08-09T01:12:00.555Z</updated>
+    <updated>2023-08-09T02:07:44.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <퀴어 마이 프렌즈> 시사회 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8588&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8588&amp;p=1"/>
+        <updated>2023-08-09T02:02:17.546Z</updated>
+        <content type="html"><![CDATA[8588]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <원자 스파이> 기대평 이벤트	당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8587&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8575&amp;p=1"/>
         <updated>2023-07-19T02:08:03.856Z</updated>
         <content type="html"><![CDATA[8575]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <오백에 삼십> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8574&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8574&amp;p=1"/>
-        <updated>2023-07-19T02:08:03.859Z</updated>
-        <content type="html"><![CDATA[8574]]></content>
     </entry>
 </feed>
