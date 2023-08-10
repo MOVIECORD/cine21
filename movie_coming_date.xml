@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 10:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 11:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -103,14 +103,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0802/10_41_11__64c9b43744b2e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[킬러의 레스토랑]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60744</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60744</guid>
-            <pubDate>Tue, 08 Aug 2023 15:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-16]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0727/18_11_44__64c234d09ce7a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[지옥만세]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59798</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59798</guid>
@@ -141,6 +133,14 @@
             <pubDate>Wed, 09 Aug 2023 08:25:45 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-08-16]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0801/18_14_12__64c8cce46b5c4[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[킬러의 레스토랑]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60744</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60744</guid>
+            <pubDate>Tue, 08 Aug 2023 15:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-08-17]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0810/18_28_11__64d4adab71aa4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아만다]]></title>
