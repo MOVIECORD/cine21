@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 08:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 09:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -79,14 +79,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0725/16_01_40__64bf73544556b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메가로돈 2]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60729</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60729</guid>
-            <pubDate>Sat, 05 Aug 2023 10:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0801/14_04_47__64c8926f5ca1e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오펜하이머]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59412</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59412</guid>
@@ -95,12 +87,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0728/13_46_50__64c3483a69ef8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[메가로돈 2]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60729</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60729</guid>
+            <pubDate>Sat, 05 Aug 2023 10:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-08-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0801/14_04_47__64c8926f5ca1e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보호자]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57014</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57014</guid>
             <pubDate>Sat, 05 Aug 2023 10:17:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-08-15]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0802/10_41_11__64c9b43744b2e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그 노래]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60645</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60645</guid>
+            <pubDate>Wed, 09 Aug 2023 08:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-08-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0801/18_14_12__64c8cce46b5c4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지옥만세]]></title>
@@ -125,14 +133,6 @@
             <pubDate>Wed, 09 Aug 2023 16:19:45 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-08-16]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0719/13_29_04__64b76690ded92[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 노래]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60645</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60645</guid>
-            <pubDate>Wed, 09 Aug 2023 08:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-16]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0801/18_14_12__64c8cce46b5c4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[킬러의 레스토랑]]></title>
