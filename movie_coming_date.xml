@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 06:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 07:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -79,14 +79,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0810/18_28_11__64d4adab71aa4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[볼코노고프 대위 탈출하다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60718</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60718</guid>
-            <pubDate>Mon, 14 Aug 2023 15:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0731/13_44_20__64c73c2470ae4[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[에릭 클랩튼: 어크로스 24 나이츠]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60758</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60758</guid>
@@ -109,6 +101,14 @@
             <pubDate>Mon, 14 Aug 2023 15:16:01 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-08-23]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0724/16_42_23__64be2b5fe2e14[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[볼코노고프 대위 탈출하다]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60718</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60718</guid>
+            <pubDate>Mon, 14 Aug 2023 15:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-08-23]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0731/13_44_20__64c73c2470ae4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[치치치 치킨의 비밀]]></title>
@@ -143,12 +143,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0731/16_21_36__64c761001939b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스파이 코드명 포춘]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58916</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58916</guid>
-            <pubDate>Tue, 15 Aug 2023 15:15:28 GMT</pubDate>
+            <title><![CDATA[그녀의 취미생활]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60746</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60746</guid>
+            <pubDate>Wed, 16 Aug 2023 07:21:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-08-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0724/15_44_22__64be1dc6c70ba[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0802/17_38_44__64ca1614d7bcb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
