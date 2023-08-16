@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-08-16T01:03:14.909Z</updated>
+    <updated>2023-08-16T01:51:48.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <볼코노고프 대위 탈출하다> 시사회 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8591&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8591&amp;p=1"/>
+        <updated>2023-08-16T01:42:50.392Z</updated>
+        <content type="html"><![CDATA[8591]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <아만다> 시사회 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8590&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8578&amp;p=1"/>
         <updated>2023-07-24T02:33:08.382Z</updated>
         <content type="html"><![CDATA[8578]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <여덟 개의 산> 시사회 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8577&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8577&amp;p=1"/>
-        <updated>2023-07-24T01:03:20.270Z</updated>
-        <content type="html"><![CDATA[8577]]></content>
     </entry>
 </feed>
