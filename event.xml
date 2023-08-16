@@ -4,9 +4,18 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 23:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 01:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도서 <지피지기 챗GPT> 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8168</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8168</guid>
+            <pubDate>Wed, 16 Aug 2023 00:59:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-08-29 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0816/10_14_25__64dc22f101b3a[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <한 남자> 시사회 댓글 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8167</link>
@@ -35,6 +44,33 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-08-21 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0809/10_24_59__64d2eaeb19ef5[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도서 <빨간 모자, 피노키오를 줍고 시체를 만났습니다> 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8164</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8164</guid>
+            <pubDate>Wed, 16 Aug 2023 00:59:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-08-21 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0807/11_04_15__64d0511fcecd2[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <오백에 삼십> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8163</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8163</guid>
+            <pubDate>Wed, 16 Aug 2023 00:59:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-08-18 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2023/0807/11_02_19__64d050ab1ee9c[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <이 구역의 이기적인 로맨스> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8153</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8153</guid>
+            <pubDate>Wed, 16 Aug 2023 00:59:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-08-17 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0726/10_56_32__64c07d5071c3d[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
