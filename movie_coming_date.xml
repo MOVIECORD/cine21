@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 14:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 15:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,44 +71,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0719/12_49_57__64b75d653afef[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[킬러의 레스토랑]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60744</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60744</guid>
-            <pubDate>Tue, 08 Aug 2023 15:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0810/18_28_11__64d4adab71aa4[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에릭 클랩튼: 어크로스 24 나이츠]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60758</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60758</guid>
-            <pubDate>Mon, 14 Aug 2023 07:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0731/16_35_20__64c764387e9eb[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[볼코노고프 대위 탈출하다]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60718</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60718</guid>
             <pubDate>Mon, 14 Aug 2023 15:16:01 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-08-23]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0731/13_44_20__64c73c2470ae4[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강변의 무코리타]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58609</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58609</guid>
-            <pubDate>Mon, 14 Aug 2023 15:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0804/14_38_14__64cc8ec6d14a8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 버닝 씨]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60774</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60774</guid>
-            <pubDate>Wed, 16 Aug 2023 08:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0816/17_24_39__64dc87c7908be[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아만다]]></title>
@@ -119,12 +87,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0724/16_42_23__64be2b5fe2e14[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마야 3: 숲속 왕국의 위기]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60679</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60679</guid>
+            <title><![CDATA[에릭 클랩튼: 어크로스 24 나이츠]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60758</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60758</guid>
+            <pubDate>Mon, 14 Aug 2023 07:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-08-23]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0731/16_35_20__64c764387e9eb[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 버닝 씨]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60774</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60774</guid>
+            <pubDate>Wed, 16 Aug 2023 08:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-08-23]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0816/17_24_39__64dc87c7908be[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강변의 무코리타]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58609</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58609</guid>
             <pubDate>Mon, 14 Aug 2023 15:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0724/17_54_22__64be3c3e68de3[X224,320].jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[개봉 : 2023-08-23]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0804/14_38_14__64cc8ec6d14a8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[치치치 치킨의 비밀]]></title>
@@ -135,12 +119,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0728/14_42_02__64c3552a4ea69[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[그녀의 취미생활]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60746</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60746</guid>
-            <pubDate>Wed, 16 Aug 2023 07:21:24 GMT</pubDate>
+            <title><![CDATA[마야 3: 숲속 왕국의 위기]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60679</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60679</guid>
+            <pubDate>Mon, 14 Aug 2023 15:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-08-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0724/17_54_22__64be3c3e68de3[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조이 라이드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60726</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60726</guid>
+            <pubDate>Wed, 16 Aug 2023 15:15:12 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-08-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0802/17_38_44__64ca1614d7bcb[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0809/17_18_18__64d34bca93b7e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[타겟]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60733</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60733</guid>
+            <pubDate>Wed, 16 Aug 2023 15:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-08-30]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0804/16_23_12__64cca760a38bd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[거룩한 술꾼의 전설]]></title>
