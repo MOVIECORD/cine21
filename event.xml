@@ -4,9 +4,18 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 14:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 15:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도서 <래빗> 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8169</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8169</guid>
+            <pubDate>Sun, 20 Aug 2023 15:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-08-28 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0818/18_06_28__64df3494b9191[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도서 <지피지기 챗GPT> 기대평 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8168</link>
@@ -35,15 +44,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-08-28 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0811/18_16_43__64d5fc7b301e3[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <우리는 가끔 아름다움의 섬광을 보았다> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8165</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8165</guid>
-            <pubDate>Tue, 15 Aug 2023 15:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-08-21 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0809/10_24_59__64d2eaeb19ef5[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
