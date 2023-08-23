@@ -4,9 +4,20 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 01:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 01:54:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <한 남자> 시사회 댓글 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8599&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8599&amp;p=1</guid>
+            <pubDate>Wed, 23 Aug 2023 01:53:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-08-25 20:00:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>롯데시네마 건대입구</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-08-23 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0811/18_19_33__64d5fd25a076c[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도서 <빨간 모자, 피노키오를 줍고 시체를 만났습니다> 기대평 이벤트]]></title>
             <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8597&amp;p=1</link>
@@ -102,17 +113,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-08-07 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0731/10_32_28__64c70f2ca6b68[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <퀴어 마이 프렌즈> 시사회 이벤트]]></title>
-            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8588&amp;p=1</link>
-            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8588&amp;p=1</guid>
-            <pubDate>Fri, 04 Aug 2023 01:06:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-08-06 15:00:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>메가박스 아트나인</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-08-04 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0728/15_17_57__64c35d95e9650[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
