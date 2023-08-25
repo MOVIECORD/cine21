@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 14:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 15:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,15 +64,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-08-29 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0816/10_14_25__64dc22f101b3a[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <곤 투모로우> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8166</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8166</guid>
-            <pubDate>Mon, 21 Aug 2023 23:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-08-28 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0811/18_16_43__64d5fc7b301e3[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
