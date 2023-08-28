@@ -4,32 +4,16 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 05:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 06:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[거룩한 술꾼의 전설]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60789</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60789</guid>
+            <title><![CDATA[조이 라이드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60726</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60726</guid>
             <pubDate>Sat, 26 Aug 2023 15:14:12 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-08-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0811/18_00_37__64d5f8b57c0fc[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠렌치스 인 델포이]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60756</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60756</guid>
-            <pubDate>Sat, 26 Aug 2023 15:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0731/16_21_36__64c761001939b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그녀의 취미생활]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60746</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60746</guid>
-            <pubDate>Sat, 26 Aug 2023 15:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0802/17_38_44__64ca1614d7bcb[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0809/17_18_18__64d34bca93b7e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타겟]]></title>
@@ -38,14 +22,6 @@
             <pubDate>Sat, 26 Aug 2023 15:14:12 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-08-30]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0804/16_23_12__64cca760a38bd[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조이 라이드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60726</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60726</guid>
-            <pubDate>Sat, 26 Aug 2023 15:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0809/17_18_18__64d34bca93b7e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[물꽃의 전설]]></title>
@@ -72,12 +48,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0810/16_51_38__64d4970ad05a0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스파이 코드명 포춘]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58916</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58916</guid>
+            <title><![CDATA[그녀의 취미생활]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60746</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60746</guid>
             <pubDate>Sat, 26 Aug 2023 15:14:12 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-08-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0724/15_44_22__64be1dc6c70ba[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0802/17_38_44__64ca1614d7bcb[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠렌치스 인 델포이]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60756</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60756</guid>
+            <pubDate>Sat, 26 Aug 2023 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-08-30]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0731/16_21_36__64c761001939b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[거룩한 술꾼의 전설]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60789</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60789</guid>
+            <pubDate>Sat, 26 Aug 2023 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-08-30]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0811/18_00_37__64d5f8b57c0fc[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신체모음.zip]]></title>
@@ -88,20 +80,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0816/16_14_12__64dc7744c3830[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[듣보인간의 생존신고]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58884</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58884</guid>
-            <pubDate>Mon, 28 Aug 2023 02:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-09-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0808/16_46_33__64d1f2d92c1e6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59149</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59149</guid>
-            <pubDate>Mon, 28 Aug 2023 02:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-09-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0728/14_20_27__64c3501ba7e45[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[스파이 코드명 포춘]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58916</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58916</guid>
+            <pubDate>Sat, 26 Aug 2023 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-08-30]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0724/15_44_22__64be1dc6c70ba[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판 사사키와 미야노 - 졸업편]]></title>
@@ -120,12 +104,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0807/10_53_58__64d04eb606107[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[생츄어리: 마법의 소원나무]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60716</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60716</guid>
+            <title><![CDATA[일주일간 친구]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60782</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60782</guid>
             <pubDate>Mon, 28 Aug 2023 02:28:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-09-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0808/15_13_02__64d1dceeda26c[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0822/14_08_21__64e442c593b89[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이노센트]]></title>
@@ -136,12 +120,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0823/12_45_58__64e580f6a6df2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일주일간 친구]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60782</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60782</guid>
+            <title><![CDATA[생츄어리: 마법의 소원나무]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60716</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60716</guid>
             <pubDate>Mon, 28 Aug 2023 02:28:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-09-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0822/14_08_21__64e442c593b89[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0808/15_13_02__64d1dceeda26c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[듣보인간의 생존신고]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58884</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58884</guid>
+            <pubDate>Mon, 28 Aug 2023 02:28:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-09-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0808/16_46_33__64d1f2d92c1e6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59149</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59149</guid>
+            <pubDate>Mon, 28 Aug 2023 02:28:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-09-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0728/14_20_27__64c3501ba7e45[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿠렌치스 인 잘츠부르크]]></title>
