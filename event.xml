@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 14:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 15:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -55,15 +55,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-09-04 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0823/10_27_34__64e5608602d62[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <지피지기 챗GPT> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8168</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8168</guid>
-            <pubDate>Mon, 28 Aug 2023 10:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-08-29 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0816/10_14_25__64dc22f101b3a[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
