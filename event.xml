@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 14:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 15:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,15 +24,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-09-20 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0904/10_30_44__64f53344ce2d2[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제15회 대단한 단편영화제 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8179</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8179</guid>
-            <pubDate>Fri, 01 Sep 2023 05:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-09-06 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0901/14_38_59__64f178f385cf4[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도서 <지지해 주는 부모 스스로 공부하는 아이> 기대평 이벤트]]></title>
@@ -80,17 +71,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-09-11 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0825/18_23_31__64e87313b84af[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <뮤직 샤펠> 시사회 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8171</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8171</guid>
-            <pubDate>Mon, 28 Aug 2023 10:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-09-07 19:30</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>롯데시네마 건대입구</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-09-06 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0823/12_15_37__64e579d928915[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
