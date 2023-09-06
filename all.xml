@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 03:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 04:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2795,14 +2795,6 @@ NCT 127이 개성 넘치는 그룹의 색깔만큼이나 독특한 작품으로 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0901/12_27_02__64f15a0608d39[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[생츄어리: 마법의 소원나무 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60716</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60716</guid>
-            <pubDate>Tue, 05 Sep 2023 18:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-09-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0808/15_13_02__64d1dceeda26c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 사사키와 미야노 - 졸업편 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60759</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60759</guid>
@@ -2811,20 +2803,20 @@ NCT 127이 개성 넘치는 그룹의 색깔만큼이나 독특한 작품으로 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0816/17_38_27__64dc8b034dc18[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[생츄어리: 마법의 소원나무 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60716</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60716</guid>
+            <pubDate>Tue, 05 Sep 2023 18:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-09-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0808/15_13_02__64d1dceeda26c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어느 멋진 아침 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60765</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60765</guid>
             <pubDate>Tue, 05 Sep 2023 18:17:22 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-09-06]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0807/10_53_58__64d04eb606107[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이노센트 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60777</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60777</guid>
-            <pubDate>Tue, 05 Sep 2023 18:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-09-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0823/12_45_58__64e580f6a6df2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잠 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2851,6 +2843,14 @@ NCT 127이 개성 넘치는 그룹의 색깔만큼이나 독특한 작품으로 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0822/14_08_21__64e442c593b89[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이노센트 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60777</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60777</guid>
+            <pubDate>Tue, 05 Sep 2023 18:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-09-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0823/12_45_58__64e580f6a6df2[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그래픽 디자이어 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60842</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60842</guid>
@@ -2859,20 +2859,20 @@ NCT 127이 개성 넘치는 그룹의 색깔만큼이나 독특한 작품으로 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0829/16_51_26__64eda37edec71[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[그녀의 취미생활 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60746</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60746</guid>
+            <title><![CDATA[신체모음.zip (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59711</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59711</guid>
             <pubDate>Tue, 05 Sep 2023 18:17:22 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-08-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0802/17_38_44__64ca1614d7bcb[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0816/16_14_12__64dc7744c3830[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조이 라이드 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60726</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60726</guid>
+            <title><![CDATA[물꽃의 전설 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60682</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60682</guid>
             <pubDate>Tue, 05 Sep 2023 18:17:22 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-08-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0809/17_18_18__64d34bca93b7e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0727/16_22_56__64c21b503faad[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타겟 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2883,12 +2883,20 @@ NCT 127이 개성 넘치는 그룹의 색깔만큼이나 독특한 작품으로 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0831/11_17_37__64eff84186661[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[물꽃의 전설 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60682</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60682</guid>
+            <title><![CDATA[조이 라이드 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60726</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60726</guid>
             <pubDate>Tue, 05 Sep 2023 18:17:22 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-08-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0727/16_22_56__64c21b503faad[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0809/17_18_18__64d34bca93b7e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그녀의 취미생활 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60746</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60746</guid>
+            <pubDate>Tue, 05 Sep 2023 18:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-08-30]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0802/17_38_44__64ca1614d7bcb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿠렌치스 인 델포이 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2921,14 +2929,6 @@ NCT 127이 개성 넘치는 그룹의 색깔만큼이나 독특한 작품으로 
             <pubDate>Tue, 05 Sep 2023 18:17:22 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-08-30]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0811/18_00_37__64d5f8b57c0fc[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신체모음.zip (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59711</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59711</guid>
-            <pubDate>Tue, 05 Sep 2023 18:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-08-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0816/16_14_12__64dc7744c3830[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[80일간의 세계일주 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3075,125 +3075,6 @@ NCT 127이 개성 넘치는 그룹의 색깔만큼이나 독특한 작품으로 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0801/16_50_15__64c8b9373d7ee[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[그랑블루 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58943</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58943</guid>
-            <pubDate>Sun, 20 Aug 2023 00:52:52 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58943_62061c4b0f9b8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙폭스 - 폭렬닌자시대 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58942</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58942</guid>
-            <pubDate>Sun, 20 Aug 2023 00:52:52 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0211/58942_6205fc69dab21[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데드맨 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58691</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58691</guid>
-            <pubDate>Sun, 20 Aug 2023 00:52:52 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1109/58691_618a1188acdc4[X224,320].JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[메이의 새빨간 비밀 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58254</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58254</guid>
-            <pubDate>Sun, 20 Aug 2023 00:52:52 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1130/58254_61a589108d01e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행복의 나라(가제) (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57453</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57453</guid>
-            <pubDate>Sun, 20 Aug 2023 00:52:52 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가면병동 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56067</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56067</guid>
-            <pubDate>Sun, 20 Aug 2023 00:52:52 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0215/56067_620af92c7979e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴 프렌드: 누군가 죽는다 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59281</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59281</guid>
-            <pubDate>Tue, 29 Aug 2023 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0523/59281_628ae87d8a57f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감동주의보 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59192</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59192</guid>
-            <pubDate>Tue, 29 Aug 2023 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0607/17_08_02__629f076275971[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이 투 다이 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59350</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59350</guid>
-            <pubDate>Tue, 29 Aug 2023 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0623/15_06_46__62b402f63067c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다크 웹 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59504</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59504</guid>
-            <pubDate>Tue, 29 Aug 2023 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/14_10_06__62f48f2e3b691[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기괴한 숲 속 마을 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59503</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59503</guid>
-            <pubDate>Tue, 29 Aug 2023 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0811/13_54_04__62f48b6ce46b8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 밤의 판타지아 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59386</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59386</guid>
-            <pubDate>Tue, 29 Aug 2023 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0714/17_43_23__62cfd72b004db[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[악에 바쳐 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59647</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59647</guid>
-            <pubDate>Tue, 29 Aug 2023 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0914/15_20_51__632172c3742c8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑 결혼 그밖에 것들 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59665</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59665</guid>
-            <pubDate>Tue, 29 Aug 2023 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0922/15_35_15__632c02238ad43[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 너무 좋아 폼포 씨 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59776</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59776</guid>
-            <pubDate>Tue, 29 Aug 2023 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1017/15_17_07__634cf3634c7d4[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[어게인 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59956</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59956</guid>
@@ -3202,84 +3083,182 @@ NCT 127이 개성 넘치는 그룹의 색깔만큼이나 독특한 작품으로 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1115/59956_63735e4bcedd9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[캅 시크릿 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59969</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59969</guid>
-            <pubDate>Tue, 29 Aug 2023 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1124/13_44_52__637ef6c4e6f69[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[캣퍼슨 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60047</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60047</guid>
+            <pubDate>Wed, 06 Sep 2023 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[팬픽에서 연애까지 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59955</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59955</guid>
-            <pubDate>Tue, 05 Sep 2023 09:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2022-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1122/19_31_11__637ca4ef95288[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[탐정 말로 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60439</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60439</guid>
+            <pubDate>Wed, 06 Sep 2023 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[행복의 나라로 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=55448</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=55448</guid>
-            <pubDate>Tue, 05 Sep 2023 02:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">행복의 나라로</span>
+            <title><![CDATA[어느 날 그녀가 우주에서 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60360</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60360</guid>
+            <pubDate>Wed, 06 Sep 2023 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오후 네시 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60221</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60221</guid>
+            <pubDate>Wed, 06 Sep 2023 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_08_55__6419580767c68[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화란 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59696</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59696</guid>
+            <pubDate>Wed, 06 Sep 2023 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0508/19_46_07__6458d2ef6ffa2[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탈출: PROJECT SILENCE (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56904</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56904</guid>
+            <pubDate>Wed, 06 Sep 2023 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0512/17_29_19__645df8df5ad24[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[약속 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60848</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60848</guid>
+            <pubDate>Wed, 06 Sep 2023 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[곰돌이 푸: 피와 꿀 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60309</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60309</guid>
+            <pubDate>Wed, 06 Sep 2023 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0324/11_02_21__641d04ad1c428[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[목두기 비디오 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=8159</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=8159</guid>
+            <pubDate>Wed, 06 Sep 2023 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0328/12_10_39__64225aafc7c5d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라스트 필름 쇼 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60301</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60301</guid>
+            <pubDate>Wed, 06 Sep 2023 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0331/12_07_59__64264e8fb9858[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송암동 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60454</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60454</guid>
+            <pubDate>Wed, 06 Sep 2023 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0427/18_04_15__644a3a8f8f300[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초대의 법칙 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60460</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60460</guid>
+            <pubDate>Wed, 06 Sep 2023 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0428/15_24_12__644b668c3ad8a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야쿠자들: 폭력의 도시 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60424</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60424</guid>
+            <pubDate>Wed, 06 Sep 2023 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0419/18_56_11__643fbabbe175b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캣 대디 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60504</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60504</guid>
+            <pubDate>Wed, 06 Sep 2023 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0512/16_40_11__645ded5be9a50[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블러드 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60628</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60628</guid>
+            <pubDate>Wed, 06 Sep 2023 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0608/10_38_52__6481312c767fb[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[실버맨 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60528</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60528</guid>
+            <pubDate>Wed, 06 Sep 2023 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0518/11_20_05__64658b55c3f84[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀인 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60572</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60572</guid>
+            <pubDate>Wed, 06 Sep 2023 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0526/10_52_14__647010ce36972[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[씰벤져스: 용감한 바다특공대 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60846</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60846</guid>
+            <pubDate>Wed, 06 Sep 2023 04:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">씰벤져스: 용감한 바다특공대</span>
 		
 
-									<span class="director">감독 : 임상수</span>
-											<span class="actor">배우 : 최민식,박해일</span>
+									<span class="director">감독 : 그레이그 캐머런,케인 크라우디스</span>
+				
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0904/18_09_41__64f59ed515e78[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야당 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60633</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60633</guid>
+            <pubDate>Tue, 05 Sep 2023 14:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">야당</span>
+		
+
+									<span class="director">감독 : 황병국</span>
+											<span class="actor">배우 : 강하늘,유해진</span>
 		
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/55448_614d6fb3976df[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0725/13_53_26__64bf5546d8585[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어쩌다 활동가 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60421</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60421</guid>
+            <title><![CDATA[부활남 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60614</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60614</guid>
             <pubDate>Tue, 05 Sep 2023 02:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">어쩌다 활동가</span>
+            <content:encoded><![CDATA[<span class="tit">부활남</span>
 		
 
-									<span class="director">감독 : 박마리솔</span>
-											<span class="actor">배우 : 이윤정,박마리솔</span>
+									<span class="director">감독 : 백</span>
+											<span class="actor">배우 : 구교환,신승호</span>
 		
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0421/15_33_00__64422e1c1c69c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼각형의 마음 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60422</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60422</guid>
-            <pubDate>Tue, 05 Sep 2023 02:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">삼각형의 마음</span>
-		
-
-									<span class="director">감독 : 안지환</span>
-											<span class="actor">배우 : 손병호,이석호</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0418/13_00_51__643e15f3512c5[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위시 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60455</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60455</guid>
-            <pubDate>Tue, 05 Sep 2023 02:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">위시</span>
-		
-
-									<span class="director">감독 : 크리스 벅,폰 비라선손</span>
-											<span class="actor">배우 : 크리스 파인,알란 터딕</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0515/19_57_04__6462100047a9e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조인트 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
@@ -3298,35 +3277,84 @@ NCT 127이 개성 넘치는 그룹의 색깔만큼이나 독특한 작품으로 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0511/18_06_21__645cb00d261e9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[부활남 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60614</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60614</guid>
+            <title><![CDATA[위시 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60455</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60455</guid>
             <pubDate>Tue, 05 Sep 2023 02:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">부활남</span>
+            <content:encoded><![CDATA[<span class="tit">위시</span>
 		
 
-									<span class="director">감독 : 백</span>
-											<span class="actor">배우 : 구교환,신승호</span>
+									<span class="director">감독 : 크리스 벅,폰 비라선손</span>
+											<span class="actor">배우 : 크리스 파인,알란 터딕</span>
 		
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0515/19_57_04__6462100047a9e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[야당 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60633</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60633</guid>
-            <pubDate>Tue, 05 Sep 2023 14:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">야당</span>
+            <title><![CDATA[삼각형의 마음 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60422</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60422</guid>
+            <pubDate>Tue, 05 Sep 2023 02:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">삼각형의 마음</span>
 		
 
-									<span class="director">감독 : 황병국</span>
-											<span class="actor">배우 : 강하늘,유해진</span>
+									<span class="director">감독 : 안지환</span>
+											<span class="actor">배우 : 손병호,이석호</span>
 		
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0725/13_53_26__64bf5546d8585[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0418/13_00_51__643e15f3512c5[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어쩌다 활동가 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60421</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60421</guid>
+            <pubDate>Tue, 05 Sep 2023 02:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">어쩌다 활동가</span>
+		
+
+									<span class="director">감독 : 박마리솔</span>
+											<span class="actor">배우 : 이윤정,박마리솔</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0421/15_33_00__64422e1c1c69c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왕을 찾아서 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60181</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60181</guid>
+            <pubDate>Wed, 06 Sep 2023 04:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">왕을 찾아서</span>
+		
+
+									<span class="director">감독 : 원신연</span>
+											<span class="actor">배우 : 구교환,유재명</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0222/18_38_04__63f5e27cbc479[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동에 번쩍 서에 번쩍 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60010</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60010</guid>
+            <pubDate>Wed, 06 Sep 2023 04:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">동에 번쩍 서에 번쩍</span>
+		
+
+									<span class="director">감독 : 이광국</span>
+											<span class="actor">배우 : 여설희,우화정</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1207/17_21_38__63904d12a7331[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부화 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
@@ -3374,54 +3402,68 @@ NCT 127이 개성 넘치는 그룹의 색깔만큼이나 독특한 작품으로 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0630/18_01_27__649e99e7081a0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[루키 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60678</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60678</guid>
+            <title><![CDATA[메리 드라이버 : 더 뮤지컬 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60783</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60783</guid>
             <pubDate>Tue, 05 Sep 2023 14:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">루키</span>
+            <content:encoded><![CDATA[<span class="tit">메리 드라이버 : 더 뮤지컬 </span>
 		
 
-									<span class="director">감독 : 리벤 반 바엘렌</span>
-											<span class="actor">배우 : 마테오 시모니,베를 바에텐스</span>
+									<span class="director">감독 : 백승환</span>
+											<span class="actor">배우 : 백주환,황원규</span>
 		
-									<span class="adult">청불</span>
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0630/18_34_20__649ea19c9a4b9[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0808/16_29_44__64d1eee8c427a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라스트 리소트 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60684</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60684</guid>
+            <title><![CDATA[오노다: 정글에서 보낸 10,000일 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60769</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60769</guid>
             <pubDate>Tue, 05 Sep 2023 14:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">라스트 리소트</span>
+            <content:encoded><![CDATA[<span class="tit">오노다: 정글에서 보낸 10,000일</span>
 		
 
-									<span class="director">감독 : 장 마크 미뉴</span>
-											<span class="actor">배우 : 존 푸,클레이톤 노크로스</span>
+									<span class="director">감독 : 아서 하라리</span>
+											<span class="actor">배우 : 엔도 유야,츠다 칸지</span>
 		
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0712/17_40_28__64ae66fcb373e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0803/15_13_40__64cb459489889[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[젖은 백합 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60712</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60712</guid>
+            <title><![CDATA[브레스: 374미터 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60764</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60764</guid>
             <pubDate>Tue, 05 Sep 2023 14:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">젖은 백합</span>
+            <content:encoded><![CDATA[<span class="tit">브레스: 374미터</span>
 		
 
-									<span class="director">감독 : 가네코 슈스케</span>
-											<span class="actor">배우 : 코미야 카즈하,카즈미</span>
+									<span class="director">감독 : 존 리얼</span>
+											<span class="actor">배우 : 제임스 코스모,레이첼 데이</span>
 		
-									<span class="adult">청불</span>
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0711/11_58_44__64acc564ee432[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0802/16_29_10__64ca05c6a79e9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대도시의 사랑법 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60739</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60739</guid>
+            <pubDate>Tue, 05 Sep 2023 14:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">대도시의 사랑법</span>
+		
+
+									<span class="director">감독 : 이언희</span>
+											<span class="actor">배우 : 김고은,노상현</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0725/18_10_28__64bf91845aaa9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑에 애태우며 노래하라 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
@@ -3441,68 +3483,21 @@ NCT 127이 개성 넘치는 그룹의 색깔만큼이나 독특한 작품으로 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0803/15_35_24__64cb4aacc8225[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대도시의 사랑법 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60739</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60739</guid>
+            <title><![CDATA[젖은 백합 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60712</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60712</guid>
             <pubDate>Tue, 05 Sep 2023 14:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">대도시의 사랑법</span>
+            <content:encoded><![CDATA[<span class="tit">젖은 백합</span>
 		
 
-									<span class="director">감독 : 이언희</span>
-											<span class="actor">배우 : 김고은,노상현</span>
+									<span class="director">감독 : 가네코 슈스케</span>
+											<span class="actor">배우 : 코미야 카즈하,카즈미</span>
 		
+									<span class="adult">청불</span>
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0725/18_10_28__64bf91845aaa9[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브레스: 374미터 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60764</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60764</guid>
-            <pubDate>Tue, 05 Sep 2023 14:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">브레스: 374미터</span>
-		
-
-									<span class="director">감독 : 존 리얼</span>
-											<span class="actor">배우 : 제임스 코스모,레이첼 데이</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0802/16_29_10__64ca05c6a79e9[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오노다: 정글에서 보낸 10,000일 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60769</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60769</guid>
-            <pubDate>Tue, 05 Sep 2023 14:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">오노다: 정글에서 보낸 10,000일</span>
-		
-
-									<span class="director">감독 : 아서 하라리</span>
-											<span class="actor">배우 : 엔도 유야,츠다 칸지</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0803/15_13_40__64cb459489889[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메리 드라이버 : 더 뮤지컬 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60783</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60783</guid>
-            <pubDate>Tue, 05 Sep 2023 14:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">메리 드라이버 : 더 뮤지컬 </span>
-		
-
-									<span class="director">감독 : 백승환</span>
-											<span class="actor">배우 : 백주환,황원규</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0808/16_29_44__64d1eee8c427a[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0711/11_58_44__64acc564ee432[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <왓 이프> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
