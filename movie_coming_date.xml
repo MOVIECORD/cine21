@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 05:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 06:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0829/13_59_16__64ed7b241e496[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안녕, 내일 또 만나]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60785</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60785</guid>
-            <pubDate>Tue, 29 Aug 2023 15:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-09-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0823/15_37_18__64e5a91e75793[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[쿠렌치스 인 잘츠부르크]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60757</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60757</guid>
@@ -48,12 +40,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0814/17_06_23__64d9e07f40294[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리벤지 나이트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60802</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60802</guid>
-            <pubDate>Wed, 06 Sep 2023 12:25:34 GMT</pubDate>
+            <title><![CDATA[안녕, 내일 또 만나]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60785</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60785</guid>
+            <pubDate>Tue, 29 Aug 2023 15:16:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-09-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0816/15_53_53__64dc728179f9f[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0823/15_37_18__64e5a91e75793[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차박- 살인과 낭만의 밤]]></title>
@@ -62,6 +54,14 @@
             <pubDate>Tue, 29 Aug 2023 15:16:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-09-13]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0829/13_06_54__64ed6edecf88d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리벤지 나이트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60802</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60802</guid>
+            <pubDate>Wed, 06 Sep 2023 12:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-09-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0816/15_53_53__64dc728179f9f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베니스 유령 살인사건]]></title>
