@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-09-11T00:54:50.385Z</updated>
+    <updated>2023-09-11T01:51:22.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <1947 보스톤> 시사회 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8608&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8608&amp;p=1"/>
+        <updated>2023-09-11T01:47:21.936Z</updated>
+        <content type="html"><![CDATA[8608]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제15회 대단한 단편영화제 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8607&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8607&amp;p=1"/>
+        <updated>2023-09-11T01:47:21.939Z</updated>
+        <content type="html"><![CDATA[8607]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <뮤직 샤펠> 시사회 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8606&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8606&amp;p=1"/>
+        <updated>2023-09-11T01:47:21.945Z</updated>
+        <content type="html"><![CDATA[8606]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <장화 홍련 각본집> 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8605&amp;p=1</id>
@@ -74,26 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8596&amp;p=1"/>
         <updated>2023-08-21T03:12:30.302Z</updated>
         <content type="html"><![CDATA[8596]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <이 구역의 이기적인 로맨스> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8595&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8595&amp;p=1"/>
-        <updated>2023-08-21T02:16:10.570Z</updated>
-        <content type="html"><![CDATA[8595]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <운빨 로맨스> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8594&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8594&amp;p=1"/>
-        <updated>2023-08-18T06:15:23.738Z</updated>
-        <content type="html"><![CDATA[8594]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <2호선 세입자> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8593&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8593&amp;p=1"/>
-        <updated>2023-08-17T01:41:26.157Z</updated>
-        <content type="html"><![CDATA[8593]]></content>
     </entry>
 </feed>
