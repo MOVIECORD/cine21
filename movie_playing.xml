@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 00:53:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 01:49:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,28 +24,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0823/15_05_08__64e5a19452218[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤직 샤펠]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60742</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60742</guid>
-            <pubDate>Tue, 12 Sep 2023 15:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-09-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0814/17_06_23__64d9e07f40294[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠렌치스 인 잘츠부르크]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60757</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60757</guid>
-            <pubDate>Tue, 12 Sep 2023 15:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-09-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0731/16_26_20__64c7621cb18cd[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[베니스 유령 살인사건]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60468</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60468</guid>
             <pubDate>Tue, 12 Sep 2023 15:15:57 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-09-13]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0906/14_08_05__64f80935dd2f6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤직 샤펠]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60742</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60742</guid>
+            <pubDate>Tue, 12 Sep 2023 15:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-09-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0814/17_06_23__64d9e07f40294[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어파이어]]></title>
@@ -56,20 +48,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0817/16_20_54__64ddca5614f38[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리벤지 나이트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60802</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60802</guid>
+            <title><![CDATA[쿠렌치스 인 잘츠부르크]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60757</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60757</guid>
             <pubDate>Tue, 12 Sep 2023 15:15:57 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-09-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0816/15_53_53__64dc728179f9f[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0731/16_26_20__64c7621cb18cd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[차박- 살인과 낭만의 밤]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60735</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60735</guid>
-            <pubDate>Tue, 12 Sep 2023 15:15:57 GMT</pubDate>
+            <title><![CDATA[잔고: 분노의 적자]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60806</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60806</guid>
+            <pubDate>Wed, 13 Sep 2023 09:14:47 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-09-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0829/13_06_54__64ed6edecf88d[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0912/17_21_23__65001f83902be[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안녕, 내일 또 만나]]></title>
@@ -80,20 +72,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0823/15_37_18__64e5a91e75793[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[차박- 살인과 낭만의 밤]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60735</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60735</guid>
+            <pubDate>Tue, 12 Sep 2023 15:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-09-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0829/13_06_54__64ed6edecf88d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리벤지 나이트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60802</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60802</guid>
+            <pubDate>Tue, 12 Sep 2023 15:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-09-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0816/15_53_53__64dc728179f9f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위대한 개츠비]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=38263</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=38263</guid>
             <pubDate>Wed, 13 Sep 2023 09:14:47 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-09-13]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0901/12_30_56__64f15af05d2c9[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잔고: 분노의 적자]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60806</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60806</guid>
-            <pubDate>Wed, 13 Sep 2023 09:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-09-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0912/17_21_23__65001f83902be[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이유 콘서트 : 더 골든 아워]]></title>
@@ -120,22 +120,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0829/13_31_49__64ed74b51faec[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[듣보인간의 생존신고]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58884</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58884</guid>
-            <pubDate>Wed, 13 Sep 2023 15:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-09-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0808/16_46_33__64d1f2d92c1e6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생츄어리: 마법의 소원나무]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60716</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60716</guid>
-            <pubDate>Wed, 13 Sep 2023 09:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-09-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0808/15_13_02__64d1dceeda26c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 사사키와 미야노 - 졸업편]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60759</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60759</guid>
@@ -150,6 +134,22 @@
             <pubDate>Wed, 13 Sep 2023 09:14:47 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-09-06]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0911/10_03_55__64fe677b9d5ec[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이노센트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60777</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60777</guid>
+            <pubDate>Thu, 14 Sep 2023 01:47:03 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-09-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0823/12_45_58__64e580f6a6df2[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생츄어리: 마법의 소원나무]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60716</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60716</guid>
+            <pubDate>Wed, 13 Sep 2023 09:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-09-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0808/15_13_02__64d1dceeda26c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
