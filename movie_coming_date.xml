@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 01:51:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 02:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -127,6 +127,14 @@
             <content:encoded><![CDATA[개봉 : 2023-09-22]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[씰벤져스: 용감한 바다특공대]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60846</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60846</guid>
+            <pubDate>Fri, 15 Sep 2023 02:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-09-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0912/17_00_59__65001abbbc34c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[80일간의 세계일주]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60849</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60849</guid>
@@ -141,14 +149,6 @@
             <pubDate>Thu, 14 Sep 2023 22:14:06 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-09-27]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0830/10_49_27__64eea02728f0d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 넌 2]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60721</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60721</guid>
-            <pubDate>Thu, 14 Sep 2023 22:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-09-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0907/15_08_04__64f968c4bda6c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
