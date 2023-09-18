@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-09-18T00:53:09.955Z</updated>
+    <updated>2023-09-18T01:50:54.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <오백에 삼십> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8612&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8612&amp;p=1"/>
+        <updated>2023-09-18T01:47:06.858Z</updated>
+        <content type="html"><![CDATA[8612]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <운빨 로맨스> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8611&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8611&amp;p=1"/>
+        <updated>2023-09-18T01:47:06.862Z</updated>
+        <content type="html"><![CDATA[8611]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <지지해 주는 부모 스스로 공부하는 아이> 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8610&amp;p=1</id>
@@ -81,19 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8600&amp;p=1"/>
         <updated>2023-08-29T01:45:31.419Z</updated>
         <content type="html"><![CDATA[8600]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <한 남자> 시사회 댓글 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8599&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8599&amp;p=1"/>
-        <updated>2023-08-28T02:18:41.265Z</updated>
-        <content type="html"><![CDATA[8599]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <우리는 가끔 아름다움의 섬광을 보았다> 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8598&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8598&amp;p=1"/>
-        <updated>2023-08-28T01:45:23.355Z</updated>
-        <content type="html"><![CDATA[8598]]></content>
     </entry>
 </feed>
