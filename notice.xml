@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-09-18T23:16:36.426Z</updated>
+    <updated>2023-09-19T00:55:06.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <스크래퍼> 시사회 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8613&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8613&amp;p=1"/>
+        <updated>2023-09-19T00:49:53.100Z</updated>
+        <content type="html"><![CDATA[8613]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <오백에 삼십> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8612&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8601&amp;p=1"/>
         <updated>2023-08-30T00:48:51.172Z</updated>
         <content type="html"><![CDATA[8601]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <곤 투모로우> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8600&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8600&amp;p=1"/>
-        <updated>2023-08-29T01:45:31.419Z</updated>
-        <content type="html"><![CDATA[8600]]></content>
     </entry>
 </feed>
