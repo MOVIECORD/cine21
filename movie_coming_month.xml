@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 08:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 09:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,14 +86,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0922/11_39_38__650cfe6ae5a43[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시뮬런트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60818</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60818</guid>
-            <pubDate>Wed, 20 Sep 2023 00:52:56 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0920/13_59_46__650a7c4269555[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[믿을 수 있는 사람]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60857</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60857</guid>
@@ -117,20 +109,20 @@
             <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[화사한 그녀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60822</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60822</guid>
-            <pubDate>Wed, 20 Sep 2023 00:52:56 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0918/14_24_55__6507df27ddce1[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[컨피덴셜 인포먼트]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60883</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60883</guid>
             <pubDate>Fri, 22 Sep 2023 06:18:25 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0922/15_40_04__650d36c475eae[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시뮬런트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60818</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60818</guid>
+            <pubDate>Wed, 20 Sep 2023 00:52:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0920/13_59_46__650a7c4269555[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크레이븐 더 헌터]]></title>
@@ -146,6 +138,14 @@
             <pubDate>Thu, 21 Sep 2023 07:14:44 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0904/18_32_34__64f5a43251640[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[치킨 히어로 빌리: 황금 달걀 구출 작전]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60405</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60405</guid>
+            <pubDate>Fri, 22 Sep 2023 09:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0920/16_28_42__650a9f2a09873[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
