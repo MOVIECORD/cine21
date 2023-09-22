@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 07:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 08:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0906/16_00_18__64f8238254c27[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[30일]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60876</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60876</guid>
-            <pubDate>Tue, 19 Sep 2023 15:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0919/16_37_22__65094fb22f29a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[당나귀 EO]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60837</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60837</guid>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 19 Sep 2023 15:15:39 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10-03]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0825/11_36_14__64e8139ee1115[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[30일]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60876</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60876</guid>
+            <pubDate>Tue, 19 Sep 2023 15:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0919/16_37_22__65094fb22f29a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리에이터]]></title>
@@ -135,20 +135,19 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0905/18_55_24__64f6fb0cb1733[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[만강홍: 사라진 밀서]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60751</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60751</guid>
-            <pubDate>Fri, 22 Sep 2023 05:14:05 GMT</pubDate>
+            <title><![CDATA[페이오프]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60871</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60871</guid>
+            <pubDate>Fri, 22 Sep 2023 08:17:36 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0913/13_31_48__65013b340627c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[화란]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59696</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59696</guid>
-            <pubDate>Fri, 22 Sep 2023 07:13:44 GMT</pubDate>
+            <title><![CDATA[기억해, 우리가 사랑한 시간]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60844</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60844</guid>
+            <pubDate>Fri, 22 Sep 2023 08:17:36 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0918/18_10_46__650814162a2cb[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0921/18_30_29__650c0d35bcade[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
