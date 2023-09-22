@@ -4,9 +4,17 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 01:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 02:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위어드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60819</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60819</guid>
+            <pubDate>Fri, 22 Sep 2023 02:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-09-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0822/17_08_57__64e46d19e0461[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[킹 오브 뉴욕]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=928</link>
@@ -88,6 +96,13 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0914/18_26_12__6502d1b40ea9f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[팟 제너레이션]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60515</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60515</guid>
+            <pubDate>Tue, 19 Sep 2023 15:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10-03]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[드림쏭2]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60798</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60798</guid>
@@ -96,27 +111,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0825/11_36_14__64e8139ee1115[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크리에이터]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60714</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60714</guid>
-            <pubDate>Tue, 19 Sep 2023 15:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0918/13_28_58__6507d20a832f0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팟 제너레이션]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60515</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60515</guid>
-            <pubDate>Tue, 19 Sep 2023 15:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10-03]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[30일]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60876</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60876</guid>
             <pubDate>Tue, 19 Sep 2023 15:15:39 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10-03]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0919/16_37_22__65094fb22f29a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리에이터]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60714</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60714</guid>
+            <pubDate>Tue, 19 Sep 2023 15:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0918/13_28_58__6507d20a832f0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사나: 저주의 아이]]></title>
@@ -135,19 +143,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0905/18_55_24__64f6fb0cb1733[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[만강홍: 사라진 밀서]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60751</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60751</guid>
-            <pubDate>Thu, 21 Sep 2023 09:15:13 GMT</pubDate>
+            <title><![CDATA[기억해, 우리가 사랑한 시간]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60844</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60844</guid>
+            <pubDate>Fri, 22 Sep 2023 02:22:13 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0913/13_31_48__65013b340627c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페이오프]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60871</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60871</guid>
-            <pubDate>Thu, 21 Sep 2023 15:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0921/18_30_29__650c0d35bcade[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
