@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 06:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 07:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,17 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-09-22 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0911/11_40_37__64fe7e2584db3[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 <믿을 수 있는 사람> 시사회 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8620&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8620&amp;p=1</guid>
+            <pubDate>Fri, 22 Sep 2023 07:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-09-23 15:00:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 명동역 씨네라이브러리</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-09-22 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0914/12_29_07__65027e031e651[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <어차피 겪어야 될 사랑 이야기> 기대평 이벤트]]></title>
@@ -102,17 +113,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-09-11 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0825/18_23_31__64e87313b84af[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <1947 보스톤> 기대평 이벤트]]></title>
-            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8608&amp;p=1</link>
-            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8608&amp;p=1</guid>
-            <pubDate>Fri, 22 Sep 2023 04:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-09-13 20:00:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>롯데시네마 월드타워</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>70 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-09-11 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0831/14_41_18__64f027fe39abf[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
