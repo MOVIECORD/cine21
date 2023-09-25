@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 00:58:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 01:51:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -140,6 +140,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=60871</guid>
             <pubDate>Fri, 22 Sep 2023 08:17:36 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0925/10_45_35__6510e63f8d1ee[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화사한 그녀]]></title>
