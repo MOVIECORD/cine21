@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 08:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 09:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3067,6 +3067,7 @@ NCT 127이 개성 넘치는 그룹의 색깔만큼이나 독특한 작품으로 
             <guid>http://www.cine21.com/movie/info/?movie_id=60515</guid>
             <pubDate>Tue, 19 Sep 2023 15:15:39 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0925/18_21_41__65115125ced8a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[30일 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3132,12 +3133,28 @@ NCT 127이 개성 넘치는 그룹의 색깔만큼이나 독특한 작품으로 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0919/14_32_23__6509326745549[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더 리프: 언더 워터 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60803</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60803</guid>
+            <title><![CDATA[킴스 비디오 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60812</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60812</guid>
             <pubDate>Wed, 20 Sep 2023 00:52:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0828/15_54_15__64ec44972f0f1[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0830/16_24_15__64eeee9f18d6d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[책 종이 가위 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60804</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60804</guid>
+            <pubDate>Wed, 20 Sep 2023 00:52:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0829/17_20_04__64edaa34576f6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오르소 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60875</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60875</guid>
+            <pubDate>Wed, 20 Sep 2023 00:52:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0919/16_05_38__65094842bd367[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[치악산 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3155,20 +3172,12 @@ NCT 127이 개성 넘치는 그룹의 색깔만큼이나 독특한 작품으로 
             <content:encoded><![CDATA[개봉 : 2023-09]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[책 종이 가위 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60804</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60804</guid>
+            <title><![CDATA[더 리프: 언더 워터 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60803</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60803</guid>
             <pubDate>Wed, 20 Sep 2023 00:52:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0829/17_20_04__64edaa34576f6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[킴스 비디오 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60812</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60812</guid>
-            <pubDate>Wed, 20 Sep 2023 00:52:56 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0830/16_24_15__64eeee9f18d6d[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0828/15_54_15__64ec44972f0f1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[거미집 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3179,12 +3188,20 @@ NCT 127이 개성 넘치는 그룹의 색깔만큼이나 독특한 작품으로 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0912/14_38_08__64fff940560dd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오르소 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60875</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60875</guid>
-            <pubDate>Wed, 20 Sep 2023 00:52:56 GMT</pubDate>
+            <title><![CDATA[시카리오: 워 오브 건즈 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60892</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60892</guid>
+            <pubDate>Mon, 25 Sep 2023 09:15:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0919/16_05_38__65094842bd367[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0925/60892_65114b9280dff[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시수 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60888</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60888</guid>
+            <pubDate>Mon, 25 Sep 2023 06:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0925/15_14_59__651125633dde7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[믿을 수 있는 사람 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3211,43 +3228,20 @@ NCT 127이 개성 넘치는 그룹의 색깔만큼이나 독특한 작품으로 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0925/16_55_17__65113ce531731[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사형에 이르는 병 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60880</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60880</guid>
-            <pubDate>Thu, 21 Sep 2023 07:14:44 GMT</pubDate>
+            <title><![CDATA[너와 나 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60402</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60402</guid>
+            <pubDate>Mon, 25 Sep 2023 09:15:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0921/17_01_28__650bf8587ecb4[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0828/17_44_51__64ec5e83a49e4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[컨피덴셜 인포먼트 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60883</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60883</guid>
-            <pubDate>Fri, 22 Sep 2023 06:18:25 GMT</pubDate>
+            <title><![CDATA[치킨 히어로 빌리: 황금 달걀 구출 작전 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60405</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60405</guid>
+            <pubDate>Mon, 25 Sep 2023 09:15:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0922/15_40_04__650d36c475eae[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키리에의 노래 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60887</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60887</guid>
-            <pubDate>Mon, 25 Sep 2023 05:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0925/14_55_32__651120d4dee7a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시수 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60888</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60888</guid>
-            <pubDate>Mon, 25 Sep 2023 06:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0925/15_14_59__651125633dde7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈 더 도어 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60891</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60891</guid>
-            <pubDate>Mon, 25 Sep 2023 07:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0920/16_28_42__650a9f2a09873[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레슬리에게 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3255,6 +3249,14 @@ NCT 127이 개성 넘치는 그룹의 색깔만큼이나 독특한 작품으로 
             <guid>http://www.cine21.com/movie/info/?movie_id=60800</guid>
             <pubDate>Wed, 20 Sep 2023 00:52:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사형에 이르는 병 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60880</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60880</guid>
+            <pubDate>Thu, 21 Sep 2023 07:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0921/17_01_28__650bf8587ecb4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 나라로 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
@@ -3955,6 +3957,45 @@ NCT 127이 개성 넘치는 그룹의 색깔만큼이나 독특한 작품으로 
             <enclosure url="https://image.cine21.com/crop/data/154/647f0137cc4c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[＜죽음과의 계약＞ 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45072">-->
+					<a href="javascript:;" data-url="not_logged">
+						<img src="https://image.cine21.com/crop/data/780/65114e6fd874c.jpg" alt="" class="thumb">
+						<span class="title">＜죽음과의 계약＞ 예고편</span>
+						<span class="date">2023-09-25</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/780/65114e6fd874c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜팟 제너레이션＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F09%2Fpod_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F297%2F65114c132f56f.jpg&amp;title=%EF%BC%9C%ED%8C%9F%20%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%EC%85%98%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F09%2Fpod_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F297%2F65114c132f56f.jpg&amp;title=%EF%BC%9C%ED%8C%9F%20%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%EC%85%98%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45071">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F09%2Fpod_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F297%2F65114c132f56f.jpg&amp;title=%EF%BC%9C%ED%8C%9F%20%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%EC%85%98%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/09/pod_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/297/65114c132f56f.jpg" alt="" class="thumb">
+						<span class="title">＜팟 제너레이션＞ 메인 예고편</span>
+						<span class="date">2023-09-25</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/297/65114c132f56f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜시카리오: 워 오브 건즈＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F09%2Fshrapnel_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F296%2F65114799da4ca.jpg&amp;title=%EF%BC%9C%EC%8B%9C%EC%B9%B4%EB%A6%AC%EC%98%A4%3A%20%EC%9B%8C%20%EC%98%A4%EB%B8%8C%20%EA%B1%B4%EC%A6%88%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F09%2Fshrapnel_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F296%2F65114799da4ca.jpg&amp;title=%EF%BC%9C%EC%8B%9C%EC%B9%B4%EB%A6%AC%EC%98%A4%3A%20%EC%9B%8C%20%EC%98%A4%EB%B8%8C%20%EA%B1%B4%EC%A6%88%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45070">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F09%2Fshrapnel_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F296%2F65114799da4ca.jpg&amp;title=%EF%BC%9C%EC%8B%9C%EC%B9%B4%EB%A6%AC%EC%98%A4%3A%20%EC%9B%8C%20%EC%98%A4%EB%B8%8C%20%EA%B1%B4%EC%A6%88%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/09/shrapnel_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/296/65114799da4ca.jpg" alt="" class="thumb">
+						<span class="title">＜시카리오: 워 오브 건즈＞ 메인 예고편</span>
+						<span class="date">2023-09-25</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/296/65114799da4ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[＜번개맨: 더 비기닝＞ 번개맨 등장 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F09%2Fbungae_bamk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F813%2F6511400d8f7d2.jpg&amp;title=%EF%BC%9C%EB%B2%88%EA%B0%9C%EB%A7%A8%3A%20%EB%8D%94%20%EB%B9%84%EA%B8%B0%EB%8B%9D%EF%BC%9E%20%EB%B2%88%EA%B0%9C%EB%A7%A8%20%EB%93%B1%EC%9E%A5%20%EC%98%81%EC%83%81</link>
             <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F09%2Fbungae_bamk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F813%2F6511400d8f7d2.jpg&amp;title=%EF%BC%9C%EB%B2%88%EA%B0%9C%EB%A7%A8%3A%20%EB%8D%94%20%EB%B9%84%EA%B8%B0%EB%8B%9D%EF%BC%9E%20%EB%B2%88%EA%B0%9C%EB%A7%A8%20%EB%93%B1%EC%9E%A5%20%EC%98%81%EC%83%81</guid>
@@ -4122,45 +4163,6 @@ NCT 127이 개성 넘치는 그룹의 색깔만큼이나 독특한 작품으로 
 						<span class="date">2023-09-22</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/944/650d250ed6f3d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜힙노틱＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F09%2Fhyp_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F113%2F650d250ceebb6.jpg&amp;title=%EF%BC%9C%ED%9E%99%EB%85%B8%ED%8B%B1%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F09%2Fhyp_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F113%2F650d250ceebb6.jpg&amp;title=%EF%BC%9C%ED%9E%99%EB%85%B8%ED%8B%B1%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45051">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F09%2Fhyp_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F113%2F650d250ceebb6.jpg&amp;title=%EF%BC%9C%ED%9E%99%EB%85%B8%ED%8B%B1%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/09/hyp_mtr.mp4">
-						<img src="https://image.cine21.com/crop/data/113/650d250ceebb6.jpg" alt="" class="thumb">
-						<span class="title">＜힙노틱＞ 메인 예고편</span>
-						<span class="date">2023-09-22</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/113/650d250ceebb6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜마하 2.0: 패트리어트 타임＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F09%2Ftime_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F752%2F650d232a36c94.jpg&amp;title=%EF%BC%9C%EB%A7%88%ED%95%98%202.0%3A%20%ED%8C%A8%ED%8A%B8%EB%A6%AC%EC%96%B4%ED%8A%B8%20%ED%83%80%EC%9E%84%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F09%2Ftime_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F752%2F650d232a36c94.jpg&amp;title=%EF%BC%9C%EB%A7%88%ED%95%98%202.0%3A%20%ED%8C%A8%ED%8A%B8%EB%A6%AC%EC%96%B4%ED%8A%B8%20%ED%83%80%EC%9E%84%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45050">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F09%2Ftime_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F752%2F650d232a36c94.jpg&amp;title=%EF%BC%9C%EB%A7%88%ED%95%98%202.0%3A%20%ED%8C%A8%ED%8A%B8%EB%A6%AC%EC%96%B4%ED%8A%B8%20%ED%83%80%EC%9E%84%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/09/time_mtr.mp4">
-						<img src="https://image.cine21.com/crop/data/752/650d232a36c94.jpg" alt="" class="thumb">
-						<span class="title">＜마하 2.0: 패트리어트 타임＞ 메인 예고편</span>
-						<span class="date">2023-09-22</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/752/650d232a36c94.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜괴담만찬＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F09%2Ftaste_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F869%2F650cfcbc3073f.jpg&amp;title=%EF%BC%9C%EA%B4%B4%EB%8B%B4%EB%A7%8C%EC%B0%AC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F09%2Ftaste_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F869%2F650cfcbc3073f.jpg&amp;title=%EF%BC%9C%EA%B4%B4%EB%8B%B4%EB%A7%8C%EC%B0%AC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45049">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F09%2Ftaste_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F869%2F650cfcbc3073f.jpg&amp;title=%EF%BC%9C%EA%B4%B4%EB%8B%B4%EB%A7%8C%EC%B0%AC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/09/taste_mtr.mp4">
-						<img src="https://image.cine21.com/crop/data/869/650cfcbc3073f.jpg" alt="" class="thumb">
-						<span class="title">＜괴담만찬＞ 메인 예고편</span>
-						<span class="date">2023-09-22</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/869/650cfcbc3073f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#줌터뷰] 〈이터널스〉 감독은 왜 마동석을 캐스팅했을까? feat.〈승리호〉 조성희 감독 (씨네21 ─ 네이버TV)]]></title>
