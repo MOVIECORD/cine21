@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 06:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 07:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,6 +23,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0919/14_32_23__6509326745549[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[더 리프: 언더 워터]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60803</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60803</guid>
+            <pubDate>Wed, 20 Sep 2023 00:52:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0828/15_54_15__64ec44972f0f1[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[치악산]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60768</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60768</guid>
@@ -36,14 +44,6 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=60767</guid>
             <pubDate>Wed, 20 Sep 2023 00:52:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-09]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 리프: 언더 워터]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60803</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60803</guid>
-            <pubDate>Wed, 20 Sep 2023 00:52:56 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0828/15_54_15__64ec44972f0f1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[책 종이 가위]]></title>
@@ -134,19 +134,18 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0925/15_14_59__651125633dde7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오픈 더 도어]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60891</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60891</guid>
+            <pubDate>Mon, 25 Sep 2023 07:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[레슬리에게]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60800</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60800</guid>
             <pubDate>Wed, 20 Sep 2023 00:52:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엑소시스트: 믿는 자]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60740</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60740</guid>
-            <pubDate>Thu, 21 Sep 2023 07:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0904/18_32_34__64f5a43251640[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
