@@ -1,8 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cine21.com/event/list</id>
-    <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
-    <updated>2023-09-26T13:20:17.397Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cine21.com/event/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 26 Sep 2023 14:16:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <세이 예스 어게인> 시사회 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8195</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8195</guid>
+            <pubDate>Tue, 26 Sep 2023 14:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-10-12 19:30</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>롯데시네마 건대입구</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-10-10 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0920/19_56_17__650acfd147afa[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도서 <악의 유전학> 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8194</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8194</guid>
+            <pubDate>Tue, 26 Sep 2023 14:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-10-04 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0920/10_18_11__650a4853e8915[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <바닷마을 다이어리> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8192</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8192</guid>
+            <pubDate>Tue, 26 Sep 2023 14:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>6 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-10-05 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0918/10_50_55__6507acffc55a7[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 <해리포터와 불의 잔> 콘서트 초대권 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8191</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8191</guid>
+            <pubDate>Tue, 26 Sep 2023 14:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-10-05 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0918/10_48_21__6507ac659553b[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 <만강홍: 사라진 밀서> 시사회 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8190</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8190</guid>
+            <pubDate>Tue, 26 Sep 2023 14:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-10-05 19:30</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>메가박스 코엑스</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-09-27 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0915/10_00_42__6503acbab91c1[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
