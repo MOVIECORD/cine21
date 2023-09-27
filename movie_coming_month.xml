@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 07:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 08:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -67,7 +67,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=60826</guid>
             <pubDate>Wed, 20 Sep 2023 00:52:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0912/14_38_08__64fff940560dd[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0927/17_26_12__6513e724791ff[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시카리오: 워 오브 건즈]]></title>
@@ -83,14 +83,6 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=60665</guid>
             <pubDate>Wed, 27 Sep 2023 07:15:01 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[믿을 수 있는 사람]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60857</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60857</guid>
-            <pubDate>Wed, 27 Sep 2023 07:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0926/14_25_13__65126b39626e6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나의 행복한 결혼]]></title>
@@ -146,6 +138,14 @@
             <pubDate>Wed, 27 Sep 2023 03:15:50 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0828/17_44_51__64ec5e83a49e4[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문바운드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60879</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60879</guid>
+            <pubDate>Wed, 27 Sep 2023 08:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0927/16_01_45__6513d3591aca8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
