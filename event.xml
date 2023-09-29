@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 18:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 19:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,24 +37,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-10-04 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0920/10_18_11__650a4853e8915[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <바닷마을 다이어리> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8192</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8192</guid>
-            <pubDate>Thu, 28 Sep 2023 00:53:26 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>6 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-10-05 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0918/10_50_55__6507acffc55a7[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <해리포터와 불의 잔> 콘서트 초대권 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8191</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8191</guid>
-            <pubDate>Thu, 28 Sep 2023 00:53:26 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-10-05 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0918/10_48_21__6507ac659553b[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
