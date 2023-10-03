@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 14:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 15:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Mon, 02 Oct 2023 08:19:42 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-09-27]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0830/16_24_15__64eeee9f18d6d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사나: 저주의 아이]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60847</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60847</guid>
-            <pubDate>Mon, 02 Oct 2023 08:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0919/14_25_56__650930e4a096d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[퍼피 구조대: 더 마이티 무비]]></title>
@@ -64,20 +56,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0913/13_31_48__65013b340627c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[람빅, 시간과 열정의 맥주]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60900</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60900</guid>
-            <pubDate>Mon, 02 Oct 2023 08:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0926/17_26_22__651295ae253b8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[기억해, 우리가 사랑한 시간]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60844</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60844</guid>
             <pubDate>Mon, 02 Oct 2023 08:19:42 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10-11]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0921/18_30_29__650c0d35bcade[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[람빅, 시간과 열정의 맥주]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60900</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60900</guid>
+            <pubDate>Mon, 02 Oct 2023 08:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0926/17_26_22__651295ae253b8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화란]]></title>
@@ -150,6 +142,14 @@
             <pubDate>Mon, 02 Oct 2023 15:15:53 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10-18]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0925/16_07_11__6511319fad65e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리의 하루]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60877</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60877</guid>
+            <pubDate>Tue, 03 Oct 2023 15:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0927/13_17_06__6513acc2aaf96[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
