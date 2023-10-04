@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-10-04T00:55:22.960Z</updated>
+    <updated>2023-10-04T01:54:39.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤성현 각본집 <파수꾼> 기대평 이벤트 당첨자발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8623&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8623&amp;p=1"/>
+        <updated>2023-10-04T01:50:47.865Z</updated>
+        <content type="html"><![CDATA[8623]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <호러만찬회> 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8622&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8611&amp;p=1"/>
         <updated>2023-09-18T01:47:06.862Z</updated>
         <content type="html"><![CDATA[8611]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <지지해 주는 부모 스스로 공부하는 아이> 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8610&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8610&amp;p=1"/>
-        <updated>2023-09-14T01:44:28.512Z</updated>
-        <content type="html"><![CDATA[8610]]></content>
     </entry>
 </feed>
