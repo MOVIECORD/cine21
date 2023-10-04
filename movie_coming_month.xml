@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 02:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 03:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,13 +78,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0925/60892_65114b9280dff[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크레이븐 더 헌터]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60665</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60665</guid>
-            <pubDate>Tue, 03 Oct 2023 21:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[나의 행복한 결혼]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60856</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60856</guid>
@@ -109,6 +102,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0925/16_55_17__65113ce531731[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[문바운드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60879</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60879</guid>
+            <pubDate>Tue, 03 Oct 2023 21:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0927/16_01_45__6513d3591aca8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더 도터]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60898</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60898</guid>
@@ -124,12 +125,11 @@
             <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오픈 더 도어]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60891</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60891</guid>
+            <title><![CDATA[크레이븐 더 헌터]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60665</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60665</guid>
             <pubDate>Tue, 03 Oct 2023 21:14:20 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0927/13_56_48__6513b6106ed1e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너와 나]]></title>
@@ -140,12 +140,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0828/17_44_51__64ec5e83a49e4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[문바운드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60879</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60879</guid>
-            <pubDate>Tue, 03 Oct 2023 21:14:20 GMT</pubDate>
+            <title><![CDATA[사형에 이르는 병]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60880</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60880</guid>
+            <pubDate>Wed, 04 Oct 2023 03:15:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0927/16_01_45__6513d3591aca8[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0921/17_01_28__650bf8587ecb4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
