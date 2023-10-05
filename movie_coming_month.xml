@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 00:55:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 01:57:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -79,14 +79,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0922/11_39_38__650cfe6ae5a43[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시뮬런트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60818</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60818</guid>
-            <pubDate>Wed, 04 Oct 2023 07:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0925/16_55_17__65113ce531731[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[바람 따라 만나리 : 김호중의 계절]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60899</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60899</guid>
@@ -134,6 +126,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0921/17_01_28__650bf8587ecb4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[컨피덴셜 인포먼트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60883</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60883</guid>
+            <pubDate>Thu, 05 Oct 2023 01:55:38 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0922/15_40_04__650d36c475eae[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오픈 더 도어]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60891</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60891</guid>
@@ -142,12 +142,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0927/13_56_48__6513b6106ed1e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[키리에의 노래]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60887</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60887</guid>
-            <pubDate>Wed, 04 Oct 2023 07:15:34 GMT</pubDate>
+            <title><![CDATA[너와 나]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60402</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60402</guid>
+            <pubDate>Thu, 05 Oct 2023 01:55:38 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0925/14_55_32__651120d4dee7a[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0828/17_44_51__64ec5e83a49e4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
