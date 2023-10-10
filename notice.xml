@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-10-10T00:53:51.508Z</updated>
+    <updated>2023-10-10T01:52:09.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <해리포터와 불의 잔> 콘서트 초대권 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8626&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8626&amp;p=1"/>
+        <updated>2023-10-10T01:46:49.918Z</updated>
+        <content type="html"><![CDATA[8626]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <악의 유전학> 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8625&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8614&amp;p=1"/>
         <updated>2023-09-19T01:48:53.839Z</updated>
         <content type="html"><![CDATA[8614]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <스크래퍼> 시사회 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8613&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8613&amp;p=1"/>
-        <updated>2023-09-19T00:49:53.100Z</updated>
-        <content type="html"><![CDATA[8613]]></content>
     </entry>
 </feed>
