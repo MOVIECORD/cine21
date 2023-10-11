@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 08:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 09:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,12 +120,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1010/14_56_37__6524e7958c129[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[그대들은 어떻게 살 것인가]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60890</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60890</guid>
-            <pubDate>Tue, 10 Oct 2023 15:15:45 GMT</pubDate>
+            <title><![CDATA[오픈 더 도어]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60891</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60891</guid>
+            <pubDate>Wed, 11 Oct 2023 08:18:25 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0925/16_03_59__651130dfadb4e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1011/17_43_24__6526602c26870[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[용감한 시민]]></title>
@@ -136,20 +136,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0922/14_22_04__650d247cee631[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오픈 더 도어]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60891</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60891</guid>
-            <pubDate>Wed, 11 Oct 2023 08:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1011/17_43_24__6526602c26870[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[두 사람을 위한 식탁]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59791</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59791</guid>
             <pubDate>Tue, 10 Oct 2023 15:15:45 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10-25]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1011/10_44_15__6525fdef59c30[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너와 나]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60402</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60402</guid>
+            <pubDate>Wed, 11 Oct 2023 09:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1011/15_17_40__65263e045e958[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
