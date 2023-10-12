@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 02:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 03:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,20 +112,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0927/15_31_18__6513cc3619edb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시수]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60888</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60888</guid>
-            <pubDate>Wed, 11 Oct 2023 06:19:41 GMT</pubDate>
+            <title><![CDATA[그대들은 어떻게 살 것인가]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60890</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60890</guid>
+            <pubDate>Thu, 12 Oct 2023 03:15:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1010/14_56_37__6524e7958c129[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈 더 도어]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60891</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60891</guid>
-            <pubDate>Wed, 11 Oct 2023 08:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1011/17_43_24__6526602c26870[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0925/16_03_59__651130dfadb4e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[용감한 시민]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Wed, 11 Oct 2023 08:18:25 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10-25]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0922/14_22_04__650d247cee631[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오픈 더 도어]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60891</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60891</guid>
+            <pubDate>Wed, 11 Oct 2023 08:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1011/17_43_24__6526602c26870[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[두 사람을 위한 식탁]]></title>
