@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-10-11T23:17:15.305Z</updated>
+    <updated>2023-10-12T00:51:59.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <바닷마을 다이어리> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8627&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8627&amp;p=1"/>
+        <updated>2023-10-12T00:48:14.594Z</updated>
+        <content type="html"><![CDATA[8627]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <해리포터와 불의 잔> 콘서트 초대권 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8626&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8615&amp;p=1"/>
         <updated>2023-09-19T01:48:53.839Z</updated>
         <content type="html"><![CDATA[8615]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <크리에이터> 시사회 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8614&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8614&amp;p=1"/>
-        <updated>2023-09-19T01:48:53.839Z</updated>
-        <content type="html"><![CDATA[8614]]></content>
     </entry>
 </feed>
