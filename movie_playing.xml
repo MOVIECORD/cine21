@@ -4,9 +4,17 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 14:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 15:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[21세기 피아노의 거장: 이고르 레빗]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60896</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60896</guid>
+            <pubDate>Sun, 15 Oct 2023 15:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0926/15_18_37__651277bd71470[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화사한 그녀]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60822</link>
@@ -24,22 +32,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1005/13_28_20__651e3b64952f6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기억해, 우리가 사랑한 시간]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60844</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60844</guid>
-            <pubDate>Tue, 10 Oct 2023 15:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0921/18_30_29__650c0d35bcade[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화란]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59696</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59696</guid>
-            <pubDate>Tue, 10 Oct 2023 15:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1013/17_04_38__6528fa161cf32[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[만강홍: 사라진 밀서]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60751</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60751</guid>
@@ -54,6 +46,22 @@
             <pubDate>Tue, 10 Oct 2023 15:15:34 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10-11]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0925/10_45_35__6510e63f8d1ee[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기억해, 우리가 사랑한 시간]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60844</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60844</guid>
+            <pubDate>Tue, 10 Oct 2023 15:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0921/18_30_29__650c0d35bcade[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화란]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59696</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59696</guid>
+            <pubDate>Tue, 10 Oct 2023 15:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1013/17_04_38__6528fa161cf32[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[퍼피 구조대: 더 마이티 무비]]></title>
@@ -96,20 +104,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0825/11_36_14__64e8139ee1115[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[30일]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60876</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60876</guid>
-            <pubDate>Sat, 14 Oct 2023 18:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1004/14_26_41__651cf791afb36[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[당나귀 EO]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60837</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60837</guid>
             <pubDate>Sat, 14 Oct 2023 18:16:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10-03]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0914/18_26_12__6502d1b40ea9f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[30일]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60876</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60876</guid>
+            <pubDate>Sat, 14 Oct 2023 18:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1004/14_26_41__651cf791afb36[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[21세기 피아노의 거장: 예프게니 키신]]></title>
@@ -136,20 +144,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0911/16_13_14__64febe0aa868d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더 넌 2]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60721</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60721</guid>
-            <pubDate>Sat, 14 Oct 2023 18:16:56 GMT</pubDate>
+            <title><![CDATA[씰벤져스: 용감한 바다특공대]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60846</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60846</guid>
+            <pubDate>Sun, 15 Oct 2023 15:13:53 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-09-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0907/15_08_04__64f968c4bda6c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[킹 오브 뉴욕]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=928</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=928</guid>
-            <pubDate>Sat, 14 Oct 2023 18:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-09-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2005/0616/M0010054_kingny_4[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0912/17_00_59__65001abbbc34c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
