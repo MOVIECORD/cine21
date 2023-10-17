@@ -4,9 +4,22 @@
         <title>씨네21 ─ 멀티미디어 ─ 동영상</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 08:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 09:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[＜더 킬러＞ 티저 예고편]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Tue, 17 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45194">-->
+					<a href="javascript:;" data-url="not_logged">
+						<img src="https://image.cine21.com/crop/data/838/652e485cda55a.jpg" alt="" class="thumb">
+						<span class="title">＜더 킬러＞ 티저 예고편</span>
+						<span class="date">2023-10-17</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/838/652e485cda55a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[＜유앤미앤미＞ 30초 예고편]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F10%2Fyou_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F891%2F652e345a6eb7f.jpg&amp;title=%EF%BC%9C%EC%9C%A0%EC%95%A4%EB%AF%B8%EC%95%A4%EB%AF%B8%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
@@ -201,19 +214,6 @@
 						<span class="date">2023-10-16</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/223/652ccfd75d06e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜프리 철수 리＞ 제작진 개봉 인사 영상]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F10%2Ffree_gmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F785%2F652cc408efc00.jpg&amp;title=%EF%BC%9C%ED%94%84%EB%A6%AC%20%EC%B2%A0%EC%88%98%20%EB%A6%AC%EF%BC%9E%20%EC%A0%9C%EC%9E%91%EC%A7%84%20%EA%B0%9C%EB%B4%89%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F10%2Ffree_gmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F785%2F652cc408efc00.jpg&amp;title=%EF%BC%9C%ED%94%84%EB%A6%AC%20%EC%B2%A0%EC%88%98%20%EB%A6%AC%EF%BC%9E%20%EC%A0%9C%EC%9E%91%EC%A7%84%20%EA%B0%9C%EB%B4%89%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81</guid>
-            <pubDate>Mon, 16 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45177">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F10%2Ffree_gmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F785%2F652cc408efc00.jpg&amp;title=%EF%BC%9C%ED%94%84%EB%A6%AC%20%EC%B2%A0%EC%88%98%20%EB%A6%AC%EF%BC%9E%20%EC%A0%9C%EC%9E%91%EC%A7%84%20%EA%B0%9C%EB%B4%89%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/10/free_gmk.mp4">
-						<img src="https://image.cine21.com/crop/data/785/652cc408efc00.jpg" alt="" class="thumb">
-						<span class="title">＜프리 철수 리＞ 제작진 개봉 인사 영상</span>
-						<span class="date">2023-10-16</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/785/652cc408efc00.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
