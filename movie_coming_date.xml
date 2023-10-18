@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 05:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 06:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 17 Oct 2023 15:16:20 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10-19]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2007/0320/M0010011_mo[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리의 하루]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60877</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60877</guid>
+            <pubDate>Tue, 10 Oct 2023 06:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0927/13_17_06__6513acc2aaf96[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문바운드]]></title>
@@ -80,22 +88,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1012/15_15_44__65278f10d5a89[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우리의 하루]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60877</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60877</guid>
-            <pubDate>Tue, 10 Oct 2023 06:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0927/13_17_06__6513acc2aaf96[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈 더 도어]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60891</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60891</guid>
-            <pubDate>Tue, 17 Oct 2023 15:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1011/17_43_24__6526602c26870[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[그대들은 어떻게 살 것인가]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60890</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60890</guid>
@@ -126,6 +118,14 @@
             <pubDate>Tue, 17 Oct 2023 15:16:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10-25]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1017/18_06_25__652e4e91286ec[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오픈 더 도어]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60891</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60891</guid>
+            <pubDate>Tue, 17 Oct 2023 15:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1011/17_43_24__6526602c26870[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너와 나]]></title>
