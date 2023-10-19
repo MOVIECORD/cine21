@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-10-19T02:24:16.356Z</updated>
+    <updated>2023-10-19T03:20:56.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <운빨 로맨스> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8634&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8634&amp;p=1"/>
+        <updated>2023-10-19T03:12:55.381Z</updated>
+        <content type="html"><![CDATA[8634]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <오백에 삼십> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8633&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8622&amp;p=1"/>
         <updated>2023-09-27T00:51:10.802Z</updated>
         <content type="html"><![CDATA[8622]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <창작형 인간의 하루> 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8621&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8621&amp;p=1"/>
-        <updated>2023-09-26T02:19:39.066Z</updated>
-        <content type="html"><![CDATA[8621]]></content>
     </entry>
 </feed>
