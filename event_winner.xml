@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 17:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 18:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,6 +33,15 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-10-19 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1011/10_26_40__6525f9d0d2d1f[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <2호선 세입자> 초대 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8636&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8636&amp;p=1</guid>
+            <pubDate>Thu, 19 Oct 2023 18:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-10-19 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1011/10_31_42__6525fafe4d3fb[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도서 <위리 이야기> 기대평 이벤트]]></title>
@@ -104,15 +113,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>6 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-10-05 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0918/10_50_55__6507acffc55a7[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <악의 유전학> 기대평 이벤트]]></title>
-            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8625&amp;p=1</link>
-            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8625&amp;p=1</guid>
-            <pubDate>Mon, 16 Oct 2023 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-10-04 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/0920/10_18_11__650a4853e8915[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
