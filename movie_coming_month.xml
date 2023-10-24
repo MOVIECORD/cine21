@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 07:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 08:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -87,6 +87,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0922/15_40_04__650d36c475eae[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[극장판 파워 디지몬 더 비기닝]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60944</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60944</guid>
+            <pubDate>Tue, 24 Oct 2023 08:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1024/16_50_57__65377761e6151[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[금의 나라 물의 나라]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60938</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60938</guid>
@@ -101,13 +109,6 @@
             <pubDate>Wed, 18 Oct 2023 08:18:57 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1018/14_29_44__652f6d48d3661[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나폴레옹]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60935</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60935</guid>
-            <pubDate>Wed, 18 Oct 2023 06:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-11]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뉴 노멀]]></title>
@@ -141,12 +142,11 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1011/14_05_39__65262d23de3c6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[홈그라운드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59773</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59773</guid>
-            <pubDate>Tue, 24 Oct 2023 06:19:49 GMT</pubDate>
+            <title><![CDATA[레슬리에게]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60800</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60800</guid>
+            <pubDate>Tue, 24 Oct 2023 08:21:50 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1004/16_13_27__651d1097c3f50[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
