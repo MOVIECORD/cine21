@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-10-26T00:59:42.122Z</updated>
+    <updated>2023-10-26T01:57:56.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <늘근도둑이야기> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8638&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8638&amp;p=1"/>
+        <updated>2023-10-26T01:45:15.976Z</updated>
+        <content type="html"><![CDATA[8638]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <소년들> 시사회 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8637&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8626&amp;p=1"/>
         <updated>2023-10-10T01:46:49.918Z</updated>
         <content type="html"><![CDATA[8626]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <악의 유전학> 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8625&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8625&amp;p=1"/>
-        <updated>2023-10-05T00:50:43.988Z</updated>
-        <content type="html"><![CDATA[8625]]></content>
     </entry>
 </feed>
