@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 07:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 08:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,12 +23,20 @@
             <content:encoded><![CDATA[개봉 : 2023-11-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[약속]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60848</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60848</guid>
-            <pubDate>Tue, 24 Oct 2023 15:20:29 GMT</pubDate>
+            <title><![CDATA[퀵샌드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60941</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60941</guid>
+            <pubDate>Tue, 24 Oct 2023 06:19:36 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1018/16_17_21__652f86816cf1c[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1024/11_55_56__6537323c1f5d4[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[녹야]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60919</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60919</guid>
+            <pubDate>Wed, 18 Oct 2023 15:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-11-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1025/15_40_51__6538b873d6c30[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원 모어 찬스]]></title>
@@ -37,14 +45,6 @@
             <pubDate>Tue, 24 Oct 2023 15:20:30 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1026/15_07_59__653a023fc8ed2[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퀵샌드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60941</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60941</guid>
-            <pubDate>Tue, 24 Oct 2023 06:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-11-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1024/11_55_56__6537323c1f5d4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[키리에의 노래]]></title>
@@ -63,14 +63,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1017/17_40_59__652e489bceeda[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[녹야]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60919</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60919</guid>
-            <pubDate>Wed, 18 Oct 2023 15:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-11-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1025/15_40_51__6538b873d6c30[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[톡 투 미]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60872</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60872</guid>
@@ -79,12 +71,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1005/14_35_58__651e4b3e19ef8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소년들]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56460</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56460</guid>
-            <pubDate>Tue, 24 Oct 2023 09:20:17 GMT</pubDate>
+            <title><![CDATA[약속]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60848</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60848</guid>
+            <pubDate>Tue, 24 Oct 2023 15:20:29 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1010/15_08_01__6524ea411e01a[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1018/16_17_21__652f86816cf1c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[버텨내고 존재하기]]></title>
@@ -103,12 +95,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1011/17_50_14__652661c6f24f5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[소년들]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56460</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56460</guid>
+            <pubDate>Tue, 24 Oct 2023 09:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-11-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1010/15_08_01__6524ea411e01a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시뮬런트]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60818</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60818</guid>
             <pubDate>Tue, 24 Oct 2023 15:20:30 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1011/15_58_54__652647ae1dcc9[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1027/17_30_30__653b752612c75[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마이 샤이니 월드]]></title>
@@ -117,14 +117,6 @@
             <pubDate>Tue, 24 Oct 2023 15:20:30 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11-03]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1024/16_09_53__65376dc1c849f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너를 줍다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60923</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60923</guid>
-            <pubDate>Thu, 26 Oct 2023 06:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-11-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1024/11_41_19__65372ecfb6033[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[괴인]]></title>
@@ -149,6 +141,14 @@
             <pubDate>Fri, 27 Oct 2023 04:19:38 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11-08]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1024/19_03_11__6537965ff057e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5시부터 7시까지의 주희]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60861</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60861</guid>
+            <pubDate>Fri, 27 Oct 2023 08:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-11-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1016/15_23_24__652cd6dc8f385[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
