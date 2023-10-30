@@ -4,9 +4,16 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 06:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 07:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크레이븐 더 헌터]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60665</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60665</guid>
+            <pubDate>Tue, 10 Oct 2023 17:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[컨피덴셜 인포먼트]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60883</link>
@@ -16,19 +23,19 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0922/15_40_04__650d36c475eae[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크레이븐 더 헌터]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60665</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60665</guid>
-            <pubDate>Tue, 10 Oct 2023 17:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[비밀]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60903</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60903</guid>
             <pubDate>Tue, 17 Oct 2023 06:20:13 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1011/14_05_39__65262d23de3c6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어큐즈드: SNS심판]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60962</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60962</guid>
+            <pubDate>Fri, 27 Oct 2023 03:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-11]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[본 투 플라이]]></title>
@@ -70,11 +77,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1026/14_45_11__6539fce71aea0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어큐즈드: SNS심판]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60962</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60962</guid>
-            <pubDate>Fri, 27 Oct 2023 03:23:37 GMT</pubDate>
+            <title><![CDATA[세계를 뒤흔든 43일]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60965</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60965</guid>
+            <pubDate>Mon, 30 Oct 2023 07:17:16 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1030/16_14_35__653f57db4632d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어느 날 그녀가 우주에서]]></title>
@@ -85,14 +93,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1019/17_14_23__6530e55fce053[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[노량: 죽음의 바다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57540</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57540</guid>
-            <pubDate>Fri, 27 Oct 2023 03:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0927/17_12_43__6513e3fbaecc0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[도티와 영원의 탑]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60945</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60945</guid>
@@ -101,20 +101,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1024/17_47_10__6537848e98c70[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[홈그라운드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59773</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59773</guid>
+            <title><![CDATA[노량: 죽음의 바다]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57540</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57540</guid>
             <pubDate>Fri, 27 Oct 2023 03:23:37 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1026/14_28_01__6539f8e1e1d83[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나폴레옹]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60935</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60935</guid>
-            <pubDate>Fri, 27 Oct 2023 03:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1024/17_37_43__653782572658e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0927/17_12_43__6513e3fbaecc0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뽀로로 극장판 슈퍼스타 대모험]]></title>
@@ -125,27 +117,35 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0925/18_34_37__6511542db6c7f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[발레리나]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60453</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60453</guid>
-            <pubDate>Mon, 30 Oct 2023 05:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0427/19_05_10__644a48d661018[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[나폴레옹]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60935</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60935</guid>
+            <pubDate>Fri, 27 Oct 2023 03:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1024/17_37_43__653782572658e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인터뷰]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60722</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60722</guid>
-            <pubDate>Mon, 30 Oct 2023 05:19:00 GMT</pubDate>
+            <title><![CDATA[홈그라운드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59773</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59773</guid>
+            <pubDate>Fri, 27 Oct 2023 03:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1026/14_28_01__6539f8e1e1d83[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[말할 수 없는 비밀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
+            <pubDate>Mon, 30 Oct 2023 07:17:16 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[보통의 가족]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60745</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60745</guid>
-            <pubDate>Mon, 30 Oct 2023 05:19:00 GMT</pubDate>
+            <title><![CDATA[밥 말리: 원 러브]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60725</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60725</guid>
+            <pubDate>Mon, 30 Oct 2023 07:17:16 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0727/18_39_04__64c23b38a9258[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0718/16_31_56__64b63fec14072[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
