@@ -4,9 +4,17 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 14:29:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 15:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시뮬런트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60818</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60818</guid>
+            <pubDate>Wed, 01 Nov 2023 15:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-11-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1027/17_30_30__653b752612c75[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[톡 투 미]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60872</link>
@@ -134,14 +142,6 @@
             <pubDate>Tue, 24 Oct 2023 15:20:10 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-10-25]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1027/17_54_09__653b7ab1cc902[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유앤미앤미]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60843</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60843</guid>
-            <pubDate>Tue, 24 Oct 2023 15:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-10-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1011/12_37_58__6526189665f8e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 킬러]]></title>
