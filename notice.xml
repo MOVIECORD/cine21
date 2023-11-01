@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-11-01T01:08:00.394Z</updated>
+    <updated>2023-11-01T02:07:38.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <5시부터 7시까지의 주희> 시사회 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8643&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8643&amp;p=1"/>
+        <updated>2023-11-01T01:54:40.050Z</updated>
+        <content type="html"><![CDATA[8643]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울국제프라이드영화제 초대권 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8642&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8631&amp;p=1"/>
         <updated>2023-10-19T02:19:43.430Z</updated>
         <content type="html"><![CDATA[8631]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <유앤미앤미> 시사회 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8630&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8630&amp;p=1"/>
-        <updated>2023-10-17T00:51:23.165Z</updated>
-        <content type="html"><![CDATA[8630]]></content>
     </entry>
 </feed>
