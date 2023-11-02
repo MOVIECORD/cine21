@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-11-02T01:11:29.873Z</updated>
+    <updated>2023-11-02T02:04:24.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울무용영화제 개막작 <라이즈> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8644&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8644&amp;p=1"/>
+        <updated>2023-11-02T01:47:29.212Z</updated>
+        <content type="html"><![CDATA[8644]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <5시부터 7시까지의 주희> 시사회 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8643&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8632&amp;p=1"/>
         <updated>2023-10-19T02:19:43.428Z</updated>
         <content type="html"><![CDATA[8632]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <너와 나> 시사회 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8631&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8631&amp;p=1"/>
-        <updated>2023-10-19T02:19:43.430Z</updated>
-        <content type="html"><![CDATA[8631]]></content>
     </entry>
 </feed>
