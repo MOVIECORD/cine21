@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-11-08T00:59:42.481Z</updated>
+    <updated>2023-11-08T02:00:36.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[창극 <패왕별희> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8648&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8648&amp;p=1"/>
+        <updated>2023-11-08T01:50:44.201Z</updated>
+        <content type="html"><![CDATA[8648]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <만분의 일초> 시사회 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8647&amp;p=1</id>
@@ -88,12 +95,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8636&amp;p=1"/>
         <updated>2023-10-23T01:49:26.825Z</updated>
         <content type="html"><![CDATA[8636]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <어차피 겪어야 될 사랑 이야기> 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8635&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8635&amp;p=1"/>
-        <updated>2023-10-20T01:47:52.201Z</updated>
-        <content type="html"><![CDATA[8635]]></content>
     </entry>
 </feed>
