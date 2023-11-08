@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 14:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 15:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 02 Nov 2023 12:29:47 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2019/0909/11_08_36__5d75b4241a4ea[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물귀신]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60950</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60950</guid>
-            <pubDate>Tue, 31 Oct 2023 15:26:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-11-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1030/17_09_29__653f64b90d8f9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백지영 콘서트 인 시네마]]></title>
@@ -150,6 +142,14 @@
             <pubDate>Tue, 07 Nov 2023 15:18:37 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11-22]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1026/16_35_31__653a16c3e15b0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅슬립]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57430</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57430</guid>
+            <pubDate>Wed, 08 Nov 2023 15:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-11-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1102/15_40_06__65434446e470b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
