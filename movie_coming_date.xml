@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 06:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 07:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,20 +128,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1101/16_17_34__6541fb8e4391e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인디펜던스 나이트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60989</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60989</guid>
-            <pubDate>Wed, 08 Nov 2023 00:56:50 GMT</pubDate>
+            <title><![CDATA[아워 프렌드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60949</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60949</guid>
+            <pubDate>Thu, 09 Nov 2023 07:15:26 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1108/10_36_45__654ae62d56040[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사채소년]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60963</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60963</guid>
-            <pubDate>Tue, 07 Nov 2023 15:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-11-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1026/16_35_31__653a16c3e15b0[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1108/10_20_45__654ae26d994a8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빅슬립]]></title>
@@ -150,6 +142,14 @@
             <pubDate>Wed, 08 Nov 2023 15:18:10 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11-22]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1102/15_40_06__65434446e470b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울의 봄]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58978</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58978</guid>
+            <pubDate>Thu, 09 Nov 2023 07:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-11-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1025/13_49_56__65389e7412f0e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
