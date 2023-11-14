@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 03:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 04:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,13 +21,6 @@
             <pubDate>Tue, 17 Oct 2023 06:20:13 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1108/14_19_09__654b1a4d84c30[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무경계]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60901</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60901</guid>
-            <pubDate>Thu, 12 Oct 2023 03:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-11]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[그림자 고백]]></title>
@@ -145,6 +138,13 @@
             <pubDate>Fri, 10 Nov 2023 01:57:17 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0727/18_39_04__64c23b38a9258[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혹성탈출: 새로운 시대]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60996</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60996</guid>
+            <pubDate>Tue, 14 Nov 2023 04:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
     </channel>
 </rss>
