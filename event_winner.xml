@@ -4,9 +4,18 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 01:02:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 02:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <옥탑방 고양이> 초대 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8655&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8655&amp;p=1</guid>
+            <pubDate>Wed, 15 Nov 2023 02:02:14 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-11-15 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1103/10_14_12__654449640e7f3[T224,320].jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[연극 <운빨 로맨스> 초대 이벤트]]></title>
             <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8653&amp;p=1</link>
@@ -104,17 +113,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-11-01 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1019/10_51_52__65308bb864021[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울무용영화제 개막작 <라이즈> 기대평 이벤트]]></title>
-            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8644&amp;p=1</link>
-            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8644&amp;p=1</guid>
-            <pubDate>Wed, 01 Nov 2023 17:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-11-04 17:30:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>아트나인</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-10-31 17:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1017/10_23_58__652de22e3ee56[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
