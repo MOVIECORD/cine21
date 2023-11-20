@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 01:00:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 02:07:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -101,14 +101,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1116/16_40_39__6555c777b4fee[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[노량: 죽음의 바다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57540</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57540</guid>
-            <pubDate>Fri, 27 Oct 2023 03:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0927/17_12_43__6513e3fbaecc0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[조이랜드]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60228</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60228</guid>
@@ -145,6 +137,14 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=60722</guid>
             <pubDate>Tue, 14 Nov 2023 06:21:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[밥 말리: 원 러브]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60725</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60725</guid>
+            <pubDate>Mon, 20 Nov 2023 02:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0718/16_31_56__64b63fec14072[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
