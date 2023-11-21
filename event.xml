@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 14:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 15:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,15 +26,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-11-23 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1115/11_08_54__65542836b61e0[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <늘근도둑이야기> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8226</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8226</guid>
-            <pubDate>Tue, 07 Nov 2023 16:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>30 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-11-22 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1108/00_39_23__654a5a2b7c391[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
