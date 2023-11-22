@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 06:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 07:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Thu, 16 Nov 2023 09:15:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1116/17_37_08__6555d4b454330[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말하고 싶은 비밀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61008</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61008</guid>
-            <pubDate>Wed, 15 Nov 2023 10:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1122/13_35_23__655d850babb75[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수운잡방]]></title>
@@ -87,20 +79,20 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[발레리나]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60453</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60453</guid>
-            <pubDate>Mon, 20 Nov 2023 08:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0427/19_05_10__644a48d661018[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[혹성탈출: 새로운 시대]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60996</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60996</guid>
             <pubDate>Tue, 14 Nov 2023 04:21:45 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1115/14_24_38__65545616c20de[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발레리나]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60453</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60453</guid>
+            <pubDate>Mon, 20 Nov 2023 08:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0427/19_05_10__644a48d661018[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인터뷰]]></title>
