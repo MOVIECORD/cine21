@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-11-22T01:08:08.492Z</updated>
+    <updated>2023-11-22T02:13:25.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도서 <타국에서의 일년> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8661&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8661&amp;p=1"/>
+        <updated>2023-11-22T01:57:08.323Z</updated>
+        <content type="html"><![CDATA[8661]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <괴물> 시사회 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8660&amp;p=1</id>
@@ -95,12 +102,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8648&amp;p=1"/>
         <updated>2023-11-08T01:50:44.201Z</updated>
         <content type="html"><![CDATA[8648]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <만분의 일초> 시사회 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8647&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8647&amp;p=1"/>
-        <updated>2023-11-06T01:53:50.118Z</updated>
-        <content type="html"><![CDATA[8647]]></content>
     </entry>
 </feed>
