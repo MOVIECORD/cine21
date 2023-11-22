@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 03:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 04:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=60997</guid>
             <pubDate>Fri, 10 Nov 2023 08:19:41 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1122/13_19_20__655d8148574ab[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑의 스잔나]]></title>
@@ -36,6 +37,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=61008</guid>
             <pubDate>Wed, 15 Nov 2023 10:20:16 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1122/13_35_23__655d850babb75[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수운잡방]]></title>
