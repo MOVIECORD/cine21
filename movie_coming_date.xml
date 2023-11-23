@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 01:00:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 02:04:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 22 Nov 2023 07:16:08 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11-22]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1122/14_32_31__655d926f8dc9b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[키리에의 노래: 디렉터스 컷]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61052</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61052</guid>
+            <pubDate>Thu, 23 Nov 2023 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-11-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1123/11_03_18__655eb2e609592[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그림자 고백]]></title>
@@ -40,20 +48,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1101/14_18_06__6541df8e9341f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아줌마]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60961</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60961</guid>
-            <pubDate>Tue, 14 Nov 2023 17:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-11-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1110/16_55_02__654de1d61b767[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[사형에 이르는 병]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60880</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60880</guid>
             <pubDate>Tue, 14 Nov 2023 17:14:15 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11-29]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1030/17_11_46__653f6542ee860[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 파워 디지몬 더 비기닝]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60944</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60944</guid>
+            <pubDate>Tue, 14 Nov 2023 17:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-11-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1115/13_52_24__65544e88a75dd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[괴물]]></title>
@@ -72,20 +80,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1019/16_42_56__6530de00da3c3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 파워 디지몬 더 비기닝]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60944</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60944</guid>
+            <title><![CDATA[아줌마]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60961</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60961</guid>
             <pubDate>Tue, 14 Nov 2023 17:14:15 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1115/13_52_24__65544e88a75dd[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울왕국 2]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=54366</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=54366</guid>
-            <pubDate>Tue, 21 Nov 2023 15:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-11-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2019/1121/11_09_00__5dd5f1bca6765[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1110/16_55_02__654de1d61b767[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컨트리 카바레]]></title>
@@ -96,20 +96,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1116/14_51_25__6555addd153f4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[겨울왕국]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=40093</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=40093</guid>
-            <pubDate>Tue, 21 Nov 2023 15:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-11-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2014/0103/11_33_51__52c62190002d5[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 우당탕탕 은하안전단: 진정한 용기!]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60906</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60906</guid>
             <pubDate>Tue, 21 Nov 2023 15:17:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11-30]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1120/15_00_18__655af5f2df786[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울왕국 2]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=54366</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=54366</guid>
+            <pubDate>Tue, 21 Nov 2023 15:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-11-30]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2019/1121/11_09_00__5dd5f1bca6765[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울왕국]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=40093</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=40093</guid>
+            <pubDate>Tue, 21 Nov 2023 15:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-11-30]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2014/0103/11_33_51__52c62190002d5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무경계]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 22 Nov 2023 15:17:37 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1122/11_08_35__655d62a37fec6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노 엑시트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60994</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60994</guid>
-            <pubDate>Tue, 21 Nov 2023 15:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1120/17_11_13__655b14a11e886[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레트리뷰션]]></title>
