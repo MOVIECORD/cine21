@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 15:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 16:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3427,6 +3427,15 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0602/16_46_14__5ed603c6be516[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 <2호선 세입자> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8233</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8233</guid>
+            <pubDate>Sun, 26 Nov 2023 16:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2023-12-07 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1124/16_45_44__656054a80a8f3[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[도서 <진실에 다가가기> 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8232</link>
             <guid>http://www.cine21.com/event/view/?event_no=8232</guid>
@@ -3445,17 +3454,6 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
                                             <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-12-04 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1122/10_36_54__655d5b3680629[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <물비늘> 시사회 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8230</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8230</guid>
-            <pubDate>Mon, 20 Nov 2023 02:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-11-29 19:30</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-11-27 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1120/11_20_40__655ac278ed144[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도서 <햇살보다 더 눈부시게 웃어줘> 증정 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
