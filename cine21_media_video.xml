@@ -4,9 +4,22 @@
         <title>씨네21 ─ 멀티미디어 ─ 동영상</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 07:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 08:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[＜걸 위드 건＞ 예고편]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45433">-->
+					<a href="javascript:;" data-url="not_logged">
+						<img src="https://image.cine21.com/crop/data/474/65644a504393b.jpg" alt="" class="thumb">
+						<span class="title">＜걸 위드 건＞ 예고편</span>
+						<span class="date">2023-11-27</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/474/65644a504393b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[＜냉정과 열정 사이＞ 20주년 기념 예고편]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fbetween_20tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F061%2F656432b897029.jpg&amp;title=%EF%BC%9C%EB%83%89%EC%A0%95%EA%B3%BC%20%EC%97%B4%EC%A0%95%20%EC%82%AC%EC%9D%B4%EF%BC%9E%2020%EC%A3%BC%EB%85%84%20%EA%B8%B0%EB%85%90%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
@@ -201,19 +214,6 @@
 						<span class="date">2023-11-24</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/761/65603b1323f87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜매트＞ 티저 예고편]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fmat_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F637%2F655eef0810fd9.jpg&amp;title=%EF%BC%9C%EB%A7%A4%ED%8A%B8%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fmat_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F637%2F655eef0810fd9.jpg&amp;title=%EF%BC%9C%EB%A7%A4%ED%8A%B8%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45409">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fmat_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F637%2F655eef0810fd9.jpg&amp;title=%EF%BC%9C%EB%A7%A4%ED%8A%B8%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/11/mat_ttr.mp4">
-						<img src="https://image.cine21.com/crop/data/637/655eef0810fd9.jpg" alt="" class="thumb">
-						<span class="title">＜매트＞ 티저 예고편</span>
-						<span class="date">2023-11-23</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/637/655eef0810fd9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
