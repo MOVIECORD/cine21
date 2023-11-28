@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 02:33:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 03:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3066,6 +3066,7 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <guid>http://www.cine21.com/movie/info/?movie_id=61064</guid>
             <pubDate>Tue, 28 Nov 2023 02:31:29 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1128/12_10_42__65655a32a0fd9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도티와 영원의 탑 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3840,6 +3841,32 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/crop/data/860/647f85847a51c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[＜물비늘＞ 30초 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fripple_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F298%2F6565545354d5b.jpg&amp;title=%EF%BC%9C%EB%AC%BC%EB%B9%84%EB%8A%98%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fripple_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F298%2F6565545354d5b.jpg&amp;title=%EF%BC%9C%EB%AC%BC%EB%B9%84%EB%8A%98%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45437">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fripple_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F298%2F6565545354d5b.jpg&amp;title=%EF%BC%9C%EB%AC%BC%EB%B9%84%EB%8A%98%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/11/ripple_30tr.mp4">
+						<img src="https://image.cine21.com/crop/data/298/6565545354d5b.jpg" alt="" class="thumb">
+						<span class="title">＜물비늘＞ 30초 예고편</span>
+						<span class="date">2023-11-28</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/298/6565545354d5b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜더 와일드: 야수들의 전쟁＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fwild_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F499%2F656552e920334.jpg&amp;title=%EF%BC%9C%EB%8D%94%20%EC%99%80%EC%9D%BC%EB%93%9C%3A%20%EC%95%BC%EC%88%98%EB%93%A4%EC%9D%98%20%EC%A0%84%EC%9F%81%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fwild_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F499%2F656552e920334.jpg&amp;title=%EF%BC%9C%EB%8D%94%20%EC%99%80%EC%9D%BC%EB%93%9C%3A%20%EC%95%BC%EC%88%98%EB%93%A4%EC%9D%98%20%EC%A0%84%EC%9F%81%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45436">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fwild_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F499%2F656552e920334.jpg&amp;title=%EF%BC%9C%EB%8D%94%20%EC%99%80%EC%9D%BC%EB%93%9C%3A%20%EC%95%BC%EC%88%98%EB%93%A4%EC%9D%98%20%EC%A0%84%EC%9F%81%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/11/wild_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/499/656552e920334.jpg" alt="" class="thumb">
+						<span class="title">＜더 와일드: 야수들의 전쟁＞ 메인 예고편</span>
+						<span class="date">2023-11-28</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/499/656552e920334.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[＜세이퍼 앳 홈＞ 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fsafer_tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F311%2F6565508ceccc9.jpg&amp;title=%EF%BC%9C%EC%84%B8%EC%9D%B4%ED%8D%BC%20%EC%95%B3%20%ED%99%88%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
             <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fsafer_tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F311%2F6565508ceccc9.jpg&amp;title=%EF%BC%9C%EC%84%B8%EC%9D%B4%ED%8D%BC%20%EC%95%B3%20%ED%99%88%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
@@ -4020,32 +4047,6 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
 						<span class="date">2023-11-24</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/111/65604d156e13b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜너는 내 아들＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fson_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F152%2F65604d1688f72.jpg&amp;title=%EF%BC%9C%EB%84%88%EB%8A%94%20%EB%82%B4%20%EC%95%84%EB%93%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fson_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F152%2F65604d1688f72.jpg&amp;title=%EF%BC%9C%EB%84%88%EB%8A%94%20%EB%82%B4%20%EC%95%84%EB%93%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Fri, 24 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45414">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fson_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F152%2F65604d1688f72.jpg&amp;title=%EF%BC%9C%EB%84%88%EB%8A%94%20%EB%82%B4%20%EC%95%84%EB%93%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/11/son_mtr.mp4">
-						<img src="https://image.cine21.com/crop/data/152/65604d1688f72.jpg" alt="" class="thumb">
-						<span class="title">＜너는 내 아들＞ 메인 예고편</span>
-						<span class="date">2023-11-24</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/152/65604d1688f72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜세틀러스＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fsettlers_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F783%2F656049885af67.jpg&amp;title=%EF%BC%9C%EC%84%B8%ED%8B%80%EB%9F%AC%EC%8A%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fsettlers_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F783%2F656049885af67.jpg&amp;title=%EF%BC%9C%EC%84%B8%ED%8B%80%EB%9F%AC%EC%8A%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Fri, 24 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45413">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fsettlers_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F783%2F656049885af67.jpg&amp;title=%EF%BC%9C%EC%84%B8%ED%8B%80%EB%9F%AC%EC%8A%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/11/settlers_mtr.mp4">
-						<img src="https://image.cine21.com/crop/data/783/656049885af67.jpg" alt="" class="thumb">
-						<span class="title">＜세틀러스＞ 메인 예고편</span>
-						<span class="date">2023-11-24</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/783/656049885af67.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#줌터뷰] 〈이터널스〉 감독은 왜 마동석을 캐스팅했을까? feat.〈승리호〉 조성희 감독 (씨네21 ─ 네이버TV)]]></title>
