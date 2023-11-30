@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 04:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 05:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1122/11_08_35__655d62a37fec6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나폴레옹]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60935</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60935</guid>
-            <pubDate>Tue, 28 Nov 2023 15:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1116/16_40_39__6555c777b4fee[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[레트리뷰션]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60908</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60908</guid>
@@ -96,6 +88,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1123/15_19_36__655eeef81acaa[X224,320].png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[교토에서 온 편지]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61000</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61000</guid>
+            <pubDate>Tue, 28 Nov 2023 15:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1113/14_29_47__6551b44bbbf60[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[3일의 휴가]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=55915</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=55915</guid>
@@ -112,20 +112,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1124/17_59_19__656065e71ade8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[교토에서 온 편지]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61000</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61000</guid>
-            <pubDate>Tue, 28 Nov 2023 15:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1113/14_29_47__6551b44bbbf60[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[홈그라운드]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59773</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59773</guid>
             <pubDate>Wed, 29 Nov 2023 15:19:26 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1110/18_19_30__654df5a242955[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나폴레옹]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60935</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60935</guid>
+            <pubDate>Tue, 28 Nov 2023 15:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1116/16_40_39__6555c777b4fee[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매직 프린세스: 얼음 괴물과 사라진 열쇠의 비밀]]></title>
@@ -144,12 +144,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1116/16_03_38__6555beca86a03[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조이랜드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60228</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60228</guid>
-            <pubDate>Wed, 29 Nov 2023 15:19:26 GMT</pubDate>
+            <title><![CDATA[뽀로로 극장판 슈퍼스타 대모험]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60893</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60893</guid>
+            <pubDate>Thu, 30 Nov 2023 05:16:28 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-12-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1128/14_12_07__656576a759b4e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1106/18_10_12__6548ad743d9a2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
