@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 14:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 15:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2749,6 +2749,14 @@ K-크리처 장르의 새 지평을 열었던 이 더 강력하게 돌아온다.
             <enclosure url="https://image.cine21.com/crop/data/819/6528980f624cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[수운잡방 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60993</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60993</guid>
+            <pubDate>Thu, 09 Nov 2023 07:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1115/17_53_25__6554870552f0b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[겨울왕국 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=40093</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=40093</guid>
@@ -2757,20 +2765,20 @@ K-크리처 장르의 새 지평을 열었던 이 더 강력하게 돌아온다.
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2014/0103/11_33_51__52c62190002d5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 우당탕탕 은하안전단: 진정한 용기! (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60906</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60906</guid>
-            <pubDate>Tue, 21 Nov 2023 15:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-11-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1120/15_00_18__655af5f2df786[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[매트 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61054</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61054</guid>
             <pubDate>Thu, 23 Nov 2023 06:21:44 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11-30]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1123/15_54_30__655ef726e4c43[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컨트리 카바레 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61009</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61009</guid>
+            <pubDate>Tue, 21 Nov 2023 05:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-11-30]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1116/14_51_25__6555addd153f4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세이퍼 앳 홈 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2789,12 +2797,12 @@ K-크리처 장르의 새 지평을 열었던 이 더 강력하게 돌아온다.
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1114/13_12_46__6552f3bef2074[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[컨트리 카바레 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61009</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61009</guid>
-            <pubDate>Tue, 21 Nov 2023 05:21:11 GMT</pubDate>
+            <title><![CDATA[극장판 우당탕탕 은하안전단: 진정한 용기! (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60906</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60906</guid>
+            <pubDate>Tue, 21 Nov 2023 15:17:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11-30]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1116/14_51_25__6555addd153f4[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1120/15_00_18__655af5f2df786[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울왕국 2 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2803,22 +2811,6 @@ K-크리처 장르의 새 지평을 열었던 이 더 강력하게 돌아온다.
             <pubDate>Tue, 21 Nov 2023 15:17:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11-30]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2019/1121/11_09_00__5dd5f1bca6765[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레슬리에게 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60800</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60800</guid>
-            <pubDate>Tue, 14 Nov 2023 17:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-11-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1101/14_18_06__6541df8e9341f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사형에 이르는 병 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60880</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60880</guid>
-            <pubDate>Tue, 14 Nov 2023 17:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-11-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1030/17_11_46__653f6542ee860[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아줌마 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2835,6 +2827,22 @@ K-크리처 장르의 새 지평을 열었던 이 더 강력하게 돌아온다.
             <pubDate>Tue, 14 Nov 2023 17:14:15 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-11-29]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1130/17_46_08__65684bd0134d1[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레슬리에게 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60800</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60800</guid>
+            <pubDate>Tue, 14 Nov 2023 17:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-11-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1101/14_18_06__6541df8e9341f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사형에 이르는 병 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60880</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60880</guid>
+            <pubDate>Tue, 14 Nov 2023 17:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-11-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1030/17_11_46__653f6542ee860[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판 파워 디지몬 더 비기닝 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2869,14 +2877,6 @@ K-크리처 장르의 새 지평을 열었던 이 더 강력하게 돌아온다.
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1101/14_02_41__6541dbf1bb433[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[키리에의 노래: 디렉터스 컷 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61052</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61052</guid>
-            <pubDate>Thu, 23 Nov 2023 02:00:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-11-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1123/11_03_18__655eb2e609592[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[그림자 고백 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60992</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60992</guid>
@@ -2885,12 +2885,12 @@ K-크리처 장르의 새 지평을 열었던 이 더 강력하게 돌아온다.
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1127/15_28_45__6564371d52b5e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스노우 폭스: 썰매개가 될 거야! (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60940</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60940</guid>
-            <pubDate>Wed, 22 Nov 2023 16:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-11-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1106/14_44_14__65487d2e5b9d6[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[키리에의 노래: 디렉터스 컷 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61052</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61052</guid>
+            <pubDate>Thu, 23 Nov 2023 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-11-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1123/11_03_18__655eb2e609592[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타임코드 57 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2901,60 +2901,12 @@ K-크리처 장르의 새 지평을 열었던 이 더 강력하게 돌아온다.
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1122/14_32_31__655d926f8dc9b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[수운잡방 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60993</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60993</guid>
-            <pubDate>Thu, 09 Nov 2023 07:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1115/17_53_25__6554870552f0b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나폴레옹 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60935</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60935</guid>
-            <pubDate>Tue, 28 Nov 2023 15:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1116/16_40_39__6555c777b4fee[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물비늘 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60966</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60966</guid>
-            <pubDate>Tue, 28 Nov 2023 15:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1122/11_08_35__655d62a37fec6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노 엑시트 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60994</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60994</guid>
-            <pubDate>Tue, 28 Nov 2023 15:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1120/17_11_13__655b14a11e886[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[엔시티 네이션 : 투 더 월드 인 시네마 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61059</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61059</guid>
             <pubDate>Tue, 28 Nov 2023 08:20:32 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1124/17_59_19__656065e71ade8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교토에서 온 편지 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61000</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61000</guid>
-            <pubDate>Tue, 28 Nov 2023 15:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1113/14_29_47__6551b44bbbf60[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴클리어 나우 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61038</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61038</guid>
-            <pubDate>Tue, 28 Nov 2023 15:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1120/14_00_09__655ae7d9d1e81[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[룩앳미 터치미 키스미 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2965,28 +2917,52 @@ K-크리처 장르의 새 지평을 열었던 이 더 강력하게 돌아온다.
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1127/18_12_34__65645d82e66e2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴클리어 나우 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61038</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61038</guid>
+            <pubDate>Tue, 28 Nov 2023 15:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1120/14_00_09__655ae7d9d1e81[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[교토에서 온 편지 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61000</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61000</guid>
+            <pubDate>Tue, 28 Nov 2023 15:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1113/14_29_47__6551b44bbbf60[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노 엑시트 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60994</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60994</guid>
+            <pubDate>Tue, 28 Nov 2023 15:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1120/17_11_13__655b14a11e886[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[물비늘 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60966</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60966</guid>
+            <pubDate>Tue, 28 Nov 2023 15:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1122/11_08_35__655d62a37fec6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나폴레옹 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60935</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60935</guid>
+            <pubDate>Tue, 28 Nov 2023 15:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1116/16_40_39__6555c777b4fee[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레트리뷰션 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60908</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60908</guid>
             <pubDate>Tue, 28 Nov 2023 15:19:01 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1113/16_30_59__6551d0b34065c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3일의 휴가 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=55915</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=55915</guid>
-            <pubDate>Wed, 29 Nov 2023 15:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1024/18_23_39__65378d1bbbbd0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[냉정과 열정 사이 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=6845</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=6845</guid>
-            <pubDate>Wed, 29 Nov 2023 15:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1109/16_57_29__654c90e9b7eaa[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신 울트라맨 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3003,6 +2979,22 @@ K-크리처 장르의 새 지평을 열었던 이 더 강력하게 돌아온다.
             <pubDate>Tue, 28 Nov 2023 15:19:01 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1128/14_37_59__65657cb775cf1[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3일의 휴가 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55915</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55915</guid>
+            <pubDate>Wed, 29 Nov 2023 15:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1024/18_23_39__65378d1bbbbd0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[냉정과 열정 사이 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=6845</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=6845</guid>
+            <pubDate>Wed, 29 Nov 2023 15:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1109/16_57_29__654c90e9b7eaa[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홈그라운드 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3027,6 +3019,14 @@ K-크리처 장르의 새 지평을 열었던 이 더 강력하게 돌아온다.
             <pubDate>Wed, 29 Nov 2023 15:19:26 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-12-08]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1116/16_03_38__6555beca86a03[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏘우 X (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60995</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60995</guid>
+            <pubDate>Fri, 01 Dec 2023 15:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1115/15_58_55__65546c2fc86bb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인디펜던스 나이트 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
