@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-12-04T01:02:48.309Z</updated>
+    <updated>2023-12-04T02:03:55.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도서 <진실에 다가가기> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8665&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8665&amp;p=1"/>
+        <updated>2023-12-04T01:56:03.365Z</updated>
+        <content type="html"><![CDATA[8665]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <물비늘> 시사회 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8664&amp;p=1</id>
@@ -95,12 +102,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8652&amp;p=1"/>
         <updated>2023-11-13T00:52:42.159Z</updated>
         <content type="html"><![CDATA[8652]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <너를 부르는 시간> 예매권 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8651&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8651&amp;p=1"/>
-        <updated>2023-11-13T00:52:42.159Z</updated>
-        <content type="html"><![CDATA[8651]]></content>
     </entry>
 </feed>
