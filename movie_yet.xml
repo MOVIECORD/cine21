@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 06:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 07:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,6 +213,21 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1108/18_55_57__654b5b2d646b4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가필드: 우유 원정대]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61049</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61049</guid>
+            <pubDate>Tue, 05 Dec 2023 07:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">가필드: 우유 원정대</span>
+		
+
+									<span class="director">감독 : 마크 딘달</span>
+											<span class="actor">배우 : 크리스 프랫,사무엘 L. 잭슨</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[드라이브(가제)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59755</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59755</guid>
@@ -243,22 +258,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1004/15_16_12__633bcfac5f938[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탈주]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58804</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58804</guid>
-            <pubDate>Tue, 05 Dec 2023 02:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">탈주</span>
-		
-
-									<span class="director">감독 : 이종필</span>
-											<span class="actor">배우 : 이제훈,구교환</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/11_05_10__621444d6d0d2a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사흘(가제)]]></title>

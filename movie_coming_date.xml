@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 06:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 07:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1113/14_29_47__6551b44bbbf60[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[물비늘]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60966</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60966</guid>
+            <pubDate>Tue, 05 Dec 2023 00:58:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1122/11_08_35__655d62a37fec6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나폴레옹]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60935</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60935</guid>
@@ -40,28 +48,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1116/16_40_39__6555c777b4fee[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신 울트라맨]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60349</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60349</guid>
+            <title><![CDATA[레트리뷰션]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60908</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60908</guid>
             <pubDate>Tue, 05 Dec 2023 00:58:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1123/15_19_36__655eeef81acaa[X224,320].png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴클리어 나우]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61038</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61038</guid>
-            <pubDate>Tue, 05 Dec 2023 00:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1120/14_00_09__655ae7d9d1e81[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홈그라운드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59773</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59773</guid>
-            <pubDate>Tue, 05 Dec 2023 00:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1110/18_19_30__654df5a242955[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1113/16_30_59__6551d0b34065c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백남준: 달은 가장 오래된 TV]]></title>
@@ -72,12 +64,36 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1128/14_37_59__65657cb775cf1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴클리어 나우]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61038</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61038</guid>
+            <pubDate>Tue, 05 Dec 2023 00:58:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1120/14_00_09__655ae7d9d1e81[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신 울트라맨]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60349</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60349</guid>
+            <pubDate>Tue, 05 Dec 2023 00:58:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1123/15_19_36__655eeef81acaa[X224,320].png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[홈그라운드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59773</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59773</guid>
+            <pubDate>Tue, 05 Dec 2023 00:58:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1110/18_19_30__654df5a242955[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[룩앳미 터치미 키스미]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61053</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61053</guid>
             <pubDate>Tue, 05 Dec 2023 00:58:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1127/18_12_34__65645d82e66e2[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1205/16_26_18__656ed09a87a55[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[3일의 휴가]]></title>
@@ -88,28 +104,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1024/18_23_39__65378d1bbbbd0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[물비늘]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60966</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60966</guid>
-            <pubDate>Tue, 05 Dec 2023 00:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1122/11_08_35__655d62a37fec6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[엔시티 네이션 : 투 더 월드 인 시네마]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61059</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61059</guid>
             <pubDate>Tue, 05 Dec 2023 00:58:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1124/17_59_19__656065e71ade8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레트리뷰션]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60908</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60908</guid>
-            <pubDate>Tue, 05 Dec 2023 00:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1113/16_30_59__6551d0b34065c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매직 프린세스: 얼음 괴물과 사라진 열쇠의 비밀]]></title>
@@ -128,6 +128,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1116/16_03_38__6555beca86a03[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[엘리자벳과 나]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60990</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60990</guid>
+            <pubDate>Tue, 05 Dec 2023 00:58:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1121/15_07_37__655c492920ebd[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[노 엑시트]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60994</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60994</guid>
@@ -136,20 +144,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1204/15_28_49__656d71a1c7b68[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쏘우 X]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60995</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60995</guid>
-            <pubDate>Tue, 05 Dec 2023 00:58:21 GMT</pubDate>
+            <title><![CDATA[언더 유어 베드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60971</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60971</guid>
+            <pubDate>Tue, 05 Dec 2023 07:18:16 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-12-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1115/15_58_55__65546c2fc86bb[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리자벳과 나]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60990</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60990</guid>
-            <pubDate>Tue, 05 Dec 2023 00:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1121/15_07_37__655c492920ebd[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1205/16_10_37__656eccedce0ba[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
