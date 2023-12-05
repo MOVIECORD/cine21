@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 08:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 09:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1123/18_20_24__655f19580d48f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여자감옥: 무법지대]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61064</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61064</guid>
-            <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1128/12_10_42__65655a32a0fd9[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[너는 내 아들]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60425</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60425</guid>
             <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1124/16_39_42__6560533e3362a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여자감옥: 무법지대]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61064</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61064</guid>
+            <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1128/12_10_42__65655a32a0fd9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[렛 미 고]]></title>
@@ -126,6 +126,13 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1128/16_27_14__65659652cf88f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나의 올드 오크]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61074</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61074</guid>
+            <pubDate>Tue, 05 Dec 2023 09:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[길위에 김대중]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60960</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60960</guid>
@@ -134,11 +141,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1026/15_40_17__653a09d10c158[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[파묘]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61067</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61067</guid>
-            <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02]]></content:encoded>
+            <title><![CDATA[레트리뷰션]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60908</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60908</guid>
+            <pubDate>Tue, 05 Dec 2023 09:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1113/16_30_59__6551d0b34065c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
