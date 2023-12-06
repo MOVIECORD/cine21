@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 14:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 15:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,17 +46,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1201/11_03_19__65693ee7d332d[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영화 <사랑의 스잔나> 시사회 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8238</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8238</guid>
-            <pubDate>Tue, 05 Dec 2023 01:00:47 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2023-12-12 20:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-12-07 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1201/11_07_25__65693fdde9c62[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <오백에 삼십> 초대 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8237</link>
             <guid>http://www.cine21.com/event/view/?event_no=8237</guid>
@@ -84,15 +73,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>30 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-12-08 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1127/10_30_04__6563f11c38c55[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <2호선 세입자> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8233</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8233</guid>
-            <pubDate>Tue, 05 Dec 2023 01:00:47 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-12-07 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1124/16_45_44__656054a80a8f3[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
