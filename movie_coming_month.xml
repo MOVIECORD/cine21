@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 07:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 08:25:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1123/18_20_24__655f19580d48f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여자감옥: 무법지대]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61064</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61064</guid>
+            <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1128/12_10_42__65655a32a0fd9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[렛 미 고]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1124/16_39_42__6560533e3362a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자감옥: 무법지대]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61064</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61064</guid>
-            <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1128/12_10_42__65655a32a0fd9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인사이드 아웃 2]]></title>
@@ -85,6 +85,14 @@
             <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0427/19_05_10__644a48d661018[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오후 네시]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60221</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60221</guid>
+            <pubDate>Thu, 07 Dec 2023 08:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_08_55__6419580767c68[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[말할 수 없는 비밀]]></title>
@@ -139,13 +147,6 @@
             <pubDate>Tue, 05 Dec 2023 09:16:50 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1113/16_30_59__6551d0b34065c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도그맨]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61075</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61075</guid>
-            <pubDate>Wed, 06 Dec 2023 07:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
         </item>
     </channel>
 </rss>
