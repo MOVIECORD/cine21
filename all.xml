@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 06:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 07:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3111,20 +3111,20 @@ K-크리처 장르의 새 지평을 열었던 이 더 강력하게 돌아온다.
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1128/12_10_42__65655a32a0fd9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[너는 내 아들 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60425</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60425</guid>
-            <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1124/16_39_42__6560533e3362a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[렛 미 고 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61066</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61066</guid>
             <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1129/13_54_09__6566c3f1104c4[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너는 내 아들 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60425</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60425</guid>
+            <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1124/16_39_42__6560533e3362a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[혹성탈출: 새로운 시대 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3173,6 +3173,14 @@ K-크리처 장르의 새 지평을 열었던 이 더 강력하게 돌아온다.
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[탈주 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58804</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58804</guid>
+            <pubDate>Thu, 07 Dec 2023 10:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/11_05_10__621444d6d0d2a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[데드맨 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58691</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58691</guid>
@@ -3219,14 +3227,6 @@ K-크리처 장르의 새 지평을 열었던 이 더 강력하게 돌아온다.
             <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1026/15_40_17__653a09d10c158[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레트리뷰션 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60908</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60908</guid>
-            <pubDate>Mon, 11 Dec 2023 02:00:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1113/16_30_59__6551d0b34065c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 나라로 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
@@ -3465,22 +3465,6 @@ K-크리처 장르의 새 지평을 열었던 이 더 강력하게 돌아온다.
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1004/15_16_12__633bcfac5f938[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[탈주 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58804</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58804</guid>
-            <pubDate>Thu, 07 Dec 2023 10:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">탈주</span>
-		
-
-									<span class="director">감독 : 이종필</span>
-											<span class="actor">배우 : 이제훈,구교환</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/11_05_10__621444d6d0d2a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[사흘(가제) (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=55922</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=55922</guid>
@@ -3511,6 +3495,22 @@ K-크리처 장르의 새 지평을 열었던 이 더 강력하게 돌아온다.
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0602/16_46_14__5ed603c6be516[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원더랜드 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56449</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56449</guid>
+            <pubDate>Tue, 12 Dec 2023 07:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">원더랜드</span>
+		
+
+									<span class="director">감독 : 김태용</span>
+											<span class="actor">배우 : 박보검,배수지</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0602/17_28_51__5ed60dc3b6633[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 <클레오의 세계> 시사회 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
@@ -3930,19 +3930,6 @@ K-크리처 장르의 새 지평을 열었던 이 더 강력하게 돌아온다.
             <enclosure url="https://image.cine21.com/crop/data/860/647f85847a51c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[＜서울의 봄＞ 캐릭터 탄생기 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fday_ccmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F1212%2F16_00_15__657804ff4775d%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EC%84%9C%EC%9A%B8%EC%9D%98%20%EB%B4%84%EF%BC%9E%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%ED%83%84%EC%83%9D%EA%B8%B0</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fday_ccmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F1212%2F16_00_15__657804ff4775d%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EC%84%9C%EC%9A%B8%EC%9D%98%20%EB%B4%84%EF%BC%9E%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%ED%83%84%EC%83%9D%EA%B8%B0</guid>
-            <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45516">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fday_ccmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2023%2F1212%2F16_00_15__657804ff4775d%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EC%84%9C%EC%9A%B8%EC%9D%98%20%EB%B4%84%EF%BC%9E%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%ED%83%84%EC%83%9D%EA%B8%B0" data-url="/cine21.com/movie/making/2023/12/day_ccmk.mp4">
-						<img src="https://image.cine21.com/resize/cine21/movie/2023/1212/16_00_15__657804ff4775d[X211,130].jpg" alt="" class="thumb">
-						<span class="title">＜서울의 봄＞ 캐릭터 탄생기</span>
-						<span class="date">2023-12-12</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1212/16_00_15__657804ff4775d[X211,130].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[＜트롤: 밴드 투게더＞ K-트롤 더빙 현장 비하인드 캠 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Ftroll_dbmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F654%2F6577c0c42f26d.jpg&amp;title=%EF%BC%9C%ED%8A%B8%EB%A1%A4%3A%20%EB%B0%B4%EB%93%9C%20%ED%88%AC%EA%B2%8C%EB%8D%94%EF%BC%9E%20K-%ED%8A%B8%EB%A1%A4%20%EB%8D%94%EB%B9%99%20%ED%98%84%EC%9E%A5%20%EB%B9%84%ED%95%98%EC%9D%B8%EB%93%9C%20%EC%BA%A0</link>
             <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Ftroll_dbmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F654%2F6577c0c42f26d.jpg&amp;title=%EF%BC%9C%ED%8A%B8%EB%A1%A4%3A%20%EB%B0%B4%EB%93%9C%20%ED%88%AC%EA%B2%8C%EB%8D%94%EF%BC%9E%20K-%ED%8A%B8%EB%A1%A4%20%EB%8D%94%EB%B9%99%20%ED%98%84%EC%9E%A5%20%EB%B9%84%ED%95%98%EC%9D%B8%EB%93%9C%20%EC%BA%A0</guid>
@@ -4136,6 +4123,19 @@ K-크리처 장르의 새 지평을 열었던 이 더 강력하게 돌아온다.
 						<span class="date">2023-12-07</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/707/657180d283fd8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜아쿠아맨과 로스트 킹덤＞ 파이널 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Faquaman_ftr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F557%2F6576c0d712cfb.jpg&amp;title=%EF%BC%9C%EC%95%84%EC%BF%A0%EC%95%84%EB%A7%A8%EA%B3%BC%20%EB%A1%9C%EC%8A%A4%ED%8A%B8%20%ED%82%B9%EB%8D%A4%EF%BC%9E%20%ED%8C%8C%EC%9D%B4%EB%84%90%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Faquaman_ftr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F557%2F6576c0d712cfb.jpg&amp;title=%EF%BC%9C%EC%95%84%EC%BF%A0%EC%95%84%EB%A7%A8%EA%B3%BC%20%EB%A1%9C%EC%8A%A4%ED%8A%B8%20%ED%82%B9%EB%8D%A4%EF%BC%9E%20%ED%8C%8C%EC%9D%B4%EB%84%90%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Thu, 07 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45495">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Faquaman_ftr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F557%2F6576c0d712cfb.jpg&amp;title=%EF%BC%9C%EC%95%84%EC%BF%A0%EC%95%84%EB%A7%A8%EA%B3%BC%20%EB%A1%9C%EC%8A%A4%ED%8A%B8%20%ED%82%B9%EB%8D%A4%EF%BC%9E%20%ED%8C%8C%EC%9D%B4%EB%84%90%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/12/aquaman_ftr.mp4">
+						<img src="https://image.cine21.com/crop/data/557/6576c0d712cfb.jpg" alt="" class="thumb">
+						<span class="title">＜아쿠아맨과 로스트 킹덤＞ 파이널 예고편</span>
+						<span class="date">2023-12-07</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/557/6576c0d712cfb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#줌터뷰] 〈이터널스〉 감독은 왜 마동석을 캐스팅했을까? feat.〈승리호〉 조성희 감독 (씨네21 ─ 네이버TV)]]></title>
