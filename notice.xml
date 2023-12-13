@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-12-13T01:04:47.235Z</updated>
+    <updated>2023-12-13T02:02:36.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <사랑에 빠지기 까지 D-100> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8672&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8672&amp;p=1"/>
+        <updated>2023-12-13T01:56:03.771Z</updated>
+        <content type="html"><![CDATA[8672]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <모딜리아니> & <에곤 실레> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8671&amp;p=1</id>
@@ -95,12 +102,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8659&amp;p=1"/>
         <updated>2023-11-20T01:56:11.615Z</updated>
         <content type="html"><![CDATA[8659]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <어차피 겪어야 될 사랑 이야기> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8658&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8658&amp;p=1"/>
-        <updated>2023-11-16T01:55:11.180Z</updated>
-        <content type="html"><![CDATA[8658]]></content>
     </entry>
 </feed>
