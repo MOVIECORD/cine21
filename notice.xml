@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-12-14T01:01:35.024Z</updated>
+    <updated>2023-12-14T01:58:12.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <오백에 삼십> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8673&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8673&amp;p=1"/>
+        <updated>2023-12-14T01:53:59.590Z</updated>
+        <content type="html"><![CDATA[8673]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <사랑에 빠지기 까지 D-100> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8672&amp;p=1</id>
@@ -95,12 +102,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8660&amp;p=1"/>
         <updated>2023-11-21T05:12:04.876Z</updated>
         <content type="html"><![CDATA[8660]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <싱글 인 서울> 시사회 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8659&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8659&amp;p=1"/>
-        <updated>2023-11-20T01:56:11.615Z</updated>
-        <content type="html"><![CDATA[8659]]></content>
     </entry>
 </feed>
