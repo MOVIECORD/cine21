@@ -4,17 +4,9 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 07:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 08:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[르네에게]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61077</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61077</guid>
-            <pubDate>Fri, 08 Dec 2023 04:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1208/13_40_40__65729e4811918[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[르네상스 필름 바이 비욘세]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61084</link>
@@ -146,6 +138,14 @@
             <pubDate>Fri, 15 Dec 2023 07:19:04 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1205/18_49_56__656ef244264cc[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밥 말리: 원 러브]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60725</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60725</guid>
+            <pubDate>Fri, 15 Dec 2023 08:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1212/17_03_33__657813d53e6c2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
