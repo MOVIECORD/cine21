@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 05:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 06:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,20 +39,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1124/16_39_42__6560533e3362a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인사이드 아웃 2]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61039</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61039</guid>
-            <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1120/14_38_46__655af0e63eefe[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[혹성탈출: 새로운 시대]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60996</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60996</guid>
             <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1115/14_24_38__65545616c20de[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인사이드 아웃 2]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61039</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61039</guid>
+            <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1120/14_38_46__655af0e63eefe[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보통의 가족]]></title>
@@ -109,14 +109,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1109/58691_618a1188acdc4[X224,320].JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[도그맨]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61075</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61075</guid>
-            <pubDate>Fri, 08 Dec 2023 04:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1211/10_42_32__6576690876296[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[시민덕희]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57322</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57322</guid>
@@ -147,6 +139,14 @@
             <pubDate>Fri, 15 Dec 2023 04:24:00 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1113/16_30_59__6551d0b34065c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[걸즈 앤 판처 최종장 제4화]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61088</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61088</guid>
+            <pubDate>Fri, 15 Dec 2023 06:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1215/15_28_29__657bf20db4e4d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
