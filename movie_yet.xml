@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 08:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 09:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/55448_614d6fb3976df[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[암스테르담]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59700</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59700</guid>
+            <pubDate>Tue, 05 Dec 2023 02:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">암스테르담</span>
+		
+
+									<span class="director">감독 : 데이비드 O. 러셀</span>
+											<span class="actor">배우 : 크리스찬 베일,마고 로비</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1004/15_16_12__633bcfac5f938[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드라이브(가제)]]></title>
@@ -165,37 +181,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1102/14_20_02__654331820ba0e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가필드: 우유 원정대]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61049</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61049</guid>
-            <pubDate>Tue, 05 Dec 2023 07:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">가필드: 우유 원정대</span>
-		
-
-									<span class="director">감독 : 마크 딘달</span>
-											<span class="actor">배우 : 크리스 프랫,사무엘 L. 잭슨</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[암스테르담]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59700</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59700</guid>
-            <pubDate>Tue, 05 Dec 2023 02:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">암스테르담</span>
-		
-
-									<span class="director">감독 : 데이비드 O. 러셀</span>
-											<span class="actor">배우 : 크리스찬 베일,마고 로비</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1004/15_16_12__633bcfac5f938[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2시의 데이트]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58780</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58780</guid>
@@ -289,6 +274,21 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0512/17_29_19__645df8df5ad24[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[행복의 나라(가제)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57453</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57453</guid>
+            <pubDate>Fri, 15 Dec 2023 09:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">행복의 나라(가제)</span>
+		
+
+									<span class="director">감독 : 추창민</span>
+											<span class="actor">배우 : 조정석,이선균</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
     </channel>
 </rss>
