@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 02:34:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 03:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/55448_614d6fb3976df[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드라이브(가제)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59755</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59755</guid>
+            <pubDate>Tue, 05 Dec 2023 02:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">드라이브(가제)</span>
+		
+
+									<span class="director">감독 : 박동희</span>
+											<span class="actor">배우 : 박주현,김여진</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1013/17_33_19__6347cd4f2b704[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왕을 찾아서]]></title>
@@ -133,22 +149,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0927/13_39_40__6513b20c2b828[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[열두 달, 흙을 먹다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60917</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60917</guid>
-            <pubDate>Tue, 05 Dec 2023 02:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">열두 달, 흙을 먹다</span>
-		
-
-									<span class="director">감독 : 나카에 유지</span>
-											<span class="actor">배우 : 사와다 켄지,마츠 다카코</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1010/11_08_29__6524b21db8764[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[백화]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60968</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60968</guid>
@@ -165,22 +165,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1102/14_20_02__654331820ba0e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미션 스카이]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60991</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60991</guid>
-            <pubDate>Tue, 05 Dec 2023 02:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">미션 스카이</span>
-		
-
-									<span class="director">감독 : 이고르 카피로브</span>
-											<span class="actor">배우 : 이고르 페트렌코,마리야 미로노바</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1108/18_55_57__654b5b2d646b4[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[가필드: 우유 원정대]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61049</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61049</guid>
@@ -194,22 +178,6 @@
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[드라이브(가제)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59755</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59755</guid>
-            <pubDate>Tue, 05 Dec 2023 02:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">드라이브(가제)</span>
-		
-
-									<span class="director">감독 : 박동희</span>
-											<span class="actor">배우 : 박주현,김여진</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1013/17_33_19__6347cd4f2b704[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[암스테르담]]></title>
@@ -241,6 +209,22 @@
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[도그데이즈(가제)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58779</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58779</guid>
+            <pubDate>Fri, 15 Dec 2023 03:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">도그데이즈(가제)</span>
+		
+
+									<span class="director">감독 : 김덕민</span>
+											<span class="actor">배우 : 유해진,윤여정</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1217/17_25_22__61bc49726c7cd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사흘(가제)]]></title>
@@ -289,6 +273,22 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0602/17_28_51__5ed60dc3b6633[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탈출: PROJECT SILENCE]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56904</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56904</guid>
+            <pubDate>Fri, 15 Dec 2023 03:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">탈출: PROJECT SILENCE</span>
+		
+
+									<span class="director">감독 : 김태곤</span>
+											<span class="actor">배우 : 이선균,주지훈</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0512/17_29_19__645df8df5ad24[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
