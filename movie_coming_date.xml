@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 09:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 10:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -125,6 +125,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=61094</guid>
             <pubDate>Tue, 19 Dec 2023 09:16:46 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2023-12-28]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1219/18_56_14__658168be7267f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[립세의 사계]]></title>
