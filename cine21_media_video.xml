@@ -1,8 +1,219 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/cine21/clips</id>
-    <title>씨네21 ─ 네이버TV</title>
-    <updated>2023-12-20T18:27:25.135Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 멀티미디어 ─ 동영상</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 20 Dec 2023 19:15:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[＜우리 돈 벌레＞ 메인 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Fkpop_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F721%2F658162665d6cd.jpg&amp;title=%EF%BC%9C%EC%9A%B0%EB%A6%AC%20%EB%8F%88%20%EB%B2%8C%EB%A0%88%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Fkpop_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F721%2F658162665d6cd.jpg&amp;title=%EF%BC%9C%EC%9A%B0%EB%A6%AC%20%EB%8F%88%20%EB%B2%8C%EB%A0%88%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45548">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Fkpop_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F721%2F658162665d6cd.jpg&amp;title=%EF%BC%9C%EC%9A%B0%EB%A6%AC%20%EB%8F%88%20%EB%B2%8C%EB%A0%88%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/12/kpop_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/721/658162665d6cd.jpg" alt="" class="thumb">
+						<span class="title">＜우리 돈 벌레＞ 메인 예고편</span>
+						<span class="date">2023-12-19</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/721/658162665d6cd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜쏘우 X＞ X-DAY 극찬 영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fsaw_pmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F654%2F657fecba24b2e.jpg&amp;title=%EF%BC%9C%EC%8F%98%EC%9A%B0%20X%EF%BC%9E%20X-DAY%20%EA%B7%B9%EC%B0%AC%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fsaw_pmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F654%2F657fecba24b2e.jpg&amp;title=%EF%BC%9C%EC%8F%98%EC%9A%B0%20X%EF%BC%9E%20X-DAY%20%EA%B7%B9%EC%B0%AC%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45546">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fsaw_pmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F654%2F657fecba24b2e.jpg&amp;title=%EF%BC%9C%EC%8F%98%EC%9A%B0%20X%EF%BC%9E%20X-DAY%20%EA%B7%B9%EC%B0%AC%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/12/saw_pmk.mp4">
+						<img src="https://image.cine21.com/crop/data/654/657fecba24b2e.jpg" alt="" class="thumb">
+						<span class="title">＜쏘우 X＞ X-DAY 극찬 영상</span>
+						<span class="date">2023-12-18</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/654/657fecba24b2e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜간신의 피＞ 메인 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Fblood_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F169%2F657fea5de5d99.jpg&amp;title=%EF%BC%9C%EA%B0%84%EC%8B%A0%EC%9D%98%20%ED%94%BC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Fblood_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F169%2F657fea5de5d99.jpg&amp;title=%EF%BC%9C%EA%B0%84%EC%8B%A0%EC%9D%98%20%ED%94%BC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45545">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Fblood_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F169%2F657fea5de5d99.jpg&amp;title=%EF%BC%9C%EA%B0%84%EC%8B%A0%EC%9D%98%20%ED%94%BC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/12/blood_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/169/657fea5de5d99.jpg" alt="" class="thumb">
+						<span class="title">＜간신의 피＞ 메인 예고편</span>
+						<span class="date">2023-12-18</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/169/657fea5de5d99.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜인투 더 월드＞ ‘그웬은 장거리 비행이 처음이라…’ 영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fmigration_dcmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F091%2F657fde920d60a.jpg&amp;title=%EF%BC%9C%EC%9D%B8%ED%88%AC%20%EB%8D%94%20%EC%9B%94%EB%93%9C%EF%BC%9E%20%E2%80%98%EA%B7%B8%EC%9B%AC%EC%9D%80%20%EC%9E%A5%EA%B1%B0%EB%A6%AC%20%EB%B9%84%ED%96%89%EC%9D%B4%20%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%9D%BC%E2%80%A6%E2%80%99%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fmigration_dcmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F091%2F657fde920d60a.jpg&amp;title=%EF%BC%9C%EC%9D%B8%ED%88%AC%20%EB%8D%94%20%EC%9B%94%EB%93%9C%EF%BC%9E%20%E2%80%98%EA%B7%B8%EC%9B%AC%EC%9D%80%20%EC%9E%A5%EA%B1%B0%EB%A6%AC%20%EB%B9%84%ED%96%89%EC%9D%B4%20%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%9D%BC%E2%80%A6%E2%80%99%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45544">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fmigration_dcmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F091%2F657fde920d60a.jpg&amp;title=%EF%BC%9C%EC%9D%B8%ED%88%AC%20%EB%8D%94%20%EC%9B%94%EB%93%9C%EF%BC%9E%20%E2%80%98%EA%B7%B8%EC%9B%AC%EC%9D%80%20%EC%9E%A5%EA%B1%B0%EB%A6%AC%20%EB%B9%84%ED%96%89%EC%9D%B4%20%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%9D%BC%E2%80%A6%E2%80%99%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/12/migration_dcmk.mp4">
+						<img src="https://image.cine21.com/crop/data/091/657fde920d60a.jpg" alt="" class="thumb">
+						<span class="title">＜인투 더 월드＞ ‘그웬은 장거리 비행이 처음이라…’ 영상</span>
+						<span class="date">2023-12-18</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/091/657fde920d60a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜인투 더 월드＞ ‘오린 누구?! 더빙 캐스트 소개’ 영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fmigration_ffmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F108%2F657fde9085636.jpg&amp;title=%EF%BC%9C%EC%9D%B8%ED%88%AC%20%EB%8D%94%20%EC%9B%94%EB%93%9C%EF%BC%9E%20%E2%80%98%EC%98%A4%EB%A6%B0%20%EB%88%84%EA%B5%AC%3F!%20%EB%8D%94%EB%B9%99%20%EC%BA%90%EC%8A%A4%ED%8A%B8%20%EC%86%8C%EA%B0%9C%E2%80%99%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fmigration_ffmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F108%2F657fde9085636.jpg&amp;title=%EF%BC%9C%EC%9D%B8%ED%88%AC%20%EB%8D%94%20%EC%9B%94%EB%93%9C%EF%BC%9E%20%E2%80%98%EC%98%A4%EB%A6%B0%20%EB%88%84%EA%B5%AC%3F!%20%EB%8D%94%EB%B9%99%20%EC%BA%90%EC%8A%A4%ED%8A%B8%20%EC%86%8C%EA%B0%9C%E2%80%99%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45543">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fmigration_ffmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F108%2F657fde9085636.jpg&amp;title=%EF%BC%9C%EC%9D%B8%ED%88%AC%20%EB%8D%94%20%EC%9B%94%EB%93%9C%EF%BC%9E%20%E2%80%98%EC%98%A4%EB%A6%B0%20%EB%88%84%EA%B5%AC%3F!%20%EB%8D%94%EB%B9%99%20%EC%BA%90%EC%8A%A4%ED%8A%B8%20%EC%86%8C%EA%B0%9C%E2%80%99%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/12/migration_ffmk.mp4">
+						<img src="https://image.cine21.com/crop/data/108/657fde9085636.jpg" alt="" class="thumb">
+						<span class="title">＜인투 더 월드＞ ‘오린 누구?! 더빙 캐스트 소개’ 영상</span>
+						<span class="date">2023-12-18</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/108/657fde9085636.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜라이즈＞ 메인 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Frise_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F827%2F657fbac2d1abd.jpg&amp;title=%EF%BC%9C%EB%9D%BC%EC%9D%B4%EC%A6%88%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Frise_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F827%2F657fbac2d1abd.jpg&amp;title=%EF%BC%9C%EB%9D%BC%EC%9D%B4%EC%A6%88%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45542">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Frise_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F827%2F657fbac2d1abd.jpg&amp;title=%EF%BC%9C%EB%9D%BC%EC%9D%B4%EC%A6%88%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/12/rise_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/827/657fbac2d1abd.jpg" alt="" class="thumb">
+						<span class="title">＜라이즈＞ 메인 예고편</span>
+						<span class="date">2023-12-18</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/827/657fbac2d1abd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜말하고 싶은 비밀＞ 개봉 인사 영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Four_imk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F897%2F657fafee90a5a.jpg&amp;title=%EF%BC%9C%EB%A7%90%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%9D%80%20%EB%B9%84%EB%B0%80%EF%BC%9E%20%EA%B0%9C%EB%B4%89%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Four_imk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F897%2F657fafee90a5a.jpg&amp;title=%EF%BC%9C%EB%A7%90%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%9D%80%20%EB%B9%84%EB%B0%80%EF%BC%9E%20%EA%B0%9C%EB%B4%89%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45541">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Four_imk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F897%2F657fafee90a5a.jpg&amp;title=%EF%BC%9C%EB%A7%90%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%9D%80%20%EB%B9%84%EB%B0%80%EF%BC%9E%20%EA%B0%9C%EB%B4%89%20%EC%9D%B8%EC%82%AC%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/12/our_imk.mp4">
+						<img src="https://image.cine21.com/crop/data/897/657fafee90a5a.jpg" alt="" class="thumb">
+						<span class="title">＜말하고 싶은 비밀＞ 개봉 인사 영상</span>
+						<span class="date">2023-12-18</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/897/657fafee90a5a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜어른 김장하＞ 내레이션 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fman_ntr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F732%2F6555b3a92a33c.jpg&amp;title=%EF%BC%9C%EC%96%B4%EB%A5%B8%20%EA%B9%80%EC%9E%A5%ED%95%98%EF%BC%9E%20%EB%82%B4%EB%A0%88%EC%9D%B4%EC%85%98%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fman_ntr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F732%2F6555b3a92a33c.jpg&amp;title=%EF%BC%9C%EC%96%B4%EB%A5%B8%20%EA%B9%80%EC%9E%A5%ED%95%98%EF%BC%9E%20%EB%82%B4%EB%A0%88%EC%9D%B4%EC%85%98%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45540">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F11%2Fman_ntr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F732%2F6555b3a92a33c.jpg&amp;title=%EF%BC%9C%EC%96%B4%EB%A5%B8%20%EA%B9%80%EC%9E%A5%ED%95%98%EF%BC%9E%20%EB%82%B4%EB%A0%88%EC%9D%B4%EC%85%98%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/11/man_ntr.mp4">
+						<img src="https://image.cine21.com/crop/data/732/6555b3a92a33c.jpg" alt="" class="thumb">
+						<span class="title">＜어른 김장하＞ 내레이션 예고편</span>
+						<span class="date">2023-12-18</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/732/6555b3a92a33c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜어른 김장하＞ 메인 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F10%2Fman_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F982%2F6538bcc360e49.jpg&amp;title=%EF%BC%9C%EC%96%B4%EB%A5%B8%20%EA%B9%80%EC%9E%A5%ED%95%98%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F10%2Fman_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F982%2F6538bcc360e49.jpg&amp;title=%EF%BC%9C%EC%96%B4%EB%A5%B8%20%EA%B9%80%EC%9E%A5%ED%95%98%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45539">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F10%2Fman_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F982%2F6538bcc360e49.jpg&amp;title=%EF%BC%9C%EC%96%B4%EB%A5%B8%20%EA%B9%80%EC%9E%A5%ED%95%98%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/10/man_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/982/6538bcc360e49.jpg" alt="" class="thumb">
+						<span class="title">＜어른 김장하＞ 메인 예고편</span>
+						<span class="date">2023-12-18</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/982/6538bcc360e49.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜웨스턴 프론트: 서부전선＞ 메인 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Face_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F385%2F657bf57f915a5.jpg&amp;title=%EF%BC%9C%EC%9B%A8%EC%8A%A4%ED%84%B4%20%ED%94%84%EB%A1%A0%ED%8A%B8%3A%20%EC%84%9C%EB%B6%80%EC%A0%84%EC%84%A0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Face_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F385%2F657bf57f915a5.jpg&amp;title=%EF%BC%9C%EC%9B%A8%EC%8A%A4%ED%84%B4%20%ED%94%84%EB%A1%A0%ED%8A%B8%3A%20%EC%84%9C%EB%B6%80%EC%A0%84%EC%84%A0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45538">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Face_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F385%2F657bf57f915a5.jpg&amp;title=%EF%BC%9C%EC%9B%A8%EC%8A%A4%ED%84%B4%20%ED%94%84%EB%A1%A0%ED%8A%B8%3A%20%EC%84%9C%EB%B6%80%EC%A0%84%EC%84%A0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/12/ace_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/385/657bf57f915a5.jpg" alt="" class="thumb">
+						<span class="title">＜웨스턴 프론트: 서부전선＞ 메인 예고편</span>
+						<span class="date">2023-12-15</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/385/657bf57f915a5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜도그맨＞ 메인 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Fdog_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F297%2F657bf1424c8b4.jpg&amp;title=%EF%BC%9C%EB%8F%84%EA%B7%B8%EB%A7%A8%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Fdog_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F297%2F657bf1424c8b4.jpg&amp;title=%EF%BC%9C%EB%8F%84%EA%B7%B8%EB%A7%A8%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45537">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Fdog_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F297%2F657bf1424c8b4.jpg&amp;title=%EF%BC%9C%EB%8F%84%EA%B7%B8%EB%A7%A8%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/12/dog_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/297/657bf1424c8b4.jpg" alt="" class="thumb">
+						<span class="title">＜도그맨＞ 메인 예고편</span>
+						<span class="date">2023-12-15</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/297/657bf1424c8b4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜울람: 오펜하이머 그 후＞ 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Fadventure_tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F159%2F657bef20dc935.jpg&amp;title=%EF%BC%9C%EC%9A%B8%EB%9E%8C%3A%20%EC%98%A4%ED%8E%9C%ED%95%98%EC%9D%B4%EB%A8%B8%20%EA%B7%B8%20%ED%9B%84%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Fadventure_tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F159%2F657bef20dc935.jpg&amp;title=%EF%BC%9C%EC%9A%B8%EB%9E%8C%3A%20%EC%98%A4%ED%8E%9C%ED%95%98%EC%9D%B4%EB%A8%B8%20%EA%B7%B8%20%ED%9B%84%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45536">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2023%2F12%2Fadventure_tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F159%2F657bef20dc935.jpg&amp;title=%EF%BC%9C%EC%9A%B8%EB%9E%8C%3A%20%EC%98%A4%ED%8E%9C%ED%95%98%EC%9D%B4%EB%A8%B8%20%EA%B7%B8%20%ED%9B%84%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2023/12/adventure_tr.mp4">
+						<img src="https://image.cine21.com/crop/data/159/657bef20dc935.jpg" alt="" class="thumb">
+						<span class="title">＜울람: 오펜하이머 그 후＞ 예고편</span>
+						<span class="date">2023-12-15</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/159/657bef20dc935.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜위시＞ ‘THIS WISH’ 비하인드 영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fwish_twbmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F081%2F65814165ede05.jpg&amp;title=%EF%BC%9C%EC%9C%84%EC%8B%9C%EF%BC%9E%20%E2%80%98THIS%20WISH%E2%80%99%20%EB%B9%84%ED%95%98%EC%9D%B8%EB%93%9C%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fwish_twbmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F081%2F65814165ede05.jpg&amp;title=%EF%BC%9C%EC%9C%84%EC%8B%9C%EF%BC%9E%20%E2%80%98THIS%20WISH%E2%80%99%20%EB%B9%84%ED%95%98%EC%9D%B8%EB%93%9C%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45535">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fwish_twbmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F081%2F65814165ede05.jpg&amp;title=%EF%BC%9C%EC%9C%84%EC%8B%9C%EF%BC%9E%20%E2%80%98THIS%20WISH%E2%80%99%20%EB%B9%84%ED%95%98%EC%9D%B8%EB%93%9C%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/12/wish_twbmk.mp4">
+						<img src="https://image.cine21.com/crop/data/081/65814165ede05.jpg" alt="" class="thumb">
+						<span class="title">＜위시＞ ‘THIS WISH’ 비하인드 영상</span>
+						<span class="date">2023-12-15</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/081/65814165ede05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜위시＞ ‘THIS WISH’ 뮤직 스팟]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fwish_twmsmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F060%2F658141644880e.jpg&amp;title=%EF%BC%9C%EC%9C%84%EC%8B%9C%EF%BC%9E%20%E2%80%98THIS%20WISH%E2%80%99%20%EB%AE%A4%EC%A7%81%20%EC%8A%A4%ED%8C%9F</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fwish_twmsmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F060%2F658141644880e.jpg&amp;title=%EF%BC%9C%EC%9C%84%EC%8B%9C%EF%BC%9E%20%E2%80%98THIS%20WISH%E2%80%99%20%EB%AE%A4%EC%A7%81%20%EC%8A%A4%ED%8C%9F</guid>
+            <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45534">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fwish_twmsmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F060%2F658141644880e.jpg&amp;title=%EF%BC%9C%EC%9C%84%EC%8B%9C%EF%BC%9E%20%E2%80%98THIS%20WISH%E2%80%99%20%EB%AE%A4%EC%A7%81%20%EC%8A%A4%ED%8C%9F" data-url="/cine21.com/movie/making/2023/12/wish_twmsmk.mp4">
+						<img src="https://image.cine21.com/crop/data/060/658141644880e.jpg" alt="" class="thumb">
+						<span class="title">＜위시＞ ‘THIS WISH’ 뮤직 스팟</span>
+						<span class="date">2023-12-15</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/060/658141644880e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜인투 더 월드＞ ‘말러드 가족을 소개합니다’ 영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fmigration_fimk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F501%2F657aa2dbe2515.jpg&amp;title=%EF%BC%9C%EC%9D%B8%ED%88%AC%20%EB%8D%94%20%EC%9B%94%EB%93%9C%EF%BC%9E%20%E2%80%98%EB%A7%90%EB%9F%AC%EB%93%9C%20%EA%B0%80%EC%A1%B1%EC%9D%84%20%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4%E2%80%99%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fmigration_fimk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F501%2F657aa2dbe2515.jpg&amp;title=%EF%BC%9C%EC%9D%B8%ED%88%AC%20%EB%8D%94%20%EC%9B%94%EB%93%9C%EF%BC%9E%20%E2%80%98%EB%A7%90%EB%9F%AC%EB%93%9C%20%EA%B0%80%EC%A1%B1%EC%9D%84%20%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4%E2%80%99%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45533">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fmigration_fimk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F501%2F657aa2dbe2515.jpg&amp;title=%EF%BC%9C%EC%9D%B8%ED%88%AC%20%EB%8D%94%20%EC%9B%94%EB%93%9C%EF%BC%9E%20%E2%80%98%EB%A7%90%EB%9F%AC%EB%93%9C%20%EA%B0%80%EC%A1%B1%EC%9D%84%20%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4%E2%80%99%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2023/12/migration_fimk.mp4">
+						<img src="https://image.cine21.com/crop/data/501/657aa2dbe2515.jpg" alt="" class="thumb">
+						<span class="title">＜인투 더 월드＞ ‘말러드 가족을 소개합니다’ 영상</span>
+						<span class="date">2023-12-14</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/501/657aa2dbe2515.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜서울의 봄＞ 캐릭터 탄생기]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fday_ccmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F441%2F657a970b9bf22.jpg&amp;title=%EF%BC%9C%EC%84%9C%EC%9A%B8%EC%9D%98%20%EB%B4%84%EF%BC%9E%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%ED%83%84%EC%83%9D%EA%B8%B0</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fday_ccmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F441%2F657a970b9bf22.jpg&amp;title=%EF%BC%9C%EC%84%9C%EC%9A%B8%EC%9D%98%20%EB%B4%84%EF%BC%9E%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%ED%83%84%EC%83%9D%EA%B8%B0</guid>
+            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45531">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2023%2F12%2Fday_ccmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F441%2F657a970b9bf22.jpg&amp;title=%EF%BC%9C%EC%84%9C%EC%9A%B8%EC%9D%98%20%EB%B4%84%EF%BC%9E%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%ED%83%84%EC%83%9D%EA%B8%B0" data-url="/cine21.com/movie/making/2023/12/day_ccmk.mp4">
+						<img src="https://image.cine21.com/crop/data/441/657a970b9bf22.jpg" alt="" class="thumb">
+						<span class="title">＜서울의 봄＞ 캐릭터 탄생기</span>
+						<span class="date">2023-12-14</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/441/657a970b9bf22.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
