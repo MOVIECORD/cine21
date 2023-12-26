@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 06:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 07:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,6 +37,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=61092</guid>
             <pubDate>Mon, 18 Dec 2023 06:21:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1226/16_34_52__658a821c53420[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인사이드 아웃 2]]></title>
@@ -86,6 +87,13 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_08_55__6419580767c68[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[말할 수 없는 비밀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
+            <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[탈주]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58804</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58804</guid>
@@ -94,11 +102,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/11_05_10__621444d6d0d2a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[말할 수 없는 비밀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
-            <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <title><![CDATA[두 세계 사이에서]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61102</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61102</guid>
+            <pubDate>Tue, 26 Dec 2023 07:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1226/16_06_22__658a7b6e6ade4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소녀는 졸업하지 않는다]]></title>
@@ -139,14 +148,6 @@
             <pubDate>Fri, 22 Dec 2023 07:17:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1212/17_03_33__657813d53e6c2[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파묘]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61067</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61067</guid>
-            <pubDate>Fri, 15 Dec 2023 07:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1205/18_49_56__656ef244264cc[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
