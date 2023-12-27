@@ -4,17 +4,9 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 16:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 17:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[우리 돈 벌레]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61094</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61094</guid>
-            <pubDate>Tue, 19 Dec 2023 09:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2023-12-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1219/18_56_14__658168be7267f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[클레오의 세계]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61006</link>
@@ -48,20 +40,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1213/15_11_14__65794b02e9e99[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[립세의 사계]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61081</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61081</guid>
-            <pubDate>Tue, 12 Dec 2023 15:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-01-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1221/17_03_20__6583f1483dfd2[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이어지는 땅]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60204</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60204</guid>
             <pubDate>Thu, 21 Dec 2023 05:16:39 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1221/15_00_54__6583d4964f03e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[립세의 사계]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61081</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61081</guid>
+            <pubDate>Tue, 12 Dec 2023 15:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-01-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1221/17_03_20__6583f1483dfd2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[외계+인 2부]]></title>
@@ -128,12 +120,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1227/14_01_55__658bafc3b0536[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레트리뷰션]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60908</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60908</guid>
+            <title><![CDATA[시민덕희]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57322</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57322</guid>
             <pubDate>Tue, 26 Dec 2023 15:17:29 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1222/16_08_29__658535ed0b546[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1215/16_21_20__657bfe7063d1c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도그맨]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61075</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61075</guid>
+            <pubDate>Wed, 27 Dec 2023 17:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-01-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1219/11_44_27__6581038b6441f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[울산의 별]]></title>
@@ -144,12 +144,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1221/14_44_48__6583d0d0edc97[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시민덕희]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57322</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57322</guid>
+            <title><![CDATA[레트리뷰션]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60908</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60908</guid>
             <pubDate>Tue, 26 Dec 2023 15:17:29 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1215/16_21_20__657bfe7063d1c[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1222/16_08_29__658535ed0b546[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
