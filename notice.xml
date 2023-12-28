@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2023-12-28T02:28:12.665Z</updated>
+    <updated>2023-12-28T03:19:14.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <망원동 브라더스> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8680&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8680&amp;p=1"/>
+        <updated>2023-12-28T03:12:50.674Z</updated>
+        <content type="html"><![CDATA[8680]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <클레오의 세계> 시사회 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8679&amp;p=1</id>
@@ -95,12 +102,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8667&amp;p=1"/>
         <updated>2023-12-07T01:55:20.891Z</updated>
         <content type="html"><![CDATA[8667]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <조이랜드> 시사회 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8666&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8666&amp;p=1"/>
-        <updated>2023-12-06T03:12:56.613Z</updated>
-        <content type="html"><![CDATA[8666]]></content>
     </entry>
 </feed>
