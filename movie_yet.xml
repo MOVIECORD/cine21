@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 07:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 08:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -180,6 +180,21 @@
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[넥스트 골 윈즈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61100</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61100</guid>
+            <pubDate>Tue, 02 Jan 2024 08:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">넥스트 골 윈즈</span>
+		
+
+									<span class="director">감독 : 타이카 와이티티</span>
+											<span class="actor">배우 : 마이클 패스벤더,오스카 나이틀리</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[암스테르담]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59700</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59700</guid>
@@ -209,22 +224,6 @@
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[도그데이즈(가제)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58779</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58779</guid>
-            <pubDate>Fri, 15 Dec 2023 03:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">도그데이즈(가제)</span>
-		
-
-									<span class="director">감독 : 김덕민</span>
-											<span class="actor">배우 : 윤여정,유해진</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1217/17_25_22__61bc49726c7cd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사흘(가제)]]></title>
