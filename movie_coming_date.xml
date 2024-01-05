@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 02:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 02:32:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1227/17_12_51__658bdc8382b2f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이어지는 땅]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60204</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60204</guid>
-            <pubDate>Thu, 21 Dec 2023 05:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-01-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1221/15_00_54__6583d4964f03e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[외계+인 2부]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60947</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60947</guid>
             <pubDate>Tue, 19 Dec 2023 15:18:42 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1218/16_02_02__657fee6addc6b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이어지는 땅]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60204</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60204</guid>
+            <pubDate>Thu, 21 Dec 2023 05:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-01-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1221/15_00_54__6583d4964f03e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나의 올드 오크]]></title>
@@ -72,12 +72,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1222/17_22_06__6585472e4bd0c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[덤 머니]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61004</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61004</guid>
-            <pubDate>Thu, 21 Dec 2023 16:21:56 GMT</pubDate>
+            <title><![CDATA[엔드 오브 에반게리온]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=10302</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=10302</guid>
+            <pubDate>Thu, 04 Jan 2024 05:15:08 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1226/16_24_48__658a7fc07654e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0104/14_34_12__65964354e8de0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라이즈]]></title>
@@ -96,14 +96,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1220/16_13_28__6582941862442[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엔드 오브 에반게리온]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=10302</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=10302</guid>
-            <pubDate>Thu, 04 Jan 2024 05:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-01-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0104/14_34_12__65964354e8de0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[무티: 주술살인]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61103</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61103</guid>
@@ -112,12 +104,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1227/14_01_55__658bafc3b0536[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에반게리온 신극장판 : 파]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=27278</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=27278</guid>
-            <pubDate>Thu, 04 Jan 2024 05:15:08 GMT</pubDate>
+            <title><![CDATA[덤 머니]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61004</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61004</guid>
+            <pubDate>Thu, 21 Dec 2023 16:21:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0104/14_45_33__659645fd4783e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1226/16_24_48__658a7fc07654e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에반게리온 신극장판 : 서]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Thu, 04 Jan 2024 05:15:08 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01-17]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0104/14_42_14__659645367340c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에반게리온 신극장판 : 파]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=27278</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=27278</guid>
+            <pubDate>Thu, 04 Jan 2024 05:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-01-17]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0104/14_45_33__659645fd4783e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레트리뷰션]]></title>
@@ -144,12 +144,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0103/12_53_10__6594da2648f90[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[울산의 별]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59790</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59790</guid>
-            <pubDate>Fri, 05 Jan 2024 02:00:12 GMT</pubDate>
+            <title><![CDATA[시민덕희]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57322</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57322</guid>
+            <pubDate>Fri, 05 Jan 2024 02:30:34 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0104/15_16_12__65964d2c2b02a[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1215/16_21_20__657bfe7063d1c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
