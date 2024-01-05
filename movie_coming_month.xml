@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 07:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 08:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,21 @@
             <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/1109/58691_618a1188acdc4[X224,320].JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[시빌 워]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
+            <pubDate>Wed, 03 Jan 2024 07:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이프: 상상의 친구]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61092</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61092</guid>
+            <pubDate>Mon, 18 Dec 2023 06:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1226/16_34_52__658a821c53420[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인사이드 아웃 2]]></title>
@@ -71,26 +86,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0427/19_05_10__644a48d661018[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시빌 워]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
-            <pubDate>Wed, 03 Jan 2024 07:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[오후 네시]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60221</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60221</guid>
             <pubDate>Thu, 07 Dec 2023 08:20:30 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_08_55__6419580767c68[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말할 수 없는 비밀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
-            <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[탈주]]></title>
@@ -101,12 +102,19 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/11_05_10__621444d6d0d2a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이프: 상상의 친구]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61092</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61092</guid>
-            <pubDate>Mon, 18 Dec 2023 06:21:19 GMT</pubDate>
+            <title><![CDATA[말할 수 없는 비밀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
+            <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1226/16_34_52__658a821c53420[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봉신연의: 조가풍운]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61121</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61121</guid>
+            <pubDate>Thu, 04 Jan 2024 07:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0105/17_01_59__6597b7771207d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서치3: 데스게임]]></title>
@@ -125,28 +133,19 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1226/16_06_22__658a7b6e6ade4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봉신연의: 조가풍운]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61121</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61121</guid>
-            <pubDate>Thu, 04 Jan 2024 07:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0104/16_43_01__65966185f301b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소녀는 졸업하지 않는다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61097</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61097</guid>
-            <pubDate>Thu, 21 Dec 2023 06:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1221/15_17_57__6583d8952e8fa[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[걸즈 앤 판처 최종장 제4화]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61088</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61088</guid>
             <pubDate>Fri, 15 Dec 2023 06:21:38 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1215/15_28_29__657bf20db4e4d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아톰 새로운 시작]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61122</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61122</guid>
+            <pubDate>Fri, 05 Jan 2024 08:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
         </item>
     </channel>
 </rss>
