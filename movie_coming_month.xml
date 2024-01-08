@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 05:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 06:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0427/19_05_10__644a48d661018[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오후 네시]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60221</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60221</guid>
+            <pubDate>Thu, 07 Dec 2023 08:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_08_55__6419580767c68[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[탈주]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58804</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58804</guid>
@@ -99,22 +107,6 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
             <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오후 네시]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60221</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60221</guid>
-            <pubDate>Thu, 07 Dec 2023 08:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_08_55__6419580767c68[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정글번치 : 월드투어]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61128</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61128</guid>
-            <pubDate>Mon, 08 Jan 2024 05:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0108/14_41_47__659b8b1b5c11d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아톰 새로운 시작]]></title>
@@ -132,6 +124,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0105/17_01_59__6597b7771207d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[두 세계 사이에서]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61102</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61102</guid>
+            <pubDate>Mon, 08 Jan 2024 06:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1226/16_06_22__658a7b6e6ade4[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[걸즈 앤 판처 최종장 제4화]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61088</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61088</guid>
@@ -140,12 +140,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1215/15_28_29__657bf20db4e4d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서치3: 데스게임]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61115</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61115</guid>
-            <pubDate>Wed, 03 Jan 2024 05:18:08 GMT</pubDate>
+            <title><![CDATA[정글번치 : 월드투어]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61128</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61128</guid>
+            <pubDate>Mon, 08 Jan 2024 05:17:03 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0103/14_40_21__6594f345883ce[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0108/14_41_47__659b8b1b5c11d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
