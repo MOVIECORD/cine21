@@ -4,9 +4,20 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 05:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 06:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <시민덕희> 시사회 기대평 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8683&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8683&amp;p=1</guid>
+            <pubDate>Fri, 12 Jan 2024 06:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-01-22 19:30:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>코엑스 메가박스</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>50 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-01-12 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2023/1229/16_42_54__658e787e64167[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 <운빨 로맨스> 초대 이벤트]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8682&amp;p=1http://www.cine21.com/misc/cs/notice_view/?article_no=8682&amp;p=1</link>
@@ -106,15 +117,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2023-12-13 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1201/10_50_55__65693bffdf9ad[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <모딜리아니> & <에곤 실레> 초대 이벤트]]></title>
-            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8671&amp;p=1</link>
-            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8671&amp;p=1</guid>
-            <pubDate>Mon, 11 Dec 2023 02:33:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>6 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2023-12-11 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2023/1129/10_40_43__6566969be6d98[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
