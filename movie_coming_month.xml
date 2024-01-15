@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 06:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 07:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -100,20 +100,20 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오후 네시]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60221</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60221</guid>
-            <pubDate>Thu, 07 Dec 2023 08:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_08_55__6419580767c68[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[발레리나]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60453</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60453</guid>
             <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0427/19_05_10__644a48d661018[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오후 네시]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60221</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60221</guid>
+            <pubDate>Thu, 07 Dec 2023 08:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_08_55__6419580767c68[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정글번치 : 월드투어]]></title>
@@ -132,19 +132,19 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0105/17_01_59__6597b7771207d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스노우 퍼핀즈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61132</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61132</guid>
+            <pubDate>Mon, 15 Jan 2024 06:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[아기상어 극장판: 사이렌 스톤의 비밀]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61130</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61130</guid>
             <pubDate>Wed, 10 Jan 2024 02:04:42 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0109/13_57_41__659cd245e94d7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스노우 퍼핀즈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61132</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61132</guid>
-            <pubDate>Mon, 15 Jan 2024 06:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02]]></content:encoded>
         </item>
     </channel>
 </rss>
