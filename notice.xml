@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-01-15T01:08:35.957Z</updated>
+    <updated>2024-01-15T02:09:34.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <2호선 세입자> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8685&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8685&amp;p=1"/>
+        <updated>2024-01-15T01:59:18.733Z</updated>
+        <content type="html"><![CDATA[8685]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <헬로카봇 - 웰컴 투 파라다이스 서울 앵콜> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8684&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8684&amp;p=1"/>
+        <updated>2024-01-15T01:59:18.733Z</updated>
+        <content type="html"><![CDATA[8684]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <시민덕희> 시사회 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8683&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8683&amp;p=1"/>
+        <updated>2024-01-15T01:59:18.734Z</updated>
+        <content type="html"><![CDATA[8683]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <운빨 로맨스> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8682&amp;p=1</id>
@@ -81,26 +102,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8672&amp;p=1"/>
         <updated>2023-12-13T01:56:03.771Z</updated>
         <content type="html"><![CDATA[8672]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <모딜리아니> & <에곤 실레> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8671&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8671&amp;p=1"/>
-        <updated>2023-12-11T02:26:58.693Z</updated>
-        <content type="html"><![CDATA[8671]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <말하고 싶은 비밀> 시사회 이벤트 당첨자발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8670&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8670&amp;p=1"/>
-        <updated>2023-12-11T02:26:58.693Z</updated>
-        <content type="html"><![CDATA[8670]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <사랑의 스잔나> 시사회 이벤트 당첨자발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8669&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8669&amp;p=1"/>
-        <updated>2023-12-08T07:11:42.152Z</updated>
-        <content type="html"><![CDATA[8669]]></content>
     </entry>
 </feed>
