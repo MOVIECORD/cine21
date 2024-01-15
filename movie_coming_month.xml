@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 04:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 05:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,6 +39,13 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1226/16_34_52__658a821c53420[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[은하수]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61129</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61129</guid>
+            <pubDate>Mon, 08 Jan 2024 09:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[인사이드 아웃 2]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61039</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61039</guid>
@@ -63,10 +70,10 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0727/18_39_04__64c23b38a9258[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[은하수]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61129</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61129</guid>
-            <pubDate>Mon, 08 Jan 2024 09:18:32 GMT</pubDate>
+            <title><![CDATA[말할 수 없는 비밀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
+            <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
@@ -101,13 +108,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_08_55__6419580767c68[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[말할 수 없는 비밀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
-            <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[탈주]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58804</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58804</guid>
@@ -116,20 +116,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/11_05_10__621444d6d0d2a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정글번치 : 월드투어]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61128</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61128</guid>
-            <pubDate>Mon, 08 Jan 2024 05:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0108/14_41_47__659b8b1b5c11d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[봉신연의: 조가풍운]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61121</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61121</guid>
             <pubDate>Thu, 04 Jan 2024 07:17:57 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0105/17_01_59__6597b7771207d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정글번치 : 월드투어]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61128</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61128</guid>
+            <pubDate>Mon, 08 Jan 2024 05:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0108/14_41_47__659b8b1b5c11d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아기상어 극장판: 사이렌 스톤의 비밀]]></title>
@@ -145,7 +145,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=58779</guid>
             <pubDate>Mon, 15 Jan 2024 04:21:51 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0109/18_21_15__659d100bef1a6[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0115/14_53_17__65a4c84de60e2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

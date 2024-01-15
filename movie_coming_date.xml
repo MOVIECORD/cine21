@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 04:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 05:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0103/14_40_21__6594f345883ce[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[클럽 제로]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61114</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61114</guid>
+            <pubDate>Tue, 09 Jan 2024 16:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-01-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0110/11_12_21__659dfd05cb219[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시민덕희]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57322</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57322</guid>
@@ -128,12 +136,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0105/16_28_34__6597afa2c0f7e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[클럽 제로]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61114</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61114</guid>
-            <pubDate>Tue, 09 Jan 2024 16:22:29 GMT</pubDate>
+            <title><![CDATA[도그맨]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61075</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61075</guid>
+            <pubDate>Wed, 10 Jan 2024 07:16:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0110/11_12_21__659dfd05cb219[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1219/11_44_27__6581038b6441f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[울산의 별]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 10 Jan 2024 02:30:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01-24]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0104/15_16_12__65964d2c2b02a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도그맨]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61075</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61075</guid>
-            <pubDate>Wed, 10 Jan 2024 07:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-01-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1219/11_44_27__6581038b6441f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
