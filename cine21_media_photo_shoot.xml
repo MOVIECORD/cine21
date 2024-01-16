@@ -4,9 +4,41 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 02:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 03:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우							이제훈 
+							(총53장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=70688</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=70688</guid>
+            <pubDate>Tue, 16 Jan 2024 03:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=70688">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/0116/12_07_21__65a5f2e95e1da[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/828/65a5ea18aec0c.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>이제훈</strong> 
+							<span class="num">(총53장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/828/65a5ea18aec0c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							이정하 
+							(총5장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=116277</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=116277</guid>
+            <pubDate>Tue, 16 Jan 2024 03:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=116277">
+<!--						<img src="https://image.cine21.com/resize/cine21/movie/2024/0110/17_16_03__659e524312b83[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/273/65a5ea17476fe.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>이정하</strong> 
+							<span class="num">(총5장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/273/65a5ea17476fe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감독							백 
 							(총2장)]]></title>
@@ -150,38 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/603/647f6ba6d973b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우							로몬 
-							(총5장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=116921</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=116921</guid>
-            <pubDate>Wed, 20 Dec 2023 19:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=116921">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0210/10_32_16__62046b209d72d[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/crop/data/861/647f85849baf4.jpg" alt="" class="thumb">
-						<span class="caption">
-							배우							<strong>로몬</strong> 
-							<span class="num">(총5장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/861/647f85849baf4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우							조이현 
-							(총5장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=109467</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=109467</guid>
-            <pubDate>Wed, 20 Dec 2023 19:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=109467">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2022/0210/10_31_02__62046ad6e0c4a[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/crop/data/860/647f85847a51c.jpg" alt="" class="thumb">
-						<span class="caption">
-							배우							<strong>조이현</strong> 
-							<span class="num">(총5장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/860/647f85847a51c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
