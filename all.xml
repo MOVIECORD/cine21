@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 09:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 10:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3107,10 +3107,25 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/0222/11_05_10__621444d6d0d2a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[애니멀 킹덤 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61131</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61131</guid>
+            <pubDate>Tue, 09 Jan 2024 06:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0117/15_47_10__65a777ee02716[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[은하수 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61129</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61129</guid>
             <pubDate>Mon, 08 Jan 2024 09:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[시빌 워 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
+            <pubDate>Wed, 03 Jan 2024 07:14:52 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
@@ -3120,14 +3135,6 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <pubDate>Mon, 18 Dec 2023 06:21:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1226/16_34_52__658a821c53420[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애니멀 킹덤 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61131</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61131</guid>
-            <pubDate>Tue, 09 Jan 2024 06:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0117/15_47_10__65a777ee02716[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인사이드 아웃 2 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3154,19 +3161,18 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0727/18_39_04__64c23b38a9258[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[말할 수 없는 비밀 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
+            <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[인터뷰 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60722</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60722</guid>
             <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[발레리나 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60453</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60453</guid>
-            <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0427/19_05_10__644a48d661018[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오후 네시 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3177,18 +3183,12 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_08_55__6419580767c68[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[말할 수 없는 비밀 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
+            <title><![CDATA[발레리나 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60453</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60453</guid>
             <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[시빌 워 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
-            <pubDate>Wed, 03 Jan 2024 07:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0427/19_05_10__644a48d661018[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[킬 힘: 더 리벤지 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3199,20 +3199,20 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0117/11_16_01__65a73861c5099[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에스파: 마이 퍼스트 페이지 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61157</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61157</guid>
-            <pubDate>Wed, 17 Jan 2024 05:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0116/17_21_17__65a63c7d90efc[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[귀멸의 칼날: 인연의 기적, 그리고 합동 강화 훈련으로 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61154</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61154</guid>
             <pubDate>Tue, 16 Jan 2024 09:19:44 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0115/16_12_36__65a4dae4cab9c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스파: 마이 퍼스트 페이지 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61157</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61157</guid>
+            <pubDate>Wed, 17 Jan 2024 05:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0116/17_21_17__65a63c7d90efc[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[듄: 파트2 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
