@@ -4,17 +4,9 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 04:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 05:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[킹덤: 엑소더스]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61169</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61169</guid>
-            <pubDate>Thu, 18 Jan 2024 06:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-01-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0118/16_01_27__65a8ccc7aec5a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[요나스 카우프만 인 베로나]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61117</link>
@@ -78,6 +70,14 @@
             <pubDate>Fri, 19 Jan 2024 02:01:32 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01-31]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0117/10_45_22__65a73132383b8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[킹덤: 엑소더스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61169</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61169</guid>
+            <pubDate>Thu, 18 Jan 2024 06:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-01-31]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0118/16_01_27__65a8ccc7aec5a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웡카]]></title>
