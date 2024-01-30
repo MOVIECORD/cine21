@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 02:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 03:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3172,17 +3172,17 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[존 오브 인터레스트 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61107</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61107</guid>
-            <pubDate>Fri, 26 Jan 2024 05:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[은하수 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61129</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61129</guid>
             <pubDate>Thu, 25 Jan 2024 15:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[존 오브 인터레스트 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61107</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61107</guid>
+            <pubDate>Fri, 26 Jan 2024 05:20:02 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
@@ -3295,12 +3295,12 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0118/15_50_30__65a8ca36756d5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이프 온리 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=9022</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=9022</guid>
-            <pubDate>Mon, 29 Jan 2024 07:17:33 GMT</pubDate>
+            <title><![CDATA[듄: 파트2 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61093</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61093</guid>
+            <pubDate>Tue, 30 Jan 2024 03:19:51 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0116/20_26_48__65a667f8ad256[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1219/17_24_16__6581533001b93[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 나라로 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
