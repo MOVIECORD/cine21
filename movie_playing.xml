@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 01:56:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 02:26:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 16 Jan 2024 09:19:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-07]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0116/18_13_33__65a648bd6d911[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리멘시타]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61177</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61177</guid>
-            <pubDate>Wed, 24 Jan 2024 15:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-01-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0122/18_16_58__65ae328a3d379[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요나스 카우프만 인 베로나]]></title>
@@ -40,12 +32,52 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0117/14_57_18__65a76c3ee6452[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[리멘시타]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61177</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61177</guid>
+            <pubDate>Wed, 24 Jan 2024 15:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-01-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0122/18_16_58__65ae328a3d379[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봉신연의: 조가풍운]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61121</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61121</guid>
+            <pubDate>Tue, 23 Jan 2024 15:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-01-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0119/11_23_03__65a9dd07324e8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소녀는 졸업하지 않는다]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61097</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61097</guid>
             <pubDate>Tue, 23 Jan 2024 15:17:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01-24]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0105/16_28_34__6597afa2c0f7e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클럽 제로]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61114</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61114</guid>
+            <pubDate>Tue, 23 Jan 2024 15:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-01-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0110/11_12_21__659dfd05cb219[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세기말의 사랑]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61071</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61071</guid>
+            <pubDate>Tue, 23 Jan 2024 15:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-01-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0103/14_52_43__6594f62b0e308[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도그맨]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61075</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61075</guid>
+            <pubDate>Tue, 23 Jan 2024 15:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-01-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0124/15_13_40__65b0aa942b776[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넥스트 골 윈즈]]></title>
@@ -64,20 +96,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1222/16_08_29__658535ed0b546[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[클럽 제로]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61114</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61114</guid>
+            <title><![CDATA[시민덕희]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57322</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57322</guid>
             <pubDate>Tue, 23 Jan 2024 15:17:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0110/11_12_21__659dfd05cb219[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도그맨]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61075</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61075</guid>
-            <pubDate>Tue, 23 Jan 2024 15:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-01-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0124/15_13_40__65b0aa942b776[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0125/10_53_40__65b1bf24cc6d3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[울산의 별]]></title>
@@ -88,36 +112,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0104/15_16_12__65964d2c2b02a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봉신연의: 조가풍운]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61121</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61121</guid>
-            <pubDate>Tue, 23 Jan 2024 15:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-01-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0119/11_23_03__65a9dd07324e8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[영화 스미코구라시-튀어나오는 그림책과 비밀의 아이]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61156</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61156</guid>
             <pubDate>Tue, 23 Jan 2024 15:17:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01-24]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0119/11_35_50__65a9e00604067[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시민덕희]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57322</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57322</guid>
-            <pubDate>Tue, 23 Jan 2024 15:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-01-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0125/10_53_40__65b1bf24cc6d3[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세기말의 사랑]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61071</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61071</guid>
-            <pubDate>Tue, 23 Jan 2024 15:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-01-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0103/14_52_43__6594f62b0e308[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[97분]]></title>
@@ -128,20 +128,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0117/16_09_20__65a77d2076cd0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서치: 데스게임]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61115</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61115</guid>
-            <pubDate>Wed, 17 Jan 2024 15:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-01-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0116/18_29_22__65a64c72dbae8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[파라다이스 시티]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61158</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61158</guid>
             <pubDate>Wed, 17 Jan 2024 15:19:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01-18]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0116/17_56_39__65a644c79301e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서치: 데스게임]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61115</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61115</guid>
+            <pubDate>Wed, 17 Jan 2024 15:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-01-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0116/18_29_22__65a64c72dbae8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무티: 주술살인]]></title>
