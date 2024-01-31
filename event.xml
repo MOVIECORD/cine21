@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 16:22:02 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 <거미여인의 키스> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8264</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8264</guid>
-            <pubDate>Mon, 22 Jan 2024 02:06:17 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-02-01 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0122/10_44_18__65adc872cd263[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://www.cine21.com/event/list</id>
+    <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
+    <updated>2024-01-31T17:21:36.791Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://www.cine21.com/event/favicon.ico</icon>
+</feed>
