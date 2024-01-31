@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 14:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 15:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1218/15_57_33__657fed5dd169b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배우수업]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61174</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61174</guid>
-            <pubDate>Tue, 23 Jan 2024 16:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0123/15_04_00__65af56d0e21b4[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[데드맨]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58691</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58691</guid>
@@ -46,6 +38,14 @@
             <pubDate>Tue, 23 Jan 2024 16:22:46 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-07]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0123/11_06_00__65af1f083aef9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아기상어 극장판: 사이렌 스톤의 비밀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61130</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61130</guid>
+            <pubDate>Tue, 23 Jan 2024 16:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-07]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0119/12_02_44__65a9e6546e56a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 스미코구라시-푸른 달밤의 마법의 아이]]></title>
@@ -64,20 +64,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0115/16_58_58__65a4e5c2b2080[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[도그데이즈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58779</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58779</guid>
+            <title><![CDATA[검은 소년]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61125</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61125</guid>
             <pubDate>Wed, 24 Jan 2024 16:22:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0129/18_16_17__65b76ce18966e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아기상어 극장판: 사이렌 스톤의 비밀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61130</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61130</guid>
-            <pubDate>Tue, 23 Jan 2024 16:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0119/12_02_44__65a9e6546e56a[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0115/14_11_49__65a4be95285d8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[플랜 75]]></title>
@@ -88,28 +80,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0117/14_19_53__65a76379c720d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[검은 소년]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61125</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61125</guid>
+            <title><![CDATA[도그데이즈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58779</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58779</guid>
             <pubDate>Wed, 24 Jan 2024 16:22:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0115/14_11_49__65a4be95285d8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우견니]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61172</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61172</guid>
-            <pubDate>Tue, 30 Jan 2024 15:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0125/16_27_46__65b20d722492b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파: 마이 퍼스트 페이지]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61157</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61157</guid>
-            <pubDate>Wed, 31 Jan 2024 07:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0116/17_21_17__65a63c7d90efc[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0129/18_16_17__65b76ce18966e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[귀멸의 칼날: 인연의 기적, 그리고 합동 강화 훈련으로]]></title>
@@ -120,12 +96,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0126/11_34_28__65b31a347c029[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[에스파: 마이 퍼스트 페이지]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61157</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61157</guid>
+            <pubDate>Wed, 31 Jan 2024 07:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0116/17_21_17__65a63c7d90efc[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[DMZ 동물 특공대]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61162</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61162</guid>
             <pubDate>Tue, 30 Jan 2024 15:16:29 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-14]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0122/14_24_04__65adfbf4cfd1c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우견니]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61172</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61172</guid>
+            <pubDate>Tue, 30 Jan 2024 15:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0125/16_27_46__65b20d722492b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장인과 사위]]></title>
@@ -150,6 +142,14 @@
             <pubDate>Tue, 30 Jan 2024 15:16:29 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-15]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0103/16_01_37__659506510a402[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 츠루네: 시작의 한 발]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61216</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61216</guid>
+            <pubDate>Wed, 31 Jan 2024 15:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0126/18_46_02__65b37f5a0f8c1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
