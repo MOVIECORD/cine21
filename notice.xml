@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-02-01T01:00:15.815Z</updated>
+    <updated>2024-02-01T02:01:01.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <거미여인의 키스> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8699&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8699&amp;p=1"/>
+        <updated>2024-02-01T01:51:36.343Z</updated>
+        <content type="html"><![CDATA[8699]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <겨울나그네> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8698&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8685&amp;p=1"/>
         <updated>2024-01-25T15:13:09.067Z</updated>
         <content type="html"><![CDATA[8685]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <헬로카봇 - 웰컴 투 파라다이스 서울 앵콜> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8684&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8684&amp;p=1"/>
-        <updated>2024-01-25T15:13:09.069Z</updated>
-        <content type="html"><![CDATA[8684]]></content>
     </entry>
 </feed>
