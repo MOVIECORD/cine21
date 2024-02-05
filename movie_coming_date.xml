@@ -4,9 +4,17 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 07:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 08:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태풍이 지나가고]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=48148</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=48148</guid>
+            <pubDate>Mon, 05 Feb 2024 08:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0205/17_18_22__65c099cee500a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부활 그 소망]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61056</link>
@@ -16,12 +24,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1218/15_57_33__657fed5dd169b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[데드맨]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58691</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58691</guid>
-            <pubDate>Tue, 23 Jan 2024 16:22:46 GMT</pubDate>
+            <title><![CDATA[도그데이즈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58779</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58779</guid>
+            <pubDate>Wed, 24 Jan 2024 16:22:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0109/18_13_54__659d0e52395ed[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0129/18_16_17__65b76ce18966e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아네모네]]></title>
@@ -40,12 +48,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0119/12_02_44__65a9e6546e56a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영화 스미코구라시-푸른 달밤의 마법의 아이]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61173</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61173</guid>
+            <title><![CDATA[데드맨]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58691</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58691</guid>
             <pubDate>Tue, 23 Jan 2024 16:22:46 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0123/17_24_51__65af77d3b2ffe[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0109/18_13_54__659d0e52395ed[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아가일]]></title>
@@ -54,14 +62,6 @@
             <pubDate>Tue, 30 Jan 2024 15:16:29 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-07]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0115/16_58_58__65a4e5c2b2080[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도그데이즈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58779</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58779</guid>
-            <pubDate>Wed, 24 Jan 2024 16:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0129/18_16_17__65b76ce18966e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검은 소년]]></title>
@@ -78,6 +78,14 @@
             <pubDate>Wed, 24 Jan 2024 16:22:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-07]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0117/14_19_53__65a76379c720d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 스미코구라시-푸른 달밤의 마법의 아이]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61173</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61173</guid>
+            <pubDate>Tue, 23 Jan 2024 16:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-07]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0123/17_24_51__65af77d3b2ffe[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우견니]]></title>
@@ -112,14 +120,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0126/11_34_28__65b31a347c029[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[플라시도 도밍고 인 베로나]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61118</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61118</guid>
-            <pubDate>Tue, 30 Jan 2024 15:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0103/16_01_37__659506510a402[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스노우 퍼핀즈]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61132</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61132</guid>
@@ -136,19 +136,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0122/18_23_38__65ae341a1d71b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 츠루네: 시작의 한 발]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61216</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61216</guid>
-            <pubDate>Wed, 31 Jan 2024 15:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0126/18_46_02__65b37f5a0f8c1[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[플라시도 도밍고 인 베로나]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61118</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61118</guid>
+            <pubDate>Tue, 30 Jan 2024 15:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0103/16_01_37__659506510a402[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오키쿠와 세계]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61222</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61222</guid>
-            <pubDate>Fri, 02 Feb 2024 07:17:05 GMT</pubDate>
+            <title><![CDATA[바튼 아카데미]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61133</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61133</guid>
+            <pubDate>Mon, 05 Feb 2024 08:20:32 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0129/16_48_21__65b7584523361[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

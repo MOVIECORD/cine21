@@ -4,14 +4,14 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 07:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 08:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[6시간 후 너는 죽는다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61217</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61217</guid>
-            <pubDate>Mon, 29 Jan 2024 07:17:33 GMT</pubDate>
+            <title><![CDATA[시빌 워]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
+            <pubDate>Wed, 03 Jan 2024 07:14:52 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
@@ -19,13 +19,6 @@
             <link>http://www.cine21.com/movie/info/?movie_id=61129</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61129</guid>
             <pubDate>Mon, 08 Jan 2024 09:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[시빌 워]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
-            <pubDate>Wed, 03 Jan 2024 07:14:52 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
@@ -42,6 +35,13 @@
             <pubDate>Mon, 18 Dec 2023 06:21:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1226/16_34_52__658a821c53420[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6시간 후 너는 죽는다]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61217</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61217</guid>
+            <pubDate>Mon, 29 Jan 2024 07:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인사이드 아웃 2]]></title>
@@ -130,20 +130,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0117/11_16_01__65a73861c5099[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마담 웹]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61168</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61168</guid>
-            <pubDate>Thu, 01 Feb 2024 05:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0118/15_50_30__65a8ca36756d5[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[월레스와 그로밋 더 클래식 컬렉션]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61223</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61223</guid>
             <pubDate>Thu, 01 Feb 2024 05:18:10 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0205/13_34_59__65c06573f1928[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마담 웹]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61168</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61168</guid>
+            <pubDate>Thu, 01 Feb 2024 05:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0118/15_50_30__65a8ca36756d5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
