@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 08:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 09:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,13 +29,6 @@
             <pubDate>Tue, 09 Jan 2024 06:20:45 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0117/15_47_10__65a777ee02716[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은하수]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61129</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61129</guid>
-            <pubDate>Mon, 08 Jan 2024 09:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[시빌 워]]></title>
@@ -84,12 +77,27 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0727/18_39_04__64c23b38a9258[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[밥 말리: 원 러브]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60725</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60725</guid>
+            <pubDate>Tue, 30 Jan 2024 08:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1212/17_03_33__657813d53e6c2[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[왕을 찾아서]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60181</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60181</guid>
             <pubDate>Tue, 06 Feb 2024 06:18:00 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/15_25_59__65c1d0f706cec[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[말할 수 없는 비밀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
+            <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오후 네시]]></title>
@@ -115,21 +123,6 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[말할 수 없는 비밀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
-            <pubDate>Tue, 05 Dec 2023 02:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[밥 말리: 원 러브]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60725</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60725</guid>
-            <pubDate>Tue, 30 Jan 2024 08:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1212/17_03_33__657813d53e6c2[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[킬 힘: 더 리벤지]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61161</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61161</guid>
@@ -144,6 +137,14 @@
             <pubDate>Thu, 08 Feb 2024 05:16:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0207/16_09_19__65c32c9fa42ef[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메이 디셈버]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61224</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61224</guid>
+            <pubDate>Thu, 08 Feb 2024 09:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0201/14_52_02__65bb31822bbd8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
