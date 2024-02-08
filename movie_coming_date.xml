@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 04:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 05:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0122/18_23_38__65ae341a1d71b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[플라시도 도밍고 인 베로나]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61118</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61118</guid>
-            <pubDate>Tue, 30 Jan 2024 15:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0103/16_01_37__659506510a402[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스노우 퍼핀즈]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61132</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61132</guid>
@@ -80,12 +72,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0125/17_44_24__65b21f68565ae[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애프터: 유혹의 끝]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61179</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61179</guid>
-            <pubDate>Tue, 06 Feb 2024 15:19:39 GMT</pubDate>
+            <title><![CDATA[플라시도 도밍고 인 베로나]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61118</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61118</guid>
+            <pubDate>Tue, 30 Jan 2024 15:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0103/16_01_37__659506510a402[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월레스와 그로밋 더 클래식 컬렉션]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61223</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61223</guid>
+            <pubDate>Thu, 08 Feb 2024 05:16:41 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0129/16_43_26__65b7571ebc456[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0208/14_23_20__65c46548f2ed8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[벗어날 탈 脫]]></title>
@@ -94,14 +94,6 @@
             <pubDate>Tue, 06 Feb 2024 15:19:39 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0131/15_17_12__65b9e5e8446eb[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 츠루네: 시작의 한 발]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61216</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61216</guid>
-            <pubDate>Tue, 06 Feb 2024 15:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0126/18_46_02__65b37f5a0f8c1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사운드 오브 프리덤]]></title>
@@ -118,6 +110,22 @@
             <pubDate>Tue, 06 Feb 2024 15:19:39 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0205/17_51_25__65c0a18dbd39a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 츠루네: 시작의 한 발]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61216</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61216</guid>
+            <pubDate>Tue, 06 Feb 2024 15:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0126/18_46_02__65b37f5a0f8c1[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애프터: 유혹의 끝]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61179</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61179</guid>
+            <pubDate>Tue, 06 Feb 2024 15:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0129/16_43_26__65b7571ebc456[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K스쿨]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 05 Feb 2024 08:20:32 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0129/16_48_21__65b7584523361[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서바이벌 택틱스]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58881</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58881</guid>
-            <pubDate>Tue, 06 Feb 2024 15:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/18_34_02__65c1fd0a8be83[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
