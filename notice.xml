@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-02-13T01:52:00.365Z</updated>
+    <updated>2024-02-13T02:29:16.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도서 <여우의 계절> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8701&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8701&amp;p=1"/>
+        <updated>2024-02-13T02:18:04.212Z</updated>
+        <content type="html"><![CDATA[8701]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <거미여인의 키스> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8699&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8686&amp;p=1"/>
         <updated>2024-01-25T15:13:09.066Z</updated>
         <content type="html"><![CDATA[8686]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <2호선 세입자> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8685&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8685&amp;p=1"/>
-        <updated>2024-01-25T15:13:09.067Z</updated>
-        <content type="html"><![CDATA[8685]]></content>
     </entry>
 </feed>
