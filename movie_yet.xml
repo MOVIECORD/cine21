@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 01:52:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 02:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,21 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/55448_614d6fb3976df[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부활남]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60614</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60614</guid>
+            <pubDate>Tue, 13 Feb 2024 09:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">부활남</span>
+		
+
+									<span class="director">감독 : 백</span>
+											<span class="actor">배우 : 구교환,신승호</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[야당]]></title>
@@ -149,22 +164,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0122/14_39_08__65adff7ccc583[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아마존 활명수]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61176</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61176</guid>
-            <pubDate>Tue, 13 Feb 2024 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">아마존 활명수</span>
-		
-
-									<span class="director">감독 : 김창주</span>
-											<span class="actor">배우 : 류승룡,진선규</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0122/14_45_16__65ae00ecf08d5[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[리볼버]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61241</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61241</guid>
@@ -190,21 +189,6 @@
 
 									<span class="director">감독 : 탁세웅</span>
 											<span class="actor">배우 : 주현영,전배수</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부활남]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60614</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60614</guid>
-            <pubDate>Tue, 13 Feb 2024 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">부활남</span>
-		
-
-									<span class="director">감독 : 백</span>
-											<span class="actor">배우 : 구교환,신승호</span>
 		
 		
 							<span class="btn_detail">자세히 보기</span>
@@ -289,6 +273,22 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0602/17_28_51__5ed60dc3b6633[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탈출: PROJECT SILENCE]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56904</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56904</guid>
+            <pubDate>Wed, 14 Feb 2024 02:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">탈출: PROJECT SILENCE</span>
+		
+
+									<span class="director">감독 : 김태곤</span>
+											<span class="actor">배우 : 이선균,주지훈</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0512/17_29_19__645df8df5ad24[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
