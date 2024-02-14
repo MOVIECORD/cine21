@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 04:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 05:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0122/14_24_04__65adfbf4cfd1c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에스파: 마이 퍼스트 페이지]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61157</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61157</guid>
-            <pubDate>Tue, 13 Feb 2024 16:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0201/15_17_10__65bb3766a527b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[귀멸의 칼날: 인연의 기적, 그리고 합동 강화 훈련으로]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61154</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61154</guid>
@@ -40,12 +32,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0126/11_34_28__65b31a347c029[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아네모네]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61155</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61155</guid>
+            <title><![CDATA[에스파: 마이 퍼스트 페이지]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61157</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61157</guid>
+            <pubDate>Tue, 13 Feb 2024 16:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0201/15_17_10__65bb3766a527b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플랜 75]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60231</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60231</guid>
             <pubDate>Tue, 13 Feb 2024 12:25:00 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0123/11_06_00__65af1f083aef9[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0117/14_19_53__65a76379c720d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소풍]]></title>
@@ -64,20 +64,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0115/16_58_58__65a4e5c2b2080[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아네모네]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61155</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61155</guid>
+            <pubDate>Tue, 13 Feb 2024 12:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-07]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0123/11_06_00__65af1f083aef9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아기상어 극장판: 사이렌 스톤의 비밀]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61130</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61130</guid>
             <pubDate>Tue, 13 Feb 2024 12:25:00 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-07]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0119/12_02_44__65a9e6546e56a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플랜 75]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60231</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60231</guid>
-            <pubDate>Tue, 13 Feb 2024 12:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0117/14_19_53__65a76379c720d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검은 소년]]></title>
@@ -104,6 +104,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0109/18_13_54__659d0e52395ed[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블랙 로터스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61280</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61280</guid>
+            <pubDate>Wed, 14 Feb 2024 05:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-07]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0214/14_28_24__65cc4f7844944[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영화 스미코구라시-푸른 달밤의 마법의 아이]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61173</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61173</guid>
@@ -128,28 +136,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0214/11_33_33__65cc267dd8a07[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[킹덤 2]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=2149</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=2149</guid>
-            <pubDate>Wed, 14 Feb 2024 02:22:00 GMT</pubDate>
+            <title><![CDATA[추락의 해부]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61106</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61106</guid>
+            <pubDate>Wed, 14 Feb 2024 05:17:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0214/11_23_26__65cc241e53012[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0131/18_03_50__65ba0cf67d3af[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[웡카]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61087</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61087</guid>
-            <pubDate>Tue, 13 Feb 2024 12:25:00 GMT</pubDate>
+            <title><![CDATA[아톰 새로운 시작]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61122</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61122</guid>
+            <pubDate>Wed, 14 Feb 2024 05:17:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-01-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0105/16_40_56__6597b2885dbe0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두 세계 사이에서]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61102</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61102</guid>
-            <pubDate>Tue, 13 Feb 2024 12:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-01-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0118/16_13_17__65a8cf8d73b11[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0123/17_34_39__65af7a1f84160[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
