@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 00:59:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 01:52:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -77,14 +77,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0727/18_39_04__64c23b38a9258[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밥 말리: 원 러브]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60725</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60725</guid>
-            <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1212/17_03_33__657813d53e6c2[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[왕을 찾아서]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60181</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60181</guid>
@@ -123,6 +115,14 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[밥 말리: 원 러브]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60725</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60725</guid>
+            <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1212/17_03_33__657813d53e6c2[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[킬 힘: 더 리벤지]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61161</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61161</guid>
@@ -139,12 +139,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0207/16_09_19__65c32c9fa42ef[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메이 디셈버]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61224</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61224</guid>
-            <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
+            <title><![CDATA[래빗스쿨 2: 부활절 대소동]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61234</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61234</guid>
+            <pubDate>Wed, 14 Feb 2024 01:48:41 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0201/14_52_02__65bb31822bbd8[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/15_55_16__65c1d7d43a77e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
