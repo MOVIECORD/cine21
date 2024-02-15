@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 01:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 01:49:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 13 Feb 2024 14:15:42 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1218/15_57_33__657fed5dd169b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이프 온리]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=9022</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=9022</guid>
+            <pubDate>Tue, 13 Feb 2024 14:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0208/11_35_31__65c43df3c80ea[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사운드 오브 프리덤]]></title>
@@ -56,14 +64,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0131/15_17_12__65b9e5e8446eb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이프 온리]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=9022</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=9022</guid>
-            <pubDate>Tue, 13 Feb 2024 14:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0208/11_35_31__65c43df3c80ea[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 츠루네: 시작의 한 발]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61216</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61216</guid>
@@ -88,14 +88,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0208/14_23_20__65c46548f2ed8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서바이벌 택틱스]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58881</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58881</guid>
-            <pubDate>Tue, 13 Feb 2024 15:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/18_34_02__65c1fd0a8be83[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[바튼 아카데미]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61133</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61133</guid>
@@ -104,20 +96,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0129/16_48_21__65b7584523361[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서바이벌 택틱스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58881</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58881</guid>
+            <pubDate>Tue, 13 Feb 2024 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/18_34_02__65c1fd0a8be83[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[파묘]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61067</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61067</guid>
             <pubDate>Tue, 13 Feb 2024 15:19:42 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-22]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0201/15_12_21__65bb36456d0a7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[막걸리가 알려줄거야]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61150</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61150</guid>
-            <pubDate>Wed, 14 Feb 2024 08:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0205/15_02_22__65c079eec664b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갓랜드]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Wed, 14 Feb 2024 16:22:03 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-28]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0207/14_56_50__65c31ba2b289e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[막걸리가 알려줄거야]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61150</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61150</guid>
+            <pubDate>Wed, 14 Feb 2024 08:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-28]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0205/15_02_22__65c079eec664b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이엠 티라노]]></title>

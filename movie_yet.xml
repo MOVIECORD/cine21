@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 01:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 01:49:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -180,21 +180,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0207/15_05_48__65c31dbc8fe04[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[괴기열차]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61242</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61242</guid>
-            <pubDate>Tue, 13 Feb 2024 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">괴기열차</span>
-		
-
-									<span class="director">감독 : 탁세웅</span>
-											<span class="actor">배우 : 주현영,전배수</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[드라이브(가제)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59755</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59755</guid>
@@ -225,6 +210,21 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1004/15_16_12__633bcfac5f938[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2시의 데이트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58780</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58780</guid>
+            <pubDate>Thu, 15 Feb 2024 01:48:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">2시의 데이트</span>
+		
+
+									<span class="director">감독 : 이상근</span>
+											<span class="actor">배우 : 임윤아,안보현</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사흘(가제)]]></title>
