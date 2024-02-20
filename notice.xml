@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-02-20T00:57:44.681Z</updated>
+    <updated>2024-02-20T01:52:28.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <파묘> 시사회 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8708&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8708&amp;p=1"/>
+        <updated>2024-02-20T01:42:36.187Z</updated>
+        <content type="html"><![CDATA[8708]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <대결! 애니메이션> 시사회 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8707&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8693&amp;p=1"/>
         <updated>2024-01-25T15:13:09.055Z</updated>
         <content type="html"><![CDATA[8693]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <도그데이즈> 시사회 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8692&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8692&amp;p=1"/>
-        <updated>2024-01-25T15:13:09.056Z</updated>
-        <content type="html"><![CDATA[8692]]></content>
     </entry>
 </feed>
