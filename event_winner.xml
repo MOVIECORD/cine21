@@ -4,9 +4,20 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 01:52:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 02:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <파묘> 시사회 기대평 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8708&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8708&amp;p=1</guid>
+            <pubDate>Tue, 20 Feb 2024 02:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-02-21 20:00:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 판교 ScreenX관</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>50 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-02-20 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0213/22_45_43__65cb72874d417[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <여기는 아미코> 시사회 기대평 이벤트]]></title>
             <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8705&amp;p=1</link>
@@ -102,15 +113,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>55 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-01-29 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2024/0117/16_06_47__65a77c87e6933[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <늘근도둑 이야기> 초대 이벤트]]></title>
-            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8694&amp;p=1</link>
-            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8694&amp;p=1</guid>
-            <pubDate>Tue, 13 Feb 2024 14:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-01-25 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2024/0115/12_04_07__65a4a0a705337[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
