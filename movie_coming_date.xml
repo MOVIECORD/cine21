@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 05:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 06:41:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1218/15_57_33__657fed5dd169b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[K스쿨]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61178</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61178</guid>
+            <title><![CDATA[오키쿠와 세계]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61222</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61222</guid>
             <pubDate>Tue, 13 Feb 2024 14:15:42 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0123/15_24_00__65af5b808f7e4[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0214/15_30_34__65cc5e0aa51ad[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바튼 아카데미]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61133</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61133</guid>
+            <pubDate>Tue, 13 Feb 2024 14:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0129/16_48_21__65b7584523361[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사운드 오브 프리덤]]></title>
@@ -38,6 +46,14 @@
             <pubDate>Tue, 13 Feb 2024 14:15:42 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0118/10_00_49__65a87841c1059[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K스쿨]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61178</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61178</guid>
+            <pubDate>Tue, 13 Feb 2024 14:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0123/15_24_00__65af5b808f7e4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애프터: 유혹의 끝]]></title>
@@ -64,14 +80,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0126/18_46_02__65b37f5a0f8c1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오키쿠와 세계]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61222</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61222</guid>
-            <pubDate>Tue, 13 Feb 2024 14:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0214/15_30_34__65cc5e0aa51ad[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[서바이벌 택틱스]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58881</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58881</guid>
@@ -96,14 +104,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0208/14_23_20__65c46548f2ed8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[바튼 아카데미]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61133</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61133</guid>
-            <pubDate>Tue, 13 Feb 2024 14:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0129/16_48_21__65b7584523361[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[콜로니얼]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61286</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61286</guid>
@@ -120,6 +120,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0215/12_00_03__65cd7e3309516[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[갓랜드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61277</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61277</guid>
+            <pubDate>Tue, 13 Feb 2024 15:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-28]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0208/19_47_09__65c4b12dac14e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[듄: 파트2]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61093</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61093</guid>
@@ -134,14 +142,6 @@
             <pubDate>Wed, 14 Feb 2024 08:20:38 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-28]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0205/15_02_22__65c079eec664b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갓랜드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61277</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61277</guid>
-            <pubDate>Tue, 13 Feb 2024 15:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0208/19_47_09__65c4b12dac14e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[생츄어리2: 쿼카가 너무해]]></title>
