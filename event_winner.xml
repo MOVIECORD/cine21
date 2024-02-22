@@ -4,9 +4,18 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 10:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 11:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <옥탑방 고양이> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/winner</link>
+            <guid>http://www.cine21.com/event/winner</guid>
+            <pubDate>Thu, 22 Feb 2024 11:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-02-22 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0206/10_48_24__65c18fe866401[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <파묘> 시사회 기대평 이벤트]]></title>
             <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8708&amp;p=1</link>
@@ -102,17 +111,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-01-29 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2024/0115/11_53_46__65a49e3a48cca[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<미라클 2024! 동기부여 프로젝트> 강연 초대 이벤트]]></title>
-            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8697&amp;p=1</link>
-            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8697&amp;p=1</guid>
-            <pubDate>Tue, 13 Feb 2024 14:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-01-30 16:00:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>서울시립대학교 백주년 기념관 308호</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>55 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-01-29 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2024/0117/16_06_47__65a77c87e6933[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
