@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-02-23T00:57:51.250Z</updated>
+    <updated>2024-02-23T01:49:16.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도서 <모두가 가면을 벗는다면> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8710&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8710&amp;p=1"/>
+        <updated>2024-02-23T01:43:05.132Z</updated>
+        <content type="html"><![CDATA[8710]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <옥탑방 고양이> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8709&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8695&amp;p=1"/>
         <updated>2024-01-26T08:14:36.226Z</updated>
         <content type="html"><![CDATA[8695]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <늘근도둑 이야기> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8694&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8694&amp;p=1"/>
-        <updated>2024-01-25T15:13:09.055Z</updated>
-        <content type="html"><![CDATA[8694]]></content>
     </entry>
 </feed>
