@@ -4,24 +4,16 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 23:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 00:57:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[당신이 잠든 사이]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61292</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61292</guid>
-            <pubDate>Wed, 21 Feb 2024 01:51:05 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-03-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0221/10_43_52__65d555589d2af[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[듄: 파트2]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61093</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61093</guid>
-            <pubDate>Tue, 27 Feb 2024 16:21:38 GMT</pubDate>
+            <title><![CDATA[여기는 아미코]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61236</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61236</guid>
+            <pubDate>Wed, 28 Feb 2024 00:54:27 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0207/14_56_50__65c31ba2b289e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0207/16_09_19__65c32c9fa42ef[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[막걸리가 알려줄거야]]></title>
@@ -30,6 +22,14 @@
             <pubDate>Tue, 27 Feb 2024 16:21:38 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-28]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0221/11_12_54__65d55c26638ae[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[듄: 파트2]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61093</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61093</guid>
+            <pubDate>Tue, 27 Feb 2024 16:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-28]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0207/14_56_50__65c31ba2b289e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갓랜드]]></title>
@@ -64,12 +64,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0214/14_12_53__65cc4bd54e46c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[월레스와 그로밋 더 클래식 컬렉션]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61223</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61223</guid>
+            <title><![CDATA[사운드 오브 프리덤]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61167</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61167</guid>
             <pubDate>Tue, 20 Feb 2024 17:17:00 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0208/14_23_20__65c46548f2ed8[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0118/10_00_49__65a87841c1059[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바튼 아카데미]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61133</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61133</guid>
+            <pubDate>Tue, 20 Feb 2024 17:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0129/16_48_21__65b7584523361[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K스쿨]]></title>
@@ -88,12 +96,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0129/16_43_26__65b7571ebc456[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사운드 오브 프리덤]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61167</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61167</guid>
+            <title><![CDATA[벗어날 탈 脫]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61182</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61182</guid>
             <pubDate>Tue, 20 Feb 2024 17:17:00 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0118/10_00_49__65a87841c1059[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0131/15_17_12__65b9e5e8446eb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판 츠루네: 시작의 한 발]]></title>
@@ -102,30 +110,6 @@
             <pubDate>Tue, 20 Feb 2024 17:17:00 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0126/18_46_02__65b37f5a0f8c1[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바튼 아카데미]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61133</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61133</guid>
-            <pubDate>Tue, 20 Feb 2024 17:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0129/16_48_21__65b7584523361[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이프 온리]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=9022</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=9022</guid>
-            <pubDate>Tue, 20 Feb 2024 17:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0208/11_35_31__65c43df3c80ea[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벗어날 탈 脫]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61182</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61182</guid>
-            <pubDate>Tue, 20 Feb 2024 17:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0131/15_17_12__65b9e5e8446eb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오키쿠와 세계]]></title>
@@ -144,12 +128,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/18_34_02__65c1fd0a8be83[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[장인과 사위]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61163</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61163</guid>
-            <pubDate>Wed, 14 Feb 2024 16:21:52 GMT</pubDate>
+            <title><![CDATA[이프 온리]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=9022</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=9022</guid>
+            <pubDate>Tue, 20 Feb 2024 17:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0208/11_35_31__65c43df3c80ea[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월레스와 그로밋 더 클래식 컬렉션]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61223</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61223</guid>
+            <pubDate>Tue, 20 Feb 2024 17:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-02-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0208/14_23_20__65c46548f2ed8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플라시도 도밍고 인 베로나]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61118</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61118</guid>
+            <pubDate>Wed, 28 Feb 2024 00:54:27 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0122/18_23_38__65ae341a1d71b[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0103/16_01_37__659506510a402[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
