@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 07:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 08:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,13 @@
             <pubDate>Wed, 28 Feb 2024 00:55:46 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0205/17_18_22__65c099cee500a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기동전사 건담 SEED FREEDOM]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61307</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61307</guid>
+            <pubDate>Wed, 28 Feb 2024 02:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[콰이어트 플레이스: 첫째 날]]></title>
@@ -45,13 +52,6 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기동전사 건담 SEED FREEDOM]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61307</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61307</guid>
-            <pubDate>Wed, 28 Feb 2024 02:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[존 오브 인터레스트]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61107</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61107</guid>
@@ -73,13 +73,6 @@
             <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1120/14_38_46__655af0e63eefe[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말할 수 없는 비밀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
-            <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[왕을 찾아서]]></title>
@@ -104,6 +97,13 @@
             <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0427/19_05_10__644a48d661018[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[말할 수 없는 비밀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
+            <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인터뷰]]></title>
