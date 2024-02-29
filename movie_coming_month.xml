@@ -4,16 +4,15 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 08:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 09:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[태풍이 지나가고]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=48148</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=48148</guid>
-            <pubDate>Wed, 28 Feb 2024 00:55:46 GMT</pubDate>
+            <title><![CDATA[6시간 후 너는 죽는다]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61217</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61217</guid>
+            <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0205/17_18_22__65c099cee500a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애니멀 킹덤]]></title>
@@ -76,6 +75,14 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[태풍이 지나가고]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=48148</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=48148</guid>
+            <pubDate>Wed, 28 Feb 2024 00:55:46 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0205/17_18_22__65c099cee500a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기동전사 건담 SEED FREEDOM]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61307</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61307</guid>
@@ -86,13 +93,6 @@
             <title><![CDATA[말할 수 없는 비밀]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
-            <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[6시간 후 너는 죽는다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61217</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61217</guid>
             <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
@@ -129,20 +129,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0220/19_09_31__65d47a5b4b025[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[당신이 잠든 사이]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61292</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61292</guid>
-            <pubDate>Thu, 29 Feb 2024 06:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0221/10_43_52__65d555589d2af[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[래빗스쿨 2: 부활절 대소동]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61234</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61234</guid>
             <pubDate>Thu, 22 Feb 2024 06:23:35 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-03]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/15_55_16__65c1d7d43a77e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신이 잠든 사이]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61292</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61292</guid>
+            <pubDate>Thu, 29 Feb 2024 06:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0221/10_43_52__65d555589d2af[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
