@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-03-04T01:00:04.157Z</updated>
+    <updated>2024-03-04T02:15:17.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <늘근도둑 이야기> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8713&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8713&amp;p=1"/>
+        <updated>2024-03-04T02:00:49.204Z</updated>
+        <content type="html"><![CDATA[8713]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <사랑에 빠지기까지 D-100> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8712&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8698&amp;p=1"/>
         <updated>2024-01-29T02:18:17.621Z</updated>
         <content type="html"><![CDATA[8698]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<미라클 2024! 동기부여 프로젝트> 강연 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8697&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8697&amp;p=1"/>
-        <updated>2024-01-29T02:18:17.621Z</updated>
-        <content type="html"><![CDATA[8697]]></content>
     </entry>
 </feed>
