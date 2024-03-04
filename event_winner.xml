@@ -4,9 +4,18 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 02:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 03:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <늘근도둑 이야기> 초대 이벤트]]></title>
+            <link>http://cine21.com/misc/cs/notice_view/?article_no=8713&amp;p=1</link>
+            <guid>http://cine21.com/misc/cs/notice_view/?article_no=8713&amp;p=1</guid>
+            <pubDate>Mon, 04 Mar 2024 03:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-03-04 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0223/16_19_49__65d84715ca127[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 <사랑에 빠지기까지 D-100> 초대 이벤트]]></title>
             <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8712&amp;p=1</link>
@@ -31,7 +40,7 @@
             <title><![CDATA[연극 <옥탑방 고양이> 초대 이벤트]]></title>
             <link>http://www.cine21.com/event/winner</link>
             <guid>http://www.cine21.com/event/winner</guid>
-            <pubDate>Mon, 04 Mar 2024 00:57:22 GMT</pubDate>
+            <pubDate>Mon, 04 Mar 2024 03:13:41 GMT</pubDate>
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-02-22 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0206/10_48_24__65c18fe866401[T224,320].jpg" length="0" type="image/jpg"/>
@@ -104,15 +113,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-02-14 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0201/11_12_07__65bafdf727e3d[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <여우의 계절> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8701&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8701&amp;p=1</guid>
-            <pubDate>Tue, 13 Feb 2024 14:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-02-13 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0201/11_54_06__65bb07ce88576[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
