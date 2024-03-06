@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 05:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 06:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0305/14_59_07__65e6b4ab7cfea[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[파리 에펠탑 콘서트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61323</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61323</guid>
-            <pubDate>Tue, 05 Mar 2024 01:49:42 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-03-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0305/11_02_32__65e67d3848127[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[부활 그 소망]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61056</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61056</guid>
             <pubDate>Tue, 13 Feb 2024 14:15:42 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-03-07]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1218/15_57_33__657fed5dd169b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파리 에펠탑 콘서트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61323</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61323</guid>
+            <pubDate>Tue, 05 Mar 2024 01:49:42 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-03-07]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0305/11_02_32__65e67d3848127[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로봇 드림]]></title>
@@ -112,20 +112,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0228/16_28_33__65dee0a1a6cf7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밥 말리: 원 러브]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60725</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60725</guid>
-            <pubDate>Tue, 05 Mar 2024 16:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-03-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0228/18_00_35__65def6339b1b5[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[태양은 없다]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=2402</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=2402</guid>
             <pubDate>Tue, 27 Feb 2024 15:22:15 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-03-13]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0219/17_08_10__65d30c6a1e970[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밥 말리: 원 러브]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60725</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60725</guid>
+            <pubDate>Tue, 05 Mar 2024 16:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-03-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0228/18_00_35__65def6339b1b5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인어공주: 마법물약의 비밀]]></title>
@@ -136,20 +136,19 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0220/19_03_18__65d478e615b2d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[잠행]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61317</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61317</guid>
+            <pubDate>Wed, 06 Mar 2024 06:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-03-20]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[에픽하이 20 더 무비]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61305</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61305</guid>
             <pubDate>Tue, 05 Mar 2024 16:21:23 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-03-20]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0227/16_15_46__65dd8c2256c42[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왓츠 러브]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61229</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61229</guid>
-            <pubDate>Tue, 05 Mar 2024 16:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-03-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0221/18_39_49__65d5c4e58a0a5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
