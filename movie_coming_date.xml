@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 01:53:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 02:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0219/17_08_10__65d30c6a1e970[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[레이징 그레이스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61166</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61166</guid>
+            <pubDate>Tue, 05 Mar 2024 16:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-03-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0228/16_28_33__65dee0a1a6cf7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[마담 웹]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61168</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61168</guid>
@@ -38,14 +46,6 @@
             <pubDate>Tue, 27 Feb 2024 15:22:15 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-03-13]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0214/17_06_31__65cc748787ef9[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무협대호: 학살의 칼날]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61294</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61294</guid>
-            <pubDate>Wed, 28 Feb 2024 07:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-03-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0226/11_02_08__65dbf1209145c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메이 디셈버]]></title>
@@ -80,12 +80,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0226/11_28_00__65dbf730bf36a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레이징 그레이스]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61166</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61166</guid>
-            <pubDate>Tue, 05 Mar 2024 16:21:23 GMT</pubDate>
+            <title><![CDATA[무협대호: 학살의 칼날]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61294</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61294</guid>
+            <pubDate>Wed, 28 Feb 2024 07:16:23 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-03-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0228/16_28_33__65dee0a1a6cf7[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0226/11_02_08__65dbf1209145c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밥 말리: 원 러브]]></title>
@@ -128,12 +128,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0220/19_03_18__65d478e615b2d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조용한 이주]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60297</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60297</guid>
-            <pubDate>Mon, 11 Mar 2024 07:18:25 GMT</pubDate>
+            <title><![CDATA[왓츠 러브]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61229</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61229</guid>
+            <pubDate>Tue, 12 Mar 2024 02:24:25 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-03-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0229/18_22_28__65e04cd4eb623[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0221/18_39_49__65d5c4e58a0a5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[목스박]]></title>
