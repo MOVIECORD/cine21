@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-03-14T03:26:41.415Z</updated>
+    <updated>2024-03-14T04:22:56.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤직드라마 <불편한 편의점> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8721&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8721&amp;p=1"/>
+        <updated>2024-03-14T04:14:12.927Z</updated>
+        <content type="html"><![CDATA[8721]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <블랙 쇼맨과 운명의 바퀴> 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8720&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8707&amp;p=1"/>
         <updated>2024-02-19T03:13:03.804Z</updated>
         <content type="html"><![CDATA[8707]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <2호선 세입자> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8706&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8706&amp;p=1"/>
-        <updated>2024-02-19T03:13:03.807Z</updated>
-        <content type="html"><![CDATA[8706]]></content>
     </entry>
 </feed>
