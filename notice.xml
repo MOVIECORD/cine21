@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-03-14T02:27:17.014Z</updated>
+    <updated>2024-03-14T03:26:41.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도서 <블랙 쇼맨과 운명의 바퀴> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8720&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8720&amp;p=1"/>
+        <updated>2024-03-14T03:13:16.670Z</updated>
+        <content type="html"><![CDATA[8720]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <북극을 꿈꾸다> 증정 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8719&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8706&amp;p=1"/>
         <updated>2024-02-19T03:13:03.807Z</updated>
         <content type="html"><![CDATA[8706]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <여기는 아미코> 시사회 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8705&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8705&amp;p=1"/>
-        <updated>2024-02-19T03:13:03.807Z</updated>
-        <content type="html"><![CDATA[8705]]></content>
     </entry>
 </feed>
