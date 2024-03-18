@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 01:56:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 02:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2945,36 +2945,28 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0314/18_10_21__65f2befda380d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[왓츠 러브 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61229</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61229</guid>
-            <pubDate>Tue, 12 Mar 2024 02:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-03-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0221/18_39_49__65d5c4e58a0a5[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신이 잠든 사이 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61292</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61292</guid>
-            <pubDate>Mon, 11 Mar 2024 07:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-03-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0306/17_37_57__65e82b6517d36[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이트 스윔 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61293</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61293</guid>
-            <pubDate>Tue, 12 Mar 2024 09:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-03-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0304/15_54_34__65e5702a9ddd2[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[에픽하이 20 더 무비 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61305</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61305</guid>
             <pubDate>Tue, 12 Mar 2024 15:17:44 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-03-20]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0311/14_16_27__65ee93ab18ac5[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조용한 이주 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60297</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60297</guid>
+            <pubDate>Tue, 12 Mar 2024 15:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-03-20]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0229/18_22_28__65e04cd4eb623[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왓츠 러브 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61229</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61229</guid>
+            <pubDate>Tue, 12 Mar 2024 02:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-03-20]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0221/18_39_49__65d5c4e58a0a5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[목스박 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2985,12 +2977,20 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0228/11_37_54__65de9c825eb99[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조용한 이주 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60297</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60297</guid>
-            <pubDate>Tue, 12 Mar 2024 15:17:44 GMT</pubDate>
+            <title><![CDATA[나이트 스윔 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61293</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61293</guid>
+            <pubDate>Tue, 12 Mar 2024 09:20:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-03-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0229/18_22_28__65e04cd4eb623[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0304/15_54_34__65e5702a9ddd2[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신이 잠든 사이 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61292</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61292</guid>
+            <pubDate>Mon, 11 Mar 2024 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-03-20]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0306/17_37_57__65e82b6517d36[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탐정 말로 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3025,12 +3025,12 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0304/14_18_18__65e5599a9229e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[악은 존재하지 않는다 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61315</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61315</guid>
-            <pubDate>Tue, 12 Mar 2024 15:17:44 GMT</pubDate>
+            <title><![CDATA[세월: 라이프 고즈 온 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61291</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61291</guid>
+            <pubDate>Fri, 15 Mar 2024 08:20:18 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-03-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0312/17_51_34__65f01796e23a2[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0308/16_16_56__65eabb684412b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1980 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3041,12 +3041,12 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0229/13_10_16__65e003a88d0ac[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세월: 라이프 고즈 온 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61291</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61291</guid>
-            <pubDate>Fri, 15 Mar 2024 08:20:18 GMT</pubDate>
+            <title><![CDATA[악은 존재하지 않는다 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61315</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61315</guid>
+            <pubDate>Tue, 12 Mar 2024 15:17:44 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-03-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0308/16_16_56__65eabb684412b[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0312/17_51_34__65f01796e23a2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잠행 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3057,14 +3057,6 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0313/11_37_22__65f111620b90b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고질라 X 콩: 뉴 엠파이어 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61326</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61326</guid>
-            <pubDate>Wed, 13 Mar 2024 10:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-03-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0305/11_58_34__65e68a5a6d5c0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[루팡 3세: 칼리오스트로의 성 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=15521</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=15521</guid>
@@ -3073,17 +3065,64 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0229/15_22_18__65e0229a5db3e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[댓글부대 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60197</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60197</guid>
-            <pubDate>Fri, 15 Mar 2024 10:19:04 GMT</pubDate>
+            <title><![CDATA[다운폴 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=9625</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=9625</guid>
+            <pubDate>Mon, 18 Mar 2024 02:25:52 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-03-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0313/11_46_33__65f113898de2a[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0311/14_34_32__65ee97e8f03fb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[6시간 후 너는 죽는다 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61217</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61217</guid>
+            <title><![CDATA[고질라 X 콩: 뉴 엠파이어 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61326</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61326</guid>
+            <pubDate>Wed, 13 Mar 2024 10:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-03-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0305/11_58_34__65e68a5a6d5c0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콰이어트 플레이스: 첫째 날 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61290</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61290</guid>
+            <pubDate>Tue, 20 Feb 2024 01:47:38 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0305/17_35_22__65e6d94a7a5ba[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금지된 장난 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61336</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61336</guid>
+            <pubDate>Thu, 07 Mar 2024 09:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0307/17_22_52__65e9795c7e1ad[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이프: 상상의 친구 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61092</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61092</guid>
+            <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1226/16_34_52__658a821c53420[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[존 오브 인터레스트 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61107</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61107</guid>
+            <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[기괴도 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61335</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61335</guid>
+            <pubDate>Thu, 07 Mar 2024 07:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0307/16_57_24__65e973645ce7e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시빌 워 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
             <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
@@ -3096,13 +3135,6 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0117/15_47_10__65a777ee02716[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시빌 워 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
-            <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[신사(가제) (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61320</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61320</guid>
@@ -3110,35 +3142,11 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[존 오브 인터레스트 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61107</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61107</guid>
+            <title><![CDATA[6시간 후 너는 죽는다 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61217</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61217</guid>
             <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이프: 상상의 친구 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61092</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61092</guid>
-            <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1226/16_34_52__658a821c53420[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기괴도 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61335</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61335</guid>
-            <pubDate>Thu, 07 Mar 2024 07:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0307/16_57_24__65e973645ce7e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금지된 장난 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61336</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61336</guid>
-            <pubDate>Thu, 07 Mar 2024 09:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0307/17_22_52__65e9795c7e1ad[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창가의 토토 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3148,19 +3156,12 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[보통의 가족 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60745</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60745</guid>
-            <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
+            <title><![CDATA[퓨리오사: 매드맥스 사가 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61349</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61349</guid>
+            <pubDate>Mon, 11 Mar 2024 09:21:09 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0727/18_39_04__64c23b38a9258[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인터뷰 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60722</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60722</guid>
-            <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0311/17_02_16__65eeba8803118[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태풍이 지나가고 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3202,20 +3203,19 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0427/19_05_10__644a48d661018[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[퓨리오사: 매드맥스 사가 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61349</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61349</guid>
-            <pubDate>Mon, 11 Mar 2024 09:21:09 GMT</pubDate>
+            <title><![CDATA[인터뷰 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60722</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60722</guid>
+            <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0311/17_02_16__65eeba8803118[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[콰이어트 플레이스: 첫째 날 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61290</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61290</guid>
-            <pubDate>Tue, 20 Feb 2024 01:47:38 GMT</pubDate>
+            <title><![CDATA[보통의 가족 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60745</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60745</guid>
+            <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0305/17_35_22__65e6d94a7a5ba[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0727/18_39_04__64c23b38a9258[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 나라로 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
