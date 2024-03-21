@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-03-21T02:26:20.621Z</updated>
+    <updated>2024-03-21T03:26:55.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <운빨 로맨스> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8726&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8726&amp;p=1"/>
+        <updated>2024-03-21T03:14:33.734Z</updated>
+        <content type="html"><![CDATA[8726]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <키메라> 시사회 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8725&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8725&amp;p=1"/>
+        <updated>2024-03-21T03:14:33.736Z</updated>
+        <content type="html"><![CDATA[8725]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도서 <러브 온 더 브레인> 기대평 이벤트	당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8723&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8723&amp;p=1"/>
+        <updated>2024-03-21T03:14:33.737Z</updated>
+        <content type="html"><![CDATA[8723]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <옥탑방 고양이> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8722&amp;p=1</id>
@@ -88,26 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8711&amp;p=1"/>
         <updated>2024-02-26T01:46:25.236Z</updated>
         <content type="html"><![CDATA[8711]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <모두가 가면을 벗는다면> 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8710&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8710&amp;p=1"/>
-        <updated>2024-02-23T01:43:05.132Z</updated>
-        <content type="html"><![CDATA[8710]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <옥탑방 고양이> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8709&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8709&amp;p=1"/>
-        <updated>2024-02-22T11:10:22.166Z</updated>
-        <content type="html"><![CDATA[8709]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <파묘> 시사회 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8708&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8708&amp;p=1"/>
-        <updated>2024-02-20T01:42:36.187Z</updated>
-        <content type="html"><![CDATA[8708]]></content>
     </entry>
 </feed>
