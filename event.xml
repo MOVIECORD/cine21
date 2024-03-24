@@ -4,15 +4,26 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Mar 2024 14:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Mar 2024 15:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <유미의 세포들> 시사회 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8295</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8295</guid>
+            <pubDate>Sun, 24 Mar 2024 15:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-04-02 19:30</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>롯데시네마 월드타워</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>60 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-04-01 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2024/0322/18_55_59__65fd55af551ff[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 <욘> 초대 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8294</link>
             <guid>http://www.cine21.com/event/view/?event_no=8294</guid>
             <pubDate>Wed, 20 Mar 2024 01:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p style=""><span class="tit">인원</span><span class="bar">|</span>15 명</p><div class="teads-adCall"></div>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-03-28 10:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0320/11_13_40__65fa465467cc1[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
@@ -44,15 +55,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-04-08 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2024/0315/18_58_49__65f41bd9bfdca[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <거미여인의 키스> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8287</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8287</guid>
-            <pubDate>Wed, 13 Mar 2024 01:54:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-03-25 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0313/11_22_36__65f10dec84142[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

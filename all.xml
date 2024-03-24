@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Mar 2024 14:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Mar 2024 15:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3480,11 +3480,22 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0512/17_29_19__645df8df5ad24[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[영화 <유미의 세포들> 시사회 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8295</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8295</guid>
+            <pubDate>Sun, 24 Mar 2024 15:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-04-02 19:30</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>롯데시네마 월드타워</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>60 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-04-01 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2024/0322/18_55_59__65fd55af551ff[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연극 <욘> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8294</link>
             <guid>http://www.cine21.com/event/view/?event_no=8294</guid>
             <pubDate>Wed, 20 Mar 2024 01:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p style=""><span class="tit">인원</span><span class="bar">|</span>15 명</p><div class="teads-adCall"></div>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-03-28 10:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0320/11_13_40__65fa465467cc1[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
@@ -3518,19 +3529,10 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/resize/cine21/event/2024/0315/18_58_49__65f41bd9bfdca[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <거미여인의 키스> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8287</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8287</guid>
-            <pubDate>Wed, 13 Mar 2024 01:54:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-03-25 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0313/11_22_36__65f10dec84142[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[도서 <러브 온 더 브레인> 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
             <link>https://MOVIECORD.github.io/cine21/all.xml</link>
             <guid>https://MOVIECORD.github.io/cine21/all.xml</guid>
-            <pubDate>Sun, 24 Mar 2024 14:17:11 GMT</pubDate>
+            <pubDate>Sun, 24 Mar 2024 15:20:44 GMT</pubDate>
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-03-21 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0313/11_24_53__65f10e75da95d[T224,320].jpg" length="0" type="image/jpg"/>
@@ -3539,7 +3541,7 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <title><![CDATA[연극 <운빨 로맨스> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
             <link>https://MOVIECORD.github.io/cine21/all.xml</link>
             <guid>https://MOVIECORD.github.io/cine21/all.xml</guid>
-            <pubDate>Sun, 24 Mar 2024 14:17:11 GMT</pubDate>
+            <pubDate>Sun, 24 Mar 2024 15:20:44 GMT</pubDate>
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-03-21 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0313/11_27_12__65f10f0012802[T224,320].jpg" length="0" type="image/jpg"/>
@@ -3548,7 +3550,7 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <title><![CDATA[영화 <키메라> 시사회 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
             <link>https://MOVIECORD.github.io/cine21/all.xml</link>
             <guid>https://MOVIECORD.github.io/cine21/all.xml</guid>
-            <pubDate>Sun, 24 Mar 2024 14:17:11 GMT</pubDate>
+            <pubDate>Sun, 24 Mar 2024 15:20:44 GMT</pubDate>
             <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-03-26 19:30:00</p>
                         <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
                                             <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
