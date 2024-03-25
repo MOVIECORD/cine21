@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 01:57:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 02:29:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1376,6 +1376,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDNfMjY2/MDAxNTE0OTQwNDk5Njgw.48xeRxRGlvPSdaLRjOFcDg1xhytLhg85PJE0FgETvpQg.FxnXOX78PIXBWHQQY2UtKSdN1G4hJr7EMEvHxcgcRlgg.JPEG/ImU46Da7wWq4hZ0XaIHjaQSoECZE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 <거미여인의 키스> 초대 이벤트 당첨자 발표 (씨네21 ─ 공지사항)]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8727&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8727&amp;p=1</guid>
+            <pubDate>Mon, 25 Mar 2024 02:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[8727]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연극 <운빨 로맨스> 초대 이벤트 당첨자 발표 (씨네21 ─ 공지사항)]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8726&amp;p=1</link>
             <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8726&amp;p=1</guid>
@@ -1472,13 +1479,6 @@
             <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8712&amp;p=1</guid>
             <pubDate>Thu, 29 Feb 2024 01:42:54 GMT</pubDate>
             <content:encoded><![CDATA[8712]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영화 <패스트 라이브즈> 기대평 이벤트 당첨자 발표 (씨네21 ─ 공지사항)]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8711&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8711&amp;p=1</guid>
-            <pubDate>Mon, 26 Feb 2024 01:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[8711]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[OTT 추천작] ‘돼지와 뱀과 비둘기’ ‘맨헌트’ (씨네21 ─ 기사 ─ 전체)]]></title>
@@ -3529,10 +3529,19 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/resize/cine21/event/2024/0315/18_58_49__65f41bd9bfdca[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 <거미여인의 키스> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
+            <link>http://cine21.com/misc/cs/notice_view/?article_no=8727&amp;p=1</link>
+            <guid>http://cine21.com/misc/cs/notice_view/?article_no=8727&amp;p=1</guid>
+            <pubDate>Mon, 25 Mar 2024 02:28:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-03-25 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0313/11_22_36__65f10dec84142[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[도서 <러브 온 더 브레인> 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
             <link>https://MOVIECORD.github.io/cine21/all.xml</link>
             <guid>https://MOVIECORD.github.io/cine21/all.xml</guid>
-            <pubDate>Sun, 24 Mar 2024 23:22:55 GMT</pubDate>
+            <pubDate>Mon, 25 Mar 2024 02:28:37 GMT</pubDate>
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-03-21 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0313/11_24_53__65f10e75da95d[T224,320].jpg" length="0" type="image/jpg"/>
@@ -3541,7 +3550,7 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <title><![CDATA[연극 <운빨 로맨스> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
             <link>https://MOVIECORD.github.io/cine21/all.xml</link>
             <guid>https://MOVIECORD.github.io/cine21/all.xml</guid>
-            <pubDate>Sun, 24 Mar 2024 23:22:55 GMT</pubDate>
+            <pubDate>Mon, 25 Mar 2024 02:28:37 GMT</pubDate>
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-03-21 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0313/11_27_12__65f10f0012802[T224,320].jpg" length="0" type="image/jpg"/>
@@ -3550,7 +3559,7 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <title><![CDATA[영화 <키메라> 시사회 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
             <link>https://MOVIECORD.github.io/cine21/all.xml</link>
             <guid>https://MOVIECORD.github.io/cine21/all.xml</guid>
-            <pubDate>Sun, 24 Mar 2024 23:22:55 GMT</pubDate>
+            <pubDate>Mon, 25 Mar 2024 02:28:37 GMT</pubDate>
             <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-03-26 19:30:00</p>
                         <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
                                             <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
@@ -3623,17 +3632,6 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-03-07 11:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/event/2024/0226/12_06_11__65dc002325cd5[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <메이 디셈버> 시사회 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
-            <link>http://cine21.com/misc/cs/notice_view/?article_no=8714&amp;p=1</link>
-            <guid>http://cine21.com/misc/cs/notice_view/?article_no=8714&amp;p=1</guid>
-            <pubDate>Tue, 05 Mar 2024 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-03-07 19:30:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>메가박스 코엑스</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-03-05 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0226/12_01_32__65dbff0cd46c7[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[No.1449 (씨네21 ─ 멀티미디어 ─ 커버 ─ 사진)]]></title>
@@ -3884,6 +3882,32 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/crop/data/290/65ee94911efd3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[＜파묘＞ 케미 듀오 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F03%2Fgrave_cdtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F934%2F6600d802ea7de.jpg&amp;title=%EF%BC%9C%ED%8C%8C%EB%AC%98%EF%BC%9E%20%EC%BC%80%EB%AF%B8%20%EB%93%80%EC%98%A4%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F03%2Fgrave_cdtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F934%2F6600d802ea7de.jpg&amp;title=%EF%BC%9C%ED%8C%8C%EB%AC%98%EF%BC%9E%20%EC%BC%80%EB%AF%B8%20%EB%93%80%EC%98%A4%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45960">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F03%2Fgrave_cdtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F934%2F6600d802ea7de.jpg&amp;title=%EF%BC%9C%ED%8C%8C%EB%AC%98%EF%BC%9E%20%EC%BC%80%EB%AF%B8%20%EB%93%80%EC%98%A4%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/03/grave_cdtr.mp4">
+						<img src="https://image.cine21.com/crop/data/934/6600d802ea7de.jpg" alt="" class="thumb">
+						<span class="title">＜파묘＞ 케미 듀오 예고편</span>
+						<span class="date">2024-03-25</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/934/6600d802ea7de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜기생수 파트1＞ 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F03%2Fkss_tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F832%2F6600d21bd1182.jpg&amp;title=%EF%BC%9C%EA%B8%B0%EC%83%9D%EC%88%98%20%ED%8C%8C%ED%8A%B81%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F03%2Fkss_tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F832%2F6600d21bd1182.jpg&amp;title=%EF%BC%9C%EA%B8%B0%EC%83%9D%EC%88%98%20%ED%8C%8C%ED%8A%B81%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45958">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F03%2Fkss_tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F832%2F6600d21bd1182.jpg&amp;title=%EF%BC%9C%EA%B8%B0%EC%83%9D%EC%88%98%20%ED%8C%8C%ED%8A%B81%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/03/kss_tr.mp4">
+						<img src="https://image.cine21.com/crop/data/832/6600d21bd1182.jpg" alt="" class="thumb">
+						<span class="title">＜기생수 파트1＞ 예고편</span>
+						<span class="date">2024-03-25</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/832/6600d21bd1182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[＜꽃다발 같은 사랑을 했다＞ 3차 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F03%2Fflower_3tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F557%2F65fd2c007a9f6.jpg&amp;title=%EF%BC%9C%EA%BD%83%EB%8B%A4%EB%B0%9C%20%EA%B0%99%EC%9D%80%20%EC%82%AC%EB%9E%91%EC%9D%84%20%ED%96%88%EB%8B%A4%EF%BC%9E%203%EC%B0%A8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
             <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F03%2Fflower_3tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F557%2F65fd2c007a9f6.jpg&amp;title=%EF%BC%9C%EA%BD%83%EB%8B%A4%EB%B0%9C%20%EA%B0%99%EC%9D%80%20%EC%82%AC%EB%9E%91%EC%9D%84%20%ED%96%88%EB%8B%A4%EF%BC%9E%203%EC%B0%A8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
@@ -4064,32 +4088,6 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
 						<span class="date">2024-03-20</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/916/65fa76ca0af9e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜베어헌터＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F03%2Fbear_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F689%2F65fa6f331ae0b.jpg&amp;title=%EF%BC%9C%EB%B2%A0%EC%96%B4%ED%97%8C%ED%84%B0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F03%2Fbear_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F689%2F65fa6f331ae0b.jpg&amp;title=%EF%BC%9C%EB%B2%A0%EC%96%B4%ED%97%8C%ED%84%B0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45941">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F03%2Fbear_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F689%2F65fa6f331ae0b.jpg&amp;title=%EF%BC%9C%EB%B2%A0%EC%96%B4%ED%97%8C%ED%84%B0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/03/bear_mtr.mp4">
-						<img src="https://image.cine21.com/crop/data/689/65fa6f331ae0b.jpg" alt="" class="thumb">
-						<span class="title">＜베어헌터＞ 메인 예고편</span>
-						<span class="date">2024-03-20</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/689/65fa6f331ae0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜부르달락: 흡혈귀＞ 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F03%2Fvourdalak_tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F598%2F65fa669ec09c8.jpg&amp;title=%EF%BC%9C%EB%B6%80%EB%A5%B4%EB%8B%AC%EB%9D%BD%3A%20%ED%9D%A1%ED%98%88%EA%B7%80%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F03%2Fvourdalak_tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F598%2F65fa669ec09c8.jpg&amp;title=%EF%BC%9C%EB%B6%80%EB%A5%B4%EB%8B%AC%EB%9D%BD%3A%20%ED%9D%A1%ED%98%88%EA%B7%80%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=45940">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F03%2Fvourdalak_tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F598%2F65fa669ec09c8.jpg&amp;title=%EF%BC%9C%EB%B6%80%EB%A5%B4%EB%8B%AC%EB%9D%BD%3A%20%ED%9D%A1%ED%98%88%EA%B7%80%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/03/vourdalak_tr.mp4">
-						<img src="https://image.cine21.com/crop/data/598/65fa669ec09c8.jpg" alt="" class="thumb">
-						<span class="title">＜부르달락: 흡혈귀＞ 예고편</span>
-						<span class="date">2024-03-20</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/598/65fa669ec09c8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
