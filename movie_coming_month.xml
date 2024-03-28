@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 08:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 09:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -91,12 +91,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1226/16_34_52__658a821c53420[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[발레리나]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60453</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60453</guid>
+            <title><![CDATA[왕을 찾아서]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60181</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60181</guid>
             <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0427/19_05_10__644a48d661018[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/15_25_59__65c1d0f706cec[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[말할 수 없는 비밀]]></title>
@@ -121,14 +121,6 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[왕을 찾아서]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60181</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60181</guid>
-            <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/15_25_59__65c1d0f706cec[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오후 네시]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60221</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60221</guid>
@@ -137,12 +129,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_08_55__6419580767c68[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사일런트 나잇]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61377</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61377</guid>
-            <pubDate>Thu, 28 Mar 2024 08:18:49 GMT</pubDate>
+            <title><![CDATA[발레리나]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60453</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60453</guid>
+            <pubDate>Tue, 13 Feb 2024 12:26:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0427/19_05_10__644a48d661018[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모르는 이야기]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61267</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61267</guid>
+            <pubDate>Thu, 28 Mar 2024 09:20:12 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0328/10_22_49__6604c6690d39f[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0319/18_53_29__65f960999f819[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
