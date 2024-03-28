@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 05:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 06:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,28 +64,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0322/18_10_41__65fd4b113a9bd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[씬]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61338</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61338</guid>
-            <pubDate>Tue, 26 Mar 2024 15:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-04-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0311/15_22_47__65eea337b8f34[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유미의 세포들 더 무비]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61318</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61318</guid>
-            <pubDate>Tue, 26 Mar 2024 15:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-04-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0320/11_42_33__65fa4d191491a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[잔 뒤 바리]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61105</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61105</guid>
             <pubDate>Tue, 26 Mar 2024 15:21:36 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-04-03]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0319/18_42_09__65f95df11649a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[씬]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61338</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61338</guid>
+            <pubDate>Tue, 26 Mar 2024 15:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-04-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0311/15_22_47__65eea337b8f34[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라스트 썸머]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 26 Mar 2024 15:21:36 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-04-03]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0314/16_44_56__65f2aaf8b6d7b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유미의 세포들 더 무비]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61318</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61318</guid>
+            <pubDate>Tue, 26 Mar 2024 15:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-04-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0320/11_42_33__65fa4d191491a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그날의 딸들]]></title>
@@ -128,20 +128,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0305/11_25_21__65e6829170075[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쿵푸팬더4]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61090</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61090</guid>
-            <pubDate>Thu, 28 Mar 2024 01:50:44 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-04-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0308/15_00_17__65eaa971a9c32[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[기생수 파트1]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=43568</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=43568</guid>
             <pubDate>Thu, 28 Mar 2024 01:50:44 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-04-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0327/17_18_04__6603d63cd967a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스파: 월드 투어 인 시네마]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61366</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61366</guid>
+            <pubDate>Thu, 28 Mar 2024 06:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-04-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0321/17_13_40__65fbec346dfec[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어게인 1997]]></title>
