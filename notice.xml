@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-03-31T23:22:24.543Z</updated>
+    <updated>2024-04-01T01:04:17.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <유미의 세포들> 시사회 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8731&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8731&amp;p=1"/>
+        <updated>2024-04-01T00:56:10.035Z</updated>
+        <content type="html"><![CDATA[8731]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <욘> 초대 이벤트	당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8730&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8716&amp;p=1"/>
         <updated>2024-03-07T02:11:29.141Z</updated>
         <content type="html"><![CDATA[8716]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <가여운 것들> 원작 도서 증정 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8715&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8715&amp;p=1"/>
-        <updated>2024-03-05T01:43:13.998Z</updated>
-        <content type="html"><![CDATA[8715]]></content>
     </entry>
 </feed>
