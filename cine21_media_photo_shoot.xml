@@ -4,9 +4,25 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 04:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 05:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TV 각본							김다희 
+							(총2장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=123908</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=123908</guid>
+            <pubDate>Fri, 05 Apr 2024 05:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=123908">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/0405/14_15_48__660f8904931be[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/712/660f820f2ea34.jpg" alt="" class="thumb">
+						<span class="caption">
+							TV 각본							<strong>김다희</strong> 
+							<span class="num">(총2장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/712/660f820f2ea34.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가수							김창완 
 							(총20장)]]></title>
@@ -166,22 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/134/660b9318c1603.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우							김다미 
-							(총11장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=105219</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=105219</guid>
-            <pubDate>Tue, 02 Apr 2024 06:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=105219">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/0402/14_22_40__660b962079c38[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/crop/data/408/660b931718f16.jpg" alt="" class="thumb">
-						<span class="caption">
-							배우							<strong>김다미</strong> 
-							<span class="num">(총11장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/408/660b931718f16.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
