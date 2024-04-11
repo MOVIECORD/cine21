@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 05:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 06:25:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0320/18_28_36__65faac443e600[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나쁜 피: 복수의 길]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61378</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61378</guid>
-            <pubDate>Tue, 09 Apr 2024 16:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-04-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0328/11_02_45__6604cfc5e1bf7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[챌린저스]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61411</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61411</guid>
@@ -150,6 +142,14 @@
             <pubDate>Wed, 10 Apr 2024 17:20:25 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-04-25]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0318/15_06_16__65f7d9d8a42cb[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[힙노시스: LP 커버의 전설]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61345</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61345</guid>
+            <pubDate>Thu, 11 Apr 2024 06:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0405/17_22_51__660fb4dbe8d81[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
