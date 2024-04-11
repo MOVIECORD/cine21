@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 07:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 08:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -129,20 +129,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0328/10_22_49__6604c6690d39f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미지수]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61373</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61373</guid>
-            <pubDate>Thu, 11 Apr 2024 07:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0409/18_20_17__66150851bf6bd[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[그녀가 죽었다]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61372</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61372</guid>
             <pubDate>Thu, 11 Apr 2024 07:17:06 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0411/15_29_58__661783666a628[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꼬마참새 리차드: 신비한 보석 탐험대]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61384</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61384</guid>
+            <pubDate>Thu, 11 Apr 2024 08:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0401/18_46_17__660a826975604[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
