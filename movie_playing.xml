@@ -4,16 +4,9 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 04:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 05:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[스위칭 로맨스]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61436</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61436</guid>
-            <pubDate>Wed, 10 Apr 2024 15:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-04-11]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[녹차의 맛]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=8936</link>
@@ -23,12 +16,19 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0402/14_29_47__660b97cbd949f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어게인 1997]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61330</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61330</guid>
+            <title><![CDATA[스위칭 로맨스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61436</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61436</guid>
+            <pubDate>Wed, 10 Apr 2024 15:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-04-11]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쿵푸팬더4]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61090</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61090</guid>
             <pubDate>Tue, 09 Apr 2024 16:20:04 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-04-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0319/61330_65f923a2c0cea[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0308/15_00_17__65eaa971a9c32[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[은하수]]></title>
@@ -63,12 +63,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0305/10_18_26__65e672e260374[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쿵푸팬더4]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61090</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61090</guid>
+            <title><![CDATA[어게인 1997]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61330</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61330</guid>
             <pubDate>Tue, 09 Apr 2024 16:20:04 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-04-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0308/15_00_17__65eaa971a9c32[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0319/61330_65f923a2c0cea[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기생수 파트1]]></title>
@@ -95,12 +95,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0305/11_25_21__65e6829170075[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오멘: 저주의 시작]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61232</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61232</guid>
+            <title><![CDATA[기동전사 건담 SEED FREEDOM]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61307</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61307</guid>
             <pubDate>Sun, 07 Apr 2024 16:18:03 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-04-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0403/17_34_06__660d147ec178f[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0315/15_55_22__65f3f0dadf6c6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잔 뒤 바리]]></title>
@@ -111,12 +111,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0319/18_42_09__65f95df11649a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비키퍼]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61288</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61288</guid>
+            <pubDate>Sun, 07 Apr 2024 16:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-04-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0315/18_02_05__65f40e8d632e5[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유미의 세포들 더 무비]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61318</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61318</guid>
             <pubDate>Sun, 07 Apr 2024 16:18:03 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-04-03]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0403/14_08_24__660ce4488d130[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오멘: 저주의 시작]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61232</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61232</guid>
+            <pubDate>Sun, 07 Apr 2024 16:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-04-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0403/17_34_06__660d147ec178f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마더스]]></title>
@@ -133,22 +149,6 @@
             <pubDate>Sun, 07 Apr 2024 16:18:03 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-04-03]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0322/17_44_20__65fd44e4a8b2d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기동전사 건담 SEED FREEDOM]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61307</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61307</guid>
-            <pubDate>Sun, 07 Apr 2024 16:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-04-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0315/15_55_22__65f3f0dadf6c6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비키퍼]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61288</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61288</guid>
-            <pubDate>Sun, 07 Apr 2024 16:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-04-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0315/18_02_05__65f40e8d632e5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
