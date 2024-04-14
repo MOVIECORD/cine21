@@ -4,9 +4,20 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Apr 2024 14:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Apr 2024 22:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <모르는 이야기> 시사회 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8307</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8307</guid>
+            <pubDate>Sun, 14 Apr 2024 22:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-04-23 19:30</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>30 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-04-22 17:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0412/18_15_59__6618fbcf17071[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 <클로저> 초대 기대평 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8306</link>
@@ -42,26 +53,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-04-18 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0409/10_32_25__66149aa90e394[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <올 더 네임즈 오브 갓> 시사회 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8302</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8302</guid>
-            <pubDate>Sun, 07 Apr 2024 14:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-04-17 19:30</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-04-15 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0405/00_38_08__660ec96058ac3[T224,320].png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <망원동 브라더스> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8301</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8301</guid>
-            <pubDate>Sun, 07 Apr 2024 14:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-04-15 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0403/11_46_38__660cc30ee67c3[T224,320].png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
