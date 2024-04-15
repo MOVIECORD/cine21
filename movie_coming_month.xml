@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 00:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 03:39:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,40 +15,9 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[금지된 장난]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61336</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61336</guid>
-            <pubDate>Sun, 07 Apr 2024 13:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0307/17_22_52__65e9795c7e1ad[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기괴도]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61335</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61335</guid>
-            <pubDate>Sun, 07 Apr 2024 13:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0307/16_57_24__65e973645ce7e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신사(가제)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61320</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61320</guid>
-            <pubDate>Sun, 07 Apr 2024 13:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[콰이어트 플레이스: 첫째 날]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61290</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61290</guid>
-            <pubDate>Sun, 07 Apr 2024 13:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0305/17_35_22__65e6d94a7a5ba[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6시간 후 너는 죽는다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61217</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61217</guid>
+            <title><![CDATA[시빌 워]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
             <pubDate>Sun, 07 Apr 2024 13:20:47 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
@@ -61,10 +30,48 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0117/15_47_10__65a777ee02716[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시빌 워]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
+            <title><![CDATA[6시간 후 너는 죽는다]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61217</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61217</guid>
             <pubDate>Sun, 07 Apr 2024 13:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[콰이어트 플레이스: 첫째 날]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61290</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61290</guid>
+            <pubDate>Sun, 07 Apr 2024 13:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0305/17_35_22__65e6d94a7a5ba[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신사(가제)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61320</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61320</guid>
+            <pubDate>Sun, 07 Apr 2024 13:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[기괴도]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61335</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61335</guid>
+            <pubDate>Sun, 07 Apr 2024 13:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0307/16_57_24__65e973645ce7e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금지된 장난]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61336</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61336</guid>
+            <pubDate>Sun, 07 Apr 2024 13:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0307/17_22_52__65e9795c7e1ad[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베테랑2]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61443</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61443</guid>
+            <pubDate>Fri, 12 Apr 2024 05:16:05 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
@@ -72,13 +79,6 @@
             <link>http://www.cine21.com/movie/info/?movie_id=61107</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61107</guid>
             <pubDate>Sun, 07 Apr 2024 13:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[베테랑2]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61443</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61443</guid>
-            <pubDate>Fri, 12 Apr 2024 05:16:05 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
@@ -136,12 +136,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0328/10_22_49__6604c6690d39f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[드림 시나리오]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61374</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61374</guid>
-            <pubDate>Fri, 12 Apr 2024 05:16:05 GMT</pubDate>
+            <title><![CDATA[별처럼 빛나는 너에게 더무비-일섬일섬량성성]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61375</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61375</guid>
+            <pubDate>Mon, 15 Apr 2024 03:35:58 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0328/10_40_51__6604caa33a061[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0328/16_26_24__66051ba0aa19a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
