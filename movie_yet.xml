@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Apr 2024 04:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 05:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,21 +212,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1004/15_16_12__633bcfac5f938[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[악마가 이사왔다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58780</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58780</guid>
-            <pubDate>Sun, 07 Apr 2024 14:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">악마가 이사왔다</span>
-		
-
-									<span class="director">감독 : 이상근</span>
-											<span class="actor">배우 : 임윤아,안보현</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[사흘(가제)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=55922</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=55922</guid>
@@ -259,22 +244,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0602/16_46_14__5ed603c6be516[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[원더랜드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56449</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56449</guid>
-            <pubDate>Sun, 07 Apr 2024 14:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">원더랜드</span>
-		
-
-									<span class="director">감독 : 김태용</span>
-											<span class="actor">배우 : 박보검,배수지</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0602/17_28_51__5ed60dc3b6633[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[탈출: PROJECT SILENCE]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=56904</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=56904</guid>
@@ -289,6 +258,36 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0512/17_29_19__645df8df5ad24[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[행복의 나라(가제)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57453</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57453</guid>
+            <pubDate>Wed, 17 Apr 2024 05:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">행복의 나라(가제)</span>
+		
+
+									<span class="director">감독 : 추창민</span>
+											<span class="actor">배우 : 조정석,이선균</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[승부]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57457</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57457</guid>
+            <pubDate>Wed, 17 Apr 2024 05:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">승부</span>
+		
+
+									<span class="director">감독 : 김형주</span>
+											<span class="actor">배우 : 유아인,이병헌</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
     </channel>
 </rss>
