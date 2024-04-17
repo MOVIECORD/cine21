@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Apr 2024 21:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 22:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2668,6 +2668,14 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/crop/data/459/65ea54cc8b9fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[토스카 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61360</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61360</guid>
+            <pubDate>Wed, 17 Apr 2024 22:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-04-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0320/18_28_36__65faac443e600[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기생수 파트2 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=43870</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=43870</guid>
@@ -2682,14 +2690,6 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <pubDate>Tue, 02 Apr 2024 15:18:53 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-04-17]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0325/11_35_14__6600e2e28903b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 울려라! 유포니엄: 앙상블 콘테스트 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61356</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61356</guid>
-            <pubDate>Fri, 05 Apr 2024 13:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-04-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0412/15_50_57__6618d9d1d9da0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아서 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2716,20 +2716,20 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0328/14_52_36__660505a49aa51[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[들리나요? (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56189</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56189</guid>
-            <pubDate>Tue, 09 Apr 2024 16:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-04-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0314/18_18_15__65f2c0d735dbe[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[올 더 네임즈 오브 갓 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61322</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61322</guid>
             <pubDate>Tue, 09 Apr 2024 05:17:01 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-04-17]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0322/14_19_53__65fd14f989c40[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[들리나요? (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56189</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56189</guid>
+            <pubDate>Tue, 09 Apr 2024 16:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-04-17]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0314/18_18_15__65f2c0d735dbe[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[브레이브 온 파이어 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2746,6 +2746,14 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <pubDate>Tue, 09 Apr 2024 06:21:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-04-17]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0404/15_27_06__660e483a901ad[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 울려라! 유포니엄: 앙상블 콘테스트 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61356</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61356</guid>
+            <pubDate>Fri, 05 Apr 2024 13:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-04-17]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0412/15_50_57__6618d9d1d9da0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레옹 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2793,14 +2801,6 @@ BIAF 2023의 홍보대사인 YENA(최예나)가 개막식에서 개막작 &lt;�
             <pubDate>Tue, 02 Apr 2024 15:18:53 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-04-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0412/14_41_53__6618c9a134d6b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기생수 파트1 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=43568</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=43568</guid>
-            <pubDate>Wed, 17 Apr 2024 06:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-04-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0327/17_18_04__6603d63cd967a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에스파: 월드 투어 인 시네마 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
