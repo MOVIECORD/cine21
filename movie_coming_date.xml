@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Apr 2024 06:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 10:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,20 +15,20 @@
             <content:encoded><![CDATA[개봉 : 2024-04-17]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[범죄도시4]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61332</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61332</guid>
-            <pubDate>Tue, 09 Apr 2024 16:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-04-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0306/18_21_56__65e835b4b63a6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[드라이브]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61453</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61453</guid>
             <pubDate>Thu, 18 Apr 2024 02:25:10 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-04-24]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0418/14_24_39__6620ae97683cc[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[범죄도시4]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61332</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61332</guid>
+            <pubDate>Tue, 09 Apr 2024 16:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-04-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0306/18_21_56__65e835b4b63a6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여행자의 필요]]></title>
@@ -61,6 +61,14 @@
             <pubDate>Mon, 15 Apr 2024 17:16:33 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-04-25]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0318/15_06_16__65f7d9d8a42cb[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[힙노시스: LP 커버의 전설]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61345</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61345</guid>
+            <pubDate>Tue, 16 Apr 2024 17:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0415/10_21_51__661c812f8d589[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판 실바니안 패밀리: 프레야의 선물]]></title>
@@ -103,20 +111,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0417/10_47_15__661f2a23bafbd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[힙노시스: LP 커버의 전설]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61345</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61345</guid>
-            <pubDate>Tue, 16 Apr 2024 17:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0415/10_21_51__661c812f8d589[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[미지수]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61373</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61373</guid>
             <pubDate>Tue, 16 Apr 2024 17:18:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05-08]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0409/18_20_17__66150851bf6bd[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[악마와의 토크쇼]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61437</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61437</guid>
+            <pubDate>Fri, 19 Apr 2024 10:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0419/17_30_13__66222b95869b7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쇼생크 탈출]]></title>
@@ -141,14 +149,6 @@
             <pubDate>Tue, 16 Apr 2024 17:18:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05-09]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0415/11_48_36__661c958445338[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낸 골딘, 모든 아름다움과 유혈사태]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61382</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61382</guid>
-            <pubDate>Fri, 19 Apr 2024 06:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0328/18_47_02__66053c967fbcb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
