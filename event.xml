@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Apr 2024 14:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Apr 2024 15:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,17 +26,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0416/18_19_09__661e428d623b7[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영화 <모르는 이야기> 시사회 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8307</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8307</guid>
-            <pubDate>Sun, 14 Apr 2024 22:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-04-23 19:30</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>30 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-04-22 17:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0412/18_15_59__6618fbcf17071[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <클로저> 초대 기대평 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8306</link>
             <guid>http://www.cine21.com/event/view/?event_no=8306</guid>
@@ -44,15 +33,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-04-25 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0411/13_58_40__66176e001b870[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <2호선 세입자> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8305</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8305</guid>
-            <pubDate>Wed, 10 Apr 2024 04:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-04-22 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0410/13_52_00__66161af0519b3[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
