@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-04-22T01:05:22.392Z</updated>
+    <updated>2024-04-22T02:02:26.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <모르는 이야기> 시사회 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8743&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8743&amp;p=1"/>
+        <updated>2024-04-22T01:53:23.121Z</updated>
+        <content type="html"><![CDATA[8743]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <2호선 세입자> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8742&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8729&amp;p=1"/>
         <updated>2024-03-28T03:13:15.385Z</updated>
         <content type="html"><![CDATA[8729]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <바람의 세월> 시사회 이벤트	당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8728&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8728&amp;p=1"/>
-        <updated>2024-03-27T06:15:35.114Z</updated>
-        <content type="html"><![CDATA[8728]]></content>
     </entry>
 </feed>
