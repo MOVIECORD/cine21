@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 02:30:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 03:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -63,14 +63,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0318/15_06_16__65f7d9d8a42cb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[힙노시스: LP 커버의 전설]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61345</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61345</guid>
-            <pubDate>Tue, 16 Apr 2024 17:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0415/10_21_51__661c812f8d589[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 실바니안 패밀리: 프레야의 선물]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61359</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61359</guid>
@@ -111,6 +103,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0417/10_47_15__661f2a23bafbd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[힙노시스: LP 커버의 전설]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61345</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61345</guid>
+            <pubDate>Tue, 16 Apr 2024 17:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0415/10_21_51__661c812f8d589[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미지수]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61373</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61373</guid>
@@ -119,20 +119,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0409/18_20_17__66150851bf6bd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[악마와의 토크쇼]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61437</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61437</guid>
-            <pubDate>Fri, 19 Apr 2024 10:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0419/17_30_13__66222b95869b7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[쇼생크 탈출]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=839</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=839</guid>
             <pubDate>Tue, 16 Apr 2024 17:18:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05-08]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0404/18_35_22__660e745a48155[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[악마와의 토크쇼]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61437</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61437</guid>
+            <pubDate>Fri, 19 Apr 2024 10:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0419/17_30_13__66222b95869b7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[혹성탈출: 새로운 시대]]></title>
