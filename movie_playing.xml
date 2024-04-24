@@ -4,9 +4,17 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Apr 2024 15:32:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2024 16:33:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몬스터 프렌즈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61321</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61321</guid>
+            <pubDate>Wed, 24 Apr 2024 16:25:13 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-04-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0318/15_06_16__65f7d9d8a42cb[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모르는 이야기]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61267</link>
@@ -48,12 +56,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0405/14_43_33__660f8f85939f7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 울려라! 유포니엄: 앙상블 콘테스트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61356</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61356</guid>
+            <title><![CDATA[정순]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59682</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59682</guid>
             <pubDate>Tue, 23 Apr 2024 20:22:02 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-04-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0412/15_50_57__6618d9d1d9da0[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0328/14_52_36__660505a49aa51[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고스트버스터즈: 오싹한 뉴욕]]></title>
@@ -80,14 +88,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0314/18_18_15__65f2c0d735dbe[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기생수 파트2]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=43870</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=43870</guid>
-            <pubDate>Tue, 23 Apr 2024 20:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-04-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0327/17_21_19__6603d6ff92bb6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[레옹]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=1433</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=1433</guid>
@@ -111,6 +111,14 @@
             <content:encoded><![CDATA[개봉 : 2024-04-17]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[극장판 울려라! 유포니엄: 앙상블 콘테스트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61356</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61356</guid>
+            <pubDate>Tue, 23 Apr 2024 20:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-04-17]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0412/15_50_57__6618d9d1d9da0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아서]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61355</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61355</guid>
@@ -119,12 +127,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0408/11_38_20__6613589c500b1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정순]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59682</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59682</guid>
+            <title><![CDATA[기생수 파트2]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=43870</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=43870</guid>
             <pubDate>Tue, 23 Apr 2024 20:22:02 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-04-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0328/14_52_36__660505a49aa51[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0327/17_21_19__6603d6ff92bb6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑은 빛]]></title>
@@ -140,14 +148,6 @@
             <pubDate>Wed, 24 Apr 2024 12:34:20 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-04-11]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0402/14_29_47__660b97cbd949f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[골드핑거]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61344</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61344</guid>
-            <pubDate>Wed, 24 Apr 2024 12:34:20 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-04-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0314/18_14_57__65f2c011716be[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
