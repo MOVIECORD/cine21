@@ -4,15 +4,24 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Apr 2024 14:31:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2024 15:32:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <사랑에 빠지기까지 D-100> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8314</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8314</guid>
+            <pubDate>Wed, 24 Apr 2024 15:28:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>12 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-05-07 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/event/2024/0425/01_03_08__66292d3c7cf04[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 <더블플롯> 초대 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8313</link>
             <guid>http://www.cine21.com/event/view/?event_no=8313</guid>
             <pubDate>Wed, 24 Apr 2024 06:29:42 GMT</pubDate>
-            <content:encoded><![CDATA[<p style=""><span class="tit">인원</span><span class="bar">|</span>15 명</p><div class="teads-adCall"></div>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-05-02 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0424/15_27_21__6628a649c9969[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
@@ -55,15 +64,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-04-29 17:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0416/18_19_09__661e428d623b7[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <클로저> 초대 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8306</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8306</guid>
-            <pubDate>Tue, 23 Apr 2024 19:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-04-25 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0411/13_58_40__66176e001b870[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
