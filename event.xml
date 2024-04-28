@@ -1,80 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 28 Apr 2024 13:25:36 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[영화 <늦더위> 시사회 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8315</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8315</guid>
-            <pubDate>Fri, 26 Apr 2024 03:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-05-09 19:30</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-05-03 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2024/0426/11_34_13__662b12a529f9f[T224,320].png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <사랑에 빠지기까지 D-100> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8314</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8314</guid>
-            <pubDate>Wed, 24 Apr 2024 15:28:37 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>12 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-05-07 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2024/0425/01_03_08__66292d3c7cf04[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <더블플롯> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8313</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8313</guid>
-            <pubDate>Wed, 24 Apr 2024 06:29:42 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-05-02 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0424/15_27_21__6628a649c9969[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <극장판 하이큐!! 쓰레기장의 결전> 시사회 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8312</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8312</guid>
-            <pubDate>Wed, 24 Apr 2024 02:06:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-05-09 19:30</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>60 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-05-02 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0424/11_32_23__66286f37b1054[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <디피컬트> 시사회 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8311</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8311</guid>
-            <pubDate>Wed, 24 Apr 2024 02:06:44 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-05-09 19:30</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>50 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-05-07 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2024/0424/11_23_03__66286d070300f[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <누구나 킥이 필요한 순간이 있다> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8310</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8310</guid>
-            <pubDate>Tue, 23 Apr 2024 19:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-04-29 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/event/2024/0418/16_33_52__6620cce09aa95[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <청혼> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8309</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8309</guid>
-            <pubDate>Tue, 23 Apr 2024 19:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-04-29 17:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0416/18_19_09__661e428d623b7[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://www.cine21.com/event/list</id>
+    <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
+    <updated>2024-04-28T14:22:14.359Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://www.cine21.com/event/favicon.ico</icon>
+</feed>
