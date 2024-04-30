@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Apr 2024 05:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 06:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0418/15_38_06__6620bfce6e780[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가로수길 이봄씨어터]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61447</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61447</guid>
+            <title><![CDATA[포켓몬스터: 성도지방 이야기, 최종장]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61380</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61380</guid>
             <pubDate>Sun, 28 Apr 2024 15:18:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0417/14_40_35__661f60d317a32[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0423/11_39_37__66271f6976482[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꼬마참새 리차드: 신비한 보석 탐험대]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61384</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61384</guid>
+            <pubDate>Sun, 28 Apr 2024 15:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0423/11_03_08__662716dc76b01[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스턴트맨]]></title>
@@ -48,28 +56,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0417/10_47_15__661f2a23bafbd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포켓몬스터: 성도지방 이야기, 최종장]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61380</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61380</guid>
+            <title><![CDATA[가로수길 이봄씨어터]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61447</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61447</guid>
             <pubDate>Sun, 28 Apr 2024 15:18:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0423/11_39_37__66271f6976482[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꼬마참새 리차드: 신비한 보석 탐험대]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61384</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61384</guid>
-            <pubDate>Sun, 28 Apr 2024 15:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0423/11_03_08__662716dc76b01[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼생크 탈출]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=839</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=839</guid>
-            <pubDate>Sun, 28 Apr 2024 15:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0404/18_35_22__660e745a48155[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0417/14_40_35__661f60d317a32[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[악마와의 토크쇼]]></title>
@@ -88,6 +80,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0409/18_20_17__66150851bf6bd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쇼생크 탈출]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=839</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=839</guid>
+            <pubDate>Sun, 28 Apr 2024 15:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0404/18_35_22__660e745a48155[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[혹성탈출: 새로운 시대]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60996</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60996</guid>
@@ -104,28 +104,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0415/11_48_36__661c958445338[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 하이큐!! 쓰레기장의 결전]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61417</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61417</guid>
-            <pubDate>Tue, 30 Apr 2024 05:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0419/15_35_40__662210bcdeb21[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디피컬트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61407</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61407</guid>
-            <pubDate>Sun, 28 Apr 2024 15:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0423/12_08_45__6627263d041fb[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[낸 골딘, 모든 아름다움과 유혈사태]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61382</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61382</guid>
             <pubDate>Sun, 28 Apr 2024 15:18:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05-15]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0328/18_47_02__66053c967fbcb[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가필드 더 무비]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61049</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61049</guid>
+            <pubDate>Tue, 30 Apr 2024 06:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0426/15_01_59__662b4357821e0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그녀가 죽었다]]></title>
@@ -136,20 +128,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0423/15_06_21__66274fdddba02[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애비게일]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61434</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61434</guid>
-            <pubDate>Sun, 28 Apr 2024 15:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0419/15_58_14__662216061f444[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이프: 상상의 친구]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61092</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61092</guid>
             <pubDate>Sun, 28 Apr 2024 15:18:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05-15]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0408/10_40_15__66134aff0baeb[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디피컬트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61407</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61407</guid>
+            <pubDate>Sun, 28 Apr 2024 15:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0423/12_08_45__6627263d041fb[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 하이큐!! 쓰레기장의 결전]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61417</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61417</guid>
+            <pubDate>Tue, 30 Apr 2024 05:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0419/15_35_40__662210bcdeb21[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
