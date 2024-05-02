@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 04:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 05:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -195,22 +195,6 @@
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[드라이브(가제)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59755</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59755</guid>
-            <pubDate>Sun, 28 Apr 2024 16:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">드라이브(가제)</span>
-		
-
-									<span class="director">감독 : 박동희</span>
-											<span class="actor">배우 : 박주현,김여진</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1013/17_33_19__6347cd4f2b704[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[암스테르담]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59700</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59700</guid>
@@ -284,6 +268,21 @@
 
 									<span class="director">감독 : 추창민</span>
 											<span class="actor">배우 : 조정석,이선균</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[승부]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57457</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57457</guid>
+            <pubDate>Thu, 02 May 2024 05:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">승부</span>
+		
+
+									<span class="director">감독 : 김형주</span>
+											<span class="actor">배우 : 유아인,이병헌</span>
 		
 		
 							<span class="btn_detail">자세히 보기</span>
