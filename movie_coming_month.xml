@@ -4,13 +4,27 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 05:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 06:26:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[폭설]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61435</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61435</guid>
+            <pubDate>Sun, 28 Apr 2024 16:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트랜스포머 ONE]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61458</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61458</guid>
+            <pubDate>Sun, 28 Apr 2024 16:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[존 오브 인터레스트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61107</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61107</guid>
             <pubDate>Sun, 28 Apr 2024 16:22:08 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
@@ -68,13 +82,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0307/17_22_52__65e9795c7e1ad[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[베테랑2]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61443</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61443</guid>
-            <pubDate>Sun, 28 Apr 2024 16:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[사랑의 하츄핑]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61448</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61448</guid>
@@ -83,24 +90,9 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0419/18_49_29__66223e2928b09[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[트랜스포머 ONE]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61458</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61458</guid>
-            <pubDate>Sun, 28 Apr 2024 16:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[조선인 여공의 노래]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61460</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61460</guid>
-            <pubDate>Sun, 28 Apr 2024 16:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0423/10_20_33__66270ce11a8a1[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존 오브 인터레스트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61107</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61107</guid>
+            <title><![CDATA[베테랑2]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61443</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61443</guid>
             <pubDate>Sun, 28 Apr 2024 16:22:08 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
@@ -111,6 +103,13 @@
             <pubDate>Thu, 02 May 2024 05:20:16 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0727/18_39_04__64c23b38a9258[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인터뷰]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60722</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60722</guid>
+            <pubDate>Fri, 03 May 2024 06:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[명탐정 코난 VS 괴도 키드]]></title>
