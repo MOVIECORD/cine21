@@ -4,9 +4,17 @@
         <title>씨네21 ─ 멀티미디어 ─ 커버 ─ 사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 01:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 02:04:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No.1455]]></title>
+            <link>https://image.cine21.com/resize/cine21/movie/2024/0503/11_21_11__66344a171f22f[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/movie/2024/0503/11_21_11__66344a171f22f[H800-].jpg</guid>
+            <pubDate>Fri, 03 May 2024 02:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024-05-07~2024-05-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0503/11_21_11__66344a171f22f[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[No.1454]]></title>
             <link>https://image.cine21.com/resize/cine21/movie/2024/0426/11_30_32__662b11c87bd81[H800-].jpg</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 28 Apr 2024 18:23:45 GMT</pubDate>
             <content:encoded><![CDATA[2024-03-12~2024-03-19]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/person/2024/0308/10_28_13__65ea69ad33664[X300,360].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No.1446]]></title>
-            <link>https://image.cine21.com/resize/cine21/movie/2024/0229/10_20_01__65dfdbc163f44[H800-].jpg</link>
-            <guid>https://image.cine21.com/resize/cine21/movie/2024/0229/10_20_01__65dfdbc163f44[H800-].jpg</guid>
-            <pubDate>Sun, 28 Apr 2024 18:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[2024-03-05~2024-03-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0229/10_20_01__65dfdbc163f44[X300,360].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
