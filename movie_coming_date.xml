@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 May 2024 09:30:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 10:28:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0423/15_06_21__66274fdddba02[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가필드 더 무비]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61049</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61049</guid>
-            <pubDate>Tue, 30 Apr 2024 06:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0426/15_01_59__662b4357821e0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이프: 상상의 친구]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61092</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61092</guid>
             <pubDate>Sun, 28 Apr 2024 15:18:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05-15]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0408/10_40_15__66134aff0baeb[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가필드 더 무비]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61049</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61049</guid>
+            <pubDate>Tue, 30 Apr 2024 06:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0426/15_01_59__662b4357821e0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타이거스 네스트: 호랑이의 보디가드]]></title>
@@ -96,14 +96,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0508/11_55_18__663ae996cbfe9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스텔라]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61416</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61416</guid>
-            <pubDate>Fri, 03 May 2024 05:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0429/18_38_48__662f6aa81f5bd[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[청춘 18X2 너에게로 이어지는 길]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61381</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61381</guid>
@@ -118,6 +110,14 @@
             <pubDate>Tue, 07 May 2024 22:25:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05-22]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0503/18_55_52__6634b4a84dfa3[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스텔라]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61416</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61416</guid>
+            <pubDate>Fri, 03 May 2024 05:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0429/18_38_48__662f6aa81f5bd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[퓨리오사: 매드맥스 사가]]></title>
@@ -144,12 +144,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0425/11_48_12__6629c46c63d1f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정욕]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61194</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61194</guid>
-            <pubDate>Wed, 08 May 2024 01:42:53 GMT</pubDate>
+            <title><![CDATA[분노의 강]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61440</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61440</guid>
+            <pubDate>Wed, 08 May 2024 10:24:31 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0503/14_58_36__66347d0c902de[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0430/18_16_12__6630b6dca3476[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
