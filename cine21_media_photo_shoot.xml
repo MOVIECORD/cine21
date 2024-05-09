@@ -1,8 +1,187 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cine21.com/media/photo/shoot</id>
-    <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
-    <updated>2024-05-09T18:17:53.881Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cine21.com/media/photo/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 09 May 2024 19:28:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감독							김경만 
+							(총4장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=18826</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=18826</guid>
+            <pubDate>Thu, 09 May 2024 19:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=18826">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/0509/11_34_38__663c363e9ccd4[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/810/663c3128653c4.jpg" alt="" class="thumb">
+						<span class="caption">
+							감독							<strong>김경만</strong> 
+							<span class="num">(총4장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/810/663c3128653c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							권해효 
+							(총29장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=167</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=167</guid>
+            <pubDate>Thu, 09 May 2024 19:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=167">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/0509/10_52_00__663c2c40d73b9[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/645/663c224933348.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>권해효</strong> 
+							<span class="num">(총29장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/645/663c224933348.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							김민하 
+							(총2장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=106677</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=106677</guid>
+            <pubDate>Thu, 09 May 2024 19:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=106677">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/0509/10_50_43__663c2bf33d1bb[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/941/663c2247d9cbe.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>김민하</strong> 
+							<span class="num">(총2장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/941/663c2247d9cbe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							이제훈 
+							(총57장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=70688</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=70688</guid>
+            <pubDate>Thu, 09 May 2024 19:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=70688">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/0509/10_48_32__663c2b70525ad[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/745/663c233d80c3b.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>이제훈</strong> 
+							<span class="num">(총57장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/745/663c233d80c3b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							최불암 
+							(총4장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=360</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=360</guid>
+            <pubDate>Thu, 09 May 2024 19:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=360">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/0509/10_42_20__663c29fc1e7de[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/311/663c1f723eebe.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>최불암</strong> 
+							<span class="num">(총4장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/311/663c1f723eebe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감독							로랑 캉테 
+							(총4장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=15077</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=15077</guid>
+            <pubDate>Thu, 09 May 2024 19:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=15077">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/0509/10_40_18__663c2982e43c0[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/081/663c1f71100c0.jpg" alt="" class="thumb">
+						<span class="caption">
+							감독							<strong>로랑 캉테</strong> 
+							<span class="num">(총4장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/081/663c1f71100c0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감독							박찬욱 
+							(총95장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=1784</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=1784</guid>
+            <pubDate>Thu, 09 May 2024 19:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=1784">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/0509/10_38_24__663c29100aee9[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/649/663c1f6fab255.jpg" alt="" class="thumb">
+						<span class="caption">
+							감독							<strong>박찬욱</strong> 
+							<span class="num">(총95장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/649/663c1f6fab255.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TV 연출							김진민 
+							(총6장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=54492</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=54492</guid>
+            <pubDate>Thu, 09 May 2024 19:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=54492">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/0509/10_37_00__663c28bcf3faa[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/714/663c1f6e6debd.jpg" alt="" class="thumb">
+						<span class="caption">
+							TV 연출							<strong>김진민</strong> 
+							<span class="num">(총6장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/714/663c1f6e6debd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							안은진 
+							(총6장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=110892</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=110892</guid>
+            <pubDate>Thu, 09 May 2024 19:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=110892">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/0509/10_33_12__663c27d80e578[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/983/663c1f6d03696.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>안은진</strong> 
+							<span class="num">(총6장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/983/663c1f6d03696.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							전성우 
+							(총2장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=89019</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=89019</guid>
+            <pubDate>Thu, 09 May 2024 19:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=89019">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/0509/10_32_16__663c27a003794[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/414/663c1f6b69fd9.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>전성우</strong> 
+							<span class="num">(총2장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/414/663c1f6b69fd9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							김윤혜 
+							(총4장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=79544</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=79544</guid>
+            <pubDate>Thu, 09 May 2024 19:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=79544">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/0509/10_27_48__663c2694219f1[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/044/663c1f688b320.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>김윤혜</strong> 
+							<span class="num">(총4장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/044/663c1f688b320.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
