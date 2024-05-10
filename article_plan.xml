@@ -1,8 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cine21.com/news/list/?idx=2</id>
-    <title>씨네21 ─ 기사 ─ 기획</title>
-    <updated>2024-05-10T02:12:52.201Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cine21.com/news/list/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 기사 ─ 기획</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 10 May 2024 02:46:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 감정과 표정을 정확히 매치시키기 위해, <혹성탈출: 새로운 시대> 김승석 시니어 페이셜 모델러, 순세률 모션 캡처 트래커]]></title>
+            <link>http://www.cine21.com/news/view/?idx=2&amp;mag_id=105046</link>
+            <guid>http://www.cine21.com/news/view/?idx=2&amp;mag_id=105046</guid>
+            <pubDate>Fri, 10 May 2024 02:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[시저(앤디 서키스)가 이끌었던 리부트 삼부작 이후 잠잠했던 &lt;혹성탈출&gt; 시리즈가 7년 만에 돌아왔다. 속편 &lt;혹성탈출: 새로운 시대&gt;에서는 주인공 노아(오언 티그)를 포함해 11마리의 유인원이 새로이 등장한다. 이중 오랑우탄 라카(피터 메이컨)에 주목해야 할 이유가 있다. 라카 작업에 VFX 스튜디오 Wētā FX 소속 한국인 아티스트인 김승석 시니어 페이셜 모델러와 순세률 모션 캡처 트래커가 참여했기 때문이다. 김승석 페이셜 모델러는 얼굴근육을 숫자와 알파벳으로 부호화하는 FACS(Facial Action Coding System)를 이용해 디지털 캐릭터의 다양한 표정을 만드는 전문가다. &lt;트랜스포머: 사라진 시대&gt;(2014)의 크리처, 공간 등을 3D로 제작하는 모델러로 VFX 업계에 뛰어든 뒤 &lt;데드풀2&gt;(2018) 때부터 표정으로 분야를 좁힌 그는 &lt;아쿠아맨&gt; &lt;아바타: 물의 길&gt;에도 힘을 보탰다. 2021년]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/359/663c936fe9473.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] ‘털끝에서 떨어지는 물방울의 크기까지 디테일하게’, <혹성탈출: 새로운 시대> 에릭 윈퀴스트 VFX 슈퍼바이저]]></title>
+            <link>http://www.cine21.com/news/view/?idx=2&amp;mag_id=105045</link>
+            <guid>http://www.cine21.com/news/view/?idx=2&amp;mag_id=105045</guid>
+            <pubDate>Fri, 10 May 2024 02:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;킹콩&gt; &lt;아바타&gt; &lt;닥터 스트레인지: 대혼돈의 멀티버스&gt;까지 기술적 성과를 이룬 작품들의 엔딩크레딧에서 에릭 윈퀴스트 VFX 슈퍼바이저의 이름을 찾는 일은 어렵지 않다. 2002년 독보적인 VFX 스튜디오 Wētā FX에 입사해 &lt;반지의 제왕: 두개의 탑&gt;으로 커리어를 시작한 에릭 윈퀴스트는 현재 팀 프로젝트를 총괄하는 위치에 올랐다. &lt;혹성탈출: 반격의 서막&gt;으로 아카데미 시상식과 영국 아카데미 시상식 시각효과상에서 후보 지명을 받았으며 실제 촬영장에서 활용할 수 있는 기술 개발 연구에 지속적인 관심을 두고 있다. &lt;혹성탈출&gt; 리부트 삼부작(&lt;혹성탈출: 진화의 시작&gt; &lt;혹성탈출: 반격의 서막&gt; &lt;혹성탈출: 종의 전쟁&gt;)에 이어 7년 만의 속편 &lt;혹성탈출: 새로운 시대&gt;에서도 VFX 총괄을 맡은 에릭 윈퀴스트가 영화 개봉을 앞두고 한국을 찾았다. 본편 프롤로그를 볼 수 있]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/342/663c936d96e93.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기획] 혁신은 이렇게 이루어진다, 영상기술로 읽는 <혹성탈출: 새로운 시대>]]></title>
+            <link>http://www.cine21.com/news/view/?idx=2&amp;mag_id=105044</link>
+            <guid>http://www.cine21.com/news/view/?idx=2&amp;mag_id=105044</guid>
+            <pubDate>Fri, 10 May 2024 02:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;혹성탈출&gt; 리부트 삼부작 이후 7년 만에 공개되는 속편 &lt;혹성탈출: 새로운 시대&gt;가 받는 질문은 결국 하나일 것이다. 성공적인 전작들과 비교했을 때 얼마나 기술적 발전을 이루었는가. 그 궁금증을 일부 해소할 수 있는 자리가 지난 4월23일 CGV용산아이파크몰에서 열렸다. 5월8일 &lt;혹성탈출: 새로운 시대&gt; 개봉을 앞두고 열린 이번 행사에서는 본편의 푸티지 시사회(일부 상영)가 열렸다. 공개된 30분가량의 프롤로그는 삼부작의 마지막 편 &lt;혹성탈출: 종의 전쟁&gt;(2017)에서 장렬한 죽음을 맞이한 리더 시저(앤디 서키스)의 장례식 이후, 수세대가 지난 시점에서 출발한다. 인류가 몰락하고 독수리와 함께 살아가는 유인원 부족의 차기 지도자 노아(오언 티그)는 특별한 의식이 가능한 독수리알을 동료들과 찾아다니며 평화로운 나날을 보낸다. 그러나 곧 급격한 지각변동을 겪는다. 인류에 대한 호기심을 품게 한 인간 소녀 노바(프레이아 앨런)와의 만남은 시]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/555/663c936c2cb10.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 아무것도 몰랐고, 모르는 게 좋았고, 모른다고 전혀 불안하지 않았다, <여행자의 필요> 이자벨 위페르]]></title>
+            <link>http://www.cine21.com/news/view/?idx=2&amp;mag_id=105043</link>
+            <guid>http://www.cine21.com/news/view/?idx=2&amp;mag_id=105043</guid>
+            <pubDate>Fri, 10 May 2024 02:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[한불 통역 하진화
+
+
+- 한국에 온 프랑스 사람인 &lt;여행자의 필요&gt; &lt;다른나라에서&gt;뿐 아니라 자국에서 촬영한 &lt;클레어의 카메라&gt;에서조차 당신은 칸 방문이 처음인 파리 사람, 그러니까 여행자의 신분이었다. 홍상수 영화의 여행자가 된다는 것이 당신에겐 어떤 의미인가.
+
+
+= &lt;여행자의 필요&gt;에서 이리스는 사람들의 감정을 옮기는 번역가라고 볼 수 있겠다. 프랑스어 과외를 하면서 그는 상대가 무언가를 스스로 말하게끔 한다. 언어를 배우는 동시에 그들 자신을 마주하는 법을 배우자는 것이다. 이번 영화에서는 언어 학습을 통해 상대방으로 하여금 스스로를 드러내게 하는데, &lt;클레어의 카메라&gt;에서는 그 매개체가 사진이었다. 사진을 찍는 여행자는 상대방의 정신적인 무언가를 포착하곤 했다. 그러니까 나는 홍상수 감독과 작업했던 영화들 속에서, 영화마다 그 방식은 달랐지만, 늘 내 앞의 존재들을 있는 그대로 바라보려고 노력하는 사람이었다. 그렇게 본다]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/650/663c936a858d3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기획] 이자벨 위페르의 필요 - <여행자의 필요>와 함께 돌아보는 홍상수 영화의 여행자, 이자벨 위페르 역할론과 인터뷰]]></title>
+            <link>http://www.cine21.com/news/view/?idx=2&amp;mag_id=105042</link>
+            <guid>http://www.cine21.com/news/view/?idx=2&amp;mag_id=105042</guid>
+            <pubDate>Fri, 10 May 2024 02:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[12년에 걸쳐 홍상수 감독과 3편의 작품을 함께한 이자벨 위페르는 더 많은 홍상수 영화를 기다린다. 그는 홍상수 작품의 스타일과 제작 방식을 깊이 이해하고 존중하는 동시에, 자신에게 남겨진 ‘알 수 없음’의 영역에도 가뿐히 미소 짓는다. 자신의 마스터를 “가장 미니멀한 제작 방식으로 복잡한 마술을 탄생시키는 대체 불가능한 관점의 소유자”라 수식하는 이자벨 위페르와 &lt;여행자의 필요&gt; 개봉일인 4월24일에 화상 인터뷰로 대화를 나눴다. 얼마 전 가족으로 합류한 신입 고양이 우발라를 소개해준 72살의 전설적인 배우는 커다란 안경과 모닝커피를 준비해 자신의 서재에 앉아 있었다. 위페르는 홍상수, 그리고 &lt;여행자의 필요&gt;에 관해 군더더기 없이 긴요한 설명만을 들려주었으며, 촬영 과정 일반에 얽힌 사실들에 근거해 자신의 역할을 묘사했다. 촬영장의 통역을 도맡았고 극 중에서는 이리스가 윤동주 시를 프랑스어로 옮기도록 요청하는 인물인 하진화 통번역가가 이번 대화의 매개자로 동]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/733/663c92f28666a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 섬세한 피부결의 연출 자신 있다, 디오에스앤유니크 최순철 대표 인터뷰]]></title>
+            <link>http://www.cine21.com/news/view/?idx=2&amp;mag_id=105032</link>
+            <guid>http://www.cine21.com/news/view/?idx=2&amp;mag_id=105032</guid>
+            <pubDate>Fri, 10 May 2024 02:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[- 태닝 사업을 시작한 계기는.
+
+= 대학교를 졸업한 뒤에 미용기기 회사의 에이에스 기사로 일하면서 수입 태닝기를 몇번 수리해봤다. 기계를 다루는 일에 능숙했던 터라 태닝기를 직접 만들어볼 수도 있겠단 생각이 들었다. 혼성그룹 룰라의 채리나씨 덕에 국내에 첫 태닝 열풍이 일던 때이기도 했다. 그렇게 혼자 태닝기의 메커니즘을 공부하고, 무작정 유럽의 태닝 회사에 연락하는 등 사업을 펼칠 방법을 찾기 시작했다. 이후 태닝기와 태닝 로션·패치 제조, 화이트 태닝기 개발과 태닝숍 창업 컨설팅까지 이어오고 있다.
+
+
+- 직접 개발한 태닝기 ‘램제트’ 시리즈엔 어떤 특징이 있나.
+
+
+= 백인이 아니라 아시아인의 피부 체질에 맞춘 태닝기다. 태닝의 결과물은 거짓말을 못한다. 고객들이 몸으로 바로 느끼니까. 램제트를 사용한 고객들의 만족도가 높다 보니 국내 유명 매니지먼트사엔 소속 아티스트들을 위한 램제트 룸이 따로 있다. 일본 태너들도 램제트의 다이어트 EMS 기능을 특히 좋아한다. 아시아에서]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/036/663c92f0b9a25.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기획] 적확한 피부색을 구현하다, 유니크 태닝 한남본점 소개와 최순철 대표 인터뷰]]></title>
+            <link>http://www.cine21.com/news/view/?idx=2&amp;mag_id=105031</link>
+            <guid>http://www.cine21.com/news/view/?idx=2&amp;mag_id=105031</guid>
+            <pubDate>Fri, 10 May 2024 02:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[2004년 국내 최초 UV(자외선)·화이트 태닝기 제조 기업으로 문을 연 ‘디오에스앤유니크’는 해외 수입에 의존했던 태닝기를 자체적으로 설계·개발·제조해왔다. 현재 국내 태닝 전문점에 있는 태닝기 점유율의 60% 이상을 차지하고 있다. 또한 자사 기기를 포함해 세계 최정상급의 태닝 설비와 태닝 체계를 갖춘 직영점 ‘유니크 태닝’의 한남본점과 부산 서면점을 운영 중이다. 불모지에 가까웠던 국내 태닝 업계를 선도하며 태닝에 관한 모든 분야를 개발 중인 최순철 대표에겐 또 다른 목표가 있다. “한국영화와 드라마 속 배우들의 피부색을 캐릭터에 맞게끔 현실적으로 구현”하고 싶다는 바람이다. 20여년이 넘도록 태닝업의 확장을 멈추지 않고 있는 최순철 대표를 만나 더 자세한 이야기를 물었다. 더하여 유니크 태닝 한남본점의 공간과 기기를 자세히 살펴봤다.
+
+
+*이어지는 기사에서 디오에스앤유니크 최순철 대표 인터뷰와 유니크 태닝 기획이 계속됩니다.]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/840/663c92ecdaa7c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[ARCHIVE] 배우 김민하의 글이 궁금하다]]></title>
+            <link>http://www.cine21.com/news/view/?idx=2&amp;mag_id=104997</link>
+            <guid>http://www.cine21.com/news/view/?idx=2&amp;mag_id=104997</guid>
+            <pubDate>Fri, 10 May 2024 02:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19가 한창이던 2022년 4월, 김민하 배우를 만났다. 일제강점기 이민자의 삶을 다룬 &lt;파친코&gt;의 주연을 맡은 그는 작품에서와 같은 단아한 모습으로 스튜디오에 들어섰다. 인터뷰 중 간간이 들리는 그의 관심사와 학창 시절 그리고 꿈까지, 앞으로가 더욱 궁금한 배우로 가슴속에 남아 있다.]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/993/6639d3f134f46.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“현장은 나의 터전”, <씨네21> 사진으로 보는 마동석의 궤적]]></title>
+            <link>http://www.cine21.com/news/view/?idx=2&amp;mag_id=104990</link>
+            <guid>http://www.cine21.com/news/view/?idx=2&amp;mag_id=104990</guid>
+            <pubDate>Fri, 10 May 2024 02:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[16년 전, 마동석은 &lt;씨네21&gt;을 만나 자신이 개발 중인 영화 시나리오가 있고 해외 진출을 하고 싶다고 말했다. 지금 마동석은 할리우드 프로젝트를 포함한 수십편의 영화 및 시리즈를 준비 중인 제작자가 됐다. 순탄치만은 않았지만 넘어지고 깨져도 올곧게 자신의 꿈을 바라봤던 마동석이 지금의 위치에 당도하기까지 &lt;씨네21&gt;도 그의 여정을 부지런히 따라왔다. 영화 촬영 현장에서, &lt;씨네21&gt; 커버 촬영 및 인터뷰를 진행하는 자리에서 포착했던 마동석의 역사를 모았다.
+
+
+
+“난 음지, 양지 안 가리던 잡초였다.” 2008년 당시 &lt;히트&gt; &lt;비스티 보이즈&gt; &lt;강적들&gt;에서 배우로서 존재감을 보여주며 이제 막 이름을 알려가고 있던 마동석과 처음 만났다. 그는 그때 이미 두편의 영화 아이템을 기획 중이었고, 언젠가 할리우드영화에 출연하고 싶다는 의지를 보였다.
+
+
+
+2012년 3번에 걸쳐 찾았던 &lt;감기&gt; 촬영 현장. 마동석]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/365/6634aa163b616.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] ‘무한히 창조적’ 이다, 크리스 S. 리 B&C 콘텐츠 대표]]></title>
+            <link>http://www.cine21.com/news/view/?idx=2&amp;mag_id=104989</link>
+            <guid>http://www.cine21.com/news/view/?idx=2&amp;mag_id=104989</guid>
+            <pubDate>Fri, 10 May 2024 02:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[“&lt;범죄도시4&gt;의 예매율이 미국 매체 &lt;데드라인&gt;에 보도되면서 내 메일로도 축하 인사가 쏟아졌다.” 미국 대형 에이전시 CAA를 거쳐 글로벌 매니지먼트 겸 제작사인 B&amp;C 콘텐츠를 연 한국계 미국인 크리스 S. 리 프로듀서는 내년부터 본격적으로 가시화될 마동석의 할리우드 제작 프로덕션을 위해 분주히 움직이고 있다. 할리우드가 바라보는 마동석의 현재, 그리고 마동석이 실현할 원대한 꿈들을 그에게 물었다.
+
+
+
+- 마동석과 협업하게 된 계기는.
+
+= 2014년 한국에서 B&amp;C 콘텐츠를 처음 시작했을 때 스티븐 연 배우와의 인연으로 신연식 감독의 &lt;프랑스 영화처럼&gt; 뒤풀이 자리에 갔고 거기서 마동석 배우를 처음 만났다. 카스 맥주를 마시면서 그가 몬태나, 텍사스, 오하이오, 캘리포니아주 등에서 아메리칸드림을 위해 고군분투했던 사람이라는 걸 알게 됐다. 그때부터 할리우드에 대한 꿈을 함께 설계했다. 본격적으로는 2016년부터 글로벌 매니지먼트를]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/504/663358a980a7a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘이런 사람, 처음 봐요’, 마동석과 협업하는 핵심 파트너들의 말]]></title>
+            <link>http://www.cine21.com/news/view/?idx=2&amp;mag_id=104988</link>
+            <guid>http://www.cine21.com/news/view/?idx=2&amp;mag_id=104988</guid>
+            <pubDate>Fri, 10 May 2024 02:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[기획, 제작, 배급, 매니지먼트, 해외 에이전시 등에 이르기까지 마동석은 한번 인연 맺은 파트너들과 오래 그리고 긴밀히 협업한다. 과거에 ‘팀고릴라’라 불렸던 크리에이티브 모임이 알려졌던 것처럼 마동석은 뜻있는 동료들을 모으고, 지지하고, 공동작업의 시너지를 내는 데 타고난 재능을 발휘하는 리더형의 기획자다. &lt;범죄도시&gt; 시리즈의 연이은 성공과 할리우드 진출이 가시화되고, 마동석의 제작 프로젝트가 궤도에 오르게 된 과정에서 협업한 핵심 플레이어들의 스토리를 소개한다. 마동석에 관한 일이라면 만사 제칠 준비가 되어 있는 이들은 “마동석만큼 매일 자기 꿈을 향해 다가가는 사람, 이토록 부지런히 일하는 사람은 또 없을 것”이라고 입을 모아 말한다.
+
+
+장원석 BA엔터테인먼트 대표
+
+
+&lt;범죄도시&gt; 시리즈를 함께한 장원석 대표는 “마동석은 쉼 없이 아이디어를 피칭하고 그것을 정말로 실현시키는 드문 인물이다. 내가 영화업을 하면서 만난 사람들 중 자신의 가치를 스스로 끌어]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/894/663358a7264ad.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
