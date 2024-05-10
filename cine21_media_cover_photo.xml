@@ -4,9 +4,17 @@
         <title>씨네21 ─ 멀티미디어 ─ 커버 ─ 사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 01:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 02:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No.1456]]></title>
+            <link>https://image.cine21.com/resize/cine21/site/2024/0510/10_47_01__663d7c952d20d[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/site/2024/0510/10_47_01__663d7c952d20d[H800-].jpg</guid>
+            <pubDate>Fri, 10 May 2024 02:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024-05-14~2024-05-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/site/2024/0510/10_47_01__663d7c952d20d[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[No.1455]]></title>
             <link>https://image.cine21.com/resize/cine21/movie/2024/0503/11_21_11__66344a171f22f[H800-].jpg</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 09 May 2024 19:27:24 GMT</pubDate>
             <content:encoded><![CDATA[2024-03-19~2024-03-26]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0315/10_42_10__65f3a7724bc4f[X300,360].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No.1447]]></title>
-            <link>https://image.cine21.com/resize/cine21/person/2024/0308/10_28_13__65ea69ad33664[H800-].jpg</link>
-            <guid>https://image.cine21.com/resize/cine21/person/2024/0308/10_28_13__65ea69ad33664[H800-].jpg</guid>
-            <pubDate>Thu, 09 May 2024 19:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024-03-12~2024-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/person/2024/0308/10_28_13__65ea69ad33664[X300,360].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
