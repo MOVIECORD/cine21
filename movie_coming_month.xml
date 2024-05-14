@@ -4,15 +4,23 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 07:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 08:25:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[폭설]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61435</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61435</guid>
+            <title><![CDATA[문경]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61491</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61491</guid>
             <pubDate>Sun, 12 May 2024 13:18:34 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[보통의 가족]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60745</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60745</guid>
+            <pubDate>Sun, 12 May 2024 13:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0727/18_39_04__64c23b38a9258[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시빌 워]]></title>
@@ -82,21 +90,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0423/10_20_33__66270ce11a8a1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[문경]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61491</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61491</guid>
-            <pubDate>Sun, 12 May 2024 13:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[보통의 가족]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60745</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60745</guid>
-            <pubDate>Sun, 12 May 2024 13:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0727/18_39_04__64c23b38a9258[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[인터뷰]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60722</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60722</guid>
@@ -104,11 +97,12 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[매쉬빌]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
-            <pubDate>Mon, 13 May 2024 09:19:55 GMT</pubDate>
+            <title><![CDATA[오후 네시]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60221</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60221</guid>
+            <pubDate>Tue, 14 May 2024 05:18:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_08_55__6419580767c68[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[말할 수 없는 비밀]]></title>
@@ -126,12 +120,18 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/15_25_59__65c1d0f706cec[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오후 네시]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60221</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60221</guid>
-            <pubDate>Tue, 14 May 2024 05:18:55 GMT</pubDate>
+            <title><![CDATA[폭설]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61435</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61435</guid>
+            <pubDate>Sun, 12 May 2024 13:18:34 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_08_55__6419580767c68[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매쉬빌]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
+            <pubDate>Mon, 13 May 2024 09:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사일런트 나잇]]></title>
