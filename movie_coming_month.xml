@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 04:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 05:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -119,14 +119,6 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[핸섬가이즈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56865</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56865</guid>
-            <pubDate>Sun, 12 May 2024 13:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2020/0922/15_48_46__5f699e4e3db87[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[말할 수 없는 비밀]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
@@ -140,6 +132,14 @@
             <pubDate>Sun, 12 May 2024 13:18:34 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/15_25_59__65c1d0f706cec[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오후 네시]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60221</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60221</guid>
+            <pubDate>Tue, 14 May 2024 05:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_08_55__6419580767c68[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
