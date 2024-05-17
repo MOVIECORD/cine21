@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 06:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 07:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -18,13 +18,6 @@
             <title><![CDATA[6시간 후 너는 죽는다]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61217</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61217</guid>
-            <pubDate>Sun, 12 May 2024 13:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신사(가제)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61320</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61320</guid>
             <pubDate>Sun, 12 May 2024 13:18:34 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
@@ -44,12 +37,11 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기괴도]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61335</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61335</guid>
+            <title><![CDATA[신사(가제)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61320</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61320</guid>
             <pubDate>Sun, 12 May 2024 13:18:34 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0307/16_57_24__65e973645ce7e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오후 네시]]></title>
@@ -140,6 +132,14 @@
             <pubDate>Tue, 14 May 2024 06:26:31 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-04]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0328/10_22_49__6604c6690d39f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노무현과 바보들: 못다한 이야기]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61462</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61462</guid>
+            <pubDate>Fri, 17 May 2024 07:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0508/11_03_28__663add708d059[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
