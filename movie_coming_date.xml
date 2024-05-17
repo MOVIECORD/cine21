@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 04:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 05:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=61508</guid>
             <pubDate>Fri, 17 May 2024 02:01:04 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0517/14_39_34__6646ed96cc6af[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[퓨리오사: 매드맥스 사가]]></title>
