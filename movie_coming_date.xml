@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 05:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 06:28:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,28 +16,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0508/11_55_18__663ae996cbfe9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스텔라]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61416</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61416</guid>
+            <pubDate>Tue, 14 May 2024 15:26:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0429/18_38_48__662f6aa81f5bd[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[청춘 18X2 너에게로 이어지는 길]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61381</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61381</guid>
             <pubDate>Mon, 13 May 2024 09:19:34 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05-22]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0429/12_25_31__662f132b81650[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[늦더위]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61465</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61465</guid>
-            <pubDate>Tue, 14 May 2024 05:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0503/18_45_36__6634b240c8029[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퓨리오사: 매드맥스 사가]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61349</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61349</guid>
-            <pubDate>Sun, 12 May 2024 13:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0510/12_43_59__663d97ff24221[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[별처럼 빛나는 너에게 더무비-일섬일섬량성성]]></title>
@@ -48,12 +40,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0503/18_55_52__6634b4a84dfa3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스텔라]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61416</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61416</guid>
-            <pubDate>Tue, 14 May 2024 15:26:19 GMT</pubDate>
+            <title><![CDATA[퓨리오사: 매드맥스 사가]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61349</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61349</guid>
+            <pubDate>Sun, 12 May 2024 13:18:18 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0429/18_38_48__662f6aa81f5bd[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0510/12_43_59__663d97ff24221[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[늦더위]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61465</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61465</guid>
+            <pubDate>Tue, 14 May 2024 05:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0503/18_45_36__6634b240c8029[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그레이트 칸]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61501</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61501</guid>
+            <pubDate>Tue, 14 May 2024 15:26:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-23]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0513/16_36_19__6641c2f3a27c3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도뷔시]]></title>
@@ -64,12 +72,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0514/14_26_09__6642f5f1e15da[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[그레이트 칸]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61501</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61501</guid>
-            <pubDate>Tue, 14 May 2024 15:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0513/16_36_19__6641c2f3a27c3[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[찬란한 내일로]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61451</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61451</guid>
+            <pubDate>Fri, 17 May 2024 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0510/15_16_39__663dbbc706a6e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창가의 토토]]></title>
@@ -96,22 +104,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0430/18_16_12__6630b6dca3476[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아침이 오면 공허해진다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61450</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61450</guid>
-            <pubDate>Tue, 14 May 2024 15:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0430/16_00_45__6630971d01834[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬란한 내일로]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61451</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61451</guid>
-            <pubDate>Fri, 17 May 2024 08:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0510/15_16_39__663dbbc706a6e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[정욕]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61194</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61194</guid>
@@ -136,6 +128,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0509/11_58_53__663c3bede89df[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[설계자]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61461</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61461</guid>
+            <pubDate>Thu, 16 May 2024 08:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0508/14_31_30__663b0e32b4185[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘부터 댄싱퀸]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61488</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61488</guid>
@@ -144,12 +144,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0503/17_54_19__6634a63be513e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[설계자]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61461</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61461</guid>
-            <pubDate>Thu, 16 May 2024 08:21:12 GMT</pubDate>
+            <title><![CDATA[아침이 오면 공허해진다]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61450</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61450</guid>
+            <pubDate>Tue, 14 May 2024 15:26:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0508/14_31_30__663b0e32b4185[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0430/16_00_45__6630971d01834[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
