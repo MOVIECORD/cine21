@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-05-21T23:23:42.855Z</updated>
+    <updated>2024-05-22T01:06:24.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤직드라마 <망원동 브라더스> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8754&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8754&amp;p=1"/>
+        <updated>2024-05-22T00:54:47.372Z</updated>
+        <content type="html"><![CDATA[8754]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <도뷔시> 시사회 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8753&amp;p=1</id>
@@ -95,12 +102,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8741&amp;p=1"/>
         <updated>2024-04-18T07:12:45.408Z</updated>
         <content type="html"><![CDATA[8741]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <운빨 로맨스> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8740&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8740&amp;p=1"/>
-        <updated>2024-04-18T07:12:45.408Z</updated>
-        <content type="html"><![CDATA[8740]]></content>
     </entry>
 </feed>
