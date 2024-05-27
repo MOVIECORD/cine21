@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 01:06:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 02:06:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,14 +16,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0510/16_21_18__663dcaee15d83[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아침이 오면 공허해진다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61450</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61450</guid>
-            <pubDate>Tue, 21 May 2024 09:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0430/16_00_45__6630971d01834[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[드림 시나리오]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61374</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61374</guid>
@@ -32,12 +24,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0508/16_06_59__663b249328963[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[찬란한 내일로]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61451</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61451</guid>
-            <pubDate>Fri, 17 May 2024 08:24:03 GMT</pubDate>
+            <title><![CDATA[아침이 오면 공허해진다]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61450</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61450</guid>
+            <pubDate>Tue, 21 May 2024 09:21:01 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0510/15_16_39__663dbbc706a6e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0430/16_00_45__6630971d01834[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창가의 토토]]></title>
@@ -54,6 +46,14 @@
             <pubDate>Thu, 16 May 2024 08:21:12 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0508/14_31_30__663b0e32b4185[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬란한 내일로]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61451</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61451</guid>
+            <pubDate>Fri, 17 May 2024 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0510/15_16_39__663dbbc706a6e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[난 엄청 창의적인 휴머니스트 뱀파이어가 될 거야]]></title>

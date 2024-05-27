@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-05-27T01:06:15.569Z</updated>
+    <updated>2024-05-27T02:06:54.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <2호선 세입자> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8757&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8757&amp;p=1"/>
+        <updated>2024-05-27T01:57:27.980Z</updated>
+        <content type="html"><![CDATA[8757]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <옥탑방 고양이> 초대 이벤트	 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8756&amp;p=1</id>
@@ -95,12 +102,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8744&amp;p=1"/>
         <updated>2024-04-25T01:52:50.994Z</updated>
         <content type="html"><![CDATA[8744]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <모르는 이야기> 시사회 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8743&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8743&amp;p=1"/>
-        <updated>2024-04-22T01:53:23.121Z</updated>
-        <content type="html"><![CDATA[8743]]></content>
     </entry>
 </feed>

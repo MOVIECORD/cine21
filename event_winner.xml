@@ -4,9 +4,18 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 01:06:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 02:06:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <오백에 삼십> 초대 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8758&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8758&amp;p=1</guid>
+            <pubDate>Mon, 27 May 2024 02:05:39 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-05-27 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0412/18_23_05__6618fd7958401[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤직드라마 <불편한 편의점> 초대 이벤트]]></title>
             <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8755&amp;p=1</link>
@@ -102,15 +111,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>30 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-04-22 17:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0412/18_15_59__6618fbcf17071[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <운빨 로맨스> 초대 이벤트]]></title>
-            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8740&amp;p=1</link>
-            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8740&amp;p=1</guid>
-            <pubDate>Mon, 20 May 2024 04:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-04-18 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0409/10_32_25__66149aa90e394[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

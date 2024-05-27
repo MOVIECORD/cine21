@@ -4,9 +4,22 @@
         <title>씨네21 ─ 멀티미디어 ─ 동영상</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 01:06:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 02:06:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[＜캣퍼슨＞ 메인 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F05%2Fcat_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0527%2F11_24_13__6653eecd1f207%5BX640%2C480%5D.png&amp;title=%EF%BC%9C%EC%BA%A3%ED%8D%BC%EC%8A%A8%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F05%2Fcat_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0527%2F11_24_13__6653eecd1f207%5BX640%2C480%5D.png&amp;title=%EF%BC%9C%EC%BA%A3%ED%8D%BC%EC%8A%A8%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Mon, 27 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=46243">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F05%2Fcat_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0527%2F11_24_13__6653eecd1f207%5BX640%2C480%5D.png&amp;title=%EF%BC%9C%EC%BA%A3%ED%8D%BC%EC%8A%A8%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/05/cat_mtr.mp4">
+						<img src="https://image.cine21.com/resize/cine21/movie/2024/0527/11_24_13__6653eecd1f207[X211,130].png" alt="" class="thumb">
+						<span class="title">＜캣퍼슨＞ 메인 예고편</span>
+						<span class="date">2024-05-27</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0527/11_24_13__6653eecd1f207[X211,130].png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[＜노 웨이 업＞ 티저 예고편]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F05%2Fnoway_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F002%2F6650ace7a3b04.jpg&amp;title=%EF%BC%9C%EB%85%B8%20%EC%9B%A8%EC%9D%B4%20%EC%97%85%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
@@ -201,19 +214,6 @@
 						<span class="date">2024-05-23</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/748/664ef1fc1522b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜금지된 장난＞ 30초 청불 예고편]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=46227">-->
-					<a href="javascript:;" data-url="not_logged">
-						<img src="https://image.cine21.com/crop/data/739/664ed4589d386.jpg" alt="" class="thumb">
-						<span class="title">＜금지된 장난＞ 30초 청불 예고편</span>
-						<span class="date">2024-05-23</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/739/664ed4589d386.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
