@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 08:28:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 09:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -195,22 +195,6 @@
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[암스테르담]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59700</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59700</guid>
-            <pubDate>Tue, 28 May 2024 07:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">암스테르담</span>
-		
-
-									<span class="director">감독 : 데이비드 O. 러셀</span>
-											<span class="actor">배우 : 크리스찬 베일,마고 로비</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2022/1004/15_16_12__633bcfac5f938[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[사흘(가제)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=55922</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=55922</guid>
@@ -243,22 +227,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0602/16_46_14__5ed603c6be516[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[탈출: PROJECT SILENCE]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56904</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56904</guid>
-            <pubDate>Sun, 12 May 2024 13:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">탈출: PROJECT SILENCE</span>
-		
-
-									<span class="director">감독 : 김태곤</span>
-											<span class="actor">배우 : 이선균,주지훈</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0512/17_29_19__645df8df5ad24[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[승부]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57457</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57457</guid>
@@ -287,6 +255,37 @@
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마이캡틴]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57530</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57530</guid>
+            <pubDate>Tue, 28 May 2024 09:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">마이캡틴</span>
+		
+
+									<span class="director">감독 : 최진성</span>
+											<span class="actor">배우 : 박성웅</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[보고타]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57542</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57542</guid>
+            <pubDate>Tue, 28 May 2024 09:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">보고타</span>
+		
+
+									<span class="director">감독 : 김성제</span>
+											<span class="actor">배우 : 송중기,이희준</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/0609/11_18_55__60c0250fafe22[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
