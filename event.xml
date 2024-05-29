@@ -4,15 +4,26 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 14:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 15:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <양치기> 시사회 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8330</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8330</guid>
+            <pubDate>Wed, 29 May 2024 15:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-06-11 19:30</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-06-07 14:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0530/00_10_33__6657456931883[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 <연안지대> 초대 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8329</link>
             <guid>http://www.cine21.com/event/view/?event_no=8329</guid>
             <pubDate>Wed, 29 May 2024 06:27:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p style=""><span class="tit">인원</span><span class="bar">|</span>15 명</p><div class="teads-adCall"></div>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-06-10 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0530/00_08_52__66574504592e3[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
@@ -57,17 +68,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0523/13_40_09__664ec8a96f0e7[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영화 <1초 앞, 1초 뒤> 시사회 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8324</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8324</guid>
-            <pubDate>Wed, 29 May 2024 05:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-06-04 19:30</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>롯데시네마 월드타워</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>60 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-05-30 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0523/10_42_58__664e9f220e3e3[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <고등어> 초대 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8323</link>
             <guid>http://www.cine21.com/event/view/?event_no=8323</guid>
@@ -75,15 +75,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-06-03 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0522/17_20_15__664daabfd093f[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <왜 동검밖에 팔지 않는 것입니까> 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8322</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8322</guid>
-            <pubDate>Wed, 29 May 2024 05:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-05-30 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0520/12_38_03__664ac59beb074[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
