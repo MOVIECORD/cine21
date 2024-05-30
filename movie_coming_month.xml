@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 02:39:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 03:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,14 +59,6 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[사랑의 하츄핑]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61448</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61448</guid>
-            <pubDate>Wed, 29 May 2024 05:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0419/18_49_29__66223e2928b09[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[트랜스포머 ONE]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61458</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61458</guid>
@@ -103,13 +95,6 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[말할 수 없는 비밀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
-            <pubDate>Wed, 29 May 2024 05:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[오후 네시]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60221</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60221</guid>
@@ -126,12 +111,11 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/15_25_59__65c1d0f706cec[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라인골드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61350</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61350</guid>
-            <pubDate>Wed, 29 May 2024 09:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0320/15_35_48__65fa83c41057d[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[말할 수 없는 비밀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
+            <pubDate>Wed, 29 May 2024 05:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[하이큐!! 땅 VS 하늘]]></title>
@@ -140,6 +124,22 @@
             <pubDate>Wed, 29 May 2024 05:19:59 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0726/11_29_29__60fe1e09a4607[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이큐!! 재능과 센스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=51909</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=51909</guid>
+            <pubDate>Thu, 30 May 2024 03:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2017/1113/13_36_39__5a0921579b96d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라인골드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61350</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61350</guid>
+            <pubDate>Wed, 29 May 2024 09:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0320/15_35_48__65fa83c41057d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
