@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jun 2024 23:34:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 01:06:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,22 +22,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/55448_614d6fb3976df[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대도시의 사랑법]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60739</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60739</guid>
-            <pubDate>Wed, 29 May 2024 05:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">대도시의 사랑법</span>
-		
-
-									<span class="director">감독 : 이언희</span>
-											<span class="actor">배우 : 김고은,노상현</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0725/18_10_28__64bf91845aaa9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여공의 밤]]></title>
@@ -149,6 +133,19 @@
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[3억:살인게임]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61549</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61549</guid>
+            <pubDate>Mon, 03 Jun 2024 01:04:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">3억:살인게임</span>
+		
+
+				
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[검은 수녀들]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61287</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61287</guid>
@@ -162,6 +159,22 @@
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대도시의 사랑법]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60739</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60739</guid>
+            <pubDate>Wed, 29 May 2024 05:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">대도시의 사랑법</span>
+		
+
+									<span class="director">감독 : 이언희</span>
+											<span class="actor">배우 : 김고은,노상현</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0725/18_10_28__64bf91845aaa9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[야당]]></title>
@@ -270,22 +283,6 @@
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[보고타]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57542</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57542</guid>
-            <pubDate>Wed, 29 May 2024 05:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">보고타</span>
-		
-
-									<span class="director">감독 : 김성제</span>
-											<span class="actor">배우 : 송중기,이희준</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/0609/11_18_55__60c0250fafe22[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
