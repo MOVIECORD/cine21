@@ -1,8 +1,290 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cine21.com/movie/lists/yet</id>
-    <title>씨네21 ─ 영화 ─ 개봉 미정</title>
-    <updated>2024-06-03T09:18:59.878Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cine21.com/movie/lists/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 영화 ─ 개봉 미정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 03 Jun 2024 10:26:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행복의 나라로]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55448</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55448</guid>
+            <pubDate>Mon, 03 Jun 2024 10:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">행복의 나라로</span>
+		
+
+									<span class="director">감독 : 임상수</span>
+											<span class="actor">배우 : 최민식,박해일</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/55448_614d6fb3976df[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여공의 밤]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60884</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60884</guid>
+            <pubDate>Mon, 03 Jun 2024 10:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">여공의 밤</span>
+		
+
+									<span class="director">감독 : 김건희</span>
+				
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0922/17_31_57__650d50fd0696c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[되살아나는 목소리]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60886</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60886</guid>
+            <pubDate>Mon, 03 Jun 2024 10:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">되살아나는 목소리</span>
+		
+
+									<span class="director">감독 : 박수남,박마의</span>
+				
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0922/17_49_38__650d5522a1c2a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은밀한 공범]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60902</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60902</guid>
+            <pubDate>Mon, 03 Jun 2024 10:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">은밀한 공범</span>
+		
+
+									<span class="director">감독 : 조조 히데오</span>
+											<span class="actor">배우 : 마츠모토 호노카,타마시로 티나</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0927/13_39_40__6513b20c2b828[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백화]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60968</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60968</guid>
+            <pubDate>Mon, 03 Jun 2024 10:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">백화 </span>
+		
+
+									<span class="director">감독 : 카와무라 겐키</span>
+											<span class="actor">배우 : 스다 마사키,하라다 미에코</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/1102/14_20_02__654331820ba0e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하얼빈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61175</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61175</guid>
+            <pubDate>Mon, 03 Jun 2024 10:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">하얼빈</span>
+		
+
+									<span class="director">감독 : 우민호</span>
+											<span class="actor">배우 : 현빈,박정민</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0122/14_39_08__65adff7ccc583[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리볼버]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61241</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61241</guid>
+            <pubDate>Mon, 03 Jun 2024 10:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">리볼버</span>
+		
+
+									<span class="director">감독 : 오승욱</span>
+											<span class="actor">배우 : 전도연,지창욱</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0207/15_05_48__65c31dbc8fe04[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[괴기열차]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61242</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61242</guid>
+            <pubDate>Mon, 03 Jun 2024 10:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">괴기열차</span>
+		
+
+									<span class="director">감독 : 탁세웅</span>
+											<span class="actor">배우 : 주현영,전배수</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[3억:살인게임]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61549</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61549</guid>
+            <pubDate>Mon, 03 Jun 2024 10:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">3억:살인게임</span>
+		
+
+									<span class="director">감독 : 조지훈</span>
+											<span class="actor">배우 : 정영재,석정현</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[검은 수녀들]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61287</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61287</guid>
+            <pubDate>Mon, 03 Jun 2024 10:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">검은 수녀들</span>
+		
+
+									<span class="director">감독 : 권혁재</span>
+											<span class="actor">배우 : 송혜교,전여빈</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대도시의 사랑법]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60739</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60739</guid>
+            <pubDate>Mon, 03 Jun 2024 10:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">대도시의 사랑법</span>
+		
+
+									<span class="director">감독 : 이언희</span>
+											<span class="actor">배우 : 김고은,노상현</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0725/18_10_28__64bf91845aaa9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야당]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60633</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60633</guid>
+            <pubDate>Mon, 03 Jun 2024 10:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">야당</span>
+		
+
+									<span class="director">감독 : 황병국</span>
+											<span class="actor">배우 : 강하늘,유해진</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0116/17_27_21__65a63de9e767c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부활남]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60614</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60614</guid>
+            <pubDate>Mon, 03 Jun 2024 10:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">부활남</span>
+		
+
+									<span class="director">감독 : 백</span>
+											<span class="actor">배우 : 구교환,신승호</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사흘(가제)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=55922</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=55922</guid>
+            <pubDate>Mon, 03 Jun 2024 10:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">사흘(가제)</span>
+		
+
+									<span class="director">감독 : 현문섭</span>
+											<span class="actor">배우 : 박신양,이민기</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0409/15_39_01__5e8ec3057b243[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소방관]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56448</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56448</guid>
+            <pubDate>Mon, 03 Jun 2024 10:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">소방관</span>
+		
+
+									<span class="director">감독 : 곽경택</span>
+											<span class="actor">배우 : 곽도원,주원</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0602/16_46_14__5ed603c6be516[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[승부]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57457</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57457</guid>
+            <pubDate>Mon, 03 Jun 2024 10:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">승부</span>
+		
+
+									<span class="director">감독 : 김형주</span>
+											<span class="actor">배우 : 유아인,이병헌</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비광]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57492</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57492</guid>
+            <pubDate>Mon, 03 Jun 2024 10:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">비광</span>
+		
+
+									<span class="director">감독 : 이지원</span>
+											<span class="actor">배우 : 류승룡,하지원</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마이캡틴]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57530</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57530</guid>
+            <pubDate>Mon, 03 Jun 2024 10:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">마이캡틴</span>
+		
+
+									<span class="director">감독 : 최진성</span>
+											<span class="actor">배우 : 박성웅</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+    </channel>
+</rss>

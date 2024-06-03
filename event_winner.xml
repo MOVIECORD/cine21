@@ -1,8 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cine21.com/event/winner</id>
-    <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
-    <updated>2024-06-03T09:18:59.931Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cine21.com/event/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 03 Jun 2024 10:26:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <고등어> 초대 이벤트]]></title>
+            <link>http://cine21.com/misc/cs/notice_view/?article_no=8762&amp;p=1</link>
+            <guid>http://cine21.com/misc/cs/notice_view/?article_no=8762&amp;p=1</guid>
+            <pubDate>Mon, 03 Jun 2024 10:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p style=""><span class="tit">인원</span><span class="bar">|</span>10 명</p><div class="teads-adCall"></div>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-06-03 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0522/17_20_15__664daabfd093f[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도서 <라부카를 위한 소나타> 기대평 이벤트]]></title>
+            <link>http://cine21.com/misc/cs/notice_view/?article_no=8763&amp;p=1</link>
+            <guid>http://cine21.com/misc/cs/notice_view/?article_no=8763&amp;p=1</guid>
+            <pubDate>Mon, 03 Jun 2024 10:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>24 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-06-03 10:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0527/11_29_39__6653f0137e0c7[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도서 <왜 동검밖에 팔지 않는 것입니까> 기대평 이벤트]]></title>
+            <link>http://cine21.com/misc/cs/notice_view/?article_no=8760&amp;p=1</link>
+            <guid>http://cine21.com/misc/cs/notice_view/?article_no=8760&amp;p=1</guid>
+            <pubDate>Mon, 03 Jun 2024 10:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-05-30 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0520/12_38_03__664ac59beb074[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 <1초 앞, 1초 뒤> 시사회 기대평 이벤트]]></title>
+            <link>http://cine21.com/misc/cs/notice_view/?article_no=8761&amp;p=1</link>
+            <guid>http://cine21.com/misc/cs/notice_view/?article_no=8761&amp;p=1</guid>
+            <pubDate>Mon, 03 Jun 2024 10:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-06-04 19:30:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>롯데시네마 월드타워</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-05-30 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0523/10_42_58__664e9f220e3e3[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <늘근도둑 이야기> 초대 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8759&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8759&amp;p=1</guid>
+            <pubDate>Mon, 03 Jun 2024 10:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>30 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-05-28 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0520/12_34_47__664ac4d746e49[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <오백에 삼십> 초대 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8758&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8758&amp;p=1</guid>
+            <pubDate>Mon, 03 Jun 2024 10:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-05-27 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0412/18_23_05__6618fd7958401[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤직드라마 <불편한 편의점> 초대 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8755&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8755&amp;p=1</guid>
+            <pubDate>Mon, 03 Jun 2024 10:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-05-22 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0507/11_38_12__6639941437019[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <옥탑방 고양이> 초대 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8756&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8756&amp;p=1</guid>
+            <pubDate>Mon, 03 Jun 2024 10:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-05-22 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0507/11_44_13__6639957d60ec2[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <2호선 세입자> 초대 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8757&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8757&amp;p=1</guid>
+            <pubDate>Mon, 03 Jun 2024 10:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-05-22 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0507/11_45_49__663995dd0809f[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤직드라마 <망원동 브라더스> 초대 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8754&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8754&amp;p=1</guid>
+            <pubDate>Mon, 03 Jun 2024 10:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-05-21 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0507/11_40_30__6639949e8bf68[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 <도뷔시> 시사회 초대 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8753&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8753&amp;p=1</guid>
+            <pubDate>Mon, 03 Jun 2024 10:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-05-20 19:30:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 왕십리</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>40 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-05-17 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0507/15_30_47__6639ca97e0f4e[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
