@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 04:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 05:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2859,28 +2859,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0530/04_06_58__66577cd254e8a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[양치기 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61517</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61517</guid>
-            <pubDate>Mon, 03 Jun 2024 15:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0528/11_44_10__665544fa556bc[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[생츄어리 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61489</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61489</guid>
             <pubDate>Mon, 03 Jun 2024 15:24:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-06-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0503/18_31_22__6634aeea6f638[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퀸 엘리자베스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61504</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61504</guid>
-            <pubDate>Mon, 03 Jun 2024 15:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0523/18_22_03__664f0abbd49a3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다우렌의 결혼 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2891,12 +2875,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0516/15_44_08__6645ab38bc904[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인사이드 아웃2 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61039</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61039</guid>
+            <title><![CDATA[키타로 탄생 게게게의 수수께끼 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61494</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61494</guid>
             <pubDate>Mon, 03 Jun 2024 15:24:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-06-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0507/17_20_18__6639e4429d631[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0522/11_23_28__664d572049bab[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퀸 엘리자베스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61504</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61504</guid>
+            <pubDate>Mon, 03 Jun 2024 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0523/18_22_03__664f0abbd49a3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기괴도 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2905,14 +2897,6 @@
             <pubDate>Mon, 03 Jun 2024 15:24:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-06-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0522/11_00_29__664d51bd5c77b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키타로 탄생 게게게의 수수께끼 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61494</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61494</guid>
-            <pubDate>Mon, 03 Jun 2024 15:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0522/11_23_28__664d572049bab[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드라이브 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2931,12 +2915,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0514/18_46_36__664332fc6177c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[타로 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61509</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61509</guid>
-            <pubDate>Tue, 04 Jun 2024 15:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0529/12_29_43__6656a127b5000[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[양치기 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61517</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61517</guid>
+            <pubDate>Mon, 03 Jun 2024 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0528/11_44_10__665544fa556bc[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인사이드 아웃2 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61039</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61039</guid>
+            <pubDate>Mon, 03 Jun 2024 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0507/17_20_18__6639e4429d631[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밤낚시 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2947,12 +2939,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0528/11_13_51__66553ddfacf6d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[판문점 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61506</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61506</guid>
+            <title><![CDATA[타로 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61509</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61509</guid>
             <pubDate>Tue, 04 Jun 2024 15:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0527/17_48_42__665448eaedec5[X224,320].jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[개봉 : 2024-06-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0529/12_29_43__6656a127b5000[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아주 오래된 미래도시 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2963,6 +2955,22 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0516/18_00_42__6645cb3a500cb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[판문점 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61506</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61506</guid>
+            <pubDate>Tue, 04 Jun 2024 15:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0527/17_48_42__665448eaedec5[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북극백화점의 안내원 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61515</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61515</guid>
+            <pubDate>Wed, 05 Jun 2024 05:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0531/23_59_28__6659e5d03a5e4[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[프리실라 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61512</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61512</guid>
@@ -2971,20 +2979,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0605/03_19_49__665f5ac556971[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일초 앞, 일초 뒤 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61408</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61408</guid>
-            <pubDate>Wed, 05 Jun 2024 02:36:39 GMT</pubDate>
+            <title><![CDATA[대치동 스캔들 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61541</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61541</guid>
+            <pubDate>Wed, 05 Jun 2024 05:19:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-06-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0513/18_17_08__6641da9430de2[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽키맨 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61514</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61514</guid>
-            <pubDate>Wed, 05 Jun 2024 02:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0604/00_47_46__665de5a2f0f43[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0531/23_58_14__6659e586e258f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폭설 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3843,6 +3843,19 @@
             <enclosure url="https://image.cine21.com/crop/data/865/66437debd40e6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[＜하이재킹＞ 캐릭터 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F06%2Fhi_ctr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0605%2F23_15_38__6660730a2be3e%5BX640%2C480%5D.png&amp;title=%EF%BC%9C%ED%95%98%EC%9D%B4%EC%9E%AC%ED%82%B9%EF%BC%9E%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F06%2Fhi_ctr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0605%2F23_15_38__6660730a2be3e%5BX640%2C480%5D.png&amp;title=%EF%BC%9C%ED%95%98%EC%9D%B4%EC%9E%AC%ED%82%B9%EF%BC%9E%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=46304">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F06%2Fhi_ctr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0605%2F23_15_38__6660730a2be3e%5BX640%2C480%5D.png&amp;title=%EF%BC%9C%ED%95%98%EC%9D%B4%EC%9E%AC%ED%82%B9%EF%BC%9E%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/06/hi_ctr.mp4">
+						<img src="https://image.cine21.com/resize/cine21/movie/2024/0605/23_15_38__6660730a2be3e[X211,130].png" alt="" class="thumb">
+						<span class="title">＜하이재킹＞ 캐릭터 예고편</span>
+						<span class="date">2024-06-05</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0605/23_15_38__6660730a2be3e[X211,130].png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[＜퍼펙트 데이즈＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F06%2Fperfect_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0605%2F21_25_57__66605955457b1%5BX640%2C480%5D.png&amp;title=%EF%BC%9C%ED%8D%BC%ED%8E%99%ED%8A%B8%20%EB%8D%B0%EC%9D%B4%EC%A6%88%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
             <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F06%2Fperfect_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0605%2F21_25_57__66605955457b1%5BX640%2C480%5D.png&amp;title=%EF%BC%9C%ED%8D%BC%ED%8E%99%ED%8A%B8%20%EB%8D%B0%EC%9D%B4%EC%A6%88%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
@@ -4036,19 +4049,6 @@
 						<span class="date">2024-06-03</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/889/665ddbc0df763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜대치동 스캔들＞ 티저 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F06%2Fdaechi_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F294%2F665ddbbfac198.jpg&amp;title=%EF%BC%9C%EB%8C%80%EC%B9%98%EB%8F%99%20%EC%8A%A4%EC%BA%94%EB%93%A4%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F06%2Fdaechi_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F294%2F665ddbbfac198.jpg&amp;title=%EF%BC%9C%EB%8C%80%EC%B9%98%EB%8F%99%20%EC%8A%A4%EC%BA%94%EB%93%A4%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=46287">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F06%2Fdaechi_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F294%2F665ddbbfac198.jpg&amp;title=%EF%BC%9C%EB%8C%80%EC%B9%98%EB%8F%99%20%EC%8A%A4%EC%BA%94%EB%93%A4%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/06/daechi_ttr.mp4">
-						<img src="https://image.cine21.com/crop/data/294/665ddbbfac198.jpg" alt="" class="thumb">
-						<span class="title">＜대치동 스캔들＞ 티저 예고편</span>
-						<span class="date">2024-06-03</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/294/665ddbbfac198.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
