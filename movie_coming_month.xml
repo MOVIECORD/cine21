@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 05:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 06:30:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,6 +52,13 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[매쉬빌]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
+            <pubDate>Mon, 03 Jun 2024 15:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[트랜스포머 ONE]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61458</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61458</guid>
@@ -65,13 +72,6 @@
             <pubDate>Mon, 03 Jun 2024 15:24:46 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0423/10_20_33__66270ce11a8a1[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문경]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61491</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61491</guid>
-            <pubDate>Mon, 03 Jun 2024 15:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[시빌 워]]></title>
@@ -89,9 +89,9 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0727/18_39_04__64c23b38a9258[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[매쉬빌]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
+            <title><![CDATA[문경]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61491</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61491</guid>
             <pubDate>Mon, 03 Jun 2024 15:24:46 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
