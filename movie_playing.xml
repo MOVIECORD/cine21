@@ -4,16 +4,16 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 23:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 01:05:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[명탐정 코난 VS 괴도 키드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61483</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61483</guid>
+            <title><![CDATA[금지된 장난]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61336</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61336</guid>
             <pubDate>Tue, 04 Jun 2024 16:24:02 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-06-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0516/12_00_01__664576b1a8992[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0514/15_10_53__6643006d5c9ae[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김준수 콘서트 무비 챕터 원 : 레크리에이션]]></title>
@@ -32,14 +32,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0509/12_23_57__663c41cd9e697[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[금지된 장난]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61336</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61336</guid>
-            <pubDate>Tue, 04 Jun 2024 16:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0514/15_10_53__6643006d5c9ae[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[다섯 번째 방]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61485</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61485</guid>
@@ -56,12 +48,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0521/10_40_54__664bfba66bbb8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빼꼼: 미션 투 마스]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61482</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61482</guid>
-            <pubDate>Mon, 03 Jun 2024 20:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0508/15_42_56__663b1ef001909[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[명탐정 코난 VS 괴도 키드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61483</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61483</guid>
+            <pubDate>Tue, 04 Jun 2024 16:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0516/12_00_01__664576b1a8992[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바커스: 슈퍼스타가 될 거야]]></title>
@@ -72,68 +64,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0528/18_15_18__6655a0a62e0e6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[빼꼼: 미션 투 마스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61482</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61482</guid>
+            <pubDate>Mon, 03 Jun 2024 20:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0508/15_42_56__663b1ef001909[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나비부인]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61362</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61362</guid>
             <pubDate>Mon, 03 Jun 2024 20:24:22 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05-30]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0321/11_00_57__65fb94d9beacd[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정욕]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61194</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61194</guid>
-            <pubDate>Mon, 03 Jun 2024 20:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0510/16_21_18__663dcaee15d83[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설계자]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61461</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61461</guid>
-            <pubDate>Mon, 03 Jun 2024 20:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0508/14_31_30__663b0e32b4185[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[분노의 강]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61440</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61440</guid>
-            <pubDate>Mon, 03 Jun 2024 20:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0528/14_30_50__66556c0a3f461[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난 엄청 창의적인 휴머니스트 뱀파이어가 될 거야]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61454</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61454</guid>
-            <pubDate>Mon, 03 Jun 2024 20:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0425/11_11_31__6629bbd364cf1[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창가의 토토]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61337</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61337</guid>
-            <pubDate>Mon, 03 Jun 2024 20:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0423/12_19_32__662728c4dc9f4[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결속밴드 라이브 -항성-]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61455</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61455</guid>
-            <pubDate>Mon, 03 Jun 2024 20:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0530/00_35_32__66574b44a061d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드림 시나리오]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61374</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61374</guid>
-            <pubDate>Mon, 03 Jun 2024 20:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0508/16_06_59__663b249328963[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아침이 오면 공허해진다]]></title>
@@ -144,12 +88,68 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0430/16_00_45__6630971d01834[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[드림 시나리오]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61374</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61374</guid>
+            <pubDate>Mon, 03 Jun 2024 20:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0508/16_06_59__663b249328963[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[찬란한 내일로]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61451</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61451</guid>
             <pubDate>Mon, 03 Jun 2024 20:24:22 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0510/15_16_39__663dbbc706a6e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[난 엄청 창의적인 휴머니스트 뱀파이어가 될 거야]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61454</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61454</guid>
+            <pubDate>Mon, 03 Jun 2024 20:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0425/11_11_31__6629bbd364cf1[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[분노의 강]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61440</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61440</guid>
+            <pubDate>Mon, 03 Jun 2024 20:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0528/14_30_50__66556c0a3f461[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[결속밴드 라이브 -항성-]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61455</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61455</guid>
+            <pubDate>Mon, 03 Jun 2024 20:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0530/00_35_32__66574b44a061d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설계자]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61461</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61461</guid>
+            <pubDate>Mon, 03 Jun 2024 20:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0508/14_31_30__663b0e32b4185[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창가의 토토]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61337</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61337</guid>
+            <pubDate>Mon, 03 Jun 2024 20:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0423/12_19_32__662728c4dc9f4[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘부터 댄싱퀸]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61488</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61488</guid>
+            <pubDate>Wed, 05 Jun 2024 01:00:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-05-29]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0523/17_11_07__664efa1bed304[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
