@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 07:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 08:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,6 +27,13 @@
             <link>http://www.cine21.com/movie/info/?movie_id=61217</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61217</guid>
             <pubDate>Mon, 03 Jun 2024 15:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[3억:살인게임]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61549</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61549</guid>
+            <pubDate>Tue, 11 Jun 2024 08:25:15 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
@@ -88,12 +95,11 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[보통의 가족]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60745</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60745</guid>
-            <pubDate>Mon, 03 Jun 2024 15:24:46 GMT</pubDate>
+            <title><![CDATA[구룡성채: 무법지대]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61564</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61564</guid>
+            <pubDate>Fri, 07 Jun 2024 06:24:22 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0727/18_39_04__64c23b38a9258[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인터뷰]]></title>
@@ -103,26 +109,11 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[구룡성채: 무법지대]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61564</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61564</guid>
-            <pubDate>Fri, 07 Jun 2024 06:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[폭설]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61435</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61435</guid>
+            <title><![CDATA[말할 수 없는 비밀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
             <pubDate>Mon, 03 Jun 2024 15:24:46 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오후 네시]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60221</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60221</guid>
-            <pubDate>Mon, 03 Jun 2024 15:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_08_55__6419580767c68[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왕을 찾아서]]></title>
@@ -133,9 +124,17 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/15_25_59__65c1d0f706cec[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[말할 수 없는 비밀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
+            <title><![CDATA[오후 네시]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60221</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60221</guid>
+            <pubDate>Mon, 03 Jun 2024 15:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_08_55__6419580767c68[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폭설]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61435</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61435</guid>
             <pubDate>Mon, 03 Jun 2024 15:24:46 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
