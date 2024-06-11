@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-06-11T01:08:20.918Z</updated>
+    <updated>2024-06-11T02:10:20.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <다우렌의 결혼> 시사회 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8770&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8770&amp;p=1"/>
+        <updated>2024-06-11T01:59:52.944Z</updated>
+        <content type="html"><![CDATA[8770]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공지] 페이스북/트위터 간편 로그인 서비스 종료]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8769&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8756&amp;p=1"/>
         <updated>2024-05-22T01:55:51.732Z</updated>
         <content type="html"><![CDATA[8756]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤직드라마 <불편한 편의점> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8755&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8755&amp;p=1"/>
-        <updated>2024-05-22T01:55:51.733Z</updated>
-        <content type="html"><![CDATA[8755]]></content>
     </entry>
 </feed>
