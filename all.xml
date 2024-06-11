@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 02:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 02:49:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1376,6 +1376,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODAxMDNfMjY2/MDAxNTE0OTQwNDk5Njgw.48xeRxRGlvPSdaLRjOFcDg1xhytLhg85PJE0FgETvpQg.FxnXOX78PIXBWHQQY2UtKSdN1G4hJr7EMEvHxcgcRlgg.JPEG/ImU46Da7wWq4hZ0XaIHjaQSoECZE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 <연안지대> 초대 이벤트  당첨자 발표 (씨네21 ─ 공지사항)]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8771&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8771&amp;p=1</guid>
+            <pubDate>Tue, 11 Jun 2024 02:34:49 GMT</pubDate>
+            <content:encoded><![CDATA[8771]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[영화 <다우렌의 결혼> 시사회 이벤트 당첨자 발표 (씨네21 ─ 공지사항)]]></title>
             <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8770&amp;p=1</link>
             <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8770&amp;p=1</guid>
@@ -1472,13 +1479,6 @@
             <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8757&amp;p=1</guid>
             <pubDate>Mon, 27 May 2024 01:57:27 GMT</pubDate>
             <content:encoded><![CDATA[8757]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 <옥탑방 고양이> 초대 이벤트	 당첨자 발표 (씨네21 ─ 공지사항)]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8756&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8756&amp;p=1</guid>
-            <pubDate>Wed, 22 May 2024 01:55:51 GMT</pubDate>
-            <content:encoded><![CDATA[8756]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[CULTURE BOOK] ‘불이 켜진 창문’ (씨네21 ─ 기사 ─ 전체)]]></title>
@@ -3423,6 +3423,15 @@
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[연극 <오백에 삼십> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8337</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8337</guid>
+            <pubDate>Tue, 11 Jun 2024 02:45:07 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-06-20 11:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0611/20_56_58__66683b8a0f2e5[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤직드라마 <불편한 편의점> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8336</link>
             <guid>http://www.cine21.com/event/view/?event_no=8336</guid>
@@ -3447,7 +3456,7 @@
             <pubDate>Tue, 04 Jun 2024 06:26:48 GMT</pubDate>
             <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-06-14 20:00</p>
                         <p><span class="tit">장소</span><span class="bar">|</span>롯데시네마 월드타워</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>75 명</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>90 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-06-12 17:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0605/00_32_57__665f33a948d4d[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
