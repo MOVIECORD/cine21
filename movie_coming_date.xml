@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 08:29:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 09:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,20 +136,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0522/18_53_06__664dc0823fec2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[니자리]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61510</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61510</guid>
+            <pubDate>Wed, 12 Jun 2024 09:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-20]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0522/11_30_32__664d58c893042[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하이재킹]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61313</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61313</guid>
             <pubDate>Tue, 11 Jun 2024 15:20:12 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-06-21]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0528/10_26_40__665532d0c9f79[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피아니스트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=5466</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=5466</guid>
-            <pubDate>Tue, 11 Jun 2024 15:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0503/11_44_43__608f639b28cad[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
