@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-06-12T02:54:23.582Z</updated>
+    <updated>2024-06-12T03:26:35.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <하이재킹> 시사회 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8772&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8772&amp;p=1"/>
+        <updated>2024-06-12T03:14:46.667Z</updated>
+        <content type="html"><![CDATA[8772]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <연안지대> 초대 이벤트  당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8771&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8758&amp;p=1"/>
         <updated>2024-05-28T09:14:20.863Z</updated>
         <content type="html"><![CDATA[8758]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <2호선 세입자> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8757&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8757&amp;p=1"/>
-        <updated>2024-05-27T01:57:27.980Z</updated>
-        <content type="html"><![CDATA[8757]]></content>
     </entry>
 </feed>
