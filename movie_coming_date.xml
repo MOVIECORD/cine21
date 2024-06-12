@@ -4,17 +4,9 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 14:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 15:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[웬수같은 내 로봇]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61562</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61562</guid>
-            <pubDate>Wed, 05 Jun 2024 08:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0606/02_16_54__66609d868d24f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[밤낚시]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61539</link>
@@ -112,20 +104,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0513/18_17_08__6641da9430de2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[캣퍼슨]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60047</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60047</guid>
-            <pubDate>Tue, 11 Jun 2024 15:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0528/18_49_53__6655a8c1ed04f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[노 웨이 업]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61507</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61507</guid>
             <pubDate>Tue, 11 Jun 2024 15:20:12 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-06-19]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0604/03_09_31__665e06dbb9f36[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캣퍼슨]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60047</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60047</guid>
+            <pubDate>Tue, 11 Jun 2024 15:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0528/18_49_53__6655a8c1ed04f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프렌치 수프]]></title>
@@ -150,6 +142,14 @@
             <pubDate>Tue, 11 Jun 2024 15:20:12 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-06-21]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0528/10_26_40__665532d0c9f79[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피아니스트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=5466</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=5466</guid>
+            <pubDate>Wed, 12 Jun 2024 15:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0503/11_44_43__608f639b28cad[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
