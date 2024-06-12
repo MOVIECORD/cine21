@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 11:36:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 12:50:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2673,44 +2673,12 @@ KAFA 글로벌 프로젝트 선정작인 &lt;다우렌의 결혼&gt;은 카자�
             <enclosure url="https://image.cine21.com/crop/data/285/662af80bd609c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기괴도 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61335</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61335</guid>
-            <pubDate>Mon, 03 Jun 2024 15:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0522/11_00_29__664d51bd5c77b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생츄어리 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61489</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61489</guid>
-            <pubDate>Mon, 03 Jun 2024 15:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0503/18_31_22__6634aeea6f638[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[다우렌의 결혼 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61490</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61490</guid>
             <pubDate>Mon, 03 Jun 2024 15:24:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-06-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0516/15_44_08__6645ab38bc904[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인사이드 아웃2 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61039</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61039</guid>
-            <pubDate>Mon, 03 Jun 2024 15:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0608/00_56_47__66632dbf31c0f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키타로 탄생 게게게의 수수께끼 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61494</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61494</guid>
-            <pubDate>Mon, 03 Jun 2024 15:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0522/11_23_28__664d572049bab[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[퀸 엘리자베스 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2721,12 +2689,36 @@ KAFA 글로벌 프로젝트 선정작인 &lt;다우렌의 결혼&gt;은 카자�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0523/18_22_03__664f0abbd49a3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인사이드 아웃2 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61039</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61039</guid>
+            <pubDate>Mon, 03 Jun 2024 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0608/00_56_47__66632dbf31c0f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기괴도 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61335</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61335</guid>
+            <pubDate>Mon, 03 Jun 2024 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0522/11_00_29__664d51bd5c77b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[드라이브 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=59755</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=59755</guid>
             <pubDate>Mon, 03 Jun 2024 15:24:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-06-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0612/16_37_18__6669502ec2199[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생츄어리 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61489</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61489</guid>
+            <pubDate>Mon, 03 Jun 2024 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0503/18_31_22__6634aeea6f638[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너는 달밤에 빛나고 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2745,6 +2737,14 @@ KAFA 글로벌 프로젝트 선정작인 &lt;다우렌의 결혼&gt;은 카자�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0528/11_44_10__665544fa556bc[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[키타로 탄생 게게게의 수수께끼 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61494</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61494</guid>
+            <pubDate>Mon, 03 Jun 2024 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0522/11_23_28__664d572049bab[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나쁜 녀석들: 라이드 오어 다이 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61481</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61481</guid>
@@ -2761,6 +2761,14 @@ KAFA 글로벌 프로젝트 선정작인 &lt;다우렌의 결혼&gt;은 카자�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0516/18_07_13__6645ccc158f46[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[존 오브 인터레스트 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61107</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61107</guid>
+            <pubDate>Tue, 04 Jun 2024 16:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0521/10_40_54__664bfba66bbb8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[명탐정 코난 VS 괴도 키드 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61483</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61483</guid>
@@ -2769,12 +2777,12 @@ KAFA 글로벌 프로젝트 선정작인 &lt;다우렌의 결혼&gt;은 카자�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0605/20_48_40__66605098a56c1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[존 오브 인터레스트 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61107</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61107</guid>
+            <title><![CDATA[원더랜드 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56449</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56449</guid>
             <pubDate>Tue, 04 Jun 2024 16:24:02 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-06-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0521/10_40_54__664bfba66bbb8[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0509/12_23_57__663c41cd9e697[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금지된 장난 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2785,14 +2793,6 @@ KAFA 글로벌 프로젝트 선정작인 &lt;다우렌의 결혼&gt;은 카자�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0514/15_10_53__6643006d5c9ae[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다섯 번째 방 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61485</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61485</guid>
-            <pubDate>Tue, 04 Jun 2024 16:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0516/11_35_07__664570db7ea1d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[김준수 콘서트 무비 챕터 원 : 레크리에이션 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61511</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61511</guid>
@@ -2801,12 +2801,12 @@ KAFA 글로벌 프로젝트 선정작인 &lt;다우렌의 결혼&gt;은 카자�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0528/11_23_52__665540387967c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[원더랜드 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56449</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56449</guid>
+            <title><![CDATA[다섯 번째 방 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61485</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61485</guid>
             <pubDate>Tue, 04 Jun 2024 16:24:02 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-06-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0509/12_23_57__663c41cd9e697[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0516/11_35_07__664570db7ea1d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빼꼼: 미션 투 마스 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
