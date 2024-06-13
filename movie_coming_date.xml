@@ -4,25 +4,9 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 15:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 16:26:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[밤낚시]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61539</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61539</guid>
-            <pubDate>Mon, 03 Jun 2024 15:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0528/11_13_51__66553ddfacf6d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타로]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61509</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61509</guid>
-            <pubDate>Tue, 04 Jun 2024 15:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0529/12_29_43__6656a127b5000[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[더블 블라인드]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61570</link>
@@ -150,6 +134,22 @@
             <pubDate>Wed, 12 Jun 2024 15:19:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-06-25]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0613/18_08_02__666ab6f221115[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정직한 사람들]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61545</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61545</guid>
+            <pubDate>Thu, 13 Jun 2024 16:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0530/03_17_50__6657714ebcbf8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태풍 클럽]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=10062</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=10062</guid>
+            <pubDate>Thu, 13 Jun 2024 16:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0611/02_51_55__66673d3b66cf7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
