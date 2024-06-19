@@ -4,17 +4,9 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 14:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 15:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[니자리]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61510</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61510</guid>
-            <pubDate>Wed, 12 Jun 2024 09:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0522/11_30_32__664d58c893042[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[하이재킹]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61313</link>
@@ -32,12 +24,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0613/18_08_02__666ab6f221115[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정직한 사람들]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61545</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61545</guid>
+            <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0530/03_17_50__6657714ebcbf8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보통의 우주는 찬란함을 꿈꾸는가?]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61528</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61528</guid>
             <pubDate>Mon, 17 Jun 2024 09:19:33 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-06-26]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0608/03_34_10__666352a27758c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태풍 클럽]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=10062</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=10062</guid>
+            <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0611/02_51_55__66673d3b66cf7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[콰이어트 플레이스: 첫째 날]]></title>
@@ -56,28 +64,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0601/03_04_24__665a112892733[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[태풍 클럽]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=10062</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=10062</guid>
-            <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0611/02_51_55__66673d3b66cf7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정직한 사람들]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61545</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61545</guid>
-            <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0530/03_17_50__6657714ebcbf8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[핸섬가이즈]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=56865</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=56865</guid>
             <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-06-26]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0605/00_34_22__665f33fe1d661[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리틀 블루]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61586</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61586</guid>
+            <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0617/11_47_59__666fa3dfe902d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마거리트의 정리]]></title>
@@ -96,12 +96,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0608/00_07_16__66632224e0b1a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리틀 블루]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61586</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61586</guid>
+            <title><![CDATA[퍼펙트 데이즈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61110</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61110</guid>
             <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0617/11_47_59__666fa3dfe902d[X224,320].jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[개봉 : 2024-07-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0605/21_21_30__6660584ae49b3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[만천과해]]></title>
@@ -118,14 +118,6 @@
             <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-03]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0608/02_20_15__6663414f33bc7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼펙트 데이즈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61110</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61110</guid>
-            <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-07-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0605/21_21_30__6660584ae49b3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박정희: 경제대국을 꿈꾼 남자]]></title>
@@ -150,6 +142,14 @@
             <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0618/16_25_34__6671366e3dc66[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅샤크5: 80일간의 해저일주]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61543</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61543</guid>
+            <pubDate>Wed, 19 Jun 2024 15:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-07-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0612/03_52_14__66689cde8ce5a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
