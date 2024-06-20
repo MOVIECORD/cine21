@@ -4,17 +4,9 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 14:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 15:24:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[하이재킹]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61313</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61313</guid>
-            <pubDate>Tue, 11 Jun 2024 15:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0528/10_26_40__665532d0c9f79[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[피아니스트]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=5466</link>
@@ -48,14 +40,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0601/03_04_24__665a112892733[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정직한 사람들]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61545</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61545</guid>
-            <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0530/03_17_50__6657714ebcbf8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[태풍 클럽]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=10062</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=10062</guid>
@@ -64,20 +48,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0611/02_51_55__66673d3b66cf7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정직한 사람들]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61545</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61545</guid>
+            <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0530/03_17_50__6657714ebcbf8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[핸섬가이즈]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=56865</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=56865</guid>
             <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-06-26]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0605/00_34_22__665f33fe1d661[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마거리트의 정리]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61505</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61505</guid>
-            <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0604/21_12_56__665f04c86626f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[언더더씨: 마법 산호초를 찾아서]]></title>
@@ -96,6 +80,22 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0617/11_47_59__666fa3dfe902d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마거리트의 정리]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61505</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61505</guid>
+            <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0604/21_12_56__665f04c86626f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼펙트 데이즈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61110</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61110</guid>
+            <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-07-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0605/21_21_30__6660584ae49b3[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[탈주]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58804</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58804</guid>
@@ -110,14 +110,6 @@
             <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-03]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0612/21_26_30__666993f6c505d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼펙트 데이즈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61110</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61110</guid>
-            <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-07-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0605/21_21_30__6660584ae49b3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판 도라에몽: 진구의 지구 교향곡]]></title>
@@ -150,6 +142,14 @@
             <pubDate>Wed, 19 Jun 2024 15:20:51 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-11]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0612/03_52_14__66689cde8ce5a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플라이 미 투 더 문]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61538</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61538</guid>
+            <pubDate>Thu, 20 Jun 2024 15:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-07-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0620/17_56_31__6673eebfdf929[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
