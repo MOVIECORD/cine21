@@ -4,9 +4,20 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 04:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 05:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <퍼펙트 데이즈> 시사회 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8777&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8777&amp;p=1</guid>
+            <pubDate>Fri, 21 Jun 2024 05:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-06-25 19:30:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>씨네큐브</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-06-21 19:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0612/21_19_30__66699252a7d2c[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국립창극단 <만신: 페이퍼샤먼> 초대 이벤트]]></title>
             <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8776&amp;p=1</link>
@@ -106,15 +117,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-06-07 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0530/00_10_33__6657456931883[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <킬러가 온다> 초대 이벤트]]></title>
-            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8765&amp;p=1</link>
-            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8765&amp;p=1</guid>
-            <pubDate>Fri, 07 Jun 2024 02:45:34 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-06-06 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0523/13_40_09__664ec8a96f0e7[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

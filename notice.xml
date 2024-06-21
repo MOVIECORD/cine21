@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-06-21T04:23:50.946Z</updated>
+    <updated>2024-06-21T05:24:46.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <퍼펙트 데이즈> 시사회 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8777&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8777&amp;p=1"/>
+        <updated>2024-06-21T05:14:13.339Z</updated>
+        <content type="html"><![CDATA[8777]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국립창극단 <만신: 페이퍼샤먼> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8776&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8763&amp;p=1"/>
         <updated>2024-06-05T01:58:04.060Z</updated>
         <content type="html"><![CDATA[8763]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <고등어> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8762&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8762&amp;p=1"/>
-        <updated>2024-06-03T06:17:47.204Z</updated>
-        <content type="html"><![CDATA[8762]]></content>
     </entry>
 </feed>
