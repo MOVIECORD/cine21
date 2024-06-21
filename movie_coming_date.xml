@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 06:29:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 07:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0601/03_04_24__665a112892733[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[핸섬가이즈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56865</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56865</guid>
+            <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0605/00_34_22__665f33fe1d661[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[태풍 클럽]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=10062</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=10062</guid>
@@ -56,20 +64,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0530/03_17_50__6657714ebcbf8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[핸섬가이즈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56865</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56865</guid>
-            <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
+            <title><![CDATA[그 시절, 우리가 좋아했던 소녀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=33842</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=33842</guid>
+            <pubDate>Fri, 21 Jun 2024 07:21:35 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-06-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0605/00_34_22__665f33fe1d661[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언더더씨: 마법 산호초를 찾아서]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61516</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61516</guid>
-            <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0608/00_07_16__66632224e0b1a[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0621/13_36_57__66750369adf35[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리틀 블루]]></title>
@@ -78,6 +78,14 @@
             <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-06-27]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0617/11_47_59__666fa3dfe902d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언더더씨: 마법 산호초를 찾아서]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61516</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61516</guid>
+            <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0608/00_07_16__66632224e0b1a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마거리트의 정리]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 19 Jun 2024 15:20:51 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-11]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0612/03_52_14__66689cde8ce5a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플라이 미 투 더 문]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61538</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61538</guid>
-            <pubDate>Thu, 20 Jun 2024 15:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-07-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0620/17_56_31__6673eebfdf929[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
