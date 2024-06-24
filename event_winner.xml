@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jun 2024 05:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jun 2024 06:28:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,15 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-06-24 12:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0612/22_02_02__66699c4aac5ce[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제28회 부천국제판타스틱영화제 예매권 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8780&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8780&amp;p=1</guid>
+            <pubDate>Mon, 24 Jun 2024 06:27:45 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>50 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-06-24 10:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0618/10_31_43__6670e37fadb30[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 <퍼펙트 데이즈> 시사회 이벤트]]></title>
@@ -102,17 +111,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-06-10 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0530/00_08_52__66574504592e3[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <프렌치 수프> 시사회 기대평 이벤트]]></title>
-            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8767&amp;p=1</link>
-            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8767&amp;p=1</guid>
-            <pubDate>Fri, 07 Jun 2024 05:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-06-11 19:30:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>메가박스 코엑스</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-06-07 19:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0531/04_16_42__6658d09a6d7ab[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

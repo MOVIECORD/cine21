@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-06-24T05:23:32.167Z</updated>
+    <updated>2024-06-24T06:28:44.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제28회 부천국제판타스틱영화제 예매권 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8780&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8780&amp;p=1"/>
+        <updated>2024-06-24T06:18:19.227Z</updated>
+        <content type="html"><![CDATA[8780]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <옥탑방 고양이> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8779&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8766&amp;p=1"/>
         <updated>2024-06-07T05:14:01.440Z</updated>
         <content type="html"><![CDATA[8766]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <킬러가 온다> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8765&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8765&amp;p=1"/>
-        <updated>2024-06-07T05:14:01.442Z</updated>
-        <content type="html"><![CDATA[8765]]></content>
     </entry>
 </feed>
