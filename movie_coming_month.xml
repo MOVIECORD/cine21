@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 04:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 05:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,17 +96,17 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[폭설]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61435</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61435</guid>
+            <pubDate>Tue, 25 Jun 2024 02:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[말할 수 없는 비밀]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
             <pubDate>Tue, 25 Jun 2024 09:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[구룡성채: 무법지대]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61564</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61564</guid>
-            <pubDate>Mon, 17 Jun 2024 11:17:22 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
@@ -126,18 +126,19 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_08_55__6419580767c68[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[폭설]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61435</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61435</guid>
-            <pubDate>Tue, 25 Jun 2024 02:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인터뷰]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60722</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60722</guid>
             <pubDate>Fri, 28 Jun 2024 02:08:06 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[보통의 가족]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60745</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60745</guid>
+            <pubDate>Fri, 28 Jun 2024 05:21:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0727/18_39_04__64c23b38a9258[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
