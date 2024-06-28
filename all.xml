@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 07:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 08:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2882,20 +2882,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0513/18_17_08__6641da9430de2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[탈주 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58804</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58804</guid>
-            <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-07-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0527/19_00_11__665459aba0cdc[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[만천과해 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61553</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61553</guid>
             <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-03]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0612/21_26_30__666993f6c505d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탈주 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58804</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58804</guid>
+            <pubDate>Tue, 18 Jun 2024 15:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-07-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0527/19_00_11__665459aba0cdc[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[퍼펙트 데이즈 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2970,14 +2970,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0620/18_00_26__6673efaa35df6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[플라이 미 투 더 문 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61538</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61538</guid>
-            <pubDate>Tue, 25 Jun 2024 16:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-07-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0626/15_38_07__667bb74f6dc01[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[탈출: 프로젝트 사일런스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=56904</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=56904</guid>
@@ -2986,12 +2978,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0614/15_46_20__666be73c6ca6c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[명탐정 코난: 100만 달러의 펜타그램 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61556</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61556</guid>
+            <title><![CDATA[플라이 미 투 더 문 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61538</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61538</guid>
             <pubDate>Tue, 25 Jun 2024 16:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-07-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0621/14_48_55__667514478a100[X224,320].jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[개봉 : 2024-07-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0626/15_38_07__667bb74f6dc01[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그리고 바통은 넘겨졌다 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3010,12 +3002,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0613/17_24_17__666aacb1bfecc[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[물은 바다를 향해 흐른다 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61605</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61605</guid>
-            <pubDate>Fri, 28 Jun 2024 05:21:37 GMT</pubDate>
+            <title><![CDATA[명탐정 코난: 100만 달러의 펜타그램 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61556</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61556</guid>
+            <pubDate>Tue, 25 Jun 2024 16:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-07-17]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0621/14_48_55__667514478a100[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼배드 4 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61219</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61219</guid>
+            <pubDate>Fri, 28 Jun 2024 08:24:04 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0628/10_18_35__667e0f6b5f841[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0624/16_14_48__66791ce829cdb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데드풀과 울버린 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3056,7 +3056,7 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0612/03_38_27__666899a397089[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신사(가제) (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <title><![CDATA[신사: 악귀의 속삭임 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61320</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61320</guid>
             <pubDate>Mon, 03 Jun 2024 15:24:46 GMT</pubDate>
@@ -3069,13 +3069,6 @@
             <pubDate>Mon, 03 Jun 2024 15:24:46 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0320/15_35_48__65fa83c41057d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필사의 추격 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61591</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61591</guid>
-            <pubDate>Tue, 18 Jun 2024 08:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[트랜스포머 ONE (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3099,6 +3092,13 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[필사의 추격 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61591</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61591</guid>
+            <pubDate>Tue, 18 Jun 2024 08:32:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[미래의 범죄들 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61601</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61601</guid>
@@ -3114,6 +3114,14 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[왕을 찾아서 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60181</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60181</guid>
+            <pubDate>Tue, 18 Jun 2024 09:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/15_25_59__65c1d0f706cec[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[폭설 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61435</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61435</guid>
@@ -3126,14 +3134,6 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
             <pubDate>Tue, 25 Jun 2024 09:24:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[왕을 찾아서 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60181</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60181</guid>
-            <pubDate>Tue, 18 Jun 2024 09:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/15_25_59__65c1d0f706cec[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오후 네시 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3437,6 +3437,15 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/0609/11_18_55__60c0250fafe22[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도서 <우리가 본 것> 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8348</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8348</guid>
+            <pubDate>Fri, 28 Jun 2024 08:25:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-07-08 19:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0628/16_31_15__667e66c34aaba[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 <더 납작 엎드릴게요> 시사회 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>

@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 07:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 08:27:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,7 +38,7 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0612/03_38_27__666899a397089[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신사(가제)]]></title>
+            <title><![CDATA[신사: 악귀의 속삭임]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61320</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61320</guid>
             <pubDate>Mon, 03 Jun 2024 15:24:46 GMT</pubDate>
@@ -51,13 +51,6 @@
             <pubDate>Mon, 03 Jun 2024 15:24:46 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0320/15_35_48__65fa83c41057d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필사의 추격]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61591</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61591</guid>
-            <pubDate>Tue, 18 Jun 2024 08:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[트랜스포머 ONE]]></title>
@@ -81,6 +74,13 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[필사의 추격]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61591</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61591</guid>
+            <pubDate>Tue, 18 Jun 2024 08:32:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[미래의 범죄들]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61601</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61601</guid>
@@ -96,6 +96,14 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[왕을 찾아서]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60181</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60181</guid>
+            <pubDate>Tue, 18 Jun 2024 09:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/15_25_59__65c1d0f706cec[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[폭설]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61435</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61435</guid>
@@ -108,14 +116,6 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
             <pubDate>Tue, 25 Jun 2024 09:24:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[왕을 찾아서]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60181</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60181</guid>
-            <pubDate>Tue, 18 Jun 2024 09:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/15_25_59__65c1d0f706cec[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오후 네시]]></title>
