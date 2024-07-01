@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-07-01T01:12:08.409Z</updated>
+    <updated>2024-07-01T02:47:15.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도서 <헤이그의 비밀> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8781&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8781&amp;p=1"/>
+        <updated>2024-07-01T02:36:53.893Z</updated>
+        <content type="html"><![CDATA[8781]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제28회 부천국제판타스틱영화제 예매권 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8780&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8767&amp;p=1"/>
         <updated>2024-06-07T06:18:39.684Z</updated>
         <content type="html"><![CDATA[8767]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <양치기> 시사회 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8766&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8766&amp;p=1"/>
-        <updated>2024-06-07T05:14:01.440Z</updated>
-        <content type="html"><![CDATA[8766]]></content>
     </entry>
 </feed>
