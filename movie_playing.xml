@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 07:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 08:30:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0702/18_25_09__6683c775127b5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[바이올렛 에버가든 - 영원과 자동 수기 인형 -]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56034</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56034</guid>
+            <pubDate>Wed, 03 Jul 2024 08:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-07-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0703/11_48_07__6684bbe79a295[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[탈주]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=58804</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=58804</guid>
             <pubDate>Tue, 02 Jul 2024 16:26:18 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-03]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0527/19_00_11__665459aba0cdc[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼펙트 데이즈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61110</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61110</guid>
-            <pubDate>Tue, 02 Jul 2024 16:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-07-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0703/16_17_18__6684fafeefbcb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[만천과해]]></title>
@@ -40,12 +40,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0605/19_31_03__66603e6749299[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[언더더씨: 마법 산호초를 찾아서]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61516</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61516</guid>
-            <pubDate>Wed, 26 Jun 2024 15:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0608/00_07_16__66632224e0b1a[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[퍼펙트 데이즈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61110</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61110</guid>
+            <pubDate>Tue, 02 Jul 2024 16:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-07-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0703/16_17_18__6684fafeefbcb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마거리트의 정리]]></title>
@@ -64,6 +64,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0620/14_27_59__6673bddfe730f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[언더더씨: 마법 산호초를 찾아서]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61516</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61516</guid>
+            <pubDate>Wed, 26 Jun 2024 15:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0608/00_07_16__66632224e0b1a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[리틀 블루]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61586</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61586</guid>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 25 Jun 2024 15:22:15 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-06-26]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0601/03_04_24__665a112892733[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콰이어트 플레이스: 첫째 날]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61290</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61290</guid>
-            <pubDate>Tue, 25 Jun 2024 15:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0620/14_57_24__6673c4c43b208[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[핸섬가이즈]]></title>
@@ -128,6 +128,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0611/02_51_55__66673d3b66cf7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[콰이어트 플레이스: 첫째 날]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61290</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61290</guid>
+            <pubDate>Tue, 25 Jun 2024 15:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-06-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0620/14_57_24__6673c4c43b208[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[피아니스트]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=5466</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=5466</guid>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 20 Jun 2024 15:21:09 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-06-21]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0621/16_39_16__66752e246b1ca[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[니자리]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61510</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61510</guid>
-            <pubDate>Wed, 19 Jun 2024 15:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-06-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0522/11_30_32__664d58c893042[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
