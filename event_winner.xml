@@ -4,9 +4,18 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 02:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 02:48:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공연 <러브 인 새턴> 초대 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8782&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8782&amp;p=1</guid>
+            <pubDate>Wed, 03 Jul 2024 02:45:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-07-03 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0624/10_49_01__6678d08d753fb[T224,320].png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[도서 <헤이그의 비밀> 기대평 이벤트]]></title>
             <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8781&amp;p=1</link>
@@ -100,17 +109,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>90 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-06-12 17:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0605/00_32_57__665f33a948d4d[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <다우렌의 결혼> 시사회 이벤트]]></title>
-            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8770&amp;p=1</link>
-            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8770&amp;p=1</guid>
-            <pubDate>Tue, 11 Jun 2024 02:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-06-12 19:30:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>인디스페이스</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-06-10 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0528/18_19_44__6655a1b0331d1[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
