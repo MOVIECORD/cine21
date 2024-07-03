@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 05:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 06:28:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0621/14_48_55__667514478a100[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사일런트 나잇]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61377</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61377</guid>
+            <pubDate>Wed, 03 Jul 2024 06:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-07-17]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0530/00_01_18__6657433e1ec84[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이매큘레이트]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61563</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61563</guid>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 03 Jul 2024 04:24:37 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-17]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0628/18_09_33__667e7dcdc2a46[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그랑블루 오리지날 리마스터링]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=621</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=621</guid>
-            <pubDate>Wed, 03 Jul 2024 05:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-07-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2013/0701/621_51d0d463496a8_poster[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
