@@ -4,9 +4,25 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 05:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 06:34:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가수							안지영 
+							(총1장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=126495</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=126495</guid>
+            <pubDate>Mon, 15 Jul 2024 06:33:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=126495">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/0715/15_32_14__6694c26ee8673[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/647/6694c297f1306.jpg" alt="" class="thumb">
+						<span class="caption">
+							가수							<strong>안지영</strong> 
+							<span class="num">(총1장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/647/6694c297f1306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우							이제훈 
 							(총79장)]]></title>
@@ -166,22 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/174/6671447a6e476.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[덱스 
-							(총7장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=123296</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=123296</guid>
-            <pubDate>Tue, 09 Jul 2024 10:28:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=123296">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/0618/17_11_56__6671414cd1dec[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/crop/data/053/6671447877f3b.jpg" alt="" class="thumb">
-						<span class="caption">
-														<strong>덱스</strong> 
-							<span class="num">(총7장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/053/6671447877f3b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

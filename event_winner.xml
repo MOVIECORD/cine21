@@ -4,9 +4,27 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 05:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 06:34:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <킬러가 온다> 초대 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8789&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8789&amp;p=1</guid>
+            <pubDate>Mon, 15 Jul 2024 06:31:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-07-15 15:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0703/15_29_54__6684efe25e860[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <옥탑방 고양이> 초대 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8790&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8790&amp;p=1</guid>
+            <pubDate>Mon, 15 Jul 2024 06:31:26 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-07-15 15:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0703/15_31_17__6684f035d0539[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <파일럿> 시사회 기대평 이벤트]]></title>
             <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8787&amp;p=1</link>
@@ -33,7 +51,7 @@
             <title><![CDATA[대만 영화 주간 <대만, 영화의 바다에 빠지다> 초대 이벤트]]></title>
             <link>http://www.cine21.com/event/winner</link>
             <guid>http://www.cine21.com/event/winner</guid>
-            <pubDate>Mon, 15 Jul 2024 05:21:06 GMT</pubDate>
+            <pubDate>Mon, 15 Jul 2024 06:31:26 GMT</pubDate>
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>200 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-07-10 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0701/14_47_09__668242dd87d36[T224,320].png" length="0" type="image/png"/>
@@ -93,24 +111,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-07-01 10:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0619/10_25_38__667233924d273[T224,320].png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <2호선 세입자> 초대 이벤트]]></title>
-            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8778&amp;p=1</link>
-            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8778&amp;p=1</guid>
-            <pubDate>Tue, 09 Jul 2024 11:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-06-24 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0612/21_57_48__66699b4c74abc[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <옥탑방 고양이> 초대 이벤트]]></title>
-            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8779&amp;p=1</link>
-            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8779&amp;p=1</guid>
-            <pubDate>Tue, 09 Jul 2024 11:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-06-24 12:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0612/22_02_02__66699c4aac5ce[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
