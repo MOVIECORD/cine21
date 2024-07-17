@@ -4,17 +4,9 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jul 2024 14:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 15:28:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[샴록 스핏파이어]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61609</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61609</guid>
-            <pubDate>Tue, 16 Jul 2024 07:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-07-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0702/15_17_38__66839b82d503f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[와일드독]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61659</link>
@@ -150,6 +142,14 @@
             <pubDate>Wed, 17 Jul 2024 05:22:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-08-07]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0628/13_57_40__667e42c46886b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이오 카피타노]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61615</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61615</guid>
+            <pubDate>Wed, 17 Jul 2024 15:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-08-07]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0712/17_28_29__6690e92d0f224[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
