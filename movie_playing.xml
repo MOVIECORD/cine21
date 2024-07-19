@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 04:29:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 05:26:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0717/17_16_47__66977def40476[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이매큘레이트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61563</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61563</guid>
-            <pubDate>Tue, 16 Jul 2024 16:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-07-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0613/17_24_17__666aacb1bfecc[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[하이큐!! 콘셉트의 싸움]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=52256</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=52256</guid>
@@ -56,12 +48,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0628/18_09_33__667e7dcdc2a46[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사일런트 나잇]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61377</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61377</guid>
+            <title><![CDATA[이매큘레이트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61563</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61563</guid>
             <pubDate>Tue, 16 Jul 2024 16:23:06 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-17]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0530/00_01_18__6657433e1ec84[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0613/17_24_17__666aacb1bfecc[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미래의 범죄들]]></title>
@@ -88,6 +80,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0703/15_02_31__6684e977e6381[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사일런트 나잇]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61377</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61377</guid>
+            <pubDate>Tue, 16 Jul 2024 16:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-07-17]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0530/00_01_18__6657433e1ec84[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[굿바이 크루얼 월드]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61633</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61633</guid>
@@ -103,20 +103,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0620/18_00_26__6673efaa35df6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[플라이 미 투 더 문]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61538</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61538</guid>
-            <pubDate>Thu, 11 Jul 2024 15:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-07-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0712/10_50_58__66908c02c0cfb[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[탈출: 프로젝트 사일런스]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=56904</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=56904</guid>
             <pubDate>Thu, 11 Jul 2024 15:21:11 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0703/17_39_28__66850e40b552a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플라이 미 투 더 문]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61538</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61538</guid>
+            <pubDate>Thu, 11 Jul 2024 15:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-07-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0712/10_50_58__66908c02c0cfb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빅샤크5: 80일간의 해저일주]]></title>
@@ -127,12 +127,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0612/03_52_14__66689cde8ce5a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가장 따뜻한 색, 블루]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=40434</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=40434</guid>
-            <pubDate>Tue, 09 Jul 2024 15:22:22 GMT</pubDate>
+            <title><![CDATA[더 납작 엎드릴게요]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60780</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60780</guid>
+            <pubDate>Fri, 19 Jul 2024 05:22:45 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0625/18_00_17__667a872175549[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0625/17_46_41__667a83f1e8b19[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러브 라이즈 블리딩]]></title>
