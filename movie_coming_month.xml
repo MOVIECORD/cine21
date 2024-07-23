@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 07:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 08:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,12 +15,12 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애니멀 킹덤]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61131</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61131</guid>
-            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
+            <title><![CDATA[하얼빈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61175</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61175</guid>
+            <pubDate>Tue, 23 Jul 2024 08:28:49 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0117/15_47_10__65a777ee02716[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0722/14_37_47__669df02bc2fb9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[6시간 후 너는 죽는다]]></title>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[애니멀 킹덤]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61131</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61131</guid>
+            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0117/15_47_10__65a777ee02716[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시빌 워]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
@@ -133,13 +141,6 @@
             <pubDate>Tue, 23 Jul 2024 03:24:12 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0723/11_47_38__669f19ca319db[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말할 수 없는 비밀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
-            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
     </channel>
 </rss>
