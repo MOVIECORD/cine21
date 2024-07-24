@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-07-24T01:10:54.256Z</updated>
+    <updated>2024-07-24T02:18:23.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <물은 바다를 향해 흐른다> 시사회 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8793&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8793&amp;p=1"/>
+        <updated>2024-07-24T02:04:51.298Z</updated>
+        <content type="html"><![CDATA[8793]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <도서관의 야식> 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8792&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8779&amp;p=1"/>
         <updated>2024-06-24T05:13:17.146Z</updated>
         <content type="html"><![CDATA[8779]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <2호선 세입자> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8778&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8778&amp;p=1"/>
-        <updated>2024-06-24T05:13:17.146Z</updated>
-        <content type="html"><![CDATA[8778]]></content>
     </entry>
 </feed>
