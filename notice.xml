@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-07-25T01:11:27.776Z</updated>
+    <updated>2024-07-25T02:16:44.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <연남동 빙굴빙굴 빨래방> 초대 이벤트	당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8794&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8794&amp;p=1"/>
+        <updated>2024-07-25T02:04:36.843Z</updated>
+        <content type="html"><![CDATA[8794]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <물은 바다를 향해 흐른다> 시사회 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8793&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8780&amp;p=1"/>
         <updated>2024-06-24T06:18:19.227Z</updated>
         <content type="html"><![CDATA[8780]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <옥탑방 고양이> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8779&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8779&amp;p=1"/>
-        <updated>2024-06-24T05:13:17.146Z</updated>
-        <content type="html"><![CDATA[8779]]></content>
     </entry>
 </feed>
