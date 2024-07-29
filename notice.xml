@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-07-29T02:19:13.579Z</updated>
+    <updated>2024-07-29T03:29:29.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <조선인 여공의 노래> 시사회 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8797&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8797&amp;p=1"/>
+        <updated>2024-07-29T03:15:48.756Z</updated>
+        <content type="html"><![CDATA[8797]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <10 라이브즈> 시사회 이벤트	당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8796&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8783&amp;p=1"/>
         <updated>2024-07-05T05:13:52.778Z</updated>
         <content type="html"><![CDATA[8783]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공연 <러브 인 새턴> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8782&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8782&amp;p=1"/>
-        <updated>2024-07-03T02:00:34.113Z</updated>
-        <content type="html"><![CDATA[8782]]></content>
     </entry>
 </feed>
