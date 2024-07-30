@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 06:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 07:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,22 +14,6 @@
             <pubDate>Tue, 16 Jul 2024 15:19:18 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-31]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0705/17_47_19__6687b317393df[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헬로카봇 올스타 스페셜]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61630</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61630</guid>
-            <pubDate>Tue, 16 Jul 2024 15:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-07-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0723/14_23_50__669f3e66529da[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수카바티: 극락축구단]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61560</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61560</guid>
-            <pubDate>Tue, 16 Jul 2024 15:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-07-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0702/16_56_58__6683b2cac2f83[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블랙핑크 월드투어 [본 핑크]인 시네마]]></title>
@@ -45,6 +29,14 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=61684</guid>
             <pubDate>Fri, 26 Jul 2024 02:09:22 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-31]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[수카바티: 극락축구단]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61560</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61560</guid>
+            <pubDate>Tue, 16 Jul 2024 15:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-07-31]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0702/16_56_58__6683b2cac2f83[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샤인]]></title>
@@ -63,12 +55,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0626/11_34_16__667b7e2846914[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더 원더스]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=42702</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=42702</guid>
+            <title><![CDATA[헬로카봇 올스타 스페셜]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61630</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61630</guid>
             <pubDate>Tue, 16 Jul 2024 15:19:18 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0719/15_44_46__669a0b5e5ed60[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0723/14_23_50__669f3e66529da[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제프 쿤스. 그 은밀한 초상]]></title>
@@ -76,6 +68,14 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=61683</guid>
             <pubDate>Fri, 26 Jul 2024 02:09:22 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-31]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[더 원더스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=42702</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=42702</guid>
+            <pubDate>Tue, 16 Jul 2024 15:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-07-31]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0719/15_44_46__669a0b5e5ed60[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[키시베 로한 루브르에 가다]]></title>

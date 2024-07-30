@@ -4,20 +4,13 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 06:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 07:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[폭설]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61435</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61435</guid>
-            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[매쉬빌]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
             <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
@@ -75,12 +68,18 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0117/15_47_10__65a777ee02716[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[문경]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61491</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61491</guid>
-            <pubDate>Thu, 25 Jul 2024 05:20:29 GMT</pubDate>
+            <title><![CDATA[시빌 워]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
+            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0719/15_52_55__669a0d47cfe95[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매쉬빌]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
+            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구룡성채: 무법지대]]></title>
@@ -113,13 +112,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_08_55__6419580767c68[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시빌 워]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
-            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인터뷰]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60722</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60722</guid>
@@ -141,6 +133,14 @@
             <pubDate>Tue, 23 Jul 2024 03:24:12 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0723/11_47_38__669f19ca319db[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몹 랜드: 복수의 땅]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61602</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61602</guid>
+            <pubDate>Tue, 30 Jul 2024 07:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-07]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0625/15_13_49__667a601de4715[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
