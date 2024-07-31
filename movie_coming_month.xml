@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jul 2024 06:28:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jul 2024 07:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -75,11 +75,12 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[매쉬빌]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
-            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
+            <title><![CDATA[세상 참 예쁜 오드리]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61671</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61671</guid>
+            <pubDate>Tue, 23 Jul 2024 03:24:12 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0723/11_47_38__669f19ca319db[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구룡성채: 무법지대]]></title>
@@ -127,12 +128,11 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0727/18_39_04__64c23b38a9258[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세상 참 예쁜 오드리]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61671</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61671</guid>
-            <pubDate>Tue, 23 Jul 2024 03:24:12 GMT</pubDate>
+            <title><![CDATA[매쉬빌]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
+            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0723/11_47_38__669f19ca319db[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몹 랜드: 복수의 땅]]></title>
