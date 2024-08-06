@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Aug 2024 11:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 12:39:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,11 +15,12 @@
             <content:encoded><![CDATA[개봉 : 2024-08-01]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[똥 싸는 소리]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61684</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61684</guid>
+            <title><![CDATA[더 원더스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=42702</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=42702</guid>
             <pubDate>Tue, 30 Jul 2024 15:19:49 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-31]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0719/15_44_46__669a0b5e5ed60[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수카바티: 극락축구단]]></title>
@@ -30,20 +31,19 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0702/16_56_58__6683b2cac2f83[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[파일럿]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61611</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61611</guid>
-            <pubDate>Tue, 30 Jul 2024 15:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-07-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0801/17_11_09__66ab431d04fcd[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[샤인]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61575</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61575</guid>
             <pubDate>Tue, 30 Jul 2024 15:19:49 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-31]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0716/16_52_25__669626b94bb46[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[똥 싸는 소리]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61684</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61684</guid>
+            <pubDate>Tue, 30 Jul 2024 15:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-07-31]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[극장판 프리큐어 올스타즈 F]]></title>
@@ -54,12 +54,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0626/11_34_16__667b7e2846914[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더 원더스]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=42702</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=42702</guid>
+            <title><![CDATA[파일럿]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61611</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61611</guid>
             <pubDate>Tue, 30 Jul 2024 15:19:49 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0719/15_44_46__669a0b5e5ed60[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0801/17_11_09__66ab431d04fcd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헬로카봇 올스타 스페셜]]></title>
@@ -70,13 +70,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0723/14_23_50__669f3e66529da[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제프 쿤스. 그 은밀한 초상]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61683</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61683</guid>
-            <pubDate>Tue, 30 Jul 2024 15:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-07-31]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[블랙핑크 월드투어 [본 핑크]인 시네마]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61628</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61628</guid>
@@ -85,12 +78,11 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0716/12_30_08__6695e9409e1e7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 심규선 단독 콘서트 : 우리 앞]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61686</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61686</guid>
-            <pubDate>Fri, 26 Jul 2024 15:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-07-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0726/16_13_31__66a34c9b95358[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[제프 쿤스. 그 은밀한 초상]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61683</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61683</guid>
+            <pubDate>Tue, 30 Jul 2024 15:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-07-31]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블러디 이스케이프: 지옥의 도주극]]></title>
@@ -99,22 +91,6 @@
             <pubDate>Wed, 24 Jul 2024 15:22:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-25]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0626/13_43_46__667b9c823e471[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄마의 왕국]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61592</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61592</guid>
-            <pubDate>Tue, 23 Jul 2024 15:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-07-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0628/11_02_35__667e19bb3b5db[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼배드 4]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61219</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61219</guid>
-            <pubDate>Tue, 23 Jul 2024 15:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-07-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0624/16_14_48__66791ce829cdb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마담 프루스트의 비밀정원]]></title>
@@ -147,6 +123,30 @@
             <pubDate>Tue, 23 Jul 2024 15:20:37 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-07-24]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0719/15_37_17__669a099d2b175[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엄마의 왕국]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61592</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61592</guid>
+            <pubDate>Tue, 23 Jul 2024 15:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-07-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0628/11_02_35__667e19bb3b5db[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼배드 4]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61219</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61219</guid>
+            <pubDate>Tue, 23 Jul 2024 15:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-07-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0624/16_14_48__66791ce829cdb[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[명탐정 코난: 100만 달러의 펜타그램]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61556</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61556</guid>
+            <pubDate>Tue, 06 Aug 2024 12:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-07-17]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0717/17_16_47__66977def40476[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

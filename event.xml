@@ -4,9 +4,20 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Aug 2024 11:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 12:39:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <희생> 시사회 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8368</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8368</guid>
+            <pubDate>Tue, 06 Aug 2024 12:36:49 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-08-13 19:30</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>메가박스 이수</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-08-12 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0805/09_44_39__66b0207758c02[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도서 <시간의 지배자> 기대평 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8367</link>
@@ -51,26 +62,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>12 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-08-08 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0729/12_18_17__66a709f9a9f2c[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 아이스쇼 THE LUNA 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8362</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8362</guid>
-            <pubDate>Wed, 24 Jul 2024 02:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-08-05 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0724/10_35_16__66a05a541674a[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <빅토리> 시사회 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8361</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8361</guid>
-            <pubDate>Tue, 30 Jul 2024 12:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-08-06 19:30</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>롯데시네마 월드타워</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>40 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-08-02 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0719/21_38_35__669a5e4bf35fa[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
