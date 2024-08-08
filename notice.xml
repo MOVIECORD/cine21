@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-08-08T02:25:47.738Z</updated>
+    <updated>2024-08-08T03:35:58.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <운빨 로맨스> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8802&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8802&amp;p=1"/>
+        <updated>2024-08-08T03:15:31.862Z</updated>
+        <content type="html"><![CDATA[8802]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국영화 다양성 주간 영화제 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8801&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8788&amp;p=1"/>
         <updated>2024-07-11T02:05:32.961Z</updated>
         <content type="html"><![CDATA[8788]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <파일럿> 시사회 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8787&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8787&amp;p=1"/>
-        <updated>2024-07-11T02:05:32.968Z</updated>
-        <content type="html"><![CDATA[8787]]></content>
     </entry>
 </feed>
