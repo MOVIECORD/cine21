@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-08-19T02:29:47.981Z</updated>
+    <updated>2024-08-19T03:35:24.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <이매지너리> 시사회 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8808&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8808&amp;p=1"/>
+        <updated>2024-08-19T03:15:43.585Z</updated>
+        <content type="html"><![CDATA[8808]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤직드라마 <망원동 브라더스> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8807&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8794&amp;p=1"/>
         <updated>2024-07-25T02:04:36.843Z</updated>
         <content type="html"><![CDATA[8794]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <물은 바다를 향해 흐른다> 시사회 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8793&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8793&amp;p=1"/>
-        <updated>2024-07-24T02:04:51.298Z</updated>
-        <content type="html"><![CDATA[8793]]></content>
     </entry>
 </feed>
