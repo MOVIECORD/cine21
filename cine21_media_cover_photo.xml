@@ -4,9 +4,25 @@
         <title>씨네21 ─ 멀티미디어 ─ 커버 ─ 사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Aug 2024 15:36:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 16:34:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No.1470]]></title>
+            <link>https://image.cine21.com/resize/cine21/movie/2024/0816/10_11_06__66bea72a68b8d[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/movie/2024/0816/10_11_06__66bea72a68b8d[H800-].jpg</guid>
+            <pubDate>Tue, 20 Aug 2024 16:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024-08-20~2024-08-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0816/10_11_06__66bea72a68b8d[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No.1469]]></title>
+            <link>https://image.cine21.com/resize/cine21/movie/2024/0809/10_10_48__66b56c98317b0[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/movie/2024/0809/10_10_48__66b56c98317b0[H800-].jpg</guid>
+            <pubDate>Tue, 20 Aug 2024 16:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024-08-13~2024-08-20]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0809/10_10_48__66b56c98317b0[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[No.1468]]></title>
             <link>https://image.cine21.com/resize/cine21/movie/2024/0802/10_16_10__66ac335ac1a15[H800-].jpg</link>
@@ -62,22 +78,6 @@
             <pubDate>Tue, 09 Jul 2024 11:24:50 GMT</pubDate>
             <content:encoded><![CDATA[2024-06-25~2024-07-02]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0621/10_02_33__6674d1291a7eb[X300,360].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No.1461]]></title>
-            <link>https://image.cine21.com/resize/cine21/movie/2024/0614/10_20_43__666b9aebaf8ae[H800-].jpg</link>
-            <guid>https://image.cine21.com/resize/cine21/movie/2024/0614/10_20_43__666b9aebaf8ae[H800-].jpg</guid>
-            <pubDate>Tue, 09 Jul 2024 11:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024-06-18~2024-06-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0614/10_20_43__666b9aebaf8ae[X300,360].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No.1460]]></title>
-            <link>https://image.cine21.com/resize/cine21/movie/2024/0607/20_14_12__6662eb84bf3ea[H800-].jpg</link>
-            <guid>https://image.cine21.com/resize/cine21/movie/2024/0607/20_14_12__6662eb84bf3ea[H800-].jpg</guid>
-            <pubDate>Tue, 09 Jul 2024 11:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024-06-11~2024-06-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0607/20_14_12__6662eb84bf3ea[X300,360].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
