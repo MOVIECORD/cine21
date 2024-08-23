@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 05:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 06:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,36 +24,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0712/14_20_38__6690bd262a933[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스트레인저스: 챕터1]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61446</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61446</guid>
+            <title><![CDATA[소년시절의 너]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56479</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56479</guid>
             <pubDate>Tue, 20 Aug 2024 21:28:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-08-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0802/17_05_03__66ac932fde5a0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 여름날의 거짓말]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61145</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61145</guid>
-            <pubDate>Tue, 20 Aug 2024 21:28:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-08-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0820/10_33_59__66c3f287cf2fc[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이매지너리]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61663</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61663</guid>
-            <pubDate>Tue, 20 Aug 2024 21:28:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-08-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0807/15_02_05__66b30ddd545a4[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국이 싫어서]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61134</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61134</guid>
-            <pubDate>Tue, 20 Aug 2024 21:28:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-08-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/still/2024/0802/15_25_56__66ac7bf4b1cec[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0730/15_47_45__66a88c915f921[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애프터썬]]></title>
@@ -72,12 +48,36 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0814/14_34_21__66bc41dd20f6c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소년시절의 너]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56479</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56479</guid>
+            <title><![CDATA[한국이 싫어서]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61134</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61134</guid>
             <pubDate>Tue, 20 Aug 2024 21:28:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-08-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0730/15_47_45__66a88c915f921[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/still/2024/0802/15_25_56__66ac7bf4b1cec[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그 여름날의 거짓말]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61145</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61145</guid>
+            <pubDate>Tue, 20 Aug 2024 21:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-08-28]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0820/10_33_59__66c3f287cf2fc[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이매지너리]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61663</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61663</guid>
+            <pubDate>Tue, 20 Aug 2024 21:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-08-28]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0807/15_02_05__66b30ddd545a4[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스트레인저스: 챕터1]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61446</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61446</guid>
+            <pubDate>Tue, 20 Aug 2024 21:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-08-28]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0802/17_05_03__66ac932fde5a0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판: 기븐_히이라기 믹스]]></title>
@@ -94,6 +94,13 @@
             <pubDate>Tue, 20 Aug 2024 21:28:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-08-28]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0805/14_59_04__66b06a2808f61[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭉크. 사랑, 영혼, 그리고 뱀파이어 여인]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61726</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61726</guid>
+            <pubDate>Fri, 23 Aug 2024 03:25:53 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-08-28]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아스테릭스: 더 미들 킹덤]]></title>
@@ -126,13 +133,6 @@
             <pubDate>Tue, 20 Aug 2024 21:28:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-08-28]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0807/10_35_06__66b2cf4a518fa[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭉크. 사랑, 영혼, 그리고 뱀파이어 여인]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61726</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61726</guid>
-            <pubDate>Fri, 23 Aug 2024 03:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-08-28]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[둠벙]]></title>
