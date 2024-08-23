@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 04:37:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 05:26:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,21 +22,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/55448_614d6fb3976df[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여공의 밤]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60884</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60884</guid>
-            <pubDate>Tue, 09 Jul 2024 11:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">여공의 밤</span>
-		
-
-									<span class="director">감독 : 김건희</span>
-				
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0922/17_31_57__650d50fd0696c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[되살아나는 목소리]]></title>
@@ -162,6 +147,37 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0819/18_21_33__66c30e9dea9bf[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[경주기행]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61722</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61722</guid>
+            <pubDate>Fri, 23 Aug 2024 05:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">경주기행</span>
+		
+
+									<span class="director">감독 : 김미조</span>
+											<span class="actor">배우 : 이정은,공효진</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0820/17_35_10__66c4553e15637[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여공의 밤]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60884</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60884</guid>
+            <pubDate>Tue, 09 Jul 2024 11:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">여공의 밤</span>
+		
+
+									<span class="director">감독 : 김건희</span>
+				
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0922/17_31_57__650d50fd0696c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[야당]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60633</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60633</guid>
@@ -268,22 +284,6 @@
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[보고타]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57542</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57542</guid>
-            <pubDate>Tue, 23 Jul 2024 09:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">보고타</span>
-		
-
-									<span class="director">감독 : 김성제</span>
-											<span class="actor">배우 : 송중기,이희준</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/0609/11_18_55__60c0250fafe22[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
