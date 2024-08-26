@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-08-26T02:26:21.022Z</updated>
+    <updated>2024-08-26T03:36:57.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <그 여름날의 거짓말> 시사회 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8814&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8814&amp;p=1"/>
+        <updated>2024-08-26T03:17:16.567Z</updated>
+        <content type="html"><![CDATA[8814]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <한국이 싫어서> 시사회 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8813&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8800&amp;p=1"/>
         <updated>2024-08-08T02:06:49.025Z</updated>
         <content type="html"><![CDATA[8800]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 아이스쇼 THE LUNA 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8799&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8799&amp;p=1"/>
-        <updated>2024-08-05T03:15:17.633Z</updated>
-        <content type="html"><![CDATA[8799]]></content>
     </entry>
 </feed>
