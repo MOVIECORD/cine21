@@ -1,8 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cine21.com/event/list</id>
-    <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
-    <updated>2024-08-27T07:35:14.170Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cine21.com/event/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 27 Aug 2024 08:34:39 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <새벽의 모든> 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8381</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8381</guid>
+            <pubDate>Tue, 27 Aug 2024 08:30:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-09-07 14:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>롯데시네마 월드타워</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>50 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-09-04 11:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0826/11_42_52__66cbebacba0e2[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도서 <해방자들> 증정 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8380</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8380</guid>
+            <pubDate>Tue, 27 Aug 2024 08:30:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-08-29 15:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0821/15_25_13__66c58849070cc[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 <장손> 시사회 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8379</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8379</guid>
+            <pubDate>Tue, 27 Aug 2024 08:30:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-09-04 19:30</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>롯데시네마 월드타워</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-09-02 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0821/15_18_06__66c5869ed4507[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <운빨 로맨스> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8378</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8378</guid>
+            <pubDate>Tue, 27 Aug 2024 08:30:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-08-29 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0821/11_16_33__66c54e01f3263[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
