@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 07:28:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 08:38:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3266,6 +3266,21 @@
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[청설 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61733</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61733</guid>
+            <pubDate>Wed, 28 Aug 2024 08:33:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">청설</span>
+		
+
+									<span class="director">감독 : 조선호</span>
+											<span class="actor">배우 : 홍경,노윤서</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[괴기열차 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61242</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61242</guid>
@@ -3294,21 +3309,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0922/17_49_38__650d5522a1c2a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여공의 밤 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60884</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60884</guid>
-            <pubDate>Tue, 09 Jul 2024 11:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">여공의 밤</span>
-		
-
-									<span class="director">감독 : 김건희</span>
-				
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0922/17_31_57__650d50fd0696c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사흘(가제) (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
@@ -3443,7 +3443,7 @@
             <title><![CDATA[연극 <올스타 보잉보잉> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
             <link>https://MOVIECORD.github.io/cine21/all.xml</link>
             <guid>https://MOVIECORD.github.io/cine21/all.xml</guid>
-            <pubDate>Wed, 28 Aug 2024 04:37:43 GMT</pubDate>
+            <pubDate>Wed, 28 Aug 2024 08:35:48 GMT</pubDate>
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-08-26 10:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0814/11_04_34__66bc10b252bf5[T224,320].jpg" length="0" type="image/jpg"/>
