@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 08:32:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 09:30:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -74,12 +74,11 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오후 네시]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60221</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60221</guid>
+            <title><![CDATA[구룡성채: 무법지대]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61564</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61564</guid>
             <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0321/16_08_55__6419580767c68[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왕을 찾아서]]></title>
@@ -88,13 +87,6 @@
             <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/15_25_59__65c1d0f706cec[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구룡성채: 무법지대]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61564</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61564</guid>
-            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[말할 수 없는 비밀]]></title>
@@ -120,14 +112,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0821/14_50_02__66c5800a89191[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[디어 마이 고스트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61708</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61708</guid>
-            <pubDate>Fri, 23 Aug 2024 03:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0813/09_57_33__66baaf7de7016[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[극장총집편 봇치 더 록! 후편]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61731</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61731</guid>
@@ -140,6 +124,22 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=61730</guid>
             <pubDate>Mon, 26 Aug 2024 02:21:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-09]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[디어 마이 고스트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61708</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61708</guid>
+            <pubDate>Fri, 23 Aug 2024 03:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0813/09_57_33__66baaf7de7016[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마녀들의 카니발]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61737</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61737</guid>
+            <pubDate>Thu, 29 Aug 2024 09:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0828/14_17_45__66ceb2f9ca1e9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
