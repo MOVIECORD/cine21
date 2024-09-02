@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 09:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 10:36:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3047,18 +3047,17 @@ Apple TV+ / 8부작 / 연출 리안 웰햄, 진준림, 이상일 / 각본 수 �
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세상 참 예쁜 오드리 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61671</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61671</guid>
-            <pubDate>Tue, 23 Jul 2024 03:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0723/11_47_38__669f19ca319db[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[인터뷰 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60722</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60722</guid>
             <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[말할 수 없는 비밀 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
+            <pubDate>Wed, 24 Jul 2024 08:25:00 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
@@ -3068,13 +3067,6 @@ Apple TV+ / 8부작 / 연출 리안 웰햄, 진준림, 이상일 / 각본 수 �
             <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/15_25_59__65c1d0f706cec[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말할 수 없는 비밀 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
-            <pubDate>Wed, 24 Jul 2024 08:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[산이 부른다 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3109,12 +3101,12 @@ Apple TV+ / 8부작 / 연출 리안 웰햄, 진준림, 이상일 / 각본 수 �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0813/09_57_33__66baaf7de7016[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보통의 가족 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60745</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60745</guid>
-            <pubDate>Mon, 02 Sep 2024 04:27:22 GMT</pubDate>
+            <title><![CDATA[세상 참 예쁜 오드리 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61671</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61671</guid>
+            <pubDate>Tue, 23 Jul 2024 03:24:12 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0828/09_32_52__66ce7034bb914[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0723/11_47_38__669f19ca319db[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스마일 2 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3123,6 +3115,14 @@ Apple TV+ / 8부작 / 연출 리안 웰햄, 진준림, 이상일 / 각본 수 �
             <pubDate>Mon, 02 Sep 2024 04:27:22 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0703/16_06_12__6684f864a8c4e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베놈: 라스트 댄스 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61557</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61557</guid>
+            <pubDate>Mon, 02 Sep 2024 10:30:42 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0614/15_31_15__666be3b359195[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호라이즌: 아메리칸 사가 챕터 1 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
@@ -3534,7 +3534,7 @@ Apple TV+ / 8부작 / 연출 리안 웰햄, 진준림, 이상일 / 각본 수 �
             <title><![CDATA[연극 <올스타 보잉보잉> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
             <link>https://MOVIECORD.github.io/cine21/all.xml</link>
             <guid>https://MOVIECORD.github.io/cine21/all.xml</guid>
-            <pubDate>Mon, 02 Sep 2024 09:30:19 GMT</pubDate>
+            <pubDate>Mon, 02 Sep 2024 10:32:06 GMT</pubDate>
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-08-26 10:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0814/11_04_34__66bc10b252bf5[T224,320].jpg" length="0" type="image/jpg"/>
