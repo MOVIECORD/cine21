@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-09-04T01:22:59.295Z</updated>
+    <updated>2024-09-04T02:59:19.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <새벽의 모든> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8818&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8818&amp;p=1"/>
+        <updated>2024-09-04T02:39:19.877Z</updated>
+        <content type="html"><![CDATA[8818]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <장손> 시사회 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8817&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8804&amp;p=1"/>
         <updated>2024-08-12T02:11:34.549Z</updated>
         <content type="html"><![CDATA[8804]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <희생> 시사회 기대평 이벤트 당첨자발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8803&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8803&amp;p=1"/>
-        <updated>2024-08-12T01:01:33.911Z</updated>
-        <content type="html"><![CDATA[8803]]></content>
     </entry>
 </feed>
