@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Sep 2024 04:42:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Sep 2024 06:37:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -67,12 +67,11 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[왕을 찾아서]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60181</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60181</guid>
-            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
+            <title><![CDATA[말할 수 없는 비밀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
+            <pubDate>Wed, 24 Jul 2024 08:25:00 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/15_25_59__65c1d0f706cec[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인터뷰]]></title>
@@ -82,19 +81,12 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[말할 수 없는 비밀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
-            <pubDate>Wed, 24 Jul 2024 08:25:00 GMT</pubDate>
+            <title><![CDATA[왕을 찾아서]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60181</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60181</guid>
+            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[산이 부른다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61679</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61679</guid>
-            <pubDate>Fri, 23 Aug 2024 03:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0725/13_48_00__66a1d900a279a[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/15_25_59__65c1d0f706cec[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코만단테]]></title>
@@ -105,12 +97,35 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0821/14_50_02__66c5800a89191[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[산이 부른다]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61679</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61679</guid>
+            <pubDate>Fri, 23 Aug 2024 03:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0725/13_48_00__66a1d900a279a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[마녀들의 카니발]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61737</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61737</guid>
             <pubDate>Thu, 29 Aug 2024 09:24:57 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-09]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0828/14_17_45__66ceb2f9ca1e9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트랩]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61741</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61741</guid>
+            <pubDate>Wed, 04 Sep 2024 06:31:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0830/14_48_30__66d15d2eeac73[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[줄리엣, 네이키드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=52816</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=52816</guid>
+            <pubDate>Wed, 04 Sep 2024 06:31:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[디어 마이 고스트]]></title>
@@ -121,28 +136,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0813/09_57_33__66baaf7de7016[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조커: 폴리 아 되]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61704</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61704</guid>
-            <pubDate>Tue, 03 Sep 2024 09:31:05 GMT</pubDate>
+            <title><![CDATA[구룡성채: 무법지대]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61564</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61564</guid>
+            <pubDate>Wed, 04 Sep 2024 06:31:57 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0826/09_59_11__66cbd35fd1ed3[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상 참 예쁜 오드리]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61671</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61671</guid>
-            <pubDate>Tue, 23 Jul 2024 03:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0723/11_47_38__669f19ca319db[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 엉덩이 탐정: 안녕, 나의 영원한 친구]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61732</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61732</guid>
-            <pubDate>Tue, 03 Sep 2024 09:31:05 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0830/14_25_59__66d157e7ddf45[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0903/10_09_42__66d661d64c5ab[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
