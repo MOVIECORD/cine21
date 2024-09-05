@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-09-05T01:22:04.202Z</updated>
+    <updated>2024-09-05T03:00:37.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <여름이 끝날 무렵의 라트라비아타> 시사회 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8820&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8820&amp;p=1"/>
+        <updated>2024-09-05T02:40:08.812Z</updated>
+        <content type="html"><![CDATA[8820]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <캐시 아웃> 시사회 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8819&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8819&amp;p=1"/>
+        <updated>2024-09-05T02:40:08.815Z</updated>
+        <content type="html"><![CDATA[8819]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <새벽의 모든> 기대평 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8818&amp;p=1</id>
@@ -95,19 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8806&amp;p=1"/>
         <updated>2024-08-19T02:10:01.822Z</updated>
         <content type="html"><![CDATA[8806]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <아빠는 유튜버> 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8805&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8805&amp;p=1"/>
-        <updated>2024-08-12T02:11:34.544Z</updated>
-        <content type="html"><![CDATA[8805]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서 <시간의 지배자> 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8804&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8804&amp;p=1"/>
-        <updated>2024-08-12T02:11:34.549Z</updated>
-        <content type="html"><![CDATA[8804]]></content>
     </entry>
 </feed>
