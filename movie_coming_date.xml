@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Sep 2024 05:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 06:38:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0812/16_10_35__66b9b56ba45b2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오지: 사라진 숲을 찾아서]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61728</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61728</guid>
+            <pubDate>Tue, 03 Sep 2024 16:34:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0904/18_14_55__66d8250f45557[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[베테랑2]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61443</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61443</guid>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 03 Sep 2024 16:34:27 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-09-13]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0830/15_16_47__66d163cfd2113[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오지: 사라진 숲을 찾아서]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61728</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61728</guid>
-            <pubDate>Tue, 03 Sep 2024 16:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0904/18_14_55__66d8250f45557[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[브레드이발소: 빵스타의 탄생]]></title>
@@ -112,14 +112,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0826/14_39_36__66cc151832f48[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[수유천]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61729</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61729</guid>
-            <pubDate>Tue, 03 Sep 2024 16:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0823/15_36_15__66c82ddfbd5a1[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[정국: 아이 엠 스틸]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61735</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61735</guid>
@@ -134,6 +126,14 @@
             <pubDate>Wed, 04 Sep 2024 06:31:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0820/14_20_00__66c42780df4d9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수유천]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61729</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61729</guid>
+            <pubDate>Tue, 03 Sep 2024 16:34:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0823/15_36_15__66c82ddfbd5a1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테인티드 러브]]></title>
