@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Sep 2024 08:41:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 09:29:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0819/14_59_44__66c2df50e2b73[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[수유천]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61729</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61729</guid>
+            <pubDate>Tue, 03 Sep 2024 16:34:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0823/15_36_15__66c82ddfbd5a1[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사랑의 탐구]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61712</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61712</guid>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 04 Sep 2024 06:31:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0820/14_20_00__66c42780df4d9[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수유천]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61729</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61729</guid>
-            <pubDate>Tue, 03 Sep 2024 16:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0823/15_36_15__66c82ddfbd5a1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테인티드 러브]]></title>
