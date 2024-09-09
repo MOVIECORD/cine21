@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 06:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 07:29:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0726/17_20_59__66a35c6b00a16[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[캐시 아웃]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61717</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61717</guid>
-            <pubDate>Tue, 03 Sep 2024 16:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0828/15_26_02__66cec2fa66e9b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[래시: 뉴 어드벤처]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61632</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61632</guid>
@@ -64,12 +56,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0812/16_10_35__66b9b56ba45b2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[베테랑2]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61443</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61443</guid>
+            <title><![CDATA[캐시 아웃]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61717</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61717</guid>
             <pubDate>Tue, 03 Sep 2024 16:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0826/10_43_11__66cbddaf49c14[X224,320].jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[개봉 : 2024-09-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0828/15_26_02__66cec2fa66e9b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오지: 사라진 숲을 찾아서]]></title>
@@ -78,6 +70,14 @@
             <pubDate>Tue, 03 Sep 2024 16:34:27 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-09-13]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0904/18_14_55__66d8250f45557[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베테랑2]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61443</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61443</guid>
+            <pubDate>Tue, 03 Sep 2024 16:34:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0826/10_43_11__66cbddaf49c14[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리가 끝이야]]></title>
