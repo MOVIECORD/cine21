@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-09-09T01:30:24.142Z</updated>
+    <updated>2024-09-09T03:06:57.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <사랑의 탐구> 시사회 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8821&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8821&amp;p=1"/>
+        <updated>2024-09-09T02:43:38.240Z</updated>
+        <content type="html"><![CDATA[8821]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <여름이 끝날 무렵의 라트라비아타> 시사회 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8820&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8807&amp;p=1"/>
         <updated>2024-08-19T02:10:01.822Z</updated>
         <content type="html"><![CDATA[8807]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강석우의 시네마 콘서트 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8806&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8806&amp;p=1"/>
-        <updated>2024-08-19T02:10:01.822Z</updated>
-        <content type="html"><![CDATA[8806]]></content>
     </entry>
 </feed>
