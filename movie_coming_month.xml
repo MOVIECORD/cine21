@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Sep 2024 01:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Sep 2024 02:54:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,21 +13,6 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=61760</guid>
             <pubDate>Fri, 06 Sep 2024 07:25:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고스트캣 앙주]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61757</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61757</guid>
-            <pubDate>Fri, 06 Sep 2024 05:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아침바다 갈매기는]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61742</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61742</guid>
-            <pubDate>Mon, 02 Sep 2024 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0902/11_15_48__66d51fd40244e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매쉬빌]]></title>
@@ -42,6 +27,14 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=61320</guid>
             <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아침바다 갈매기는]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61742</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61742</guid>
+            <pubDate>Mon, 02 Sep 2024 04:27:22 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0902/11_15_48__66d51fd40244e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애니멀 킹덤]]></title>
@@ -66,6 +59,13 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[말할 수 없는 비밀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
+            <pubDate>Wed, 24 Jul 2024 08:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[왕을 찾아서]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60181</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60181</guid>
@@ -74,10 +74,10 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/15_25_59__65c1d0f706cec[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[말할 수 없는 비밀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
-            <pubDate>Wed, 24 Jul 2024 08:25:00 GMT</pubDate>
+            <title><![CDATA[고스트캣 앙주]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61757</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61757</guid>
+            <pubDate>Fri, 06 Sep 2024 05:25:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
@@ -105,20 +105,19 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0813/09_57_33__66baaf7de7016[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[줄리엣, 네이키드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=52816</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=52816</guid>
-            <pubDate>Wed, 04 Sep 2024 06:31:57 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0905/16_24_10__66d95c9aaa73c[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[할머니가 죽기 전 백만장자가 되는 법]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61758</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61758</guid>
+            <pubDate>Tue, 10 Sep 2024 02:52:33 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0906/17_40_35__66dac003ac843[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[구룡성채: 무법지대]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61564</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61564</guid>
-            <pubDate>Mon, 09 Sep 2024 07:25:16 GMT</pubDate>
+            <title><![CDATA[더 킬러스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61751</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61751</guid>
+            <pubDate>Tue, 10 Sep 2024 02:52:33 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0903/10_09_42__66d661d64c5ab[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호두까기 인형과 마술피리]]></title>
@@ -129,19 +128,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0903/14_36_49__66d6a071bcc16[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[너의 색]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61752</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61752</guid>
+            <pubDate>Tue, 10 Sep 2024 02:52:33 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0905/11_41_39__66d91a633e112[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[내일 없는 사랑]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61748</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61748</guid>
             <pubDate>Mon, 09 Sep 2024 07:25:16 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0903/16_00_07__66d6b3f7a525c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최소한의 선의]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61750</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61750</guid>
-            <pubDate>Mon, 09 Sep 2024 07:25:16 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
         </item>
     </channel>
 </rss>
