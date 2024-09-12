@@ -4,9 +4,16 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 10:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 11:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시빌 워]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
+            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[애니멀 킹덤]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61131</link>
@@ -24,13 +31,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0902/11_15_48__66d51fd40244e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시빌 워]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
-            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인터뷰]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60722</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60722</guid>
@@ -38,9 +38,9 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[매쉬빌]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
+            <title><![CDATA[신사: 악귀의 속삭임]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61320</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61320</guid>
             <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
@@ -75,27 +75,11 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0911/16_05_24__66e141346da59[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신사: 악귀의 속삭임]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61320</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61320</guid>
+            <title><![CDATA[매쉬빌]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
             <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코만단테]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61718</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61718</guid>
-            <pubDate>Fri, 23 Aug 2024 03:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0821/14_50_02__66c5800a89191[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산이 부른다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61679</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61679</guid>
-            <pubDate>Fri, 23 Aug 2024 03:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0725/13_48_00__66a1d900a279a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디어 마이 고스트]]></title>
@@ -104,6 +88,14 @@
             <pubDate>Fri, 23 Aug 2024 03:26:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-09]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0813/09_57_33__66baaf7de7016[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산이 부른다]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61679</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61679</guid>
+            <pubDate>Fri, 23 Aug 2024 03:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0725/13_48_00__66a1d900a279a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호두까기 인형과 마술피리]]></title>
@@ -143,6 +135,13 @@
             <pubDate>Wed, 11 Sep 2024 05:24:38 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0910/13_47_34__66dfcf66dc63e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리틀 엠마]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61770</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61770</guid>
+            <pubDate>Thu, 12 Sep 2024 11:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
         </item>
     </channel>
 </rss>
