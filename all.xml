@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 01:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 02:58:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3322,6 +3322,22 @@
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[수퍼 소닉3 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61738</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61738</guid>
+            <pubDate>Thu, 12 Sep 2024 02:52:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">수퍼 소닉3 </span>
+		
+
+									<span class="director">감독 : 제프 파울러</span>
+											<span class="actor">배우 : 짐 캐리,벤 슈와츠</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0904/14_51_07__66d7f54bcfb59[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[괴기열차 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61242</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61242</guid>
@@ -3350,21 +3366,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0922/17_49_38__650d5522a1c2a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여공의 밤 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60884</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60884</guid>
-            <pubDate>Thu, 29 Aug 2024 11:28:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">여공의 밤</span>
-		
-
-									<span class="director">감독 : 김건희</span>
-				
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0922/17_31_57__650d50fd0696c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 나라로 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
