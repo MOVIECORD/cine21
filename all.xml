@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Sep 2024 04:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 05:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2877,38 +2877,6 @@
             <content:encoded><![CDATA[개봉 : 2024-09-16]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트랩 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61741</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61741</guid>
-            <pubDate>Fri, 30 Aug 2024 06:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0910/10_42_57__66dfa421a898c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정국: 아이 엠 스틸 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61735</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61735</guid>
-            <pubDate>Tue, 03 Sep 2024 16:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0828/13_56_59__66ceae1b046c5[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수유천 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61729</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61729</guid>
-            <pubDate>Tue, 03 Sep 2024 16:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0823/15_36_15__66c82ddfbd5a1[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑의 탐구 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61712</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61712</guid>
-            <pubDate>Wed, 04 Sep 2024 12:40:28 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0823/16_43_44__66c83db0c93a4[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[세 가지 색: 레드 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=2111</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=2111</guid>
@@ -2923,6 +2891,38 @@
             <pubDate>Wed, 04 Sep 2024 06:31:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0820/14_20_00__66c42780df4d9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑의 탐구 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61712</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61712</guid>
+            <pubDate>Wed, 04 Sep 2024 12:40:28 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0823/16_43_44__66c83db0c93a4[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수유천 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61729</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61729</guid>
+            <pubDate>Tue, 03 Sep 2024 16:34:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0823/15_36_15__66c82ddfbd5a1[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정국: 아이 엠 스틸 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61735</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61735</guid>
+            <pubDate>Tue, 03 Sep 2024 16:34:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0828/13_56_59__66ceae1b046c5[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트랩 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61741</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61741</guid>
+            <pubDate>Fri, 30 Aug 2024 06:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0910/10_42_57__66dfa421a898c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테인티드 러브 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2948,36 +2948,12 @@
             <content:encoded><![CDATA[개봉 : 2024-09-21]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[해야 할 일 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60918</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60918</guid>
+            <title><![CDATA[독립시대 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=16678</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=16678</guid>
             <pubDate>Thu, 12 Sep 2024 16:30:15 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-09-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0813/17_31_38__66bb19ea6ff91[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 오브 크라이스트 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=8579</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=8579</guid>
-            <pubDate>Wed, 11 Sep 2024 09:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0820/18_05_28__66c45c58d894e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국외자들 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=9683</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=9683</guid>
-            <pubDate>Thu, 12 Sep 2024 08:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0905/12_18_31__66d923074c72d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마녀들의 카니발 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61737</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61737</guid>
-            <pubDate>Wed, 11 Sep 2024 09:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0905/12_11_29__66d921612505f[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0904/14_16_07__66d7ed17b98b6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태용: 티와이 트랙 인 시네마 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2988,25 +2964,64 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0906/13_43_19__66da8867e999a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[독립시대 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=16678</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=16678</guid>
-            <pubDate>Thu, 12 Sep 2024 16:30:15 GMT</pubDate>
+            <title><![CDATA[산이 부른다 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61679</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61679</guid>
+            <pubDate>Fri, 23 Aug 2024 03:26:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-09-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0904/14_16_07__66d7ed17b98b6[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0913/14_01_23__66e3c7239e450[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장총집편 봇치 더 록! 후편 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61731</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61731</guid>
-            <pubDate>Thu, 12 Sep 2024 16:30:15 GMT</pubDate>
+            <title><![CDATA[엑소시스트: 더 데빌 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61711</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61711</guid>
+            <pubDate>Fri, 13 Sep 2024 05:18:35 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-09-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0903/16_16_48__66d6b7e0b6fbb[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0911/15_37_30__66e13aaa7986e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시빌 워 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
+            <title><![CDATA[호비와 마법의 카네이션 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61710</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61710</guid>
+            <pubDate>Fri, 13 Sep 2024 05:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0819/13_57_37__66c2d0c1c2c96[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마녀들의 카니발 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61737</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61737</guid>
+            <pubDate>Wed, 11 Sep 2024 09:29:27 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0905/12_11_29__66d921612505f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[줄리엣, 네이키드 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=52816</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=52816</guid>
+            <pubDate>Fri, 13 Sep 2024 05:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0910/10_48_58__66dfa58a42405[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매쉬빌 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
+            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아침바다 갈매기는 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61742</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61742</guid>
+            <pubDate>Mon, 02 Sep 2024 04:27:22 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0902/11_15_48__66d51fd40244e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신사: 악귀의 속삭임 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61320</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61320</guid>
             <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
@@ -3019,24 +3034,16 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0117/15_47_10__65a777ee02716[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아침바다 갈매기는 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61742</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61742</guid>
-            <pubDate>Mon, 02 Sep 2024 04:27:22 GMT</pubDate>
+            <title><![CDATA[시빌 워 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
+            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0902/11_15_48__66d51fd40244e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인터뷰 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60722</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60722</guid>
-            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신사: 악귀의 속삭임 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61320</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61320</guid>
             <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
@@ -3071,13 +3078,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0911/16_05_24__66e141346da59[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[매쉬빌 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
-            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[디어 마이 고스트 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61708</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61708</guid>
@@ -3086,12 +3086,27 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0813/09_57_33__66baaf7de7016[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[산이 부른다 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61679</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61679</guid>
-            <pubDate>Fri, 23 Aug 2024 03:26:14 GMT</pubDate>
+            <title><![CDATA[더 킬러스 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61751</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61751</guid>
+            <pubDate>Wed, 11 Sep 2024 05:24:38 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0725/13_48_00__66a1d900a279a[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0910/13_47_34__66dfcf66dc63e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스마일 2 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61596</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61596</guid>
+            <pubDate>Fri, 13 Sep 2024 05:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0703/16_06_12__6684f864a8c4e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리틀 엠마 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61770</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61770</guid>
+            <pubDate>Thu, 12 Sep 2024 11:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[호두까기 인형과 마술피리 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3110,14 +3125,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0903/16_00_07__66d6b3f7a525c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[폭설 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61435</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61435</guid>
-            <pubDate>Wed, 11 Sep 2024 05:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0906/17_32_31__66dabe1f8a290[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[최소한의 선의 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61750</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61750</guid>
@@ -3125,19 +3132,12 @@
             <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[더 킬러스 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61751</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61751</guid>
-            <pubDate>Wed, 11 Sep 2024 05:24:38 GMT</pubDate>
+            <title><![CDATA[베놈: 라스트 댄스 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61557</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61557</guid>
+            <pubDate>Fri, 13 Sep 2024 05:18:50 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0910/13_47_34__66dfcf66dc63e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리틀 엠마 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61770</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61770</guid>
-            <pubDate>Thu, 12 Sep 2024 11:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0614/15_31_15__666be3b359195[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 나라로 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
@@ -3861,6 +3861,84 @@
             <enclosure url="https://image.cine21.com/crop/data/861/66c852844994b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[＜룩백＞ 함께 그리자 룩백 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F09%2Flookback_ldmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0913%2F14_13_03__66e3c9df08a7f%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EB%A3%A9%EB%B0%B1%EF%BC%9E%20%ED%95%A8%EA%BB%98%20%EA%B7%B8%EB%A6%AC%EC%9E%90%20%EB%A3%A9%EB%B0%B1%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F09%2Flookback_ldmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0913%2F14_13_03__66e3c9df08a7f%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EB%A3%A9%EB%B0%B1%EF%BC%9E%20%ED%95%A8%EA%BB%98%20%EA%B7%B8%EB%A6%AC%EC%9E%90%20%EB%A3%A9%EB%B0%B1%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=46795">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F09%2Flookback_ldmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0913%2F14_13_03__66e3c9df08a7f%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EB%A3%A9%EB%B0%B1%EF%BC%9E%20%ED%95%A8%EA%BB%98%20%EA%B7%B8%EB%A6%AC%EC%9E%90%20%EB%A3%A9%EB%B0%B1%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2024/09/lookback_ldmk.mp4">
+						<img src="https://image.cine21.com/resize/cine21/movie/2024/0913/14_13_03__66e3c9df08a7f[X211,130].jpg" alt="" class="thumb">
+						<span class="title">＜룩백＞ 함께 그리자 룩백 영상</span>
+						<span class="date">2024-09-13</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0913/14_13_03__66e3c9df08a7f[X211,130].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜산이 부른다＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F09%2Fsan_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0913%2F14_05_02__66e3c7fe4dae4%5BX640%2C480%5D.png&amp;title=%EF%BC%9C%EC%82%B0%EC%9D%B4%20%EB%B6%80%EB%A5%B8%EB%8B%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F09%2Fsan_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0913%2F14_05_02__66e3c7fe4dae4%5BX640%2C480%5D.png&amp;title=%EF%BC%9C%EC%82%B0%EC%9D%B4%20%EB%B6%80%EB%A5%B8%EB%8B%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=46794">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F09%2Fsan_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0913%2F14_05_02__66e3c7fe4dae4%5BX640%2C480%5D.png&amp;title=%EF%BC%9C%EC%82%B0%EC%9D%B4%20%EB%B6%80%EB%A5%B8%EB%8B%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/09/san_mtr.mp4">
+						<img src="https://image.cine21.com/resize/cine21/movie/2024/0913/14_05_02__66e3c7fe4dae4[X211,130].png" alt="" class="thumb">
+						<span class="title">＜산이 부른다＞ 메인 예고편</span>
+						<span class="date">2024-09-13</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0913/14_05_02__66e3c7fe4dae4[X211,130].png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[＜산이 부른다＞ 티저 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F09%2Fsan_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0913%2F14_03_31__66e3c7a34c029%5BX640%2C480%5D.png&amp;title=%EF%BC%9C%EC%82%B0%EC%9D%B4%20%EB%B6%80%EB%A5%B8%EB%8B%A4%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F09%2Fsan_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0913%2F14_03_31__66e3c7a34c029%5BX640%2C480%5D.png&amp;title=%EF%BC%9C%EC%82%B0%EC%9D%B4%20%EB%B6%80%EB%A5%B8%EB%8B%A4%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=46793">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F09%2Fsan_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0913%2F14_03_31__66e3c7a34c029%5BX640%2C480%5D.png&amp;title=%EF%BC%9C%EC%82%B0%EC%9D%B4%20%EB%B6%80%EB%A5%B8%EB%8B%A4%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/09/san_ttr.mp4">
+						<img src="https://image.cine21.com/resize/cine21/movie/2024/0913/14_03_31__66e3c7a34c029[X211,130].png" alt="" class="thumb">
+						<span class="title">＜산이 부른다＞ 티저 예고편</span>
+						<span class="date">2024-09-13</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0913/14_03_31__66e3c7a34c029[X211,130].png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[＜6시간 후 너는 죽는다＞ 티저 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F09%2Fsix_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0913%2F13_57_38__66e3c642677ce%5BX640%2C480%5D.png&amp;title=%EF%BC%9C6%EC%8B%9C%EA%B0%84%20%ED%9B%84%20%EB%84%88%EB%8A%94%20%EC%A3%BD%EB%8A%94%EB%8B%A4%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F09%2Fsix_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0913%2F13_57_38__66e3c642677ce%5BX640%2C480%5D.png&amp;title=%EF%BC%9C6%EC%8B%9C%EA%B0%84%20%ED%9B%84%20%EB%84%88%EB%8A%94%20%EC%A3%BD%EB%8A%94%EB%8B%A4%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=46792">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F09%2Fsix_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0913%2F13_57_38__66e3c642677ce%5BX640%2C480%5D.png&amp;title=%EF%BC%9C6%EC%8B%9C%EA%B0%84%20%ED%9B%84%20%EB%84%88%EB%8A%94%20%EC%A3%BD%EB%8A%94%EB%8B%A4%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/09/six_ttr.mp4">
+						<img src="https://image.cine21.com/resize/cine21/movie/2024/0913/13_57_38__66e3c642677ce[X211,130].png" alt="" class="thumb">
+						<span class="title">＜6시간 후 너는 죽는다＞ 티저 예고편</span>
+						<span class="date">2024-09-13</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0913/13_57_38__66e3c642677ce[X211,130].png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[＜더러운 돈에 손대지 마라＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F09%2Fdirty_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0913%2F13_48_58__66e3c43ad146f%5BX640%2C480%5D.png&amp;title=%EF%BC%9C%EB%8D%94%EB%9F%AC%EC%9A%B4%20%EB%8F%88%EC%97%90%20%EC%86%90%EB%8C%80%EC%A7%80%20%EB%A7%88%EB%9D%BC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F09%2Fdirty_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0913%2F13_48_58__66e3c43ad146f%5BX640%2C480%5D.png&amp;title=%EF%BC%9C%EB%8D%94%EB%9F%AC%EC%9A%B4%20%EB%8F%88%EC%97%90%20%EC%86%90%EB%8C%80%EC%A7%80%20%EB%A7%88%EB%9D%BC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=46791">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F09%2Fdirty_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0913%2F13_48_58__66e3c43ad146f%5BX640%2C480%5D.png&amp;title=%EF%BC%9C%EB%8D%94%EB%9F%AC%EC%9A%B4%20%EB%8F%88%EC%97%90%20%EC%86%90%EB%8C%80%EC%A7%80%20%EB%A7%88%EB%9D%BC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/09/dirty_mtr.mp4">
+						<img src="https://image.cine21.com/resize/cine21/movie/2024/0913/13_48_58__66e3c43ad146f[X211,130].png" alt="" class="thumb">
+						<span class="title">＜더러운 돈에 손대지 마라＞ 메인 예고편</span>
+						<span class="date">2024-09-13</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0913/13_48_58__66e3c43ad146f[X211,130].png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[＜대도시의 사랑법＞ 대도시의 생존 가이드 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F09%2Fctluv_csmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0913%2F13_40_03__66e3c223051c5%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EB%8C%80%EB%8F%84%EC%8B%9C%EC%9D%98%20%EC%82%AC%EB%9E%91%EB%B2%95%EF%BC%9E%20%EB%8C%80%EB%8F%84%EC%8B%9C%EC%9D%98%20%EC%83%9D%EC%A1%B4%20%EA%B0%80%EC%9D%B4%EB%93%9C</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F09%2Fctluv_csmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0913%2F13_40_03__66e3c223051c5%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EB%8C%80%EB%8F%84%EC%8B%9C%EC%9D%98%20%EC%82%AC%EB%9E%91%EB%B2%95%EF%BC%9E%20%EB%8C%80%EB%8F%84%EC%8B%9C%EC%9D%98%20%EC%83%9D%EC%A1%B4%20%EA%B0%80%EC%9D%B4%EB%93%9C</guid>
+            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=46790">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F09%2Fctluv_csmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fresize%2Fcine21%2Fmovie%2F2024%2F0913%2F13_40_03__66e3c223051c5%5BX640%2C480%5D.jpg&amp;title=%EF%BC%9C%EB%8C%80%EB%8F%84%EC%8B%9C%EC%9D%98%20%EC%82%AC%EB%9E%91%EB%B2%95%EF%BC%9E%20%EB%8C%80%EB%8F%84%EC%8B%9C%EC%9D%98%20%EC%83%9D%EC%A1%B4%20%EA%B0%80%EC%9D%B4%EB%93%9C" data-url="/cine21.com/movie/making/2024/09/ctluv_csmk.mp4">
+						<img src="https://image.cine21.com/resize/cine21/movie/2024/0913/13_40_03__66e3c223051c5[X211,130].jpg" alt="" class="thumb">
+						<span class="title">＜대도시의 사랑법＞ 대도시의 생존 가이드</span>
+						<span class="date">2024-09-13</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0913/13_40_03__66e3c223051c5[X211,130].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[＜비긴 어게인＞ 10주년 기념 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F09%2Fbegin_10mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F824%2F66e28bf18a04b.jpg&amp;title=%EF%BC%9C%EB%B9%84%EA%B8%B4%20%EC%96%B4%EA%B2%8C%EC%9D%B8%EF%BC%9E%2010%EC%A3%BC%EB%85%84%20%EA%B8%B0%EB%85%90%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
             <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F09%2Fbegin_10mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F824%2F66e28bf18a04b.jpg&amp;title=%EF%BC%9C%EB%B9%84%EA%B8%B4%20%EC%96%B4%EA%B2%8C%EC%9D%B8%EF%BC%9E%2010%EC%A3%BC%EB%85%84%20%EA%B8%B0%EB%85%90%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
@@ -3989,84 +4067,6 @@
 						<span class="date">2024-09-10</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/429/66dfa32f28fff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜6시간 후 너는 죽는다＞ 런칭 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F09%2Fsix_lttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F500%2F66dfa32b04977.jpg&amp;title=%EF%BC%9C6%EC%8B%9C%EA%B0%84%20%ED%9B%84%20%EB%84%88%EB%8A%94%20%EC%A3%BD%EB%8A%94%EB%8B%A4%EF%BC%9E%20%EB%9F%B0%EC%B9%AD%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F09%2Fsix_lttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F500%2F66dfa32b04977.jpg&amp;title=%EF%BC%9C6%EC%8B%9C%EA%B0%84%20%ED%9B%84%20%EB%84%88%EB%8A%94%20%EC%A3%BD%EB%8A%94%EB%8B%A4%EF%BC%9E%20%EB%9F%B0%EC%B9%AD%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=46776">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F09%2Fsix_lttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F500%2F66dfa32b04977.jpg&amp;title=%EF%BC%9C6%EC%8B%9C%EA%B0%84%20%ED%9B%84%20%EB%84%88%EB%8A%94%20%EC%A3%BD%EB%8A%94%EB%8B%A4%EF%BC%9E%20%EB%9F%B0%EC%B9%AD%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/09/six_lttr.mp4">
-						<img src="https://image.cine21.com/crop/data/500/66dfa32b04977.jpg" alt="" class="thumb">
-						<span class="title">＜6시간 후 너는 죽는다＞ 런칭 예고편</span>
-						<span class="date">2024-09-10</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/500/66dfa32b04977.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜캐시 아웃＞ 슈퍼카 파가니 절도 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F09%2Fcash_spmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F491%2F66df9796e7660.jpg&amp;title=%EF%BC%9C%EC%BA%90%EC%8B%9C%20%EC%95%84%EC%9B%83%EF%BC%9E%20%EC%8A%88%ED%8D%BC%EC%B9%B4%20%ED%8C%8C%EA%B0%80%EB%8B%88%20%EC%A0%88%EB%8F%84%20%EC%98%81%EC%83%81</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F09%2Fcash_spmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F491%2F66df9796e7660.jpg&amp;title=%EF%BC%9C%EC%BA%90%EC%8B%9C%20%EC%95%84%EC%9B%83%EF%BC%9E%20%EC%8A%88%ED%8D%BC%EC%B9%B4%20%ED%8C%8C%EA%B0%80%EB%8B%88%20%EC%A0%88%EB%8F%84%20%EC%98%81%EC%83%81</guid>
-            <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=46774">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F09%2Fcash_spmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F491%2F66df9796e7660.jpg&amp;title=%EF%BC%9C%EC%BA%90%EC%8B%9C%20%EC%95%84%EC%9B%83%EF%BC%9E%20%EC%8A%88%ED%8D%BC%EC%B9%B4%20%ED%8C%8C%EA%B0%80%EB%8B%88%20%EC%A0%88%EB%8F%84%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2024/09/cash_spmk.mp4">
-						<img src="https://image.cine21.com/crop/data/491/66df9796e7660.jpg" alt="" class="thumb">
-						<span class="title">＜캐시 아웃＞ 슈퍼카 파가니 절도 영상</span>
-						<span class="date">2024-09-10</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/491/66df9796e7660.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜패션 오브 크라이스트＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F09%2Fchrist_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F206%2F66df95ee86686.jpg&amp;title=%EF%BC%9C%ED%8C%A8%EC%85%98%20%EC%98%A4%EB%B8%8C%20%ED%81%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4%ED%8A%B8%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F09%2Fchrist_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F206%2F66df95ee86686.jpg&amp;title=%EF%BC%9C%ED%8C%A8%EC%85%98%20%EC%98%A4%EB%B8%8C%20%ED%81%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4%ED%8A%B8%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=46773">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F09%2Fchrist_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F206%2F66df95ee86686.jpg&amp;title=%EF%BC%9C%ED%8C%A8%EC%85%98%20%EC%98%A4%EB%B8%8C%20%ED%81%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4%ED%8A%B8%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/09/christ_mtr.mp4">
-						<img src="https://image.cine21.com/crop/data/206/66df95ee86686.jpg" alt="" class="thumb">
-						<span class="title">＜패션 오브 크라이스트＞ 메인 예고편</span>
-						<span class="date">2024-09-10</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/206/66df95ee86686.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜와일드 로봇＞ 애니메이션 명가 드림웍스의 새로운 야심작! (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F09%2Fwild_dwmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F978%2F66de92d089210.jpg&amp;title=%EF%BC%9C%EC%99%80%EC%9D%BC%EB%93%9C%20%EB%A1%9C%EB%B4%87%EF%BC%9E%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%20%EB%AA%85%EA%B0%80%20%EB%93%9C%EB%A6%BC%EC%9B%8D%EC%8A%A4%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%95%BC%EC%8B%AC%EC%9E%91!</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F09%2Fwild_dwmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F978%2F66de92d089210.jpg&amp;title=%EF%BC%9C%EC%99%80%EC%9D%BC%EB%93%9C%20%EB%A1%9C%EB%B4%87%EF%BC%9E%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%20%EB%AA%85%EA%B0%80%20%EB%93%9C%EB%A6%BC%EC%9B%8D%EC%8A%A4%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%95%BC%EC%8B%AC%EC%9E%91!</guid>
-            <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=46771">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F09%2Fwild_dwmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F978%2F66de92d089210.jpg&amp;title=%EF%BC%9C%EC%99%80%EC%9D%BC%EB%93%9C%20%EB%A1%9C%EB%B4%87%EF%BC%9E%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%20%EB%AA%85%EA%B0%80%20%EB%93%9C%EB%A6%BC%EC%9B%8D%EC%8A%A4%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%95%BC%EC%8B%AC%EC%9E%91!" data-url="/cine21.com/movie/making/2024/09/wild_dwmk.mp4">
-						<img src="https://image.cine21.com/crop/data/978/66de92d089210.jpg" alt="" class="thumb">
-						<span class="title">＜와일드 로봇＞ 애니메이션 명가 드림웍스의 새로운 야심작!</span>
-						<span class="date">2024-09-09</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/978/66de92d089210.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜스픽 노 이블＞ 쉿! 키워드로 말해요 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F09%2Fspeak_kwmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F165%2F66de8d173f7fd.jpg&amp;title=%EF%BC%9C%EC%8A%A4%ED%94%BD%20%EB%85%B8%20%EC%9D%B4%EB%B8%94%EF%BC%9E%20%EC%89%BF!%20%ED%82%A4%EC%9B%8C%EB%93%9C%EB%A1%9C%20%EB%A7%90%ED%95%B4%EC%9A%94</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F09%2Fspeak_kwmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F165%2F66de8d173f7fd.jpg&amp;title=%EF%BC%9C%EC%8A%A4%ED%94%BD%20%EB%85%B8%20%EC%9D%B4%EB%B8%94%EF%BC%9E%20%EC%89%BF!%20%ED%82%A4%EC%9B%8C%EB%93%9C%EB%A1%9C%20%EB%A7%90%ED%95%B4%EC%9A%94</guid>
-            <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=46770">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F09%2Fspeak_kwmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F165%2F66de8d173f7fd.jpg&amp;title=%EF%BC%9C%EC%8A%A4%ED%94%BD%20%EB%85%B8%20%EC%9D%B4%EB%B8%94%EF%BC%9E%20%EC%89%BF!%20%ED%82%A4%EC%9B%8C%EB%93%9C%EB%A1%9C%20%EB%A7%90%ED%95%B4%EC%9A%94" data-url="/cine21.com/movie/making/2024/09/speak_kwmk.mp4">
-						<img src="https://image.cine21.com/crop/data/165/66de8d173f7fd.jpg" alt="" class="thumb">
-						<span class="title">＜스픽 노 이블＞ 쉿! 키워드로 말해요</span>
-						<span class="date">2024-09-09</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/165/66de8d173f7fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜스픽 노 이블＞ ‘쎄믈리에 감지’ 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F09%2Fspeak_samk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F358%2F66de8bab4ef7e.jpg&amp;title=%EF%BC%9C%EC%8A%A4%ED%94%BD%20%EB%85%B8%20%EC%9D%B4%EB%B8%94%EF%BC%9E%20%E2%80%98%EC%8E%84%EB%AF%88%EB%A6%AC%EC%97%90%20%EA%B0%90%EC%A7%80%E2%80%99%20%EC%98%81%EC%83%81</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F09%2Fspeak_samk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F358%2F66de8bab4ef7e.jpg&amp;title=%EF%BC%9C%EC%8A%A4%ED%94%BD%20%EB%85%B8%20%EC%9D%B4%EB%B8%94%EF%BC%9E%20%E2%80%98%EC%8E%84%EB%AF%88%EB%A6%AC%EC%97%90%20%EA%B0%90%EC%A7%80%E2%80%99%20%EC%98%81%EC%83%81</guid>
-            <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=46769">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F09%2Fspeak_samk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F358%2F66de8bab4ef7e.jpg&amp;title=%EF%BC%9C%EC%8A%A4%ED%94%BD%20%EB%85%B8%20%EC%9D%B4%EB%B8%94%EF%BC%9E%20%E2%80%98%EC%8E%84%EB%AF%88%EB%A6%AC%EC%97%90%20%EA%B0%90%EC%A7%80%E2%80%99%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2024/09/speak_samk.mp4">
-						<img src="https://image.cine21.com/crop/data/358/66de8bab4ef7e.jpg" alt="" class="thumb">
-						<span class="title">＜스픽 노 이블＞ ‘쎄믈리에 감지’ 영상</span>
-						<span class="date">2024-09-09</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/358/66de8bab4ef7e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
