@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Sep 2024 15:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 16:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -57,15 +57,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0911/11_38_08__66e102906cbea[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <트랩> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8388</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8388</guid>
-            <pubDate>Wed, 11 Sep 2024 04:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-09-19 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0911/11_35_35__66e101f7dc85b[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[도서 <나는 포기를 모른다> 기대평 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8387</link>
             <guid>http://www.cine21.com/event/view/?event_no=8387</guid>
@@ -73,17 +64,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-09-20 10:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0904/10_37_56__66d7b9f40e36c[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <해야 할 일> 시사회 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8386</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8386</guid>
-            <pubDate>Mon, 02 Sep 2024 06:39:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-09-21 13:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>인디스페이스</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-09-19 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0902/15_04_18__66d55562c5588[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

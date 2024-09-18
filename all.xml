@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Sep 2024 15:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 16:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2710,28 +2710,28 @@
             <enclosure url="https://image.cine21.com/crop/data/300/66b55ec8ce7b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[새벽의 모든 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61536</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61536</guid>
+            <pubDate>Tue, 10 Sep 2024 16:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0828/11_11_05__66ce8739204ef[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[테인티드 러브 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61713</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61713</guid>
+            <pubDate>Tue, 10 Sep 2024 16:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0823/16_06_59__66c835131d0b6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[수유천 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61729</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61729</guid>
             <pubDate>Tue, 03 Sep 2024 16:34:27 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0823/15_36_15__66c82ddfbd5a1[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑의 탐구 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61712</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61712</guid>
-            <pubDate>Wed, 04 Sep 2024 12:40:28 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0823/16_43_44__66c83db0c93a4[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트랩 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61741</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61741</guid>
-            <pubDate>Fri, 30 Aug 2024 06:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0910/10_42_57__66dfa421a898c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비긴 어게인 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2742,12 +2742,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0820/14_20_00__66c42780df4d9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세 가지 색: 레드 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=2111</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=2111</guid>
-            <pubDate>Wed, 04 Sep 2024 16:29:21 GMT</pubDate>
+            <title><![CDATA[사랑의 탐구 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61712</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61712</guid>
+            <pubDate>Wed, 04 Sep 2024 12:40:28 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0826/14_39_36__66cc151832f48[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0823/16_43_44__66c83db0c93a4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정국: 아이 엠 스틸 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2756,6 +2756,22 @@
             <pubDate>Tue, 03 Sep 2024 16:34:27 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0828/13_56_59__66ceae1b046c5[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세 가지 색: 레드 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=2111</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=2111</guid>
+            <pubDate>Wed, 04 Sep 2024 16:29:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0826/14_39_36__66cc151832f48[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트랩 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61741</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61741</guid>
+            <pubDate>Fri, 30 Aug 2024 06:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0910/10_42_57__66dfa421a898c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판 이치케이의 까마귀 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2813,12 +2829,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0828/15_26_02__66cec2fa66e9b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세 가지 색: 화이트 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=2106</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=2106</guid>
-            <pubDate>Tue, 03 Sep 2024 16:34:27 GMT</pubDate>
+            <title><![CDATA[그녀에게 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61702</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61702</guid>
+            <pubDate>Tue, 03 Sep 2024 03:24:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-09-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0826/14_42_55__66cc15df05796[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0808/11_20_43__66b42b7b12cc3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여름이 끝날 무렵의 라트라비아타 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -2829,44 +2845,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0814/14_22_15__66bc3f0729c6f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스픽 노 이블 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61433</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61433</guid>
-            <pubDate>Tue, 27 Aug 2024 16:28:15 GMT</pubDate>
+            <title><![CDATA[세 가지 색: 화이트 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=2106</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=2106</guid>
+            <pubDate>Tue, 03 Sep 2024 16:34:27 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-09-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0726/17_20_59__66a35c6b00a16[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장손 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61149</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61149</guid>
-            <pubDate>Wed, 28 Aug 2024 06:28:42 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0821/14_16_18__66c5782235636[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그녀에게 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61702</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61702</guid>
-            <pubDate>Tue, 03 Sep 2024 03:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0808/11_20_43__66b42b7b12cc3[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테인티드 러브 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61713</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61713</guid>
-            <pubDate>Tue, 10 Sep 2024 16:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0823/16_06_59__66c835131d0b6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새벽의 모든 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61536</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61536</guid>
-            <pubDate>Tue, 10 Sep 2024 16:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0828/11_11_05__66ce8739204ef[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0826/14_42_55__66cc15df05796[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안드리스 넬슨스 & 빈 필하모닉 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2876,28 +2860,12 @@
             <content:encoded><![CDATA[개봉 : 2024-09-21]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[극장총집편 봇치 더 록! 후편 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61731</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61731</guid>
-            <pubDate>Fri, 13 Sep 2024 07:20:48 GMT</pubDate>
+            <title><![CDATA[패션 오브 크라이스트 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=8579</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=8579</guid>
+            <pubDate>Fri, 13 Sep 2024 15:19:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-09-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0903/16_16_48__66d6b7e0b6fbb[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해야 할 일 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60918</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60918</guid>
-            <pubDate>Sun, 15 Sep 2024 15:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0813/17_31_38__66bb19ea6ff91[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마녀들의 카니발 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61737</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61737</guid>
-            <pubDate>Wed, 11 Sep 2024 09:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0905/12_11_29__66d921612505f[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0820/18_05_28__66c45c58d894e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑소시스트: 더 데빌 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2924,14 +2892,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0913/14_01_23__66e3c7239e450[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[태용: 티와이 트랙 인 시네마 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61756</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61756</guid>
-            <pubDate>Thu, 12 Sep 2024 16:30:15 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-09-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0906/13_43_19__66da8867e999a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[트랜스포머 ONE (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61458</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61458</guid>
@@ -2940,20 +2900,36 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0820/13_47_38__66c41feaa4cea[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[독립시대 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=16678</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=16678</guid>
-            <pubDate>Sun, 15 Sep 2024 15:21:34 GMT</pubDate>
+            <title><![CDATA[마녀들의 카니발 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61737</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61737</guid>
+            <pubDate>Wed, 11 Sep 2024 09:29:27 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-09-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0904/14_16_07__66d7ed17b98b6[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0905/12_11_29__66d921612505f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국외자들 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=9683</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=9683</guid>
+            <title><![CDATA[해야 할 일 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60918</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60918</guid>
             <pubDate>Sun, 15 Sep 2024 15:21:34 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-09-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0913/16_29_35__66e3e9dfbcf5d[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0813/17_31_38__66bb19ea6ff91[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태용: 티와이 트랙 인 시네마 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61756</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61756</guid>
+            <pubDate>Thu, 12 Sep 2024 16:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0906/13_43_19__66da8867e999a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극장총집편 봇치 더 록! 후편 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61731</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61731</guid>
+            <pubDate>Fri, 13 Sep 2024 07:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0903/16_16_48__66d6b7e0b6fbb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[줄리엣, 네이키드 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2964,12 +2940,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0910/10_48_58__66dfa58a42405[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[패션 오브 크라이스트 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=8579</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=8579</guid>
-            <pubDate>Fri, 13 Sep 2024 15:19:19 GMT</pubDate>
+            <title><![CDATA[국외자들 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=9683</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=9683</guid>
+            <pubDate>Sun, 15 Sep 2024 15:21:34 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-09-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0820/18_05_28__66c45c58d894e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0913/16_29_35__66e3e9dfbcf5d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독립시대 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=16678</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=16678</guid>
+            <pubDate>Sun, 15 Sep 2024 15:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-09-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0904/14_16_07__66d7ed17b98b6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 커버넌트 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2988,12 +2972,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0909/18_15_28__66debcb049846[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[극장판 엉덩이 탐정: 안녕, 나의 영원한 친구 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61732</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61732</guid>
+            <pubDate>Wed, 18 Sep 2024 16:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-10-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0904/18_19_16__66d826140ef46[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[대도시의 사랑법 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60739</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60739</guid>
             <pubDate>Tue, 17 Sep 2024 16:22:20 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-10-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0913/13_22_03__66e3bdebc1ae6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[와일드 로봇 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61327</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61327</guid>
+            <pubDate>Wed, 18 Sep 2024 16:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-10-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0905/15_43_14__66d953026f6bb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애니멀 킹덤 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3462,15 +3462,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0911/11_38_08__66e102906cbea[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 <트랩> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8388</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8388</guid>
-            <pubDate>Wed, 11 Sep 2024 04:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-09-19 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0911/11_35_35__66e101f7dc85b[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[도서 <나는 포기를 모른다> 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8387</link>
             <guid>http://www.cine21.com/event/view/?event_no=8387</guid>
@@ -3478,17 +3469,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-09-20 10:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0904/10_37_56__66d7b9f40e36c[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <해야 할 일> 시사회 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8386</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8386</guid>
-            <pubDate>Mon, 02 Sep 2024 06:39:32 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-09-21 13:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>인디스페이스</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-09-19 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0902/15_04_18__66d55562c5588[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 <사랑의 탐구> 시사회 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
