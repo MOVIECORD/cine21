@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-09-19T23:30:40.518Z</updated>
+    <updated>2024-09-20T01:18:48.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도서 <나는 포기를 모른다> 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8825&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8825&amp;p=1"/>
+        <updated>2024-09-20T01:04:03.180Z</updated>
+        <content type="html"><![CDATA[8825]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <트랩> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8824&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8811&amp;p=1"/>
         <updated>2024-08-26T02:09:51.835Z</updated>
         <content type="html"><![CDATA[8811]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <더블플롯> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8810&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8810&amp;p=1"/>
-        <updated>2024-08-22T02:09:36.336Z</updated>
-        <content type="html"><![CDATA[8810]]></content>
     </entry>
 </feed>
