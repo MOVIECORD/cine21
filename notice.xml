@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-09-23T04:31:10.990Z</updated>
+    <updated>2024-09-23T05:22:18.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <옥탑방고양이> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8829&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8829&amp;p=1"/>
+        <updated>2024-09-23T05:15:34.097Z</updated>
+        <content type="html"><![CDATA[8829]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤직드라마 <불편한 편의점> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8828&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8828&amp;p=1"/>
+        <updated>2024-09-23T05:15:34.097Z</updated>
+        <content type="html"><![CDATA[8828]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <오백에 삼십> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8827&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8827&amp;p=1"/>
+        <updated>2024-09-23T05:15:34.097Z</updated>
+        <content type="html"><![CDATA[8827]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <극장판 엉덩이 탐정: 안녕, 나의 영원한 친구> 시사회 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8826&amp;p=1</id>
@@ -88,26 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8815&amp;p=1"/>
         <updated>2024-08-29T05:13:50.819Z</updated>
         <content type="html"><![CDATA[8815]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <그 여름날의 거짓말> 시사회 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8814&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8814&amp;p=1"/>
-        <updated>2024-08-26T03:17:16.567Z</updated>
-        <content type="html"><![CDATA[8814]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <한국이 싫어서> 시사회 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8813&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8813&amp;p=1"/>
-        <updated>2024-08-26T02:09:51.832Z</updated>
-        <content type="html"><![CDATA[8813]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <올스타 보잉보잉> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8812&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8812&amp;p=1"/>
-        <updated>2024-08-26T02:09:51.834Z</updated>
-        <content type="html"><![CDATA[8812]]></content>
     </entry>
 </feed>
