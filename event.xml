@@ -1,8 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cine21.com/event/list</id>
-    <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
-    <updated>2024-09-24T04:38:23.864Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cine21.com/event/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 24 Sep 2024 05:22:24 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도서 <트리플 세븐> 증정 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8396</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8396</guid>
+            <pubDate>Tue, 24 Sep 2024 05:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-10-02 11:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0923/11_27_38__66f0d21abf8f1[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 <보통의 가족> 시사회 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8395</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8395</guid>
+            <pubDate>Tue, 24 Sep 2024 05:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-10-07 19:30</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>메가박스 코엑스</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>50 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-10-02 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0923/11_25_26__66f0d196abd26[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <늘근도둑 이야기> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8394</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8394</guid>
+            <pubDate>Tue, 24 Sep 2024 05:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>30 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-09-26 10:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0919/10_54_13__66eb844548b37[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 <위국일기> 시사회 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8393</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8393</guid>
+            <pubDate>Tue, 24 Sep 2024 05:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-09-30 19:30</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-09-25 11:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0913/11_44_53__66e3a7251d031[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
