@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Sep 2024 05:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Sep 2024 06:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -180,21 +180,6 @@
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[청설]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61733</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61733</guid>
-            <pubDate>Wed, 28 Aug 2024 08:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">청설</span>
-		
-
-									<span class="director">감독 : 조선호</span>
-											<span class="actor">배우 : 홍경,노윤서</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[수퍼 소닉3]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61738</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61738</guid>
@@ -239,6 +224,21 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0922/17_49_38__650d5522a1c2a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여공의 밤]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60884</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60884</guid>
+            <pubDate>Wed, 25 Sep 2024 06:26:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">여공의 밤</span>
+		
+
+									<span class="director">감독 : 김건희</span>
+				
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0922/17_31_57__650d50fd0696c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사흘(가제)]]></title>
