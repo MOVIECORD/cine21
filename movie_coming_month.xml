@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Sep 2024 08:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Sep 2024 09:29:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -75,6 +75,13 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[서브스턴스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61579</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61579</guid>
+            <pubDate>Wed, 25 Sep 2024 09:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[아침바다 갈매기는]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61742</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61742</guid>
@@ -137,14 +144,6 @@
             <pubDate>Tue, 24 Sep 2024 02:55:18 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0614/15_31_15__666be3b359195[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭설]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61435</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61435</guid>
-            <pubDate>Fri, 13 Sep 2024 07:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0906/17_32_31__66dabe1f8a290[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
