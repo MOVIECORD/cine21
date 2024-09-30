@@ -4,16 +4,9 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Sep 2024 04:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 05:25:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[매쉬빌]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
-            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[신사: 악귀의 속삭임]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61320</link>
@@ -83,10 +76,25 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[보고타: 마지막 기회의 땅]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57542</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57542</guid>
+            <pubDate>Mon, 30 Sep 2024 05:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/0609/11_18_55__60c0250fafe22[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서브스턴스]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61579</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61579</guid>
             <pubDate>Wed, 25 Sep 2024 09:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[매쉬빌]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
+            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
@@ -120,14 +128,6 @@
             <pubDate>Thu, 26 Sep 2024 07:19:38 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0912/11_08_03__66e24d03e9788[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭설]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61435</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61435</guid>
-            <pubDate>Thu, 26 Sep 2024 07:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0906/17_32_31__66dabe1f8a290[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내일 없는 사랑]]></title>
