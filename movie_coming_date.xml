@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 05:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 06:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -141,6 +141,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=61799</guid>
             <pubDate>Mon, 30 Sep 2024 15:24:17 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-10-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1002/14_48_02__66fcde92c267e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구룡성채: 무법지대]]></title>
