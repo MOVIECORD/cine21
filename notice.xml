@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-10-02T01:19:20.230Z</updated>
+    <updated>2024-10-02T02:52:32.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <너의 색> 예매권 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8835&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8835&amp;p=1"/>
+        <updated>2024-10-02T02:46:14.284Z</updated>
+        <content type="html"><![CDATA[8835]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <잠자리 구하기> 시사회 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8834&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8834&amp;p=1"/>
+        <updated>2024-10-02T02:46:14.284Z</updated>
+        <content type="html"><![CDATA[8834]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도서 <트리플 세븐> 증정 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8833&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8833&amp;p=1"/>
+        <updated>2024-10-02T02:46:14.284Z</updated>
+        <content type="html"><![CDATA[8833]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <보통의 가족> 시사회 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8832&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8832&amp;p=1"/>
+        <updated>2024-10-02T02:46:14.284Z</updated>
+        <content type="html"><![CDATA[8832]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <늘근도둑 이야기> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8831&amp;p=1</id>
@@ -81,33 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8821&amp;p=1"/>
         <updated>2024-09-09T02:43:38.240Z</updated>
         <content type="html"><![CDATA[8821]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <여름이 끝날 무렵의 라트라비아타> 시사회 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8820&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8820&amp;p=1"/>
-        <updated>2024-09-05T02:40:08.812Z</updated>
-        <content type="html"><![CDATA[8820]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <캐시 아웃> 시사회 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8819&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8819&amp;p=1"/>
-        <updated>2024-09-05T02:40:08.815Z</updated>
-        <content type="html"><![CDATA[8819]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <새벽의 모든> 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8818&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8818&amp;p=1"/>
-        <updated>2024-09-04T02:39:19.877Z</updated>
-        <content type="html"><![CDATA[8818]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <장손> 시사회 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8817&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8817&amp;p=1"/>
-        <updated>2024-09-02T02:41:51.510Z</updated>
-        <content type="html"><![CDATA[8817]]></content>
     </entry>
 </feed>
