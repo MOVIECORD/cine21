@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Oct 2024 23:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 01:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,21 +226,6 @@
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[되살아나는 목소리]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60886</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60886</guid>
-            <pubDate>Tue, 09 Jul 2024 11:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">되살아나는 목소리</span>
-		
-
-									<span class="director">감독 : 박수남,박마의</span>
-				
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2023/0922/17_49_38__650d5522a1c2a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[사흘(가제)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=55922</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=55922</guid>
@@ -282,6 +267,21 @@
 
 									<span class="director">감독 : 김형주</span>
 											<span class="actor">배우 : 유아인,이병헌</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비광]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57492</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57492</guid>
+            <pubDate>Mon, 07 Oct 2024 01:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">비광</span>
+		
+
+									<span class="director">감독 : 이지원</span>
+											<span class="actor">배우 : 류승룡,하지원</span>
 		
 		
 							<span class="btn_detail">자세히 보기</span>
