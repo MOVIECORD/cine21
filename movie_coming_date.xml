@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 01:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 03:06:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0911/16_44_38__66e14a66695da[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[동경의 황혼]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=16754</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=16754</guid>
-            <pubDate>Fri, 27 Sep 2024 16:25:16 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-10-09]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0919/09_53_20__66eb7600e0786[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[노트북]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=8822</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=8822</guid>
             <pubDate>Thu, 26 Sep 2024 02:51:52 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-10-09]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0925/10_24_50__66f366620e8c0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동경의 황혼]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=16754</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=16754</guid>
+            <pubDate>Fri, 27 Sep 2024 16:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-10-09]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0919/09_53_20__66eb7600e0786[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너의 색]]></title>
@@ -72,12 +72,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0911/11_19_20__66e0fe2800e71[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우리는 천국에 갈 순 없지만 사랑은 할 수 있겠지]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61250</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61250</guid>
-            <pubDate>Mon, 30 Sep 2024 15:24:17 GMT</pubDate>
+            <title><![CDATA[엘리자벳: 더 뮤지컬 라이브]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61804</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61804</guid>
+            <pubDate>Wed, 02 Oct 2024 16:24:52 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-10-16]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1002/17_47_29__66fd08a1e008f[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1004/16_50_26__66ff9e42d973e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잠자리 구하기]]></title>
@@ -86,6 +86,22 @@
             <pubDate>Tue, 01 Oct 2024 17:18:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-10-16]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0925/10_53_23__66f36d1384eef[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스마일 2]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61596</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61596</guid>
+            <pubDate>Tue, 01 Oct 2024 17:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-10-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0703/16_06_12__6684f864a8c4e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리는 천국에 갈 순 없지만 사랑은 할 수 있겠지]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61250</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61250</guid>
+            <pubDate>Mon, 30 Sep 2024 15:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-10-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1002/17_47_29__66fd08a1e008f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구룡성채: 무법지대]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 01 Oct 2024 17:18:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-10-16]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0926/14_56_17__66f4f781b32a9[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리자벳: 더 뮤지컬 라이브]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61804</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61804</guid>
-            <pubDate>Wed, 02 Oct 2024 16:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-10-16]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1004/16_50_26__66ff9e42d973e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스마일 2]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61596</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61596</guid>
-            <pubDate>Tue, 01 Oct 2024 17:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-10-16]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0703/16_06_12__6684f864a8c4e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
