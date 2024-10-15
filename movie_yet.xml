@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 07:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 08:32:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,21 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1008/14_22_43__6704c1a3db3c7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[모든 점]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61814</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61814</guid>
+            <pubDate>Tue, 15 Oct 2024 08:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">모든 점</span>
+		
+
+									<span class="director">감독 : 이소정</span>
+				
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1010/14_30_51__6707668b767e3[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[열대야]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61457</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61457</guid>
@@ -223,22 +238,6 @@
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[3억:살인게임]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61549</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61549</guid>
-            <pubDate>Tue, 08 Oct 2024 22:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">3억:살인게임</span>
-		
-
-									<span class="director">감독 : 조지훈</span>
-											<span class="actor">배우 : 정영재,석정현</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0612/03_38_27__666899a397089[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소방관]]></title>
