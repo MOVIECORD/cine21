@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 06:35:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 07:26:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -107,14 +107,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0813/09_57_33__66baaf7de7016[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공작새]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59796</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59796</guid>
-            <pubDate>Wed, 02 Oct 2024 11:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0927/15_51_47__66f65603e9971[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아이브 더 퍼스트 월드투어 인 시네마]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61796</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61796</guid>
@@ -131,6 +123,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0903/16_00_07__66d6b3f7a525c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[공작새]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59796</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59796</guid>
+            <pubDate>Wed, 02 Oct 2024 11:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0927/15_51_47__66f65603e9971[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[컬트 시카리오]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61807</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61807</guid>
@@ -139,12 +139,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1004/16_30_02__66ff997a8f20c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[클로즈 유어 아이즈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61811</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61811</guid>
-            <pubDate>Tue, 15 Oct 2024 06:31:02 GMT</pubDate>
+            <title><![CDATA[데드라인]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61809</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61809</guid>
+            <pubDate>Tue, 15 Oct 2024 07:22:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1008/10_34_01__67048c0940ac5[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1004/17_41_48__66ffaa4cabba6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

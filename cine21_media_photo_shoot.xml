@@ -4,9 +4,25 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 06:35:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 07:26:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가수							재현 
+							(총2장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=103781</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=103781</guid>
+            <pubDate>Tue, 15 Oct 2024 07:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=103781">
+<!--						<img src="https://image.cine21.com/resize/cine21/movie/2024/1015/15_50_45__670e10c5ca05c[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/780/670e10f1dca8e.jpg" alt="" class="thumb">
+						<span class="caption">
+							가수							<strong>재현</strong> 
+							<span class="num">(총2장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/780/670e10f1dca8e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우							임세미 
 							(총2장)]]></title>
@@ -166,22 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/356/66c85285c8c73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감독							추창민 
-							(총7장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=10416</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=10416</guid>
-            <pubDate>Fri, 23 Aug 2024 09:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=10416">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/0823/17_33_53__66c849714b6e6[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/crop/data/861/66c852844994b.jpg" alt="" class="thumb">
-						<span class="caption">
-							감독							<strong>추창민</strong> 
-							<span class="num">(총7장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/861/66c852844994b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
