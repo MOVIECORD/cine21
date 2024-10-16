@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 10:29:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 11:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1007/10_05_08__670333c45963c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마이펫의 컴백홈 어드벤처]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61801</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61801</guid>
-            <pubDate>Wed, 16 Oct 2024 04:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-10-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1015/15_41_33__670e0e9d32bcc[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[룸 넥스트 도어]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61788</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61788</guid>
             <pubDate>Wed, 16 Oct 2024 04:30:16 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-10-23]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1008/14_48_21__6704c7a597d5f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이펫의 컴백홈 어드벤처]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61801</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61801</guid>
+            <pubDate>Wed, 16 Oct 2024 04:30:16 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-10-23]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1015/15_41_33__670e0e9d32bcc[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베놈: 라스트 댄스]]></title>

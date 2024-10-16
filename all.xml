@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 10:29:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 11:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2880,20 +2880,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1007/10_05_08__670333c45963c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마이펫의 컴백홈 어드벤처 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61801</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61801</guid>
-            <pubDate>Wed, 16 Oct 2024 04:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-10-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1015/15_41_33__670e0e9d32bcc[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[룸 넥스트 도어 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61788</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61788</guid>
             <pubDate>Wed, 16 Oct 2024 04:30:16 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-10-23]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1008/14_48_21__6704c7a597d5f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이펫의 컴백홈 어드벤처 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61801</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61801</guid>
+            <pubDate>Wed, 16 Oct 2024 04:30:16 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-10-23]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1015/15_41_33__670e0e9d32bcc[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베놈: 라스트 댄스 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3416,11 +3416,20 @@
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[연극 <옥탑방 고양이> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8412</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8412</guid>
+            <pubDate>Wed, 16 Oct 2024 11:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-10-24 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/1016/13_07_16__670f3bf455d16[T224,320].jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[도서 <파노라마> 증정 이벤트 (씨네21 ─ 시사회&이벤트 ─ 진행중인 이벤트)]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8411</link>
             <guid>http://www.cine21.com/event/view/?event_no=8411</guid>
             <pubDate>Wed, 16 Oct 2024 03:06:01 GMT</pubDate>
-            <content:encoded><![CDATA[<p style=""><span class="tit">인원</span><span class="bar">|</span>5 명</p><div class="teads-adCall"></div>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>5 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-10-28 11:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/1016/11_45_01__670f28adf257e[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
