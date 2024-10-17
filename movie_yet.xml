@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Oct 2024 08:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 09:32:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,21 +22,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0924/55448_614d6fb3976df[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파반느]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61551</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61551</guid>
-            <pubDate>Tue, 09 Jul 2024 11:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">파반느</span>
-		
-
-									<span class="director">감독 : 이종필</span>
-											<span class="actor">배우 : 고아성,변요한</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[더 워처스]]></title>
@@ -209,6 +194,21 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1010/14_30_51__6707668b767e3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[파반느]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61551</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61551</guid>
+            <pubDate>Tue, 09 Jul 2024 11:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">파반느</span>
+		
+
+									<span class="director">감독 : 이종필</span>
+											<span class="actor">배우 : 고아성,변요한</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[열대야]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61457</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61457</guid>
@@ -240,22 +240,6 @@
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소방관]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56448</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56448</guid>
-            <pubDate>Tue, 08 Oct 2024 22:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">소방관</span>
-		
-
-									<span class="director">감독 : 곽경택</span>
-											<span class="actor">배우 : 곽도원,주원</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2020/0602/16_46_14__5ed603c6be516[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[승부]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57457</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57457</guid>
@@ -280,6 +264,21 @@
 
 									<span class="director">감독 : 이지원</span>
 											<span class="actor">배우 : 류승룡,하지원</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마이캡틴]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57530</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57530</guid>
+            <pubDate>Thu, 17 Oct 2024 09:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">마이캡틴</span>
+		
+
+									<span class="director">감독 : 최진성</span>
+											<span class="actor">배우 : 박성웅</span>
 		
 		
 							<span class="btn_detail">자세히 보기</span>
