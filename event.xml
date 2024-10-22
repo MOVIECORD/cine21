@@ -4,9 +4,27 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 16:31:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 17:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <퉁소소리> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8416</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8416</guid>
+            <pubDate>Tue, 22 Oct 2024 17:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[<p style=""><span class="tit">인원</span><span class="bar">|</span>15 명</p><div class="teads-adCall"></div>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-11-04 17:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/1022/17_02_53__67175c2d1a4e1[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <늘근도둑이야기> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8415</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8415</guid>
+            <pubDate>Tue, 22 Oct 2024 17:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>30 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-10-31 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/1022/17_00_56__67175bb8a33ec[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울국제프라이드영화제 초대권 증정 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8414</link>
@@ -53,26 +71,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>50 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-10-24 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/1016/11_43_08__670f283c4774e[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <세상 참 예쁜 오드리> 예매권 증정 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8408</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8408</guid>
-            <pubDate>Fri, 18 Oct 2024 21:27:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-10-23 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/1016/11_32_34__670f25c247851[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <리틀 엠마> 시사회 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8407</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8407</guid>
-            <pubDate>Fri, 18 Oct 2024 21:27:20 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-10-25 19:00</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-10-23 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/1015/11_15_18__670dd0365a8b3[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
