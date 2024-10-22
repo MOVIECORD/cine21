@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 07:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 08:28:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,19 +16,19 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1021/10_26_36__6715adcc06765[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신사: 악귀의 속삭임]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61320</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61320</guid>
-            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[고스트캣 앙주]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61757</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61757</guid>
             <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0913/15_18_15__66e3d927d28a7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신사: 악귀의 속삭임]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61320</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61320</guid>
+            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[대가족]]></title>
@@ -106,20 +106,12 @@
             <content:encoded><![CDATA[개봉 : 2024-11]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아침바다 갈매기는]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61742</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61742</guid>
+            <title><![CDATA[미망]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61810</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61810</guid>
             <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1021/10_18_00__6715abc885956[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4월이 되면 그녀는]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61823</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61823</guid>
-            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1022/10_51_08__6717050c158a6[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1014/15_11_52__670cb62848d19[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에드워드 호퍼]]></title>
@@ -130,12 +122,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1022/61818_671733c9016f7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미망]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61810</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61810</guid>
+            <title><![CDATA[4월이 되면 그녀는]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61823</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61823</guid>
             <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1014/15_11_52__670cb62848d19[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1022/10_51_08__6717050c158a6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아침바다 갈매기는]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61742</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61742</guid>
+            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1021/10_18_00__6715abc885956[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[킹덤4: 대장군의 귀환]]></title>
