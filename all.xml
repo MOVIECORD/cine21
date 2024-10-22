@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 03:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 03:33:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3154,7 +3154,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=61823</guid>
             <pubDate>Fri, 18 Oct 2024 12:31:34 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1015/17_01_33__670e215d632e0[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1022/10_51_08__6717050c158a6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에드워드 호퍼 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3524,6 +3524,17 @@
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/1015/11_15_18__670dd0365a8b3[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[영화 <럭키, 아파트> 시사회 기대평 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
+            <link>http://cine21.com/misc/cs/notice_view/?article_no=8843&amp;p=1</link>
+            <guid>http://cine21.com/misc/cs/notice_view/?article_no=8843&amp;p=1</guid>
+            <pubDate>Tue, 22 Oct 2024 03:31:38 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2024-10-24 20:00:00</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>메가박스 코엑스</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2024-10-22 11:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/1016/11_37_19__670f26dff0174[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <휴남동 서점> 초대 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
             <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8841&amp;p=1</link>
             <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8841&amp;p=1</guid>
@@ -3620,15 +3631,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2024-10-02 11:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0925/11_21_35__66f373af10082[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <너의 색> 시사회 예매권 이벤트 (씨네21 ─ 시사회&이벤트 ─ 당첨자 발표)]]></title>
-            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8835</link>
-            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8835</guid>
-            <pubDate>Tue, 08 Oct 2024 20:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-10-02 11:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0925/11_27_07__66f374fb643b5[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[No.1478 (씨네21 ─ 멀티미디어 ─ 커버 ─ 사진)]]></title>
@@ -3879,6 +3881,19 @@
             <enclosure url="https://image.cine21.com/crop/data/356/66c85285c8c73.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[＜4월이 되면 그녀는＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F10%2Fapril_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F905%2F6717080b37c3f.jpg&amp;title=%EF%BC%9C4%EC%9B%94%EC%9D%B4%20%EB%90%98%EB%A9%B4%20%EA%B7%B8%EB%85%80%EB%8A%94%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F10%2Fapril_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F905%2F6717080b37c3f.jpg&amp;title=%EF%BC%9C4%EC%9B%94%EC%9D%B4%20%EB%90%98%EB%A9%B4%20%EA%B7%B8%EB%85%80%EB%8A%94%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=46976">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F10%2Fapril_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F905%2F6717080b37c3f.jpg&amp;title=%EF%BC%9C4%EC%9B%94%EC%9D%B4%20%EB%90%98%EB%A9%B4%20%EA%B7%B8%EB%85%80%EB%8A%94%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/10/april_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/905/6717080b37c3f.jpg" alt="" class="thumb">
+						<span class="title">＜4월이 되면 그녀는＞ 메인 예고편</span>
+						<span class="date">2024-10-22</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/905/6717080b37c3f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[＜아노라＞ 이동진의 언택트톡 하이라이트 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F10%2Fanora_thmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F494%2F67161d6bb2f74.jpg&amp;title=%EF%BC%9C%EC%95%84%EB%85%B8%EB%9D%BC%EF%BC%9E%20%EC%9D%B4%EB%8F%99%EC%A7%84%EC%9D%98%20%EC%96%B8%ED%83%9D%ED%8A%B8%ED%86%A1%20%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8%20%EC%98%81%EC%83%81</link>
             <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F10%2Fanora_thmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F494%2F67161d6bb2f74.jpg&amp;title=%EF%BC%9C%EC%95%84%EB%85%B8%EB%9D%BC%EF%BC%9E%20%EC%9D%B4%EB%8F%99%EC%A7%84%EC%9D%98%20%EC%96%B8%ED%83%9D%ED%8A%B8%ED%86%A1%20%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8%20%EC%98%81%EC%83%81</guid>
@@ -4072,19 +4087,6 @@
 						<span class="date">2024-10-17</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/054/6710d75a460fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜청설＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F10%2Fhear_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F164%2F6710d235da7d8.jpg&amp;title=%EF%BC%9C%EC%B2%AD%EC%84%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F10%2Fhear_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F164%2F6710d235da7d8.jpg&amp;title=%EF%BC%9C%EC%B2%AD%EC%84%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=46957">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F10%2Fhear_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F164%2F6710d235da7d8.jpg&amp;title=%EF%BC%9C%EC%B2%AD%EC%84%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/10/hear_mtr.mp4">
-						<img src="https://image.cine21.com/crop/data/164/6710d235da7d8.jpg" alt="" class="thumb">
-						<span class="title">＜청설＞ 메인 예고편</span>
-						<span class="date">2024-10-17</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/164/6710d235da7d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
