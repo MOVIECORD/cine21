@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Oct 2024 10:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 11:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,19 +16,19 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1021/10_26_36__6715adcc06765[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신사: 악귀의 속삭임]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61320</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61320</guid>
-            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[고스트캣 앙주]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61757</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61757</guid>
             <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0913/15_18_15__66e3d927d28a7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신사: 악귀의 속삭임]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61320</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61320</guid>
+            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[대가족]]></title>
@@ -138,12 +138,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1018/18_07_25__6712254def4c9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 미스터리라 하지 말지어다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61828</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61828</guid>
-            <pubDate>Tue, 22 Oct 2024 09:25:38 GMT</pubDate>
+            <title><![CDATA[모래바람]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60611</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60611</guid>
+            <pubDate>Thu, 24 Oct 2024 11:20:00 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1018/17_45_11__671220172c9c8[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1010/16_54_46__670788468cc8d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
