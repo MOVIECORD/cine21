@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-10-28T05:25:11.039Z</updated>
+    <updated>2024-10-28T06:35:04.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도서 <파노라마> 증정 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8849&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8849&amp;p=1"/>
+        <updated>2024-10-28T06:22:12.942Z</updated>
+        <content type="html"><![CDATA[8849]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <뭐든 하다 보면 뭐가 되긴 해> 기대평 증정 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8848&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8835&amp;p=1"/>
         <updated>2024-10-02T02:46:14.284Z</updated>
         <content type="html"><![CDATA[8835]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <잠자리 구하기> 시사회 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8834&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8834&amp;p=1"/>
-        <updated>2024-10-02T02:46:14.284Z</updated>
-        <content type="html"><![CDATA[8834]]></content>
     </entry>
 </feed>
