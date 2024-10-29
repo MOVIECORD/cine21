@@ -4,17 +4,9 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Oct 2024 05:28:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 06:34:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[서브스턴스]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61579</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61579</guid>
-            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1021/10_26_36__6715adcc06765[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[신사: 악귀의 속삭임]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61320</link>
@@ -45,14 +37,6 @@
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고스트캣 앙주]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61757</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61757</guid>
-            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0913/15_18_15__66e3d927d28a7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[왕을 찾아서]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60181</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60181</guid>
@@ -76,12 +60,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/0609/11_18_55__60c0250fafe22[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대가족]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61760</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61760</guid>
+            <title><![CDATA[고스트캣 앙주]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61757</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61757</guid>
             <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0911/16_05_24__66e141346da59[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0913/15_18_15__66e3d927d28a7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매쉬빌]]></title>
@@ -99,20 +83,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1004/16_30_02__66ff997a8f20c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[킹덤4: 대장군의 귀환]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61791</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61791</guid>
-            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1025/16_22_11__671b47231ebbc[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아침바다 갈매기는]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61742</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61742</guid>
             <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1021/10_18_00__6715abc885956[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[킹덤4: 대장군의 귀환]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61791</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61791</guid>
+            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1025/16_22_11__671b47231ebbc[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에드워드 호퍼]]></title>
@@ -139,12 +123,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1025/15_48_40__671b3f48840b4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하얼빈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61175</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61175</guid>
-            <pubDate>Tue, 29 Oct 2024 05:24:52 GMT</pubDate>
+            <title><![CDATA[서브스턴스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61579</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61579</guid>
+            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0905/16_35_14__66d95f32e463b[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1021/10_26_36__6715adcc06765[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1승]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57339</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57339</guid>
+            <pubDate>Tue, 29 Oct 2024 06:30:35 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1021/15_48_09__6715f929789fa[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스에 기적을 만날 확률]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=8696</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=8696</guid>
+            <pubDate>Tue, 29 Oct 2024 06:30:35 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1017/10_31_08__671068dc69215[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
