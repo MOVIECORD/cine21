@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-10-30T03:34:26.700Z</updated>
+    <updated>2024-10-30T04:30:36.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울국제프라이드영화제 초대권 증정 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8850&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8850&amp;p=1"/>
+        <updated>2024-10-30T04:18:34.429Z</updated>
+        <content type="html"><![CDATA[8850]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서 <파노라마> 증정 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8849&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8836&amp;p=1"/>
         <updated>2024-10-08T05:15:03.301Z</updated>
         <content type="html"><![CDATA[8836]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <너의 색> 예매권 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8835&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8835&amp;p=1"/>
-        <updated>2024-10-02T02:46:14.284Z</updated>
-        <content type="html"><![CDATA[8835]]></content>
     </entry>
 </feed>
