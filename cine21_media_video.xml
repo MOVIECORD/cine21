@@ -4,9 +4,22 @@
         <title>씨네21 ─ 멀티미디어 ─ 동영상</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Oct 2024 05:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 06:28:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[＜블링크 트와이스＞ 1차 예고편]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47035">-->
+					<a href="javascript:;" data-url="not_logged">
+						<img src="https://image.cine21.com/crop/data/771/672315a6519ec.jpg" alt="" class="thumb">
+						<span class="title">＜블링크 트와이스＞ 1차 예고편</span>
+						<span class="date">2024-10-31</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/771/672315a6519ec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[＜1941 독소전쟁＞ 메인 예고편]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F10%2Fblindazh_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F679%2F6722e6ceb0bc3.jpg&amp;title=%EF%BC%9C1941%20%EB%8F%85%EC%86%8C%EC%A0%84%EC%9F%81%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
@@ -201,19 +214,6 @@
 						<span class="date">2024-10-29</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/761/672087d59d7c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜대가족＞ 티저 예고편]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F10%2Ffamily_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F403%2F672190d3c221f.jpg&amp;title=%EF%BC%9C%EB%8C%80%EA%B0%80%EC%A1%B1%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F10%2Ffamily_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F403%2F672190d3c221f.jpg&amp;title=%EF%BC%9C%EB%8C%80%EA%B0%80%EC%A1%B1%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47018">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F10%2Ffamily_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F403%2F672190d3c221f.jpg&amp;title=%EF%BC%9C%EB%8C%80%EA%B0%80%EC%A1%B1%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/10/family_ttr.mp4">
-						<img src="https://image.cine21.com/crop/data/403/672190d3c221f.jpg" alt="" class="thumb">
-						<span class="title">＜대가족＞ 티저 예고편</span>
-						<span class="date">2024-10-29</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/403/672190d3c221f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
