@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 05:30:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 06:31:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,38 +14,6 @@
             <pubDate>Mon, 28 Oct 2024 05:21:59 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11-06]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1029/18_14_09__6720a7617b774[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아노라]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61572</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61572</guid>
-            <pubDate>Tue, 29 Oct 2024 06:30:20 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1002/15_07_23__66fce31b2579f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청설]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61733</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61733</guid>
-            <pubDate>Thu, 24 Oct 2024 15:27:36 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1018/14_26_25__6711f1812103c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크레센도]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61055</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61055</guid>
-            <pubDate>Tue, 29 Oct 2024 06:30:20 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1022/17_52_19__671767c31c2e5[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드 원]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61805</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61805</guid>
-            <pubDate>Wed, 30 Oct 2024 02:56:38 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1017/10_51_32__67106da4792ff[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데드라인]]></title>
@@ -64,6 +32,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1021/15_31_08__6715f52c2e682[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크레센도]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61055</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61055</guid>
+            <pubDate>Tue, 29 Oct 2024 06:30:20 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-11-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1022/17_52_19__671767c31c2e5[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[마리우폴에서의 20일]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60481</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60481</guid>
@@ -72,12 +48,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1028/11_23_39__671ef5abbfaf8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[복수는 나의 것]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=3342</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=3342</guid>
-            <pubDate>Fri, 01 Nov 2024 01:17:42 GMT</pubDate>
+            <title><![CDATA[청설]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61733</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61733</guid>
+            <pubDate>Thu, 24 Oct 2024 15:27:36 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2005/0703/M0010101_00[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1018/14_26_25__6711f1812103c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[톰보이]]></title>
@@ -96,12 +72,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1021/17_40_11__6716136bcb27b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[괴물]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60970</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60970</guid>
+            <title><![CDATA[복수는 나의 것]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=3342</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=3342</guid>
+            <pubDate>Fri, 01 Nov 2024 01:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-11-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2005/0703/M0010101_00[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아노라]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61572</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61572</guid>
+            <pubDate>Tue, 29 Oct 2024 06:30:20 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-11-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1002/15_07_23__66fce31b2579f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드 원]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61805</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61805</guid>
             <pubDate>Wed, 30 Oct 2024 02:56:38 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11-07]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1017/18_11_08__6710d4ac1ec9d[X224,320].jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[개봉 : 2024-11-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1017/10_51_32__67106da4792ff[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빌리와 용감한 녀석들: 스노우 베어 구조대]]></title>
@@ -112,12 +104,35 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1007/09_58_30__67033236dad14[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[괴물]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60970</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60970</guid>
+            <pubDate>Wed, 30 Oct 2024 02:56:38 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-11-07]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1017/18_11_08__6710d4ac1ec9d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[글래디에이터 Ⅱ]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61629</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61629</guid>
             <pubDate>Wed, 30 Oct 2024 05:22:25 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11-13]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1017/10_56_38__67106ed63e5d6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오빠 남진 라이브 콘서트]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61845</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61845</guid>
+            <pubDate>Thu, 31 Oct 2024 09:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-11-13]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[되살아나는 목소리]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60886</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60886</guid>
+            <pubDate>Fri, 01 Nov 2024 06:28:53 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-11-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1015/18_14_46__670e32861b036[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연소일기]]></title>
@@ -134,21 +149,6 @@
             <pubDate>Thu, 31 Oct 2024 06:25:58 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11-13]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1025/18_03_23__671b5edb46b0c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하우치]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61800</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61800</guid>
-            <pubDate>Wed, 30 Oct 2024 15:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1025/14_53_15__671b324b7149e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오빠 남진 라이브 콘서트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61845</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61845</guid>
-            <pubDate>Thu, 31 Oct 2024 09:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11-13]]></content:encoded>
         </item>
     </channel>
 </rss>
