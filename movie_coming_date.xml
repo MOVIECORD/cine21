@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 06:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 07:31:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -119,22 +119,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1007/09_58_30__67033236dad14[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하우치]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61800</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61800</guid>
-            <pubDate>Mon, 04 Nov 2024 06:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1025/14_53_15__671b324b7149e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4월이 되면 그녀는]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61823</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61823</guid>
-            <pubDate>Mon, 04 Nov 2024 10:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1022/10_51_08__6717050c158a6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[되살아나는 목소리]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60886</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60886</guid>
@@ -148,6 +132,22 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=61845</guid>
             <pubDate>Mon, 04 Nov 2024 10:25:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11-13]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[괜찮아, 앨리스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61797</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61797</guid>
+            <pubDate>Tue, 05 Nov 2024 07:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-11-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1025/18_03_23__671b5edb46b0c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연소일기]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61387</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61387</guid>
+            <pubDate>Tue, 05 Nov 2024 07:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-11-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1029/15_14_50__67207d5a0f8c3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
