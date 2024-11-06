@@ -4,23 +4,9 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 09:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 10:31:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[신사: 악귀의 속삭임]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61320</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61320</guid>
-            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[매쉬빌]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
-            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[고스트캣 앙주]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61757</link>
@@ -38,17 +24,23 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0117/15_47_10__65a777ee02716[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보고타: 마지막 기회의 땅]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57542</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57542</guid>
+            <title><![CDATA[시빌 워: 분열의 시대]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
             <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/0609/11_18_55__60c0250fafe22[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[말할 수 없는 비밀]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
+            <title><![CDATA[인터뷰]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60722</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60722</guid>
+            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신사: 악귀의 속삭임]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61320</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61320</guid>
             <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
@@ -61,16 +53,24 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0206/15_25_59__65c1d0f706cec[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시빌 워: 분열의 시대]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
+            <title><![CDATA[말할 수 없는 비밀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
             <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인터뷰]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60722</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60722</guid>
+            <title><![CDATA[보고타: 마지막 기회의 땅]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57542</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57542</guid>
+            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/0609/11_18_55__60c0250fafe22[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매쉬빌]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
             <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
@@ -99,11 +99,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1025/15_48_40__671b3f48840b4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[루프]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61846</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61846</guid>
-            <pubDate>Thu, 31 Oct 2024 09:26:43 GMT</pubDate>
+            <title><![CDATA[세입자]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61648</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61648</guid>
+            <pubDate>Wed, 06 Nov 2024 10:27:03 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1106/17_43_13__672b2c217517d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무파사: 라이온 킹]]></title>
@@ -114,20 +115,19 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0722/14_55_23__669df44bab483[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소방관]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56448</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56448</guid>
-            <pubDate>Mon, 04 Nov 2024 06:25:50 GMT</pubDate>
+            <title><![CDATA[루프]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61846</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61846</guid>
+            <pubDate>Thu, 31 Oct 2024 09:26:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1021/14_52_02__6715ec024f50c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서브스턴스]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61579</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61579</guid>
-            <pubDate>Fri, 01 Nov 2024 07:22:26 GMT</pubDate>
+            <title><![CDATA[하얼빈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61175</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61175</guid>
+            <pubDate>Tue, 05 Nov 2024 05:25:10 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1105/16_07_09__6729c41d5c66b[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0905/16_35_14__66d95f32e463b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1승]]></title>
@@ -138,12 +138,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1021/15_48_09__6715f929789fa[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하얼빈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61175</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61175</guid>
-            <pubDate>Tue, 05 Nov 2024 05:25:10 GMT</pubDate>
+            <title><![CDATA[소방관]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=56448</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=56448</guid>
+            <pubDate>Mon, 04 Nov 2024 06:25:50 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0905/16_35_14__66d95f32e463b[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1021/14_52_02__6715ec024f50c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
