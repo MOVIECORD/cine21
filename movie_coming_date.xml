@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 04:28:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 05:30:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,6 +29,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=61845</guid>
             <pubDate>Mon, 04 Nov 2024 10:25:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1106/14_12_08__672afaa8f1c3b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하우치]]></title>
