@@ -4,16 +4,9 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 06:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 07:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[매쉬빌]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
-            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[고스트캣 앙주]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61757</link>
@@ -21,6 +14,13 @@
             <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0913/15_18_15__66e3d927d28a7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매쉬빌]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
+            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[신사: 악귀의 속삭임]]></title>
@@ -99,6 +99,30 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1025/15_48_40__671b3f48840b4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[더 크로우]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61855</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61855</guid>
+            <pubDate>Thu, 07 Nov 2024 07:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1107/15_23_48__672c5cf414144[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세입자]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61648</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61648</guid>
+            <pubDate>Wed, 06 Nov 2024 10:27:03 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1106/17_43_13__672b2c217517d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무파사: 라이온 킹]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61487</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61487</guid>
+            <pubDate>Thu, 31 Oct 2024 09:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0722/14_55_23__669df44bab483[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[루프]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61846</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61846</guid>
@@ -111,30 +135,6 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=61854</guid>
             <pubDate>Thu, 07 Nov 2024 06:28:25 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세입자]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61648</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61648</guid>
-            <pubDate>Wed, 06 Nov 2024 10:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1106/17_43_13__672b2c217517d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서브스턴스]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61579</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61579</guid>
-            <pubDate>Thu, 07 Nov 2024 03:28:44 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1105/16_07_09__6729c41d5c66b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무파사: 라이온 킹]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61487</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61487</guid>
-            <pubDate>Thu, 31 Oct 2024 09:26:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0722/14_55_23__669df44bab483[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소방관]]></title>
