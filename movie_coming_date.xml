@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 07:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 08:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1025/14_32_00__671b2d505053d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[춘천대첩 72시간]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61824</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61824</guid>
+            <pubDate>Tue, 05 Nov 2024 15:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-11-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1016/14_02_28__670f48e49b706[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[트라페지움]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61795</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61795</guid>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 05 Nov 2024 15:25:52 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11-14]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1010/17_30_00__6707908848709[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[춘천대첩 72시간]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61824</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61824</guid>
-            <pubDate>Tue, 05 Nov 2024 15:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1016/14_02_28__670f48e49b706[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폭풍우 치는 밤에]]></title>
@@ -120,12 +120,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1105/14_13_44__6729a98895db7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[딜리버리]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61831</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61831</guid>
-            <pubDate>Tue, 05 Nov 2024 15:25:52 GMT</pubDate>
+            <title><![CDATA[자기만의 방]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61839</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61839</guid>
+            <pubDate>Thu, 07 Nov 2024 08:23:30 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1031/18_29_22__67234df2e0a87[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1106/14_17_00__672afbcc8170b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[저니 투 베들레헴]]></title>
@@ -144,12 +144,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1028/09_32_41__671edba900f37[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미망]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61810</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61810</guid>
+            <title><![CDATA[딜리버리]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61831</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61831</guid>
             <pubDate>Tue, 05 Nov 2024 15:25:52 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1022/17_48_44__671766ec002b0[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1031/18_29_22__67234df2e0a87[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
