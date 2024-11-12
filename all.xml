@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Nov 2024 06:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 07:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2932,6 +2932,7 @@ SQF는 산업분야별 통용되는 표준직무와 직무 수준별 요구 직�
             <guid>http://www.cine21.com/movie/info/?movie_id=61859</guid>
             <pubDate>Fri, 08 Nov 2024 02:53:03 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1112/14_38_25__6732e9d10b025[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트라페지움 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3094,6 +3095,7 @@ SQF는 산업분야별 통용되는 표준직무와 직무 수준별 요구 직�
             <guid>http://www.cine21.com/movie/info/?movie_id=61864</guid>
             <pubDate>Mon, 11 Nov 2024 06:29:53 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1112/14_23_37__6732e65934657[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카인의 도시 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3647,180 +3649,232 @@ SQF는 산업분야별 통용되는 표준직무와 직무 수준별 요구 직�
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0906/09_42_06__66da4fded564c[X300,360].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[감독							강유가람 
-							(총13장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=75296</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=75296</guid>
-            <pubDate>Tue, 12 Nov 2024 05:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=75296">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1112/14_20_58__6732e5ba3f0d1[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/resize/cine21/person/2024/1112/14_20_58__6732e5ba3f0d1[X310,210].jpg" alt="" class="thumb">
+            <title><![CDATA[배우							한지은 
+							(총6장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=98090</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=98090</guid>
+            <pubDate>Tue, 12 Nov 2024 07:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=98090">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1112/14_56_10__6732edfaa7525[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/698/6732f753a376d.jpg" alt="" class="thumb">
 						<span class="caption">
-							감독							<strong>강유가람</strong> 
-							<span class="num">(총13장)</span>
+							배우							<strong>한지은</strong> 
+							<span class="num">(총6장)</span>
 						</span>
 					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/person/2024/1112/14_20_58__6732e5ba3f0d1[X310,210].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/698/6732f753a376d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[감독							변성빈 
-							(총8장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=113773</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=113773</guid>
-            <pubDate>Tue, 12 Nov 2024 05:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=113773">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1112/14_19_33__6732e5650e204[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/resize/cine21/person/2024/1112/14_19_33__6732e5650e204[X310,210].jpg" alt="" class="thumb">
+            <title><![CDATA[배우							김남길 
+							(총30장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=55827</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=55827</guid>
+            <pubDate>Tue, 12 Nov 2024 07:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=55827">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1112/14_52_08__6732ed089ae02[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/332/6732f752c56ea.jpg" alt="" class="thumb">
 						<span class="caption">
-							감독							<strong>변성빈</strong> 
-							<span class="num">(총8장)</span>
+							배우							<strong>김남길</strong> 
+							<span class="num">(총30장)</span>
 						</span>
 					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/person/2024/1112/14_19_33__6732e5650e204[X310,210].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/332/6732f752c56ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배우							해준 
+            <title><![CDATA[감독							김미례 
+							(총3장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=62612</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=62612</guid>
+            <pubDate>Tue, 12 Nov 2024 07:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=62612">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1112/14_49_07__6732ec536604c[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/770/6732f7514d748.jpg" alt="" class="thumb">
+						<span class="caption">
+							감독							<strong>김미례</strong> 
+							<span class="num">(총3장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/770/6732f7514d748.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							채원빈 
+							(총5장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=113727</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=113727</guid>
+            <pubDate>Tue, 12 Nov 2024 07:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=113727">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1112/14_47_23__6732ebeb1c69f[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/516/6732f7503e50b.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>채원빈</strong> 
+							<span class="num">(총5장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/516/6732f7503e50b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가수							승희 
 							(총4장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=121901</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=121901</guid>
-            <pubDate>Tue, 12 Nov 2024 05:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=121901">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1112/14_15_53__6732e489364c9[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/resize/cine21/person/2024/1112/14_15_53__6732e489364c9[X310,210].jpg" alt="" class="thumb">
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=96992</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=96992</guid>
+            <pubDate>Tue, 12 Nov 2024 07:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=96992">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1112/14_43_51__6732eb173c84f[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/257/6732f74e652bf.jpg" alt="" class="thumb">
 						<span class="caption">
-							배우							<strong>해준</strong> 
+							가수							<strong>승희</strong> 
 							<span class="num">(총4장)</span>
 						</span>
 					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/person/2024/1112/14_15_53__6732e489364c9[X310,210].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/257/6732f74e652bf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가수							김민주 
-							(총4장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=110303</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=110303</guid>
-            <pubDate>Mon, 11 Nov 2024 10:31:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=110303">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1111/17_49_00__6731c4fc090be[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/crop/data/881/6731c5bbeeb91.jpg" alt="" class="thumb">
+            <title><![CDATA[배우							심은경 
+							(총46장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=62512</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=62512</guid>
+            <pubDate>Tue, 12 Nov 2024 07:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=62512">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1112/14_38_37__6732e9dd3c5cd[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/717/6732ea4f7a9e4.jpg" alt="" class="thumb">
 						<span class="caption">
-							가수							<strong>김민주</strong> 
-							<span class="num">(총4장)</span>
+							배우							<strong>심은경</strong> 
+							<span class="num">(총46장)</span>
 						</span>
 					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/881/6731c5bbeeb91.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/717/6732ea4f7a9e4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배우							노윤서 
-							(총4장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=120464</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=120464</guid>
-            <pubDate>Mon, 11 Nov 2024 10:31:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=120464">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1111/17_47_27__6731c49f037be[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/crop/data/843/6731c5bb00916.jpg" alt="" class="thumb">
-						<span class="caption">
-							배우							<strong>노윤서</strong> 
-							<span class="num">(총4장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/843/6731c5bb00916.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우							홍경 
-							(총10장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=107606</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=107606</guid>
-            <pubDate>Mon, 11 Nov 2024 10:31:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=107606">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1111/17_44_59__6731c40ba16fb[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/crop/data/041/6731c5ba02d75.jpg" alt="" class="thumb">
-						<span class="caption">
-							배우							<strong>홍경</strong> 
-							<span class="num">(총10장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/041/6731c5ba02d75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우							유준겸 
-							(총7장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=126463</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=126463</guid>
-            <pubDate>Mon, 11 Nov 2024 10:31:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=126463">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1111/17_43_12__6731c3a044694[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/crop/data/611/6731c5b8f1f68.jpg" alt="" class="thumb">
-						<span class="caption">
-							배우							<strong>유준겸</strong> 
-							<span class="num">(총7장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/611/6731c5b8f1f68.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우							이제훈 
-							(총89장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=70688</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=70688</guid>
-            <pubDate>Mon, 11 Nov 2024 08:30:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=70688">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1111/17_10_55__6731bc0fe8d27[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/crop/data/190/6731c0c7e0132.jpg" alt="" class="thumb">
-						<span class="caption">
-							배우							<strong>이제훈</strong> 
-							<span class="num">(총89장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/190/6731c0c7e0132.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우							가가연 
+            <title><![CDATA[작가							김려령 
 							(총2장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=80812</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=80812</guid>
-            <pubDate>Mon, 11 Nov 2024 08:30:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=80812">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1111/17_07_32__6731bb44dce9a[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/crop/data/165/6731c0c6e2cdc.jpg" alt="" class="thumb">
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=75214</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=75214</guid>
+            <pubDate>Tue, 12 Nov 2024 07:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=75214">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1112/14_32_10__6732e85ac0d48[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/508/6732ea4c5c052.jpg" alt="" class="thumb">
 						<span class="caption">
-							배우							<strong>가가연</strong> 
+							작가							<strong>김려령</strong> 
 							<span class="num">(총2장)</span>
 						</span>
 					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/165/6731c0c6e2cdc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/508/6732ea4c5c052.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배우							송운화 
+            <title><![CDATA[감독							최규석 
 							(총3장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=93477</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=93477</guid>
-            <pubDate>Mon, 11 Nov 2024 08:30:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=93477">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1111/17_06_33__6731bb097a4c2[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/crop/data/642/6731c0c5c0703.jpg" alt="" class="thumb">
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=126641</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=126641</guid>
+            <pubDate>Tue, 12 Nov 2024 07:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=126641">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1112/14_30_50__6732e80a2005b[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/572/6732ea4ab0095.jpg" alt="" class="thumb">
 						<span class="caption">
-							배우							<strong>송운화</strong> 
+							감독							<strong>최규석</strong> 
 							<span class="num">(총3장)</span>
 						</span>
 					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/642/6731c0c5c0703.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/572/6732ea4ab0095.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배우							이목 
-							(총3장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=121810</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=121810</guid>
-            <pubDate>Mon, 11 Nov 2024 08:30:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=121810">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1111/17_02_38__6731ba1e04dab[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/crop/data/576/6731c0c4881b4.jpg" alt="" class="thumb">
+            <title><![CDATA[감독							연상호 
+							(총43장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=18831</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=18831</guid>
+            <pubDate>Tue, 12 Nov 2024 07:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=18831">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1112/14_28_26__6732e77a4c636[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/931/6732ea499535f.jpg" alt="" class="thumb">
 						<span class="caption">
-							배우							<strong>이목</strong> 
-							<span class="num">(총3장)</span>
+							감독							<strong>연상호</strong> 
+							<span class="num">(총43장)</span>
 						</span>
 					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/576/6731c0c4881b4.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/crop/data/931/6732ea499535f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							김신록 
+							(총4장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=112773</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=112773</guid>
+            <pubDate>Tue, 12 Nov 2024 07:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=112773">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1112/14_26_53__6732e71de6f3a[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/018/6732ea47c40af.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>김신록</strong> 
+							<span class="num">(총4장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/018/6732ea47c40af.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							김성철 
+							(총7장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=104355</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=104355</guid>
+            <pubDate>Tue, 12 Nov 2024 07:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=104355">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2024/1112/14_24_15__6732e67f6b540[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/312/6732e7333d76f.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>김성철</strong> 
+							<span class="num">(총7장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/312/6732e7333d76f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜킹덤4: 대장군의 귀환＞ 30초 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Fkingdom4_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F863%2F6732fab573b50.jpg&amp;title=%EF%BC%9C%ED%82%B9%EB%8D%A44%3A%20%EB%8C%80%EC%9E%A5%EA%B5%B0%EC%9D%98%20%EA%B7%80%ED%99%98%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Fkingdom4_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F863%2F6732fab573b50.jpg&amp;title=%EF%BC%9C%ED%82%B9%EB%8D%A44%3A%20%EB%8C%80%EC%9E%A5%EA%B5%B0%EC%9D%98%20%EA%B7%80%ED%99%98%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47099">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Fkingdom4_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F863%2F6732fab573b50.jpg&amp;title=%EF%BC%9C%ED%82%B9%EB%8D%A44%3A%20%EB%8C%80%EC%9E%A5%EA%B5%B0%EC%9D%98%20%EA%B7%80%ED%99%98%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/11/kingdom4_30tr.mp4">
+						<img src="https://image.cine21.com/crop/data/863/6732fab573b50.jpg" alt="" class="thumb">
+						<span class="title">＜킹덤4: 대장군의 귀환＞ 30초 예고편</span>
+						<span class="date">2024-11-12</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/863/6732fab573b50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜위키드＞ Costume 피처렛 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F11%2Fwicked_cmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F349%2F6732f791ce4d5.jpg&amp;title=%EF%BC%9C%EC%9C%84%ED%82%A4%EB%93%9C%EF%BC%9E%20Costume%20%ED%94%BC%EC%B2%98%EB%A0%9B</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F11%2Fwicked_cmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F349%2F6732f791ce4d5.jpg&amp;title=%EF%BC%9C%EC%9C%84%ED%82%A4%EB%93%9C%EF%BC%9E%20Costume%20%ED%94%BC%EC%B2%98%EB%A0%9B</guid>
+            <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47098">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F11%2Fwicked_cmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F349%2F6732f791ce4d5.jpg&amp;title=%EF%BC%9C%EC%9C%84%ED%82%A4%EB%93%9C%EF%BC%9E%20Costume%20%ED%94%BC%EC%B2%98%EB%A0%9B" data-url="/cine21.com/movie/making/2024/11/wicked_cmk.mp4">
+						<img src="https://image.cine21.com/crop/data/349/6732f791ce4d5.jpg" alt="" class="thumb">
+						<span class="title">＜위키드＞ Costume 피처렛</span>
+						<span class="date">2024-11-12</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/349/6732f791ce4d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜연소일기＞ 황재락&하백염 배우의 한국 관객에게 보내는 영상 편지 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F11%2Fyeonso_agmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F013%2F6732f12a6c03e.jpg&amp;title=%EF%BC%9C%EC%97%B0%EC%86%8C%EC%9D%BC%EA%B8%B0%EF%BC%9E%20%ED%99%A9%EC%9E%AC%EB%9D%BD%26%ED%95%98%EB%B0%B1%EC%97%BC%20%EB%B0%B0%EC%9A%B0%EC%9D%98%20%ED%95%9C%EA%B5%AD%20%EA%B4%80%EA%B0%9D%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%98%81%EC%83%81%20%ED%8E%B8%EC%A7%80</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F11%2Fyeonso_agmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F013%2F6732f12a6c03e.jpg&amp;title=%EF%BC%9C%EC%97%B0%EC%86%8C%EC%9D%BC%EA%B8%B0%EF%BC%9E%20%ED%99%A9%EC%9E%AC%EB%9D%BD%26%ED%95%98%EB%B0%B1%EC%97%BC%20%EB%B0%B0%EC%9A%B0%EC%9D%98%20%ED%95%9C%EA%B5%AD%20%EA%B4%80%EA%B0%9D%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%98%81%EC%83%81%20%ED%8E%B8%EC%A7%80</guid>
+            <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47097">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F11%2Fyeonso_agmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F013%2F6732f12a6c03e.jpg&amp;title=%EF%BC%9C%EC%97%B0%EC%86%8C%EC%9D%BC%EA%B8%B0%EF%BC%9E%20%ED%99%A9%EC%9E%AC%EB%9D%BD%26%ED%95%98%EB%B0%B1%EC%97%BC%20%EB%B0%B0%EC%9A%B0%EC%9D%98%20%ED%95%9C%EA%B5%AD%20%EA%B4%80%EA%B0%9D%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%98%81%EC%83%81%20%ED%8E%B8%EC%A7%80" data-url="/cine21.com/movie/making/2024/11/yeonso_agmk.mp4">
+						<img src="https://image.cine21.com/crop/data/013/6732f12a6c03e.jpg" alt="" class="thumb">
+						<span class="title">＜연소일기＞ 황재락&amp;하백염 배우의 한국 관객에게 보내는 영상 편지</span>
+						<span class="date">2024-11-12</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/013/6732f12a6c03e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜캐롤＞ 30초 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Fcarol_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F410%2F6732e8290bfdb.jpg&amp;title=%EF%BC%9C%EC%BA%90%EB%A1%A4%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Fcarol_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F410%2F6732e8290bfdb.jpg&amp;title=%EF%BC%9C%EC%BA%90%EB%A1%A4%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47096">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Fcarol_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F410%2F6732e8290bfdb.jpg&amp;title=%EF%BC%9C%EC%BA%90%EB%A1%A4%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/11/carol_30tr.mp4">
+						<img src="https://image.cine21.com/crop/data/410/6732e8290bfdb.jpg" alt="" class="thumb">
+						<span class="title">＜캐롤＞ 30초 예고편</span>
+						<span class="date">2024-11-12</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/410/6732e8290bfdb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[＜작전명: 골드런＞ 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
@@ -3977,58 +4031,6 @@ SQF는 산업분야별 통용되는 표준직무와 직무 수준별 요구 직�
 						<span class="date">2024-11-08</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/221/672dd8fa35a44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜너의 색＞ What's My Color 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F11%2Fcolor_mcmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F870%2F672dd1c504ef7.jpg&amp;title=%EF%BC%9C%EB%84%88%EC%9D%98%20%EC%83%89%EF%BC%9E%20What%27s%20My%20Color%20%EC%98%81%EC%83%81</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F11%2Fcolor_mcmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F870%2F672dd1c504ef7.jpg&amp;title=%EF%BC%9C%EB%84%88%EC%9D%98%20%EC%83%89%EF%BC%9E%20What%27s%20My%20Color%20%EC%98%81%EC%83%81</guid>
-            <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47080">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F11%2Fcolor_mcmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F870%2F672dd1c504ef7.jpg&amp;title=%EF%BC%9C%EB%84%88%EC%9D%98%20%EC%83%89%EF%BC%9E%20What's%20My%20Color%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2024/11/color_mcmk.mp4">
-						<img src="https://image.cine21.com/crop/data/870/672dd1c504ef7.jpg" alt="" class="thumb">
-						<span class="title">＜너의 색＞ What's My Color 영상</span>
-						<span class="date">2024-11-08</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/870/672dd1c504ef7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜카인의 도시＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Fcain_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F512%2F672dcaf199c2a.jpg&amp;title=%EF%BC%9C%EC%B9%B4%EC%9D%B8%EC%9D%98%20%EB%8F%84%EC%8B%9C%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Fcain_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F512%2F672dcaf199c2a.jpg&amp;title=%EF%BC%9C%EC%B9%B4%EC%9D%B8%EC%9D%98%20%EB%8F%84%EC%8B%9C%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47079">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Fcain_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F512%2F672dcaf199c2a.jpg&amp;title=%EF%BC%9C%EC%B9%B4%EC%9D%B8%EC%9D%98%20%EB%8F%84%EC%8B%9C%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/11/cain_mtr.mp4">
-						<img src="https://image.cine21.com/crop/data/512/672dcaf199c2a.jpg" alt="" class="thumb">
-						<span class="title">＜카인의 도시＞ 메인 예고편</span>
-						<span class="date">2024-11-08</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/512/672dcaf199c2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜카인의 도시＞ 30초 예고편 ver.2 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Fcain_302tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F360%2F672dc98675fbc.jpg&amp;title=%EF%BC%9C%EC%B9%B4%EC%9D%B8%EC%9D%98%20%EB%8F%84%EC%8B%9C%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8%20ver.2</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Fcain_302tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F360%2F672dc98675fbc.jpg&amp;title=%EF%BC%9C%EC%B9%B4%EC%9D%B8%EC%9D%98%20%EB%8F%84%EC%8B%9C%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8%20ver.2</guid>
-            <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47078">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Fcain_302tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F360%2F672dc98675fbc.jpg&amp;title=%EF%BC%9C%EC%B9%B4%EC%9D%B8%EC%9D%98%20%EB%8F%84%EC%8B%9C%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8%20ver.2" data-url="/cine21.com/movie/trailer/2024/11/cain_302tr.mp4">
-						<img src="https://image.cine21.com/crop/data/360/672dc98675fbc.jpg" alt="" class="thumb">
-						<span class="title">＜카인의 도시＞ 30초 예고편 ver.2</span>
-						<span class="date">2024-11-08</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/360/672dc98675fbc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜카인의 도시＞ 30초 예고편 ver.1 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Fcain_301tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F042%2F672dc983a4cc1.jpg&amp;title=%EF%BC%9C%EC%B9%B4%EC%9D%B8%EC%9D%98%20%EB%8F%84%EC%8B%9C%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8%20ver.1</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Fcain_301tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F042%2F672dc983a4cc1.jpg&amp;title=%EF%BC%9C%EC%B9%B4%EC%9D%B8%EC%9D%98%20%EB%8F%84%EC%8B%9C%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8%20ver.1</guid>
-            <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47077">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Fcain_301tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F042%2F672dc983a4cc1.jpg&amp;title=%EF%BC%9C%EC%B9%B4%EC%9D%B8%EC%9D%98%20%EB%8F%84%EC%8B%9C%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8%20ver.1" data-url="/cine21.com/movie/trailer/2024/11/cain_301tr.mp4">
-						<img src="https://image.cine21.com/crop/data/042/672dc983a4cc1.jpg" alt="" class="thumb">
-						<span class="title">＜카인의 도시＞ 30초 예고편 ver.1</span>
-						<span class="date">2024-11-08</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/042/672dc983a4cc1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
