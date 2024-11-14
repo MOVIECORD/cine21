@@ -4,17 +4,9 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Nov 2024 15:38:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 16:32:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[폭풍우 치는 밤에]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=18920</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=18920</guid>
-            <pubDate>Tue, 05 Nov 2024 15:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1107/17_25_33__672c797d8b584[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[전장의 크리스마스]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=2949</link>
@@ -150,6 +142,14 @@
             <pubDate>Thu, 14 Nov 2024 03:30:00 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11-27]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1016/15_52_06__670f6296e523d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백현: 론스달라이트 닷 인 시네마]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61847</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61847</guid>
+            <pubDate>Thu, 14 Nov 2024 16:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-11-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1101/14_38_17__672469494cd90[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
