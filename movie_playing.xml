@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Nov 2024 01:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 03:10:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/1101/16_42_38__6724866e641ed[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[4월이 되면 그녀는]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61823</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61823</guid>
-            <pubDate>Tue, 12 Nov 2024 15:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1022/10_51_08__6717050c158a6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[하우치]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61800</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61800</guid>
@@ -56,12 +48,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1025/14_53_15__671b324b7149e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[본인 출연, 제리]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61859</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61859</guid>
+            <title><![CDATA[4월이 되면 그녀는]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61823</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61823</guid>
             <pubDate>Tue, 12 Nov 2024 15:23:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1112/14_38_25__6732e9d10b025[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1022/10_51_08__6717050c158a6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[춘천대첩 72시간]]></title>
@@ -72,12 +64,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1108/17_48_56__672dd07874ac5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[글래디에이터 Ⅱ]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61629</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61629</guid>
+            <title><![CDATA[괜찮아, 앨리스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61797</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61797</guid>
             <pubDate>Tue, 12 Nov 2024 15:23:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1017/10_56_38__67106ed63e5d6[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1025/18_03_23__671b5edb46b0c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[본인 출연, 제리]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61859</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61859</guid>
+            <pubDate>Tue, 12 Nov 2024 15:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-11-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1112/14_38_25__6732e9d10b025[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[되살아나는 목소리]]></title>
@@ -104,12 +104,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1029/15_14_50__67207d5a0f8c3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[괜찮아, 앨리스]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61797</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61797</guid>
+            <title><![CDATA[글래디에이터 Ⅱ]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61629</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61629</guid>
             <pubDate>Tue, 12 Nov 2024 15:23:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1025/18_03_23__671b5edb46b0c[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1017/10_56_38__67106ed63e5d6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빌리와 용감한 녀석들: 스노우 베어 구조대]]></title>
@@ -128,20 +128,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1017/18_11_08__6710d4ac1ec9d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[위대한 부재]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61825</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61825</guid>
-            <pubDate>Wed, 13 Nov 2024 15:21:59 GMT</pubDate>
+            <title><![CDATA[크레센도]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61055</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61055</guid>
+            <pubDate>Fri, 15 Nov 2024 03:05:31 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1021/17_40_11__6716136bcb27b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클로즈 유어 아이즈]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61811</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61811</guid>
-            <pubDate>Tue, 05 Nov 2024 16:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11-06]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1021/15_31_08__6715f52c2e682[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1022/17_52_19__671767c31c2e5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마리우폴에서의 20일]]></title>
@@ -150,6 +142,14 @@
             <pubDate>Thu, 14 Nov 2024 16:26:34 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11-06]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1028/11_23_39__671ef5abbfaf8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아노라]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61572</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61572</guid>
+            <pubDate>Fri, 15 Nov 2024 03:05:31 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-11-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1002/15_07_23__66fce31b2579f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
