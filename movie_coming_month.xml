@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Nov 2024 06:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 07:28:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,13 @@
             <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0913/15_18_15__66e3d927d28a7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매쉬빌]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
+            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[신사: 악귀의 속삭임]]></title>
@@ -68,13 +75,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/0609/11_18_55__60c0250fafe22[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[매쉬빌]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
-            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[컬트 시카리오]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61807</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61807</guid>
@@ -91,20 +91,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1112/14_23_37__6732e65934657[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[헬보이: 크룩드 맨]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61866</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61866</guid>
+            <pubDate>Fri, 15 Nov 2024 07:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1112/10_42_29__6732b28598142[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[루프]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61846</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61846</guid>
             <pubDate>Mon, 11 Nov 2024 07:21:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1111/17_32_08__6731c10825bc0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 짱구는 못말려: 우리들의 공룡일기]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61854</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61854</guid>
-            <pubDate>Mon, 11 Nov 2024 07:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1111/17_11_21__6731bc29cd8a6[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1115/14_39_09__6736de7d8d923[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 크로우]]></title>

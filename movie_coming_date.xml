@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Nov 2024 06:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 07:28:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -103,14 +103,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1104/11_25_52__672830b04e9f2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[캐롤]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=44529</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=44529</guid>
-            <pubDate>Tue, 12 Nov 2024 15:24:33 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11-20]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1105/10_07_36__67296fd80aab8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[나의 히어로 아카데미아 더 무비: 유어 넥스트]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61836</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61836</guid>
@@ -119,12 +111,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1104/15_51_01__67286ed5e65ce[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[극장판 미스터리라 하지 말지어다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61828</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61828</guid>
-            <pubDate>Thu, 14 Nov 2024 03:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1105/14_31_44__6729adc00147a[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[캐롤]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=44529</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=44529</guid>
+            <pubDate>Tue, 12 Nov 2024 15:24:33 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-11-20]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1105/10_07_36__67296fd80aab8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아침바다 갈매기는]]></title>
@@ -135,20 +127,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1030/14_25_21__6721c3417a93c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[모아나 2]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61558</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61558</guid>
-            <pubDate>Thu, 14 Nov 2024 03:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1016/15_52_06__670f6296e523d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[에드워드 호퍼]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61818</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61818</guid>
             <pubDate>Wed, 13 Nov 2024 15:22:16 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11-27]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1114/17_00_31__6735ae1f73f30[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극장판 미스터리라 하지 말지어다]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61828</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61828</guid>
+            <pubDate>Thu, 14 Nov 2024 03:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-11-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1105/14_31_44__6729adc00147a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백현: 론스달라이트 닷 인 시네마]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61847</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61847</guid>
+            <pubDate>Fri, 15 Nov 2024 07:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-11-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1101/14_38_17__672469494cd90[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
