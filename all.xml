@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 07:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 08:31:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3054,13 +3054,6 @@ SQF는 산업분야별 통용되는 표준직무와 직무 수준별 요구 직�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0913/15_18_15__66e3d927d28a7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[매쉬빌 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
-            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[신사: 악귀의 속삭임 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61320</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61320</guid>
@@ -3113,20 +3106,19 @@ SQF는 산업분야별 통용되는 표준직무와 직무 수준별 요구 직�
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/0609/11_18_55__60c0250fafe22[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[매쉬빌 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61503</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61503</guid>
+            <pubDate>Tue, 09 Jul 2024 10:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[컬트 시카리오 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61807</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61807</guid>
             <pubDate>Mon, 07 Oct 2024 01:15:35 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1004/16_30_02__66ff997a8f20c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크롬의 저주 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61880</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61880</guid>
-            <pubDate>Fri, 15 Nov 2024 09:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1115/17_43_04__673709988ee67[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여름날의 레몬그라스 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3137,28 +3129,12 @@ SQF는 산업분야별 통용되는 표준직무와 직무 수준별 요구 직�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1112/14_23_37__6732e65934657[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[루프 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61846</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61846</guid>
-            <pubDate>Mon, 11 Nov 2024 07:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1115/14_39_09__6736de7d8d923[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 크로우 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61855</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61855</guid>
-            <pubDate>Mon, 11 Nov 2024 07:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1107/15_23_48__672c5cf414144[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카인의 도시 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61861</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61861</guid>
-            <pubDate>Thu, 14 Nov 2024 06:31:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1108/17_10_15__672dc76735735[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[크롬의 저주 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61880</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61880</guid>
+            <pubDate>Fri, 15 Nov 2024 09:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1115/17_43_04__673709988ee67[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헬보이: 크룩드 맨 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3176,12 +3152,35 @@ SQF는 산업분야별 통용되는 표준직무와 직무 수준별 요구 직�
             <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[1승 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57339</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57339</guid>
-            <pubDate>Tue, 19 Nov 2024 06:29:58 GMT</pubDate>
+            <title><![CDATA[카인의 도시 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61861</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61861</guid>
+            <pubDate>Thu, 14 Nov 2024 06:31:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1108/15_22_38__672dae2e3e3d3[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1108/17_10_15__672dc76735735[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 크로우 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61855</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61855</guid>
+            <pubDate>Mon, 11 Nov 2024 07:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1107/15_23_48__672c5cf414144[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[루프 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61846</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61846</guid>
+            <pubDate>Mon, 11 Nov 2024 07:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1115/14_39_09__6736de7d8d923[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 폴: 디렉터스 컷 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61884</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61884</guid>
+            <pubDate>Tue, 19 Nov 2024 08:28:09 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[행복의 나라로 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
@@ -3896,6 +3895,45 @@ SQF는 산업분야별 통용되는 표준직무와 직무 수준별 요구 직�
             <enclosure url="https://image.cine21.com/crop/data/508/6732ea4c5c052.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[＜아노라＞ 캐스트 비하인드 피처렛 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F11%2Fanora_cbmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F565%2F673c4a7b430cf.jpg&amp;title=%EF%BC%9C%EC%95%84%EB%85%B8%EB%9D%BC%EF%BC%9E%20%EC%BA%90%EC%8A%A4%ED%8A%B8%20%EB%B9%84%ED%95%98%EC%9D%B8%EB%93%9C%20%ED%94%BC%EC%B2%98%EB%A0%9B</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F11%2Fanora_cbmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F565%2F673c4a7b430cf.jpg&amp;title=%EF%BC%9C%EC%95%84%EB%85%B8%EB%9D%BC%EF%BC%9E%20%EC%BA%90%EC%8A%A4%ED%8A%B8%20%EB%B9%84%ED%95%98%EC%9D%B8%EB%93%9C%20%ED%94%BC%EC%B2%98%EB%A0%9B</guid>
+            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47135">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F11%2Fanora_cbmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F565%2F673c4a7b430cf.jpg&amp;title=%EF%BC%9C%EC%95%84%EB%85%B8%EB%9D%BC%EF%BC%9E%20%EC%BA%90%EC%8A%A4%ED%8A%B8%20%EB%B9%84%ED%95%98%EC%9D%B8%EB%93%9C%20%ED%94%BC%EC%B2%98%EB%A0%9B" data-url="/cine21.com/movie/making/2024/11/anora_cbmk.mp4">
+						<img src="https://image.cine21.com/crop/data/565/673c4a7b430cf.jpg" alt="" class="thumb">
+						<span class="title">＜아노라＞ 캐스트 비하인드 피처렛</span>
+						<span class="date">2024-11-19</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/565/673c4a7b430cf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜되살아나는 목소리＞ VIP 추천 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F11%2Fvos_vipmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F900%2F673c48d3ab53e.jpg&amp;title=%EF%BC%9C%EB%90%98%EC%82%B4%EC%95%84%EB%82%98%EB%8A%94%20%EB%AA%A9%EC%86%8C%EB%A6%AC%EF%BC%9E%20VIP%20%EC%B6%94%EC%B2%9C%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F11%2Fvos_vipmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F900%2F673c48d3ab53e.jpg&amp;title=%EF%BC%9C%EB%90%98%EC%82%B4%EC%95%84%EB%82%98%EB%8A%94%20%EB%AA%A9%EC%86%8C%EB%A6%AC%EF%BC%9E%20VIP%20%EC%B6%94%EC%B2%9C%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47134">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2024%2F11%2Fvos_vipmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F900%2F673c48d3ab53e.jpg&amp;title=%EF%BC%9C%EB%90%98%EC%82%B4%EC%95%84%EB%82%98%EB%8A%94%20%EB%AA%A9%EC%86%8C%EB%A6%AC%EF%BC%9E%20VIP%20%EC%B6%94%EC%B2%9C%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2024/11/vos_vipmk.mp4">
+						<img src="https://image.cine21.com/crop/data/900/673c48d3ab53e.jpg" alt="" class="thumb">
+						<span class="title">＜되살아나는 목소리＞ VIP 추천 영상</span>
+						<span class="date">2024-11-19</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/900/673c48d3ab53e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜힘을 낼 시간＞ 1차 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Fhim_1tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F135%2F673c4015a146d.jpg&amp;title=%EF%BC%9C%ED%9E%98%EC%9D%84%20%EB%82%BC%20%EC%8B%9C%EA%B0%84%EF%BC%9E%201%EC%B0%A8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Fhim_1tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F135%2F673c4015a146d.jpg&amp;title=%EF%BC%9C%ED%9E%98%EC%9D%84%20%EB%82%BC%20%EC%8B%9C%EA%B0%84%EF%BC%9E%201%EC%B0%A8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47133">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Fhim_1tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F135%2F673c4015a146d.jpg&amp;title=%EF%BC%9C%ED%9E%98%EC%9D%84%20%EB%82%BC%20%EC%8B%9C%EA%B0%84%EF%BC%9E%201%EC%B0%A8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/11/him_1tr.mp4">
+						<img src="https://image.cine21.com/crop/data/135/673c4015a146d.jpg" alt="" class="thumb">
+						<span class="title">＜힘을 낼 시간＞ 1차 예고편</span>
+						<span class="date">2024-11-19</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/135/673c4015a146d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[＜파라다이스 이즈 버닝＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Fparadise_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F761%2F673c30f988277.jpg&amp;title=%EF%BC%9C%ED%8C%8C%EB%9D%BC%EB%8B%A4%EC%9D%B4%EC%8A%A4%20%EC%9D%B4%EC%A6%88%20%EB%B2%84%EB%8B%9D%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
             <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Fparadise_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F761%2F673c30f988277.jpg&amp;title=%EF%BC%9C%ED%8C%8C%EB%9D%BC%EB%8B%A4%EC%9D%B4%EC%8A%A4%20%EC%9D%B4%EC%A6%88%20%EB%B2%84%EB%8B%9D%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
@@ -4063,45 +4101,6 @@ SQF는 산업분야별 통용되는 표준직무와 직무 수준별 요구 직�
 						<span class="date">2024-11-15</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/260/6736ef0ea3f05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜리바이벌 69’＞ 30초 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Frevival_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F005%2F6736ef0c594a8.jpg&amp;title=%EF%BC%9C%EB%A6%AC%EB%B0%94%EC%9D%B4%EB%B2%8C%2069%E2%80%99%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Frevival_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F005%2F6736ef0c594a8.jpg&amp;title=%EF%BC%9C%EB%A6%AC%EB%B0%94%EC%9D%B4%EB%B2%8C%2069%E2%80%99%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47119">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Frevival_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F005%2F6736ef0c594a8.jpg&amp;title=%EF%BC%9C%EB%A6%AC%EB%B0%94%EC%9D%B4%EB%B2%8C%2069%E2%80%99%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/11/revival_30tr.mp4">
-						<img src="https://image.cine21.com/crop/data/005/6736ef0c594a8.jpg" alt="" class="thumb">
-						<span class="title">＜리바이벌 69’＞ 30초 예고편</span>
-						<span class="date">2024-11-15</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/005/6736ef0c594a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜리바이벌 69’＞ 라인업 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Frevival_ltr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F474%2F6736ef0a247e5.jpg&amp;title=%EF%BC%9C%EB%A6%AC%EB%B0%94%EC%9D%B4%EB%B2%8C%2069%E2%80%99%EF%BC%9E%20%EB%9D%BC%EC%9D%B8%EC%97%85%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Frevival_ltr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F474%2F6736ef0a247e5.jpg&amp;title=%EF%BC%9C%EB%A6%AC%EB%B0%94%EC%9D%B4%EB%B2%8C%2069%E2%80%99%EF%BC%9E%20%EB%9D%BC%EC%9D%B8%EC%97%85%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47118">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Frevival_ltr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F474%2F6736ef0a247e5.jpg&amp;title=%EF%BC%9C%EB%A6%AC%EB%B0%94%EC%9D%B4%EB%B2%8C%2069%E2%80%99%EF%BC%9E%20%EB%9D%BC%EC%9D%B8%EC%97%85%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/11/revival_ltr.mp4">
-						<img src="https://image.cine21.com/crop/data/474/6736ef0a247e5.jpg" alt="" class="thumb">
-						<span class="title">＜리바이벌 69’＞ 라인업 예고편</span>
-						<span class="date">2024-11-15</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/474/6736ef0a247e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜세입자＞ 30초 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Ftenants_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F870%2F6736e7c072b85.jpg&amp;title=%EF%BC%9C%EC%84%B8%EC%9E%85%EC%9E%90%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Ftenants_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F870%2F6736e7c072b85.jpg&amp;title=%EF%BC%9C%EC%84%B8%EC%9E%85%EC%9E%90%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47117">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2024%2F11%2Ftenants_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F870%2F6736e7c072b85.jpg&amp;title=%EF%BC%9C%EC%84%B8%EC%9E%85%EC%9E%90%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2024/11/tenants_30tr.mp4">
-						<img src="https://image.cine21.com/crop/data/870/6736e7c072b85.jpg" alt="" class="thumb">
-						<span class="title">＜세입자＞ 30초 예고편</span>
-						<span class="date">2024-11-15</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/870/6736e7c072b85.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
