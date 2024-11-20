@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Nov 2024 10:31:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Nov 2024 11:27:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1030/14_25_21__6721c3417a93c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에드워드 호퍼]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61818</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61818</guid>
-            <pubDate>Tue, 19 Nov 2024 09:27:52 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1114/17_00_31__6735ae1f73f30[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아가미]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61048</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61048</guid>
@@ -46,6 +38,14 @@
             <pubDate>Tue, 19 Nov 2024 16:25:37 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-11-27]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1106/14_26_12__672afdf4a5ff1[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에드워드 호퍼]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61818</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61818</guid>
+            <pubDate>Tue, 19 Nov 2024 09:27:52 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-11-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1114/17_00_31__6735ae1f73f30[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판 미스터리라 하지 말지어다]]></title>
@@ -128,6 +128,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1106/13_58_43__672af783f2f55[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[플레이브 팬 콘서트 ‘헬로, 아스테룸!’ 앙코르 인 시네마]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61883</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61883</guid>
+            <pubDate>Wed, 20 Nov 2024 11:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1119/11_02_21__673bf1ad29038[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아들들]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61850</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61850</guid>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 19 Nov 2024 16:25:37 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12-04]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1115/17_30_03__6737068b0b56a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소방관]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=56448</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=56448</guid>
-            <pubDate>Tue, 19 Nov 2024 16:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1120/11_05_58__673d4406c7930[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
