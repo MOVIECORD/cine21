@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 08:32:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 09:29:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,14 +83,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1004/16_30_02__66ff997a8f20c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크롬의 저주]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61880</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61880</guid>
-            <pubDate>Fri, 15 Nov 2024 09:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1115/17_43_04__673709988ee67[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[더 크로우]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61855</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61855</guid>
@@ -136,6 +128,14 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=61875</guid>
             <pubDate>Fri, 22 Nov 2024 03:00:58 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[크롬의 저주]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61880</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61880</guid>
+            <pubDate>Fri, 15 Nov 2024 09:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1115/17_43_04__673709988ee67[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크레이븐 더 헌터]]></title>
