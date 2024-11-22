@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 07:30:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 08:32:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2021/0609/11_18_55__60c0250fafe22[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고스트캣 앙주]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61757</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61757</guid>
-            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0913/15_18_15__66e3d927d28a7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매쉬빌]]></title>
@@ -58,6 +50,14 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=60722</guid>
             <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고스트캣 앙주]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61757</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61757</guid>
+            <pubDate>Fri, 18 Oct 2024 17:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0913/15_18_15__66e3d927d28a7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왕을 찾아서]]></title>
@@ -99,35 +99,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1107/15_23_48__672c5cf414144[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[헬보이: 크룩드 맨]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61866</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61866</guid>
-            <pubDate>Fri, 22 Nov 2024 07:25:25 GMT</pubDate>
+            <title><![CDATA[카인의 도시]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61861</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61861</guid>
+            <pubDate>Fri, 22 Nov 2024 08:27:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1112/10_42_29__6732b28598142[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루프]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61846</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61846</guid>
-            <pubDate>Mon, 11 Nov 2024 07:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1115/14_39_09__6736de7d8d923[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[괜찮아 괜찮아 괜찮아!]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61875</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61875</guid>
-            <pubDate>Fri, 22 Nov 2024 03:00:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엠알 나인]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61885</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61885</guid>
-            <pubDate>Thu, 21 Nov 2024 05:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1119/16_41_24__673c4124b313b[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1108/17_10_15__672dc76735735[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모든 것은 아르망에서 시작되었다]]></title>
@@ -138,12 +115,34 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1114/15_30_58__673599222abff[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[헬보이: 크룩드 맨]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61866</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61866</guid>
+            <pubDate>Fri, 22 Nov 2024 07:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1112/10_42_29__6732b28598142[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[힘을 낼 시간]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61522</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61522</guid>
             <pubDate>Fri, 22 Nov 2024 07:25:25 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1119/16_35_03__673c3fa74b184[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[괜찮아 괜찮아 괜찮아!]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61875</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61875</guid>
+            <pubDate>Fri, 22 Nov 2024 03:00:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[크레이븐 더 헌터]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60665</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60665</guid>
+            <pubDate>Fri, 22 Nov 2024 08:27:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
         </item>
     </channel>
 </rss>
