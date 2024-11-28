@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Nov 2024 04:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 05:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,27 +112,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1125/15_27_22__674418caed115[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김범수 25주년 콘서트 필름: 여행]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61904</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61904</guid>
+            <title><![CDATA[X를 담아, 당신에게]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61929</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61929</guid>
+            <pubDate>Thu, 28 Nov 2024 05:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1128/13_51_48__6747f6e46d2f6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대가족]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61760</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61760</guid>
             <pubDate>Wed, 27 Nov 2024 15:23:42 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1126/18_11_51__674590d78e50c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미세스 그린 애플 // 더 화이트 라운지 인 시네마]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61906</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61906</guid>
-            <pubDate>Wed, 27 Nov 2024 09:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12-11]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엔시티 드림 미스터리 랩: 드림 이스케이프 인 시네마]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61908</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61908</guid>
-            <pubDate>Wed, 27 Nov 2024 09:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1122/17_15_46__67403db2bae48[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1114/10_56_35__673558d3455a4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 크로우]]></title>
@@ -143,12 +136,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1127/15_36_06__6746bdd6b637c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대가족]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61760</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61760</guid>
-            <pubDate>Wed, 27 Nov 2024 15:23:42 GMT</pubDate>
+            <title><![CDATA[이처럼 사소한 것들]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61860</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61860</guid>
+            <pubDate>Thu, 28 Nov 2024 05:20:23 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1114/10_56_35__673558d3455a4[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1114/18_30_07__6735c31f23ad7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔시티 드림 미스터리 랩: 드림 이스케이프 인 시네마]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61908</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61908</guid>
+            <pubDate>Wed, 27 Nov 2024 09:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1122/17_15_46__67403db2bae48[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
