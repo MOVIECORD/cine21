@@ -4,9 +4,17 @@
         <title>씨네21 ─ 멀티미디어 ─ 커버 ─ 사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Nov 2024 01:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 03:10:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No.1484]]></title>
+            <link>https://image.cine21.com/resize/cine21/movie/2024/1129/10_40_34__67491b9209842[H800-].jpg</link>
+            <guid>https://image.cine21.com/resize/cine21/movie/2024/1129/10_40_34__67491b9209842[H800-].jpg</guid>
+            <pubDate>Fri, 29 Nov 2024 03:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024-12-03~2024-12-10]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/1129/10_40_34__67491b9209842[X300,360].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[No.1483]]></title>
             <link>https://image.cine21.com/resize/cine21/movie/2024/1122/10_34_01__673fdf89b8392[H800-].jpg</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 18 Oct 2024 17:26:17 GMT</pubDate>
             <content:encoded><![CDATA[2024-10-08~2024-10-15]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/1004/09_44_17__66ff3a61b5634[X300,360].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No.1475]]></title>
-            <link>https://image.cine21.com/resize/cine21/movie/2024/0927/10_24_16__66f6094004464[H800-].jpg</link>
-            <guid>https://image.cine21.com/resize/cine21/movie/2024/0927/10_24_16__66f6094004464[H800-].jpg</guid>
-            <pubDate>Fri, 18 Oct 2024 17:26:17 GMT</pubDate>
-            <content:encoded><![CDATA[2024-10-01~2024-10-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/0927/10_24_16__66f6094004464[X300,360].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
