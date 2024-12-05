@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-12-05T01:19:33.887Z</updated>
+    <updated>2024-12-05T03:25:14.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <옥탑방 고양이> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8876&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8876&amp;p=1"/>
+        <updated>2024-12-05T03:01:22.856Z</updated>
+        <content type="html"><![CDATA[8876]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도서 <달의 뒷면을 걷다> 증정 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8875&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8875&amp;p=1"/>
+        <updated>2024-12-05T03:01:22.858Z</updated>
+        <content type="html"><![CDATA[8875]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <대학살의 신> 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8874&amp;p=1</id>
@@ -95,19 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8862&amp;p=1"/>
         <updated>2024-11-18T02:58:13.468Z</updated>
         <content type="html"><![CDATA[8862]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤직드라마 <불편한 편의점> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8861&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8861&amp;p=1"/>
-        <updated>2024-11-18T02:58:13.476Z</updated>
-        <content type="html"><![CDATA[8861]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구간송미술관 2024밤의 미술관 : 영화'동주' with. 박정민 초대 이벤트	 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8860&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8860&amp;p=1"/>
-        <updated>2024-11-18T02:58:13.476Z</updated>
-        <content type="html"><![CDATA[8860]]></content>
     </entry>
 </feed>
