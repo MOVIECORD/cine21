@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2024-12-10T03:26:54.261Z</updated>
+    <updated>2024-12-10T04:42:05.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <괜찮아 괜찮아 괜찮아> 무대인사 시사회 초대 이벤트 관련 공지]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8878&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8878&amp;p=1"/>
+        <updated>2024-12-10T04:19:08.491Z</updated>
+        <content type="html"><![CDATA[8878]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <파라다이스 이즈 버닝> 시사회 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8877&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8864&amp;p=1"/>
         <updated>2024-11-21T04:19:04.225Z</updated>
         <content type="html"><![CDATA[8864]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤직드라마 <망원동 브라더스> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8863&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8863&amp;p=1"/>
-        <updated>2024-11-21T03:26:34.891Z</updated>
-        <content type="html"><![CDATA[8863]]></content>
     </entry>
 </feed>
