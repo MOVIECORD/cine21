@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 04:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 05:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -60,14 +60,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1004/16_30_02__66ff997a8f20c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카인의 도시]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61861</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61861</guid>
-            <pubDate>Fri, 22 Nov 2024 08:27:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1108/17_10_15__672dc76735735[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[엠알 나인]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61885</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61885</guid>
@@ -76,20 +68,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1119/16_41_24__673c4124b313b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카인의 도시]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61861</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61861</guid>
+            <pubDate>Fri, 22 Nov 2024 08:27:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1108/17_10_15__672dc76735735[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[캐논 인버스]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=5230</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=5230</guid>
             <pubDate>Fri, 29 Nov 2024 06:33:39 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1203/10_40_14__674e617e6ebee[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발레리나]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60453</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60453</guid>
-            <pubDate>Wed, 27 Nov 2024 03:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1210/17_07_29__6757f6c1ed287[X224,320].JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[괜찮아 괜찮아 괜찮아!]]></title>
@@ -112,6 +104,14 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=61405</guid>
             <pubDate>Mon, 02 Dec 2024 04:33:53 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[발레리나]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60453</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60453</guid>
+            <pubDate>Wed, 27 Nov 2024 03:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1210/17_07_29__6757f6c1ed287[X224,320].JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[배드 가이즈 2]]></title>
