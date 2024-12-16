@@ -4,16 +4,9 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Dec 2024 15:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 16:30:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[섬.망(望)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61959</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61959</guid>
-            <pubDate>Sun, 15 Dec 2024 07:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12-17]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[알레고리, 잇츠 낫 미]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61960</link>
@@ -55,20 +48,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1206/13_38_12__67527fb46971a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정동원 성탄총동원 더 무비]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61900</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61900</guid>
-            <pubDate>Sun, 15 Dec 2024 07:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1122/11_27_44__673fec207642b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[극장판 짱구는 못말려: 우리들의 공룡일기]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61854</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61854</guid>
             <pubDate>Sun, 15 Dec 2024 07:21:44 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12-18]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1120/16_11_04__673d8b880b8f9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정동원 성탄총동원 더 무비]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61900</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61900</guid>
+            <pubDate>Sun, 15 Dec 2024 07:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1122/11_27_44__673fec207642b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알레고리]]></title>
@@ -111,20 +104,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1210/15_21_03__6757ddcfd60d6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[면접교섭]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61936</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61936</guid>
-            <pubDate>Sun, 15 Dec 2024 07:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1206/17_02_17__6752af898a398[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[더 폴: 디렉터스 컷]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61884</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61884</guid>
             <pubDate>Sun, 15 Dec 2024 18:27:05 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12-25]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1206/14_37_53__67528db1514c9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[면접교섭]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61936</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61936</guid>
+            <pubDate>Sun, 15 Dec 2024 07:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1206/17_02_17__6752af898a398[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[니코: 오로라 원정대의 모험]]></title>
@@ -149,6 +142,14 @@
             <pubDate>Mon, 16 Dec 2024 07:24:35 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12-25]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1210/15_36_38__6757e176a5d25[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모든 것은 아르망에서 시작되었다]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61620</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61620</guid>
+            <pubDate>Mon, 16 Dec 2024 16:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12-25]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1127/16_39_09__6746cc9db85a3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
