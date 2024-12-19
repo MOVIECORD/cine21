@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Dec 2024 08:33:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 09:27:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,12 +112,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1213/17_35_26__675bf1ce79d2d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러브레터]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=2676</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=2676</guid>
+            <title><![CDATA[뽀로로 극장판 바닷속 대모험]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61853</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61853</guid>
             <pubDate>Tue, 17 Dec 2024 19:23:17 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-01-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1206/14_53_23__675291532f8b6[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1119/17_05_30__673c46ca60676[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[총을 든 스님]]></title>
@@ -144,12 +144,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1213/13_36_02__675bb9b2d55bf[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뽀로로 극장판 바닷속 대모험]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61853</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61853</guid>
+            <title><![CDATA[러브레터]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=2676</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=2676</guid>
             <pubDate>Tue, 17 Dec 2024 19:23:17 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-01-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1119/17_05_30__673c46ca60676[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1206/14_53_23__675291532f8b6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
