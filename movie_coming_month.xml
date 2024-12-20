@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Dec 2024 05:37:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 06:28:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -108,13 +108,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1211/11_24_56__6758f7f885d0d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다잉]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61589</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61589</guid>
-            <pubDate>Sun, 15 Dec 2024 06:29:05 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[발레리나]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60453</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60453</guid>
@@ -123,9 +116,9 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1210/17_07_29__6757f6c1ed287[X224,320].JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[언데드 다루는 법]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61405</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61405</guid>
+            <title><![CDATA[다잉]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61589</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61589</guid>
             <pubDate>Sun, 15 Dec 2024 06:29:05 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
         </item>
@@ -143,6 +136,14 @@
             <pubDate>Thu, 19 Dec 2024 09:23:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-01]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1126/14_28_28__67455c7cb043c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[말할 수 없는 비밀]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=58912</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=58912</guid>
+            <pubDate>Fri, 20 Dec 2024 06:26:36 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1217/14_40_53__67610ee534589[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
