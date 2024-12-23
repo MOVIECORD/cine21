@@ -4,9 +4,25 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 16:41:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 17:28:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나야, 문희]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61951</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61951</guid>
+            <pubDate>Mon, 23 Dec 2024 17:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1220/18_06_37__6765339dd73b9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하얼빈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61175</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61175</guid>
+            <pubDate>Mon, 23 Dec 2024 17:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1210/15_21_03__6757ddcfd60d6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보이지 않는]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61916</link>
@@ -16,28 +32,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1128/17_30_18__67482a1ac70e5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[알레고리, 잇츠 낫 미]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61960</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61960</guid>
-            <pubDate>Tue, 17 Dec 2024 15:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1204/10_10_24__674fac0007143[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[힘을 낼 시간]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61522</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61522</guid>
             <pubDate>Tue, 17 Dec 2024 15:24:20 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12-18]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1211/10_40_58__6758edaa475b1[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 짱구는 못말려: 우리들의 공룡일기]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61854</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61854</guid>
-            <pubDate>Tue, 17 Dec 2024 15:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1219/10_33_43__676377f7d4bd0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파라다이스 이즈 버닝]]></title>
@@ -64,12 +64,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1122/11_27_44__673fec207642b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무파사: 라이온 킹]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61487</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61487</guid>
+            <title><![CDATA[극장판 짱구는 못말려: 우리들의 공룡일기]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61854</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61854</guid>
             <pubDate>Tue, 17 Dec 2024 15:24:20 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12-18]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1206/13_38_12__67527fb46971a[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1219/10_33_43__676377f7d4bd0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알레고리]]></title>
@@ -86,6 +86,22 @@
             <pubDate>Tue, 17 Dec 2024 15:24:20 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12-18]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1204/10_05_35__674faadfea05b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무파사: 라이온 킹]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61487</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61487</guid>
+            <pubDate>Tue, 17 Dec 2024 15:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1206/13_38_12__67527fb46971a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알레고리, 잇츠 낫 미]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61960</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61960</guid>
+            <pubDate>Tue, 17 Dec 2024 15:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12-18]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1204/10_10_24__674fac0007143[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[섬.망(望)]]></title>
@@ -110,22 +126,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1212/10_15_31__675a3933dcd95[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엔시티 드림 미스터리 랩: 드림 이스케이프 인 시네마]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61908</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61908</guid>
-            <pubDate>Fri, 20 Dec 2024 02:53:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1122/17_15_46__67403db2bae48[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극장판 주술회전 0]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=58814</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=58814</guid>
-            <pubDate>Fri, 20 Dec 2024 02:53:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1212/10_33_51__675a3d7f09857[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[대가족]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61760</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61760</guid>
@@ -134,20 +134,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1217/14_36_33__67610de147ec2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나우 이즈 굿]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=37336</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=37336</guid>
+            <pubDate>Mon, 23 Dec 2024 17:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12-11]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1122/15_35_07__6740261bea1c3[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더 크로우]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61855</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61855</guid>
             <pubDate>Fri, 20 Dec 2024 02:53:22 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12-11]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1203/17_17_15__674ebe8b1c120[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이처럼 사소한 것들]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61860</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61860</guid>
-            <pubDate>Fri, 20 Dec 2024 02:53:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2024-12-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1205/14_48_39__67513eb720ed9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
