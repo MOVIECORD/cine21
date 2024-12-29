@@ -4,9 +4,18 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Dec 2024 15:28:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Dec 2024 16:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <페라리> 예매권 증정 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8457</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8457</guid>
+            <pubDate>Sun, 29 Dec 2024 16:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2025-01-06 20:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/1227/20_39_45__676e9201aa985[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <애니멀 킹덤> 리뷰어 시사회 이벤트]]></title>
             <link>http://www.cine21.com/event/view/?event_no=8456</link>
@@ -46,15 +55,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2025-01-02 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/1223/14_23_36__6768f3d883002[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <운빨로맨스> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8451</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8451</guid>
-            <pubDate>Tue, 17 Dec 2024 15:28:36 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2024-12-30 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/1217/17_47_23__67613a9b67e39[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
