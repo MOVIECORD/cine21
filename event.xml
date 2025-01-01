@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jan 2025 14:29:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jan 2025 15:28:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,26 +35,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2025-01-06 14:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/1224/14_02_23__676a405f15903[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <늘근도둑 이야기> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8454</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8454</guid>
-            <pubDate>Tue, 24 Dec 2024 05:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2025-01-02 13:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/1224/14_00_09__676a3fd92ccf8[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <파문> 시사회 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8453</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8453</guid>
-            <pubDate>Mon, 23 Dec 2024 06:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2025-01-07 19:30</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2025-01-02 14:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/1223/14_23_36__6768f3d883002[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
