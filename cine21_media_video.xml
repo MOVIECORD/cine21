@@ -4,9 +4,22 @@
         <title>씨네21 ─ 멀티미디어 ─ 동영상</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 05:28:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 06:27:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[＜말할 수 없는 비밀＞ 캐릭터 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F01%2Fsecret_ctr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F705%2F677f63b80c495.jpg&amp;title=%EF%BC%9C%EB%A7%90%ED%95%A0%20%EC%88%98%20%EC%97%86%EB%8A%94%20%EB%B9%84%EB%B0%80%EF%BC%9E%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F01%2Fsecret_ctr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F705%2F677f63b80c495.jpg&amp;title=%EF%BC%9C%EB%A7%90%ED%95%A0%20%EC%88%98%20%EC%97%86%EB%8A%94%20%EB%B9%84%EB%B0%80%EF%BC%9E%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47353">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F01%2Fsecret_ctr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F705%2F677f63b80c495.jpg&amp;title=%EF%BC%9C%EB%A7%90%ED%95%A0%20%EC%88%98%20%EC%97%86%EB%8A%94%20%EB%B9%84%EB%B0%80%EF%BC%9E%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/01/secret_ctr.mp4">
+						<img src="https://image.cine21.com/crop/data/705/677f63b80c495.jpg" alt="" class="thumb">
+						<span class="title">＜말할 수 없는 비밀＞ 캐릭터 예고편</span>
+						<span class="date">2025-01-09</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/705/677f63b80c495.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[＜귀신경찰＞ 메인 예고편]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F01%2Fghostcap_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F321%2F677f33f3218da.jpg&amp;title=%EF%BC%9C%EA%B7%80%EC%8B%A0%EA%B2%BD%EC%B0%B0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
@@ -201,19 +214,6 @@
 						<span class="date">2025-01-03</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/951/6777934fb0ee3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜수호＞ 예고편]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47334">-->
-					<a href="javascript:;" data-url="not_logged">
-						<img src="https://image.cine21.com/crop/data/421/6777916bf0d72.jpg" alt="" class="thumb">
-						<span class="title">＜수호＞ 예고편</span>
-						<span class="date">2025-01-03</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/421/6777916bf0d72.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
