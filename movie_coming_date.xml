@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 01:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 03:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1219/11_27_39__6763849b0d1c5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[폭락]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61953</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61953</guid>
-            <pubDate>Fri, 03 Jan 2025 06:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-01-15]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1224/14_47_29__676a4af16621c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[은빛살구]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61523</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61523</guid>
             <pubDate>Tue, 31 Dec 2024 16:26:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-01-15]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1226/13_26_59__676cdb131c500[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폭락]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61953</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61953</guid>
+            <pubDate>Fri, 03 Jan 2025 06:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-01-15]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1224/14_47_29__676a4af16621c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리얼 페인]]></title>
@@ -112,20 +112,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0103/14_53_06__67777b420a821[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[문워크]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61983</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61983</guid>
-            <pubDate>Tue, 07 Jan 2025 16:42:37 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-01-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0106/10_06_21__677b2c8d43587[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[히트맨2]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61975</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61975</guid>
             <pubDate>Tue, 07 Jan 2025 16:42:37 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-01-22]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0107/10_53_30__677c891aef3cf[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문워크]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61983</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61983</guid>
+            <pubDate>Tue, 07 Jan 2025 16:42:37 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-01-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0106/10_06_21__677b2c8d43587[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카라바조의 그림자]]></title>
