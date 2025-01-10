@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 09:31:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 10:36:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -239,21 +239,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1213/15_58_09__675bdb01e5736[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[브루탈리스트]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61993</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61993</guid>
-            <pubDate>Fri, 10 Jan 2025 05:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">브루탈리스트</span>
-		
-
-									<span class="director">감독 : 브래디 코벳</span>
-											<span class="actor">배우 : 애드리언 브로디,펠리시티 존스</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[파반느]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61551</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61551</guid>
@@ -282,6 +267,22 @@
 		
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[열대야]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61457</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61457</guid>
+            <pubDate>Fri, 10 Jan 2025 10:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">열대야</span>
+		
+
+									<span class="director">감독 : 김판수</span>
+											<span class="actor">배우 : 우도환,장동건</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0425/15_27_42__6629f7de08833[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
