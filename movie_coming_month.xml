@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jan 2025 07:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 08:33:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,13 +32,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1216/16_19_07__675fd46be9ee1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[홈캠]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61968</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61968</guid>
-            <pubDate>Fri, 10 Jan 2025 05:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[괜찮아 괜찮아 괜찮아!]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61875</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61875</guid>
@@ -51,6 +44,13 @@
             <link>http://www.cine21.com/movie/info/?movie_id=62010</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62010</guid>
             <pubDate>Mon, 13 Jan 2025 08:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[홈캠]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61968</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61968</guid>
+            <pubDate>Fri, 10 Jan 2025 05:22:08 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
         </item>
         <item>

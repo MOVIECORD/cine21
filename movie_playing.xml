@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jan 2025 07:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 08:33:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,14 +23,6 @@
             <content:encoded><![CDATA[개봉 : 2025-01-08]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쇼잉 업]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61206</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61206</guid>
-            <pubDate>Fri, 10 Jan 2025 05:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-01-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1223/16_38_40__6769138091b46[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[데드데드 데몬즈 디디디디 디스트럭션: 파트1]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61912</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61912</guid>
@@ -39,20 +31,11 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1211/13_31_31__675915a32b8d6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사일런트 러브]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61950</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61950</guid>
+            <title><![CDATA[코넬의 상자]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61989</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61989</guid>
             <pubDate>Fri, 10 Jan 2025 05:21:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-01-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1217/14_30_04__67610c5c5d356[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피스 바이 피스]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61934</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61934</guid>
-            <pubDate>Fri, 10 Jan 2025 05:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-01-08]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1216/16_13_33__675fd31d2a47f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동화지만 청불입니다]]></title>
@@ -63,6 +46,22 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0114/10_22_32__6785bc584dd3a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[피스 바이 피스]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61934</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61934</guid>
+            <pubDate>Fri, 10 Jan 2025 05:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-01-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1216/16_13_33__675fd31d2a47f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사일런트 러브]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61950</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61950</guid>
+            <pubDate>Fri, 10 Jan 2025 05:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-01-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1217/14_30_04__67610c5c5d356[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[페라리]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61957</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61957</guid>
@@ -71,11 +70,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0108/13_50_27__677e0413af75a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코넬의 상자]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61989</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61989</guid>
+            <title><![CDATA[쇼잉 업]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61206</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61206</guid>
             <pubDate>Fri, 10 Jan 2025 05:21:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-01-08]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1223/16_38_40__6769138091b46[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 퍼스트 슬램덩크]]></title>
@@ -86,28 +86,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1223/11_27_10__6768ca7e03525[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[해관전선]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61979</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61979</guid>
-            <pubDate>Fri, 10 Jan 2025 05:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-01-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1227/11_02_59__676e0ad3dd4c7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[색, 계]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=21799</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=21799</guid>
+            <title><![CDATA[뽀로로 극장판 바닷속 대모험]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61853</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61853</guid>
             <pubDate>Fri, 10 Jan 2025 05:21:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-01-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/1212/18_28_28__675aacbcc25be[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수퍼 소닉3]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61738</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61738</guid>
-            <pubDate>Fri, 10 Jan 2025 05:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-01-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0102/13_55_23__67761c3b88ab6[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1119/17_05_30__673c46ca60676[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[총을 든 스님]]></title>
@@ -118,6 +102,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0109/10_49_46__677f2b3af139a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[수퍼 소닉3]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61738</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61738</guid>
+            <pubDate>Fri, 10 Jan 2025 05:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-01-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0102/13_55_23__67761c3b88ab6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[러브레터]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=2676</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=2676</guid>
@@ -126,12 +118,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1206/14_53_23__675291532f8b6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뽀로로 극장판 바닷속 대모험]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61853</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61853</guid>
+            <title><![CDATA[색, 계]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=21799</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=21799</guid>
             <pubDate>Fri, 10 Jan 2025 05:21:40 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-01-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1119/17_05_30__673c46ca60676[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2024/1212/18_28_28__675aacbcc25be[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시빌 워: 분열의 시대]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
+            <pubDate>Fri, 10 Jan 2025 05:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2024-12-31]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1231/11_48_32__67735b808ba51[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밀레니엄 맘보]]></title>
@@ -142,12 +142,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1213/17_35_26__675bf1ce79d2d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시빌 워: 분열의 시대]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61119</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61119</guid>
-            <pubDate>Fri, 10 Jan 2025 05:21:40 GMT</pubDate>
+            <title><![CDATA[보고타: 마지막 기회의 땅]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57542</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57542</guid>
+            <pubDate>Tue, 14 Jan 2025 08:26:30 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-12-31]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1231/11_48_32__67735b808ba51[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1231/11_21_12__67735518b0313[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
