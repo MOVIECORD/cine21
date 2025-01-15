@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 10:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 11:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1226/13_38_59__676cdde3304e1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[문워크]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61983</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61983</guid>
+            <pubDate>Fri, 10 Jan 2025 05:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-01-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0106/10_06_21__677b2c8d43587[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[히트맨2]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61975</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61975</guid>
             <pubDate>Fri, 10 Jan 2025 05:21:54 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-01-22]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0107/10_53_30__677c891aef3cf[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카라바조의 그림자]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61961</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61961</guid>
+            <pubDate>Fri, 10 Jan 2025 05:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-01-22]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1230/14_32_06__6772305631d2d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꼬마 판다 팡의 아프리카 대모험]]></title>
@@ -64,22 +80,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1226/15_32_50__676cf89230c56[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카라바조의 그림자]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61961</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61961</guid>
-            <pubDate>Fri, 10 Jan 2025 05:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-01-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1230/14_32_06__6772305631d2d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문워크]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61983</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61983</guid>
-            <pubDate>Fri, 10 Jan 2025 05:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-01-22]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0106/10_06_21__677b2c8d43587[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[마당을 나온 암탉]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=11840</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=11840</guid>
@@ -104,20 +104,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0109/10_35_17__677f27d5d502e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[은혼 가시아귀편 온 씨어터]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62005</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62005</guid>
+            <title><![CDATA[귀신경찰]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=59049</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=59049</guid>
             <pubDate>Tue, 14 Jan 2025 15:24:53 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-01-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0109/18_15_37__677f93b90464e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이퍼 프로젝션 연극 하이큐!!]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62006</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62006</guid>
-            <pubDate>Tue, 14 Jan 2025 15:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-01-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0109/18_33_13__677f97d941a0f[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0106/16_05_47__677b80cbc0e2c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이유 콘서트: 더 위닝]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Tue, 14 Jan 2025 15:24:53 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-01-24]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0108/17_13_36__677e33b0cf707[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이퍼 프로젝션 연극 하이큐!!]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62006</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62006</guid>
+            <pubDate>Tue, 14 Jan 2025 15:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-01-24]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0109/18_33_13__677f97d941a0f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검은 수녀들]]></title>
@@ -144,12 +144,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0113/16_23_20__6784bf68c37d6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[귀신경찰]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=59049</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=59049</guid>
+            <title><![CDATA[은혼 가시아귀편 온 씨어터]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62005</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62005</guid>
             <pubDate>Tue, 14 Jan 2025 15:24:53 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-01-24]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0106/16_05_47__677b80cbc0e2c[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0109/18_15_37__677f93b90464e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
