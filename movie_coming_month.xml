@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 08:30:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 09:31:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,14 +13,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=62022</guid>
             <pubDate>Fri, 17 Jan 2025 08:24:32 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나쁜계집애: 달려라 하니]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61964</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61964</guid>
-            <pubDate>Fri, 10 Jan 2025 05:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1216/16_19_07__675fd46be9ee1[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0117/17_48_19__678a19530671d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노보케인]]></title>
@@ -29,6 +22,13 @@
             <pubDate>Fri, 10 Jan 2025 05:22:08 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1216/18_10_18__675fee7a8e5ac[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홈캠]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61968</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61968</guid>
+            <pubDate>Fri, 10 Jan 2025 05:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[내 친구는 살인범]]></title>
@@ -54,6 +54,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1211/11_24_56__6758f7f885d0d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나쁜계집애: 달려라 하니]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61964</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61964</guid>
+            <pubDate>Fri, 10 Jan 2025 05:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1216/16_19_07__675fd46be9ee1[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[백수아파트]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62010</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62010</guid>
@@ -61,16 +69,16 @@
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[홈캠]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61968</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61968</guid>
+            <title><![CDATA[다잉]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61589</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61589</guid>
             <pubDate>Fri, 10 Jan 2025 05:22:08 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[다잉]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61589</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61589</guid>
+            <title><![CDATA[크레이븐 더 헌터]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60665</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60665</guid>
             <pubDate>Fri, 10 Jan 2025 05:22:08 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
         </item>
@@ -83,11 +91,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1210/17_07_29__6757f6c1ed287[X224,320].JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[크레이븐 더 헌터]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60665</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60665</guid>
+            <title><![CDATA[백산 - 의령에서 발해까지]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61911</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61911</guid>
             <pubDate>Fri, 10 Jan 2025 05:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
+            <content:encoded><![CDATA[개봉 : 2025-01]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1126/14_28_28__67455c7cb043c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[머더 컴퍼니: 살인 중대]]></title>
@@ -98,28 +107,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0102/17_49_40__67765324a9e6c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[백산 - 의령에서 발해까지]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61911</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61911</guid>
-            <pubDate>Fri, 10 Jan 2025 05:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-01]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1126/14_28_28__67455c7cb043c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호조]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62013</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62013</guid>
-            <pubDate>Thu, 16 Jan 2025 05:22:21 GMT</pubDate>
+            <title><![CDATA[아카디안]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62018</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62018</guid>
+            <pubDate>Thu, 16 Jan 2025 11:21:34 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0114/14_15_33__6785f2f58bf31[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고백]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62001</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62001</guid>
-            <pubDate>Fri, 10 Jan 2025 05:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0115/16_59_44__67876af08457a[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0116/17_58_46__6788ca468cd72[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판 쿠로코의 농구 라스트 게임]]></title>
@@ -130,20 +123,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0114/15_31_11__678604af9dc48[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아카디안]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62018</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62018</guid>
-            <pubDate>Thu, 16 Jan 2025 11:21:34 GMT</pubDate>
+            <title><![CDATA[고백]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62001</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62001</guid>
+            <pubDate>Fri, 10 Jan 2025 05:22:08 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0116/17_58_46__6788ca468cd72[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0115/16_59_44__67876af08457a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[히어]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62012</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62012</guid>
-            <pubDate>Wed, 15 Jan 2025 02:47:37 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0115/15_10_41__67875161c2ea6[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[콘클라베]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61997</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61997</guid>
+            <pubDate>Fri, 17 Jan 2025 09:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0114/16_31_34__678612d668468[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호조]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62013</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62013</guid>
+            <pubDate>Thu, 16 Jan 2025 05:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0114/14_15_33__6785f2f58bf31[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
