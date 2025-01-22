@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jan 2025 11:24:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jan 2025 12:39:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2875,14 +2875,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0117/16_39_17__678a09255ef0d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[브로큰 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57828</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57828</guid>
-            <pubDate>Wed, 22 Jan 2025 06:25:18 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0108/15_22_28__677e19a4ae188[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[만담 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62015</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62015</guid>
@@ -2905,6 +2897,14 @@
             <pubDate>Wed, 22 Jan 2025 06:25:18 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-02-05]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0113/16_07_19__6784bba7b8bb8[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브로큰 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57828</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57828</guid>
+            <pubDate>Wed, 22 Jan 2025 06:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-02-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0108/15_22_28__677e19a4ae188[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노보케인 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
