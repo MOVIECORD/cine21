@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 03:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 03:29:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,14 +36,6 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=61992</guid>
             <pubDate>Fri, 10 Jan 2025 05:22:08 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[괜찮아 괜찮아 괜찮아!]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61875</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61875</guid>
-            <pubDate>Fri, 10 Jan 2025 05:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1211/11_24_56__6758f7f885d0d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백수아파트]]></title>
@@ -145,6 +137,14 @@
             <pubDate>Wed, 22 Jan 2025 10:25:13 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0122/15_13_25__67908c85402ed[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장난을 잘 치는 타카기 양]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61942</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61942</guid>
+            <pubDate>Thu, 23 Jan 2025 03:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1205/15_13_32__6751448c98337[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
