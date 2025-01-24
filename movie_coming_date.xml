@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 16:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 17:30:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 23 Jan 2025 05:20:49 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-14]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0123/13_56_24__6791cbf83bdf7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반지의 제왕: 로히림의 전쟁]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61956</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61956</guid>
-            <pubDate>Tue, 21 Jan 2025 17:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-01-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0109/11_09_51__677f2fef233c6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바다 탐험대 옥토넛 어보브 앤 비욘드: 극지방 대작전]]></title>
@@ -64,6 +56,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0117/16_39_17__678a09255ef0d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[멀홀랜드 드라이브]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=5734</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=5734</guid>
+            <pubDate>Fri, 24 Jan 2025 10:28:53 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-02-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0124/15_22_17__679331997265d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[데드데드 데몬즈 디디디디 디스트럭션: 파트2]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61933</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61933</guid>
@@ -72,12 +72,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0115/16_48_56__67876868afabf[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[멀홀랜드 드라이브]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=5734</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=5734</guid>
+            <title><![CDATA[레드벨벳 해피니스 다이어리 : 마이 디어, 레베럽 인 시네마]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62035</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62035</guid>
             <pubDate>Fri, 24 Jan 2025 10:28:53 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-02-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0124/15_22_17__679331997265d[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0124/15_11_20__67932f088df03[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고양이키스 : 당신에게 마음을 여는 순간]]></title>
@@ -102,14 +102,6 @@
             <pubDate>Wed, 22 Jan 2025 17:25:49 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-02-05]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0122/11_17_01__6790551dddb93[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 해피니스 다이어리 : 마이 디어, 레베럽 인 시네마]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62035</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62035</guid>
-            <pubDate>Fri, 24 Jan 2025 10:28:53 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0124/15_11_20__67932f088df03[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[만담]]></title>
@@ -150,6 +142,14 @@
             <pubDate>Thu, 23 Jan 2025 19:18:07 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-02-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1119/17_23_13__673c4af18d72a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두 사람]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60206</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60206</guid>
+            <pubDate>Fri, 24 Jan 2025 17:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-02-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0122/11_19_08__6790559cf2dc2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
