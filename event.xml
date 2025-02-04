@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 11:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 12:45:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>http://www.cine21.com/event/view/?event_no=8472</link>
             <guid>http://www.cine21.com/event/view/?event_no=8472</guid>
             <pubDate>Mon, 03 Feb 2025 05:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[<p style=""><span class="tit">인원</span><span class="bar">|</span>10 명</p><div class="teads-adCall"></div>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2025-02-12 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0203/13_21_19__67a0443fbc79a[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
@@ -35,17 +35,6 @@
                                             <p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2025-02-10 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0203/10_40_36__67a01e94d5c00[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <첫 번째 키스> 시사회 기대평 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8469</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8469</guid>
-            <pubDate>Sun, 02 Feb 2025 19:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2025-02-14 19:30</p>
-                        <p><span class="tit">장소</span><span class="bar">|</span>메가박스 홍대</p>
-                                            <p><span class="tit">인원</span><span class="bar">|</span>70 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2025-02-10 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0124/13_47_15__67931b5362060[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
