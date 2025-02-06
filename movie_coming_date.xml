@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Feb 2025 05:32:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 06:37:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2021/0510/17_47_46__6098f33233d8c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[캡틴 아메리카: 브레이브 뉴 월드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61662</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61662</guid>
+            <title><![CDATA[미드나잇 인 파리]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=31859</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=31859</guid>
             <pubDate>Thu, 23 Jan 2025 19:18:07 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-02-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0204/11_44_24__67a17f08190c2[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0115/15_18_01__678753199ea99[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정돌이]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62047</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62047</guid>
+            <pubDate>Wed, 05 Feb 2025 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-02-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0205/15_56_21__67a30b95eb8f8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[두 사람]]></title>
@@ -48,20 +56,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0131/18_32_43__679c98bba8e8e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정돌이]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62047</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62047</guid>
-            <pubDate>Wed, 05 Feb 2025 07:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0205/15_56_21__67a30b95eb8f8[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미드나잇 인 파리]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=31859</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=31859</guid>
+            <title><![CDATA[캡틴 아메리카: 브레이브 뉴 월드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61662</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61662</guid>
             <pubDate>Thu, 23 Jan 2025 19:18:07 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-02-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0115/15_18_01__678753199ea99[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0204/11_44_24__67a17f08190c2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아카디안]]></title>
@@ -72,6 +72,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0131/11_22_47__679c33f71c7c9[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[명탐정 코난: 14번째 표적]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62014</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62014</guid>
+            <pubDate>Tue, 28 Jan 2025 15:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-02-14]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0124/10_05_18__6792e74e3611b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[엘리: 몬스터 패밀리]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61998</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61998</guid>
@@ -80,12 +88,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0122/14_58_36__6790890c8da14[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[명탐정 코난: 14번째 표적]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62014</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62014</guid>
-            <pubDate>Tue, 28 Jan 2025 15:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02-14]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0124/10_05_18__6792e74e3611b[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[패딩턴: 페루에 가다!]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62033</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62033</guid>
+            <pubDate>Tue, 04 Feb 2025 16:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-02-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0131/10_23_52__679c262879a8f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[히어]]></title>
@@ -112,14 +120,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0124/10_17_47__6792ea3b8b5e1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[패딩턴: 페루에 가다!]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62033</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62033</guid>
-            <pubDate>Tue, 04 Feb 2025 16:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0131/10_23_52__679c262879a8f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[몽유도원]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62038</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62038</guid>
@@ -141,7 +141,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=61937</guid>
             <pubDate>Tue, 04 Feb 2025 16:24:59 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-02-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0122/17_57_39__6790b30391b6c[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0122/17_59_43__6790b37f0c052[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그 시절, 우리가 좋아했던 소녀]]></title>
@@ -149,7 +149,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=61772</guid>
             <pubDate>Tue, 04 Feb 2025 16:24:59 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-02-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0124/14_22_48__679323a80453f[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0206/14_16_52__67a445c48b225[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
