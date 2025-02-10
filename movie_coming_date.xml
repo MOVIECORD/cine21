@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Feb 2025 23:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 01:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 23 Jan 2025 05:20:49 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2024-02-14]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0123/13_56_24__6791cbf83bdf7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[머더 컴퍼니: 살인 중대]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61988</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61988</guid>
+            <pubDate>Mon, 10 Feb 2025 01:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-02-06]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0102/17_49_40__67765324a9e6c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[500일의 썸머]]></title>
@@ -88,14 +96,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0122/14_58_36__6790890c8da14[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[패딩턴: 페루에 가다!]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62033</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62033</guid>
-            <pubDate>Tue, 04 Feb 2025 16:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0131/10_23_52__679c262879a8f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[히어]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62012</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62012</guid>
@@ -110,6 +110,14 @@
             <pubDate>Tue, 04 Feb 2025 10:25:25 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-02-19]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0131/11_10_38__679c311e67813[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패딩턴: 페루에 가다!]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62033</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62033</guid>
+            <pubDate>Tue, 04 Feb 2025 16:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-02-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0131/10_23_52__679c262879a8f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고백]]></title>
@@ -134,14 +142,6 @@
             <pubDate>Thu, 06 Feb 2025 03:28:56 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-02-21]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0206/10_31_12__67a410e069528[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퇴마록]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61937</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61937</guid>
-            <pubDate>Tue, 04 Feb 2025 16:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02-21]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0122/17_59_43__6790b37f0c052[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그 시절, 우리가 좋아했던 소녀]]></title>
