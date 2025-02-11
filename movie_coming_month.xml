@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Feb 2025 08:37:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 09:29:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -98,14 +98,6 @@
             <content:encoded><![CDATA[개봉 : 2025-02]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영화 이상한 과자 가게 전천당]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62026</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62026</guid>
-            <pubDate>Wed, 22 Jan 2025 10:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0122/18_31_36__6790baf85cd77[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[죽기 전에 한 번만]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62036</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62036</guid>
@@ -122,11 +114,19 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0211/14_46_23__67aae42f7576b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[초혼, 다시 부르는 노래]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62016</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62016</guid>
-            <pubDate>Fri, 24 Jan 2025 15:30:10 GMT</pubDate>
+            <title><![CDATA[브리짓 존스의 일기: 뉴 챕터]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61955</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61955</guid>
+            <pubDate>Tue, 11 Feb 2025 09:23:54 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미스터 로봇]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62000</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62000</guid>
+            <pubDate>Tue, 11 Feb 2025 09:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0108/17_00_40__677e30a8c23ee[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화성특급]]></title>
@@ -137,10 +137,10 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0122/15_13_25__67908c85402ed[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[준스톤 이어원]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62046</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62046</guid>
-            <pubDate>Tue, 11 Feb 2025 07:21:16 GMT</pubDate>
+            <title><![CDATA[초혼, 다시 부르는 노래]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62016</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62016</guid>
+            <pubDate>Fri, 24 Jan 2025 15:30:10 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
         </item>
     </channel>
