@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 07:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 08:35:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,22 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0117/17_36_46__678a169ebaedd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[고백]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62001</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62001</guid>
+            <pubDate>Tue, 04 Feb 2025 16:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-02-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0124/10_17_47__6792ea3b8b5e1[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 이상한 과자 가게 전천당]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62026</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62026</guid>
+            <pubDate>Tue, 11 Feb 2025 09:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-02-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0211/18_24_23__67ab174781835[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[패딩턴: 페루에 가다!]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62033</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62033</guid>
@@ -72,28 +88,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0203/18_11_05__67a0882919f76[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고백]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62001</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62001</guid>
-            <pubDate>Tue, 04 Feb 2025 16:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0124/10_17_47__6792ea3b8b5e1[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[써니데이]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62003</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62003</guid>
             <pubDate>Tue, 04 Feb 2025 10:25:25 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-02-19]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0131/11_10_38__679c311e67813[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 이상한 과자 가게 전천당]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62026</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62026</guid>
-            <pubDate>Tue, 11 Feb 2025 09:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0211/18_24_23__67ab174781835[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[극장판 요아소비 5주년 기념 돔 라이브 2024 “초현실”]]></title>
@@ -128,6 +128,13 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0204/17_32_14__67a1d08e75338[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[베이비 어쌔신: 나이스 데이즈]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62063</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62063</guid>
+            <pubDate>Wed, 12 Feb 2025 08:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-02-26]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[첫 번째 키스]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62024</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62024</guid>
@@ -142,14 +149,6 @@
             <pubDate>Tue, 11 Feb 2025 16:32:35 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-02-26]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0212/14_54_31__67ac3797e0d30[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑은 사라지지 않는다]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62052</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62052</guid>
-            <pubDate>Wed, 12 Feb 2025 04:24:42 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0210/18_29_51__67a9c70f840d4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
