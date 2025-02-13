@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2025-02-13T03:02:40.280Z</updated>
+    <updated>2025-02-13T03:28:01.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <괜찮아 괜찮아 괜찮아> 무대인사 시사회 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8910&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8910&amp;p=1"/>
+        <updated>2025-02-13T03:18:53.619Z</updated>
+        <content type="html"><![CDATA[8910]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <연남동 빙굴빙굴 빨래방> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8909&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8909&amp;p=1"/>
+        <updated>2025-02-13T03:18:53.619Z</updated>
+        <content type="html"><![CDATA[8909]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <톡톡> 공연 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8908&amp;p=1</id>
@@ -95,19 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8895&amp;p=1"/>
         <updated>2025-01-13T02:53:19.882Z</updated>
         <content type="html"><![CDATA[8895]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <카라바조의 그림자> 시사회 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8894&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8894&amp;p=1"/>
-        <updated>2025-01-09T04:18:00.669Z</updated>
-        <content type="html"><![CDATA[8894]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <어제의 시는 내일의 노래가 될 수 있을까> 초대 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8893&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8893&amp;p=1"/>
-        <updated>2025-01-09T04:18:00.675Z</updated>
-        <content type="html"><![CDATA[8893]]></content>
     </entry>
 </feed>
