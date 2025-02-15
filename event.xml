@@ -4,7 +4,7 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Feb 2025 08:33:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Feb 2025 09:32:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2025-02-20 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0212/10_41_45__67abfc5942c1a[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <운빨 로맨스> 초대 이벤트]]></title>
-            <link>http://www.cine21.com/event/view/?event_no=8475</link>
-            <guid>http://www.cine21.com/event/view/?event_no=8475</guid>
-            <pubDate>Tue, 11 Feb 2025 06:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2025-02-19 18:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0211/10_32_31__67aaa8af1a17c[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
