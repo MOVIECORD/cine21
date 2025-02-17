@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Feb 2025 01:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 03:00:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,22 +224,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1213/15_58_09__675bdb01e5736[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봄밤]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62037</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62037</guid>
-            <pubDate>Tue, 11 Feb 2025 09:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">봄밤</span>
-		
-
-									<span class="director">감독 : 강미자</span>
-											<span class="actor">배우 : 한예리,김설진</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0210/18_26_32__67a9c64859735[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[파반느]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61551</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61551</guid>
@@ -270,15 +254,30 @@
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[승부]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57457</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57457</guid>
-            <pubDate>Tue, 04 Feb 2025 04:31:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">승부</span>
+            <title><![CDATA[비광]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57492</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57492</guid>
+            <pubDate>Mon, 17 Feb 2025 02:58:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">비광</span>
 		
 
-									<span class="director">감독 : 김형주</span>
-											<span class="actor">배우 : 유아인,이병헌</span>
+									<span class="director">감독 : 이지원</span>
+											<span class="actor">배우 : 류승룡,하지원</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마이캡틴]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57530</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57530</guid>
+            <pubDate>Mon, 17 Feb 2025 02:58:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">마이캡틴</span>
+		
+
+									<span class="director">감독 : 최진성</span>
+											<span class="actor">배우 : 박성웅</span>
 		
 		
 							<span class="btn_detail">자세히 보기</span>
