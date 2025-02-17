@@ -4,22 +4,37 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Feb 2025 08:38:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 09:32:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[파과]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62022</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62022</guid>
-            <pubDate>Fri, 17 Jan 2025 08:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0117/17_48_19__678a19530671d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[홈캠]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61968</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61968</guid>
             <pubDate>Fri, 10 Jan 2025 05:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나쁜계집애: 달려라 하니]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61964</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61964</guid>
+            <pubDate>Fri, 10 Jan 2025 05:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1216/16_19_07__675fd46be9ee1[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[씽씽]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62053</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62053</guid>
+            <pubDate>Mon, 10 Feb 2025 06:33:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0210/14_45_58__67a99296dfdd6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3일]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62059</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62059</guid>
+            <pubDate>Tue, 11 Feb 2025 07:21:16 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
         </item>
         <item>
@@ -38,26 +53,19 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1127/17_52_08__6746ddb87bafa[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[씽씽]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62053</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62053</guid>
-            <pubDate>Mon, 10 Feb 2025 06:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0210/14_45_58__67a99296dfdd6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3일]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62059</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62059</guid>
-            <pubDate>Tue, 11 Feb 2025 07:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[프리 폴]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62062</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62062</guid>
             <pubDate>Wed, 12 Feb 2025 10:30:54 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[파과]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62022</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62022</guid>
+            <pubDate>Fri, 17 Jan 2025 08:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0117/17_48_19__678a19530671d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다잉]]></title>
@@ -82,19 +90,19 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1210/17_07_29__6757f6c1ed287[X224,320].JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[나쁜계집애: 달려라 하니]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61964</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61964</guid>
-            <pubDate>Fri, 10 Jan 2025 05:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1216/16_19_07__675fd46be9ee1[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[7인의 황후]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62050</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62050</guid>
             <pubDate>Thu, 06 Feb 2025 10:25:13 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-02]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[라스트 스트로]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62075</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62075</guid>
+            <pubDate>Mon, 17 Feb 2025 09:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0217/16_41_33__67b2e82dd362c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[죽기 전에 한 번만]]></title>
@@ -105,10 +113,25 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0124/22_57_02__67939c2e4cf60[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[브리짓 존스의 일기: 뉴 챕터]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61955</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61955</guid>
-            <pubDate>Mon, 17 Feb 2025 02:58:30 GMT</pubDate>
+            <title><![CDATA[부전시장]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62061</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62061</guid>
+            <pubDate>Wed, 12 Feb 2025 10:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[침범]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62069</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62069</guid>
+            <pubDate>Mon, 17 Feb 2025 09:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0214/15_26_40__67aee2204baa9[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당골]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62070</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62070</guid>
+            <pubDate>Mon, 17 Feb 2025 09:27:08 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
         </item>
         <item>
@@ -117,29 +140,6 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=62046</guid>
             <pubDate>Mon, 17 Feb 2025 07:29:10 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부전시장]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62061</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62061</guid>
-            <pubDate>Wed, 12 Feb 2025 10:30:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[백설공주]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61707</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61707</guid>
-            <pubDate>Mon, 17 Feb 2025 02:58:30 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0211/14_46_23__67aae42f7576b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화성특급]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62025</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62025</guid>
-            <pubDate>Mon, 17 Feb 2025 07:29:10 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0122/15_13_25__67908c85402ed[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
