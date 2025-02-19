@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2025-02-19T01:16:57.997Z</updated>
+    <updated>2025-02-19T02:59:37.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <운빨 로맨스> 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8911&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8911&amp;p=1"/>
+        <updated>2025-02-19T02:45:07.290Z</updated>
+        <content type="html"><![CDATA[8911]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <괜찮아 괜찮아 괜찮아> 무대인사 시사회 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8910&amp;p=1</id>
@@ -102,12 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8896&amp;p=1"/>
         <updated>2025-01-14T04:17:15.988Z</updated>
         <content type="html"><![CDATA[8896]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <문워크> 시사회 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8895&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8895&amp;p=1"/>
-        <updated>2025-01-13T02:53:19.882Z</updated>
-        <content type="html"><![CDATA[8895]]></content>
     </entry>
 </feed>
