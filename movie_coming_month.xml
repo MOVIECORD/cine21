@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Feb 2025 09:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 10:32:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -122,6 +122,14 @@
             <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[나이트콜]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62076</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62076</guid>
+            <pubDate>Thu, 20 Feb 2025 02:59:11 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0217/17_32_22__67b2f416313cb[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[준스톤 이어원]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62046</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62046</guid>
@@ -136,14 +144,6 @@
             <pubDate>Wed, 19 Feb 2025 06:34:18 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0122/15_13_25__67908c85402ed[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이트콜]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62076</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62076</guid>
-            <pubDate>Thu, 20 Feb 2025 02:59:11 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0217/17_32_22__67b2f416313cb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
