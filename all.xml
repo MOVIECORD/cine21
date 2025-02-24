@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 01:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 03:04:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2921,46 +2921,6 @@ U+tv, U+모바일tv / 16부작/ 연출 김태희 / 출연 이혜리, 정수빈, 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0204/17_32_14__67a1d08e75338[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[백수아파트 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62010</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62010</guid>
-            <pubDate>Fri, 14 Feb 2025 04:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0214/15_59_22__67aee9ca3f8c1[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캔터빌의 유령 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62023</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62023</guid>
-            <pubDate>Tue, 18 Feb 2025 15:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0212/14_54_31__67ac3797e0d30[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴플리트 언노운 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61978</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61978</guid>
-            <pubDate>Tue, 18 Feb 2025 06:31:17 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0131/18_18_45__679c95754347f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차라리 죽여 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62041</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62041</guid>
-            <pubDate>Tue, 18 Feb 2025 15:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0212/14_17_13__67ac2ed9875ff[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[괜찮아 괜찮아 괜찮아! (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61875</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61875</guid>
-            <pubDate>Tue, 18 Feb 2025 06:31:17 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0123/12_13_17__6791b3cd07153[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아이 엠 러브 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=27589</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=27589</guid>
@@ -2983,6 +2943,54 @@ U+tv, U+모바일tv / 16부작/ 연출 김태희 / 출연 이혜리, 정수빈, 
             <pubDate>Tue, 18 Feb 2025 06:31:17 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-02-26]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0211/14_21_28__67aade58c8c0e[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[괜찮아 괜찮아 괜찮아! (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61875</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61875</guid>
+            <pubDate>Tue, 18 Feb 2025 06:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-02-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0123/12_13_17__6791b3cd07153[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컴플리트 언노운 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61978</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61978</guid>
+            <pubDate>Tue, 18 Feb 2025 06:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-02-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0131/18_18_45__679c95754347f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차라리 죽여 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62041</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62041</guid>
+            <pubDate>Tue, 18 Feb 2025 15:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-02-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0212/14_17_13__67ac2ed9875ff[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캔터빌의 유령 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62023</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62023</guid>
+            <pubDate>Tue, 18 Feb 2025 15:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-02-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0212/14_54_31__67ac3797e0d30[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백수아파트 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62010</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62010</guid>
+            <pubDate>Fri, 14 Feb 2025 04:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-02-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0214/15_59_22__67aee9ca3f8c1[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[7인의 황후 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62050</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62050</guid>
+            <pubDate>Thu, 06 Feb 2025 10:25:13 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-02-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0224/10_09_09__67bbc6b52c4f4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑은 사라지지 않는다 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3014,7 +3022,7 @@ U+tv, U+모바일tv / 16부작/ 연출 김태희 / 출연 이혜리, 정수빈, 
             <guid>http://www.cine21.com/movie/info/?movie_id=62068</guid>
             <pubDate>Tue, 18 Feb 2025 15:23:54 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-02-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0214/17_36_33__67af00919045b[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0224/10_12_17__67bbc7714796f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미키 17 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -3049,14 +3057,6 @@ U+tv, U+모바일tv / 16부작/ 연출 김태희 / 출연 이혜리, 정수빈, 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0122/17_36_19__6790ae03f37e3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[울프맨 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62079</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62079</guid>
-            <pubDate>Fri, 21 Feb 2025 04:27:43 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0220/10_25_06__67b684726d5d2[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[씽씽 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62053</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62053</guid>
@@ -3065,20 +3065,20 @@ U+tv, U+모바일tv / 16부작/ 연출 김태희 / 출연 이혜리, 정수빈, 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0210/14_45_58__67a99296dfdd6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나쁜계집애: 달려라 하니 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61964</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61964</guid>
-            <pubDate>Mon, 16 Dec 2024 09:30:41 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1216/16_19_07__675fd46be9ee1[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[배드 가이즈 2 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61909</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61909</guid>
             <pubDate>Tue, 26 Nov 2024 09:29:58 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1127/17_52_08__6746ddb87bafa[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나쁜계집애: 달려라 하니 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61964</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61964</guid>
+            <pubDate>Mon, 16 Dec 2024 09:30:41 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1216/16_19_07__675fd46be9ee1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홈캠 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3124,14 +3124,6 @@ U+tv, U+모바일tv / 16부작/ 연출 김태희 / 출연 이혜리, 정수빈, 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1210/17_07_29__6757f6c1ed287[X224,320].JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[7인의 황후 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62050</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62050</guid>
-            <pubDate>Thu, 06 Feb 2025 10:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0218/14_42_19__67b41dbbafbd6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[죽기 전에 한 번만 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62036</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62036</guid>
@@ -3145,22 +3137,7 @@ U+tv, U+모바일tv / 16부작/ 연출 김태희 / 출연 이혜리, 정수빈, 
             <guid>http://www.cine21.com/movie/info/?movie_id=62075</guid>
             <pubDate>Mon, 17 Feb 2025 09:27:08 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0217/16_41_33__67b2e82dd362c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당골 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62070</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62070</guid>
-            <pubDate>Mon, 17 Feb 2025 09:27:08 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[백설공주 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61707</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61707</guid>
-            <pubDate>Fri, 21 Feb 2025 06:29:49 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0211/14_46_23__67aae42f7576b[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0224/09_54_59__67bbc363ee614[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[3일 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -3171,14 +3148,6 @@ U+tv, U+모바일tv / 16부작/ 연출 김태희 / 출연 이혜리, 정수빈, 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0218/18_03_53__67b44cf9d6f36[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[화성특급 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62025</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62025</guid>
-            <pubDate>Wed, 19 Feb 2025 06:34:18 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0122/15_13_25__67908c85402ed[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[부전시장 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62061</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62061</guid>
@@ -3187,12 +3156,43 @@ U+tv, U+모바일tv / 16부작/ 연출 김태희 / 출연 이혜리, 정수빈, 
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0219/10_39_50__67b536666bcb8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[화성특급 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62025</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62025</guid>
+            <pubDate>Wed, 19 Feb 2025 06:34:18 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0122/15_13_25__67908c85402ed[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백설공주 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61707</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61707</guid>
+            <pubDate>Fri, 21 Feb 2025 06:29:49 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0211/14_46_23__67aae42f7576b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[행복의 노란 손수건 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62080</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62080</guid>
             <pubDate>Thu, 20 Feb 2025 15:26:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0220/17_35_39__67b6e95bf3044[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나이트콜 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62076</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62076</guid>
+            <pubDate>Mon, 24 Feb 2025 02:59:31 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0217/17_32_22__67b2f416313cb[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브리짓 존스의 일기: 뉴 챕터 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61955</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61955</guid>
+            <pubDate>Mon, 24 Feb 2025 02:59:31 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[행복의 나라로 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
