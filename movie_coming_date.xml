@@ -4,17 +4,9 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 14:30:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 15:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[봉우야]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62043</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62043</guid>
-            <pubDate>Tue, 11 Feb 2025 16:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02-25]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0204/17_32_14__67a1d08e75338[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[이찬원 콘서트 찬가: 디어 마이 찬스]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62048</link>
@@ -136,12 +128,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0123/14_20_38__6791d1a6b56f0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보더랜드]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62011</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62011</guid>
-            <pubDate>Fri, 21 Feb 2025 06:29:34 GMT</pubDate>
+            <title><![CDATA[장난을 잘 치는 타카기 양]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61942</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61942</guid>
+            <pubDate>Mon, 24 Feb 2025 15:25:11 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0122/17_36_19__6790ae03f37e3[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0204/14_48_38__67a1aa362d39c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[콘클라베]]></title>
@@ -150,6 +142,14 @@
             <pubDate>Fri, 21 Feb 2025 04:27:43 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-05]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0205/11_06_45__67a2c7b5895ff[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보더랜드]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62011</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62011</guid>
+            <pubDate>Fri, 21 Feb 2025 06:29:34 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0122/17_36_19__6790ae03f37e3[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
