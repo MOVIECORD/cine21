@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 09:36:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 10:34:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1691,11 +1691,27 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0304/16_21_44__67c6aa08bcfc7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[홈캠 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61968</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61968</guid>
-            <pubDate>Tue, 17 Dec 2024 06:30:31 GMT</pubDate>
+            <title><![CDATA[프리 폴 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62062</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62062</guid>
+            <pubDate>Wed, 12 Feb 2025 10:30:54 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배드 가이즈 2 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61909</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61909</guid>
+            <pubDate>Tue, 26 Nov 2024 09:29:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1127/17_52_08__6746ddb87bafa[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[씽씽 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62053</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62053</guid>
+            <pubDate>Mon, 10 Feb 2025 06:33:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0210/14_45_58__67a99296dfdd6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나쁜계집애: 달려라 하니 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -1706,10 +1722,17 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1216/16_19_07__675fd46be9ee1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[내 친구는 살인범 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61992</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61992</guid>
-            <pubDate>Mon, 06 Jan 2025 08:27:32 GMT</pubDate>
+            <title><![CDATA[다잉 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61589</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61589</guid>
+            <pubDate>Fri, 29 Nov 2024 08:31:51 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[크레이븐 더 헌터 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60665</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60665</guid>
+            <pubDate>Fri, 22 Nov 2024 08:27:19 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
         </item>
         <item>
@@ -1721,49 +1744,18 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1210/17_07_29__6757f6c1ed287[X224,320].JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[크레이븐 더 헌터 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60665</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60665</guid>
-            <pubDate>Fri, 22 Nov 2024 08:27:19 GMT</pubDate>
+            <title><![CDATA[홈캠 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61968</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61968</guid>
+            <pubDate>Tue, 17 Dec 2024 06:30:31 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[다잉 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61589</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61589</guid>
-            <pubDate>Fri, 29 Nov 2024 08:31:51 GMT</pubDate>
+            <title><![CDATA[내 친구는 살인범 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61992</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61992</guid>
+            <pubDate>Mon, 06 Jan 2025 08:27:32 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[씽씽 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62053</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62053</guid>
-            <pubDate>Mon, 10 Feb 2025 06:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0210/14_45_58__67a99296dfdd6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배드 가이즈 2 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61909</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61909</guid>
-            <pubDate>Tue, 26 Nov 2024 09:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1127/17_52_08__6746ddb87bafa[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프리 폴 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62062</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62062</guid>
-            <pubDate>Wed, 12 Feb 2025 10:30:54 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[죽기 전에 한 번만 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62036</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62036</guid>
-            <pubDate>Fri, 24 Jan 2025 15:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0124/22_57_02__67939c2e4cf60[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라스트 스트로 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -1774,20 +1766,35 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0224/09_54_59__67bbc363ee614[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[죽기 전에 한 번만 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62036</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62036</guid>
+            <pubDate>Fri, 24 Jan 2025 15:30:10 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0124/22_57_02__67939c2e4cf60[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[거너 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62132</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62132</guid>
+            <pubDate>Tue, 04 Mar 2025 10:31:12 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0304/17_38_41__67c6bc1162d7f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당골 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62070</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62070</guid>
+            <pubDate>Mon, 24 Feb 2025 09:29:32 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[나이트콜 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62076</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62076</guid>
             <pubDate>Mon, 24 Feb 2025 02:59:31 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0217/17_32_22__67b2f416313cb[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화성특급 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62025</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62025</guid>
-            <pubDate>Thu, 27 Feb 2025 11:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0122/15_13_25__67908c85402ed[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 노란 손수건 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -1806,26 +1813,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0226/17_16_37__67becde5431cb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[당골 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62070</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62070</guid>
-            <pubDate>Mon, 24 Feb 2025 09:29:32 GMT</pubDate>
+            <title><![CDATA[언젠틀 오퍼레이션 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62095</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62095</guid>
+            <pubDate>Tue, 04 Mar 2025 10:31:12 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0228/18_21_45__67c18029d1545[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[브리짓 존스의 일기: 뉴 챕터 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61955</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61955</guid>
+            <title><![CDATA[화성특급 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62025</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62025</guid>
             <pubDate>Thu, 27 Feb 2025 11:25:45 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[악령: 깨어난 시체 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62096</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62096</guid>
-            <pubDate>Thu, 27 Feb 2025 11:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0228/12_52_12__67c132ec2220c[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0122/15_13_25__67908c85402ed[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 나라로 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
@@ -2490,6 +2491,71 @@
             <enclosure url="https://image.cine21.com/crop/data/110/67b68206bd8b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[＜끝, 새로운 시작＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fendstart_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F625%2F67c6bf9fe561a.jpg&amp;title=%EF%BC%9C%EB%81%9D%2C%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%8B%9C%EC%9E%91%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fendstart_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F625%2F67c6bf9fe561a.jpg&amp;title=%EF%BC%9C%EB%81%9D%2C%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%8B%9C%EC%9E%91%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47563">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fendstart_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F625%2F67c6bf9fe561a.jpg&amp;title=%EF%BC%9C%EB%81%9D%2C%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%8B%9C%EC%9E%91%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/03/endstart_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/625/67c6bf9fe561a.jpg" alt="" class="thumb">
+						<span class="title">＜끝, 새로운 시작＞ 메인 예고편</span>
+						<span class="date">2025-03-04</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/625/67c6bf9fe561a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜와일드 투어＞ 미야케 쇼 감독 축하 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fwildtour_dgmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F034%2F67c6b94508175.jpg&amp;title=%EF%BC%9C%EC%99%80%EC%9D%BC%EB%93%9C%20%ED%88%AC%EC%96%B4%EF%BC%9E%20%EB%AF%B8%EC%95%BC%EC%BC%80%20%EC%87%BC%20%EA%B0%90%EB%8F%85%20%EC%B6%95%ED%95%98%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fwildtour_dgmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F034%2F67c6b94508175.jpg&amp;title=%EF%BC%9C%EC%99%80%EC%9D%BC%EB%93%9C%20%ED%88%AC%EC%96%B4%EF%BC%9E%20%EB%AF%B8%EC%95%BC%EC%BC%80%20%EC%87%BC%20%EA%B0%90%EB%8F%85%20%EC%B6%95%ED%95%98%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47561">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fwildtour_dgmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F034%2F67c6b94508175.jpg&amp;title=%EF%BC%9C%EC%99%80%EC%9D%BC%EB%93%9C%20%ED%88%AC%EC%96%B4%EF%BC%9E%20%EB%AF%B8%EC%95%BC%EC%BC%80%20%EC%87%BC%20%EA%B0%90%EB%8F%85%20%EC%B6%95%ED%95%98%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2025/03/wildtour_dgmk.mp4">
+						<img src="https://image.cine21.com/crop/data/034/67c6b94508175.jpg" alt="" class="thumb">
+						<span class="title">＜와일드 투어＞ 미야케 쇼 감독 축하 영상</span>
+						<span class="date">2025-03-04</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/034/67c6b94508175.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜고독한 미식가 더 무비＞ 메인 2차 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fgourmet_m2tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F094%2F67c6ab26df56f.jpg&amp;title=%EF%BC%9C%EA%B3%A0%EB%8F%85%ED%95%9C%20%EB%AF%B8%EC%8B%9D%EA%B0%80%20%EB%8D%94%20%EB%AC%B4%EB%B9%84%EF%BC%9E%20%EB%A9%94%EC%9D%B8%202%EC%B0%A8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fgourmet_m2tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F094%2F67c6ab26df56f.jpg&amp;title=%EF%BC%9C%EA%B3%A0%EB%8F%85%ED%95%9C%20%EB%AF%B8%EC%8B%9D%EA%B0%80%20%EB%8D%94%20%EB%AC%B4%EB%B9%84%EF%BC%9E%20%EB%A9%94%EC%9D%B8%202%EC%B0%A8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47560">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fgourmet_m2tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F094%2F67c6ab26df56f.jpg&amp;title=%EF%BC%9C%EA%B3%A0%EB%8F%85%ED%95%9C%20%EB%AF%B8%EC%8B%9D%EA%B0%80%20%EB%8D%94%20%EB%AC%B4%EB%B9%84%EF%BC%9E%20%EB%A9%94%EC%9D%B8%202%EC%B0%A8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/03/gourmet_m2tr.mp4">
+						<img src="https://image.cine21.com/crop/data/094/67c6ab26df56f.jpg" alt="" class="thumb">
+						<span class="title">＜고독한 미식가 더 무비＞ 메인 2차 예고편</span>
+						<span class="date">2025-03-04</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/094/67c6ab26df56f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜존 윅＞ 10th ANNIVERSARY 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fjohnwick_10atr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F402%2F67c6a762397c3.jpg&amp;title=%EF%BC%9C%EC%A1%B4%20%EC%9C%85%EF%BC%9E%2010th%20ANNIVERSARY%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fjohnwick_10atr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F402%2F67c6a762397c3.jpg&amp;title=%EF%BC%9C%EC%A1%B4%20%EC%9C%85%EF%BC%9E%2010th%20ANNIVERSARY%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47559">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fjohnwick_10atr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F402%2F67c6a762397c3.jpg&amp;title=%EF%BC%9C%EC%A1%B4%20%EC%9C%85%EF%BC%9E%2010th%20ANNIVERSARY%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/03/johnwick_10atr.mp4">
+						<img src="https://image.cine21.com/crop/data/402/67c6a762397c3.jpg" alt="" class="thumb">
+						<span class="title">＜존 윅＞ 10th ANNIVERSARY 예고편</span>
+						<span class="date">2025-03-04</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/402/67c6a762397c3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜침범＞ 캐릭터 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fchimbum_cmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F012%2F67c6a5f769d16.jpg&amp;title=%EF%BC%9C%EC%B9%A8%EB%B2%94%EF%BC%9E%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fchimbum_cmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F012%2F67c6a5f769d16.jpg&amp;title=%EF%BC%9C%EC%B9%A8%EB%B2%94%EF%BC%9E%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47558">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fchimbum_cmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F012%2F67c6a5f769d16.jpg&amp;title=%EF%BC%9C%EC%B9%A8%EB%B2%94%EF%BC%9E%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2025/03/chimbum_cmk.mp4">
+						<img src="https://image.cine21.com/crop/data/012/67c6a5f769d16.jpg" alt="" class="thumb">
+						<span class="title">＜침범＞ 캐릭터 영상</span>
+						<span class="date">2025-03-04</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/012/67c6a5f769d16.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[＜3일＞ 공식 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F02%2Fthreedays_otr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F746%2F67c17f06f05d7.jpg&amp;title=%EF%BC%9C3%EC%9D%BC%EF%BC%9E%20%EA%B3%B5%EC%8B%9D%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
             <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F02%2Fthreedays_otr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F746%2F67c17f06f05d7.jpg&amp;title=%EF%BC%9C3%EC%9D%BC%EF%BC%9E%20%EA%B3%B5%EC%8B%9D%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
@@ -2631,71 +2697,6 @@
 						<span class="date">2025-02-26</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/257/67bed5f891791.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜당골＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F02%2Fdanggol_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F198%2F67beb200f15a5.jpg&amp;title=%EF%BC%9C%EB%8B%B9%EA%B3%A8%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F02%2Fdanggol_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F198%2F67beb200f15a5.jpg&amp;title=%EF%BC%9C%EB%8B%B9%EA%B3%A8%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47543">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F02%2Fdanggol_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F198%2F67beb200f15a5.jpg&amp;title=%EF%BC%9C%EB%8B%B9%EA%B3%A8%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/02/danggol_mtr.mp4">
-						<img src="https://image.cine21.com/crop/data/198/67beb200f15a5.jpg" alt="" class="thumb">
-						<span class="title">＜당골＞ 메인 예고편</span>
-						<span class="date">2025-02-26</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/198/67beb200f15a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜첫사랑개론＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F02%2Flucky_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F790%2F67beae6f89d5a.jpg&amp;title=%EF%BC%9C%EC%B2%AB%EC%82%AC%EB%9E%91%EA%B0%9C%EB%A1%A0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F02%2Flucky_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F790%2F67beae6f89d5a.jpg&amp;title=%EF%BC%9C%EC%B2%AB%EC%82%AC%EB%9E%91%EA%B0%9C%EB%A1%A0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47542">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F02%2Flucky_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F790%2F67beae6f89d5a.jpg&amp;title=%EF%BC%9C%EC%B2%AB%EC%82%AC%EB%9E%91%EA%B0%9C%EB%A1%A0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/02/lucky_mtr.mp4">
-						<img src="https://image.cine21.com/crop/data/790/67beae6f89d5a.jpg" alt="" class="thumb">
-						<span class="title">＜첫사랑개론＞ 메인 예고편</span>
-						<span class="date">2025-02-26</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/790/67beae6f89d5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜고독한 미식가 더 무비＞ 메인 1차 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F02%2Fgourmet_m1tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F602%2F67beaae362821.jpg&amp;title=%EF%BC%9C%EA%B3%A0%EB%8F%85%ED%95%9C%20%EB%AF%B8%EC%8B%9D%EA%B0%80%20%EB%8D%94%20%EB%AC%B4%EB%B9%84%EF%BC%9E%20%EB%A9%94%EC%9D%B8%201%EC%B0%A8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F02%2Fgourmet_m1tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F602%2F67beaae362821.jpg&amp;title=%EF%BC%9C%EA%B3%A0%EB%8F%85%ED%95%9C%20%EB%AF%B8%EC%8B%9D%EA%B0%80%20%EB%8D%94%20%EB%AC%B4%EB%B9%84%EF%BC%9E%20%EB%A9%94%EC%9D%B8%201%EC%B0%A8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47541">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F02%2Fgourmet_m1tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F602%2F67beaae362821.jpg&amp;title=%EF%BC%9C%EA%B3%A0%EB%8F%85%ED%95%9C%20%EB%AF%B8%EC%8B%9D%EA%B0%80%20%EB%8D%94%20%EB%AC%B4%EB%B9%84%EF%BC%9E%20%EB%A9%94%EC%9D%B8%201%EC%B0%A8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/02/gourmet_m1tr.mp4">
-						<img src="https://image.cine21.com/crop/data/602/67beaae362821.jpg" alt="" class="thumb">
-						<span class="title">＜고독한 미식가 더 무비＞ 메인 1차 예고편</span>
-						<span class="date">2025-02-26</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/602/67beaae362821.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜미키 17＞ Printed Review (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F02%2Fmiki17_prmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F574%2F67bea4c45a09f.jpg&amp;title=%EF%BC%9C%EB%AF%B8%ED%82%A4%2017%EF%BC%9E%20Printed%20Review</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F02%2Fmiki17_prmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F574%2F67bea4c45a09f.jpg&amp;title=%EF%BC%9C%EB%AF%B8%ED%82%A4%2017%EF%BC%9E%20Printed%20Review</guid>
-            <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47540">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F02%2Fmiki17_prmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F574%2F67bea4c45a09f.jpg&amp;title=%EF%BC%9C%EB%AF%B8%ED%82%A4%2017%EF%BC%9E%20Printed%20Review" data-url="/cine21.com/movie/making/2025/02/miki17_prmk.mp4">
-						<img src="https://image.cine21.com/crop/data/574/67bea4c45a09f.jpg" alt="" class="thumb">
-						<span class="title">＜미키 17＞ Printed Review</span>
-						<span class="date">2025-02-26</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/574/67bea4c45a09f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜에어 파이터＞ 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F02%2Fair_tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F056%2F67bd79926aa6e.jpg&amp;title=%EF%BC%9C%EC%97%90%EC%96%B4%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F02%2Fair_tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F056%2F67bd79926aa6e.jpg&amp;title=%EF%BC%9C%EC%97%90%EC%96%B4%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47538">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F02%2Fair_tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F056%2F67bd79926aa6e.jpg&amp;title=%EF%BC%9C%EC%97%90%EC%96%B4%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EF%BC%9E%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/02/air_tr.mp4">
-						<img src="https://image.cine21.com/crop/data/056/67bd79926aa6e.jpg" alt="" class="thumb">
-						<span class="title">＜에어 파이터＞ 예고편</span>
-						<span class="date">2025-02-25</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/056/67bd79926aa6e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
