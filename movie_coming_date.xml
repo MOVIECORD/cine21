@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 06:30:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 07:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -92,6 +92,7 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=62144</guid>
             <pubDate>Fri, 07 Mar 2025 01:20:12 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0310/15_41_16__67ce898c14571[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블랙 백]]></title>
