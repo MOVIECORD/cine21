@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.cine21.com/misc/cs/notice_list/</id>
     <title>씨네21 ─ 공지사항</title>
-    <updated>2025-03-10T01:21:36.892Z</updated>
+    <updated>2025-03-10T02:23:30.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.cine21.com/misc/cs/notice_list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <고독한 미식가 더 무비> 시사회 기대평 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8921&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8921&amp;p=1"/>
+        <updated>2025-03-10T02:05:10.509Z</updated>
+        <content type="html"><![CDATA[8921]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <플로우> 시사회 초대 이벤트 당첨자 발표]]></title>
+        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8920&amp;p=1</id>
+        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8920&amp;p=1"/>
+        <updated>2025-03-10T02:05:10.512Z</updated>
+        <content type="html"><![CDATA[8920]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <숨> 시사회 초대 이벤트 당첨자 발표]]></title>
         <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8919&amp;p=1</id>
@@ -95,19 +109,5 @@
         <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8907&amp;p=1"/>
         <updated>2025-02-10T06:21:39.570Z</updated>
         <content type="html"><![CDATA[8907]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <히어> 시사회 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8906&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8906&amp;p=1"/>
-        <updated>2025-02-10T05:15:57.978Z</updated>
-        <content type="html"><![CDATA[8906]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <첫 번째 키스> 시사회 기대평 이벤트 당첨자 발표]]></title>
-        <id>http://www.cine21.com/misc/cs/notice_view/?article_no=8905&amp;p=1</id>
-        <link href="http://www.cine21.com/misc/cs/notice_view/?article_no=8905&amp;p=1"/>
-        <updated>2025-02-10T05:15:57.979Z</updated>
-        <content type="html"><![CDATA[8905]]></content>
     </entry>
 </feed>
