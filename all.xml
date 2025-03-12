@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 20:31:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 21:31:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1307,20 +1307,12 @@ ex) 취재 기획안 관련 가이드
             <enclosure url="https://image.cine21.com/crop/data/123/67ae9095abdfe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[노보케인 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61962</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61962</guid>
-            <pubDate>Tue, 11 Mar 2025 18:31:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0305/16_05_22__67c7f7b272def[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호조 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62013</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62013</guid>
-            <pubDate>Tue, 11 Mar 2025 18:31:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0206/13_48_02__67a43f02e28c4[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[커플지옥 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62144</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62144</guid>
+            <pubDate>Wed, 12 Mar 2025 21:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0310/15_41_16__67ce898c14571[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에밀리아 페레즈 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -1331,12 +1323,28 @@ ex) 취재 기획안 관련 가이드
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0307/12_15_34__67ca64d672fdd[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[호조 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62013</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62013</guid>
+            <pubDate>Tue, 11 Mar 2025 18:31:22 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0206/13_48_02__67a43f02e28c4[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제로베이스원 더 퍼스트 투어 [타임리스 월드] 인 시네마 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62158</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62158</guid>
             <pubDate>Tue, 11 Mar 2025 18:31:22 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/15_01_58__67cfd1d645267[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[200% 울프: 최강 푸들이 될 거야! (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62039</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62039</guid>
+            <pubDate>Tue, 11 Mar 2025 18:31:22 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0214/15_01_03__67aedc1f20b4d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[와일드 투어 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -1355,14 +1363,6 @@ ex) 취재 기획안 관련 가이드
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0225/14_17_24__67bd52648414d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[200% 울프: 최강 푸들이 될 거야! (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62039</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62039</guid>
-            <pubDate>Tue, 11 Mar 2025 18:31:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0214/15_01_03__67aedc1f20b4d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[위플래쉬 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=42739</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=42739</guid>
@@ -1371,12 +1371,12 @@ ex) 취재 기획안 관련 가이드
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0211/14_08_13__67aadb3d36de1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고독한 미식가 섣달그믐 특집 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62152</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62152</guid>
+            <title><![CDATA[노보케인 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61962</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61962</guid>
             <pubDate>Tue, 11 Mar 2025 18:31:22 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/16_46_31__67cfea572c51c[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0305/16_05_22__67c7f7b272def[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[숨 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -1385,6 +1385,14 @@ ex) 취재 기획안 관련 가이드
             <pubDate>Tue, 11 Mar 2025 18:31:22 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-12]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0213/17_52_33__67adb2d13c21f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고독한 미식가 섣달그믐 특집 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62152</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62152</guid>
+            <pubDate>Tue, 11 Mar 2025 18:31:22 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-12]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/16_46_31__67cfea572c51c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[침범 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -1441,14 +1449,6 @@ ex) 취재 기획안 관련 가이드
             <pubDate>Tue, 04 Mar 2025 21:22:29 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-04]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0123/14_20_38__6791d1a6b56f0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미키 17 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61834</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61834</guid>
-            <pubDate>Thu, 27 Feb 2025 23:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-02-28]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0206/18_38_00__67a482f8f1a86[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[케이온 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
