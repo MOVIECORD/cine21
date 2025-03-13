@@ -1,8 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cine21.com/event/list</id>
-    <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
-    <updated>2025-03-13T06:43:04.469Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cine21.com/event/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 시사회&amp;이벤트 ─ 진행중인 이벤트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 13 Mar 2025 07:31:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <오백에 삼십> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8491</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8491</guid>
+            <pubDate>Thu, 13 Mar 2025 07:27:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2025-03-17 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0312/11_01_54__67d0eb12746a1[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도서 <고독한 미식가의 먹는 노트> 증정 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8490</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8490</guid>
+            <pubDate>Thu, 13 Mar 2025 07:27:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2025-03-20 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0312/10_58_46__67d0ea56e003c[T224,320].png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 <미스터 로봇> 시사회 기대평 이벤트]]></title>
+            <link>http://www.cine21.com/event/view/?event_no=8489</link>
+            <guid>http://www.cine21.com/event/view/?event_no=8489</guid>
+            <pubDate>Thu, 13 Mar 2025 07:27:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">일시</span><span class="bar">|</span>2025-03-20 19:40</p>
+                        <p><span class="tit">장소</span><span class="bar">|</span>CGV 용산아이파크몰</p>
+                                            <p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2025-03-17 11:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0310/11_14_25__67ce4b014c3db[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
