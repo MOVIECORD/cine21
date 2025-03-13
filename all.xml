@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 03:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 03:42:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1320,7 +1320,7 @@ ex) 취재 기획안 관련 가이드
             <guid>http://www.cine21.com/movie/info/?movie_id=61574</guid>
             <pubDate>Tue, 11 Mar 2025 18:31:22 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0307/12_15_34__67ca64d672fdd[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0313/11_31_44__67d24390b8039[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호조 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -1467,52 +1467,12 @@ ex) 취재 기획안 관련 가이드
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0211/14_46_23__67aae42f7576b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[3일 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62059</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62059</guid>
-            <pubDate>Thu, 27 Feb 2025 18:28:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0228/17_55_32__67c17a0402261[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존 윅 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=43027</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=43027</guid>
+            <title><![CDATA[플로우 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61994</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61994</guid>
             <pubDate>Tue, 11 Mar 2025 09:26:53 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0306/10_52_25__67c8ffd9059fd[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초혼, 다시 부르는 노래 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62016</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62016</guid>
-            <pubDate>Tue, 11 Mar 2025 16:28:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0305/11_08_59__67c7b23bde324[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[악령: 깨어난 시체 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62096</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62096</guid>
-            <pubDate>Tue, 11 Mar 2025 16:28:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0307/10_18_54__67ca497e9f62a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고독한 미식가 더 무비 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62078</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62078</guid>
-            <pubDate>Fri, 07 Mar 2025 04:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0304/16_21_44__67c6aa08bcfc7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성국극 끊어질듯 이어지고 사라질듯 영원하다 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62082</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62082</guid>
-            <pubDate>Fri, 07 Mar 2025 07:25:59 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0224/11_05_34__67bbd3ee9b2b0[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/10_37_40__67cf93e442ac7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컴패니언 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -1539,6 +1499,22 @@ ex) 취재 기획안 관련 가이드
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0305/10_48_17__67c7ad617d351[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[3일 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62059</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62059</guid>
+            <pubDate>Thu, 27 Feb 2025 18:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0228/17_55_32__67c17a0402261[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여성국극 끊어질듯 이어지고 사라질듯 영원하다 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62082</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62082</guid>
+            <pubDate>Fri, 07 Mar 2025 07:25:59 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0224/11_05_34__67bbd3ee9b2b0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[블랙 백 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62077</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62077</guid>
@@ -1547,12 +1523,36 @@ ex) 취재 기획안 관련 가이드
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0225/10_56_15__67bd233fdb5c2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[플로우 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61994</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61994</guid>
+            <title><![CDATA[존 윅 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=43027</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=43027</guid>
             <pubDate>Tue, 11 Mar 2025 09:26:53 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/10_37_40__67cf93e442ac7[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0306/10_52_25__67c8ffd9059fd[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고독한 미식가 더 무비 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62078</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62078</guid>
+            <pubDate>Fri, 07 Mar 2025 04:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0304/16_21_44__67c6aa08bcfc7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초혼, 다시 부르는 노래 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62016</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62016</guid>
+            <pubDate>Tue, 11 Mar 2025 16:28:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0305/11_08_59__67c7b23bde324[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[악령: 깨어난 시체 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62096</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62096</guid>
+            <pubDate>Tue, 11 Mar 2025 16:28:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0307/10_18_54__67ca497e9f62a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스트리밍 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -1571,12 +1571,12 @@ ex) 취재 기획안 관련 가이드
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0123/15_05_05__6791dc11c85a6[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라스트 마일 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62071</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62071</guid>
-            <pubDate>Tue, 11 Mar 2025 16:28:24 GMT</pubDate>
+            <title><![CDATA[스윙걸즈 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=16660</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=16660</guid>
+            <pubDate>Thu, 13 Mar 2025 03:36:36 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0305/10_45_39__67c7acc3b1b14[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/16_40_04__67cfe8d47a258[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[끝, 새로운 시작 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
