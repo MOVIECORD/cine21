@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Mar 2025 07:37:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 08:39:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -91,14 +91,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0217/17_32_22__67b2f416313cb[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[열대야]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62093</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62093</guid>
-            <pubDate>Thu, 06 Mar 2025 05:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/10_07_43__67cf8cdf745dd[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[크래쉬: 디렉터스컷]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62139</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62139</guid>
@@ -121,6 +113,14 @@
             <pubDate>Fri, 14 Mar 2025 09:30:13 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0314/14_30_54__67d3bf0ee4e4d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[열대야]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62093</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62093</guid>
+            <pubDate>Thu, 06 Mar 2025 05:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0317/16_49_29__67d7d4092b019[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[언틸 던: 무한루프 데스게임]]></title>
