@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 08:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 09:30:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -75,14 +75,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1210/17_07_29__6757f6c1ed287[X224,320].JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[크래쉬: 디렉터스컷]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62139</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62139</guid>
-            <pubDate>Thu, 06 Mar 2025 05:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0312/18_41_20__67d156c0abfa0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[나이트콜]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62076</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62076</guid>
@@ -99,6 +91,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0304/17_38_41__67c6bc1162d7f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크래쉬: 디렉터스컷]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62139</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62139</guid>
+            <pubDate>Thu, 06 Mar 2025 05:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0312/18_41_20__67d156c0abfa0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[당골]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62070</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62070</guid>
@@ -107,12 +107,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0305/15_35_37__67c7f0b986680[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마인크래프트 무비]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62153</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62153</guid>
-            <pubDate>Fri, 14 Mar 2025 09:30:13 GMT</pubDate>
+            <title><![CDATA[열혈검사]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62159</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62159</guid>
+            <pubDate>Tue, 18 Mar 2025 09:25:58 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0307/18_14_47__67cab907d6695[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0314/14_30_54__67d3bf0ee4e4d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 탐스러운 사생활]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62155</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62155</guid>
+            <pubDate>Tue, 18 Mar 2025 08:34:51 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0317/13_28_12__67d7a4dca4ce5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열대야]]></title>
@@ -128,14 +136,6 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=62083</guid>
             <pubDate>Tue, 11 Mar 2025 14:27:22 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나의 탐스러운 사생활]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62155</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62155</guid>
-            <pubDate>Tue, 18 Mar 2025 08:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0317/13_28_12__67d7a4dca4ce5[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바이러스]]></title>
