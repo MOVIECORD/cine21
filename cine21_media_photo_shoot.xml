@@ -4,9 +4,25 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 05:37:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 06:31:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감독							유수연 
+							(총3장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=127534</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=127534</guid>
+            <pubDate>Wed, 19 Mar 2025 06:30:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=127534">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2025/0319/12_05_59__67da349726377[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/569/67da3579dcc3b.jpg" alt="" class="thumb">
+						<span class="caption">
+							감독							<strong>유수연</strong> 
+							<span class="num">(총3장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/569/67da3579dcc3b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우							곽선영 
 							(총10장)]]></title>
@@ -166,22 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/861/67caae0de02bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우							신재휘 
-							(총5장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=109389</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=109389</guid>
-            <pubDate>Fri, 07 Mar 2025 11:27:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=109389">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2025/0307/17_11_38__67caaa3a194d6[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/crop/data/564/67caaa4937dec.jpg" alt="" class="thumb">
-						<span class="caption">
-							배우							<strong>신재휘</strong> 
-							<span class="num">(총5장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/564/67caaa4937dec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
