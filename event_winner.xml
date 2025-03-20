@@ -4,9 +4,18 @@
         <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Mar 2025 10:34:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 11:29:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도서 <고독한 미식가의 먹는 노트> 증정 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8927&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8927&amp;p=1</guid>
+            <pubDate>Thu, 20 Mar 2025 11:25:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2025-03-20 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0312/10_58_46__67d0ea56e003c[T224,320].png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[연극 <오백에 삼십> 초대 이벤트]]></title>
             <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8926&amp;p=1</link>
@@ -108,15 +117,6 @@
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2025-02-27 10:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0219/10_06_23__67b52e8fc26c5[T224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도서 <아퀼라의 그림자> 기대평 증정 이벤트]]></title>
-            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8917&amp;p=1</link>
-            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8917&amp;p=1</guid>
-            <pubDate>Thu, 27 Feb 2025 12:43:51 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
-                        <p><span class="tit">발표</span><span class="bar">|</span>2025-02-27 10:00</p>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0219/10_10_44__67b52f9463a16[T224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
