@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Mar 2025 14:39:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 15:33:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1376,28 +1376,36 @@ ex) 취재 기획안 관련 가이드
             <enclosure url="https://image.cine21.com/crop/data/860/67b7d52205a4d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[컴패니언 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62098</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62098</guid>
+            <title><![CDATA[스트리밍 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57715</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57715</guid>
             <pubDate>Tue, 11 Mar 2025 16:28:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0227/17_07_57__67c01d5dc382d[X224,320].jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[개봉 : 2025-03-21]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0307/13_38_48__67ca7858baf70[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[언젠틀 오퍼레이션 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62095</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62095</guid>
-            <pubDate>Tue, 11 Mar 2025 16:28:24 GMT</pubDate>
+            <title><![CDATA[블랙 백 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62077</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62077</guid>
+            <pubDate>Fri, 07 Mar 2025 07:25:59 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0314/18_06_41__67d3f1a13dc36[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0319/11_15_09__67da28ad50211[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[존 윅 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=43027</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=43027</guid>
-            <pubDate>Tue, 11 Mar 2025 09:26:53 GMT</pubDate>
+            <title><![CDATA[여성국극 끊어질듯 이어지고 사라질듯 영원하다 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62082</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62082</guid>
+            <pubDate>Fri, 07 Mar 2025 07:25:59 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0306/10_52_25__67c8ffd9059fd[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0224/11_05_34__67bbd3ee9b2b0[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백설공주 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61707</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61707</guid>
+            <pubDate>Thu, 06 Mar 2025 10:28:02 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0319/17_24_35__67da7f4313c8d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[은혼 금혼편 온 씨어터 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -1408,12 +1416,52 @@ ex) 취재 기획안 관련 가이드
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0305/10_48_17__67c7ad617d351[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여성국극 끊어질듯 이어지고 사라질듯 영원하다 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62082</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62082</guid>
-            <pubDate>Fri, 07 Mar 2025 07:25:59 GMT</pubDate>
+            <title><![CDATA[언젠틀 오퍼레이션 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62095</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62095</guid>
+            <pubDate>Tue, 11 Mar 2025 16:28:24 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0224/11_05_34__67bbd3ee9b2b0[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0314/18_06_41__67d3f1a13dc36[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컴패니언 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62098</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62098</guid>
+            <pubDate>Tue, 11 Mar 2025 16:28:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0227/17_07_57__67c01d5dc382d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[존 윅 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=43027</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=43027</guid>
+            <pubDate>Tue, 11 Mar 2025 09:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0306/10_52_25__67c8ffd9059fd[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3일 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62059</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62059</guid>
+            <pubDate>Thu, 27 Feb 2025 18:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0228/17_55_32__67c17a0402261[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[악령: 깨어난 시체 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62096</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62096</guid>
+            <pubDate>Tue, 11 Mar 2025 16:28:24 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0307/10_18_54__67ca497e9f62a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플로우 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61994</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61994</guid>
+            <pubDate>Tue, 11 Mar 2025 09:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/10_37_40__67cf93e442ac7[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[케이온 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -1432,52 +1480,20 @@ ex) 취재 기획안 관련 가이드
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0305/11_08_59__67c7b23bde324[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블랙 백 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62077</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62077</guid>
-            <pubDate>Fri, 07 Mar 2025 07:25:59 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0319/11_15_09__67da28ad50211[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백설공주 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61707</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61707</guid>
-            <pubDate>Thu, 06 Mar 2025 10:28:02 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0319/17_24_35__67da7f4313c8d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플로우 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61994</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61994</guid>
-            <pubDate>Tue, 11 Mar 2025 09:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/10_37_40__67cf93e442ac7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[악령: 깨어난 시체 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62096</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62096</guid>
-            <pubDate>Tue, 11 Mar 2025 16:28:24 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0307/10_18_54__67ca497e9f62a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3일 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62059</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62059</guid>
-            <pubDate>Thu, 27 Feb 2025 18:28:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0228/17_55_32__67c17a0402261[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[고독한 미식가 더 무비 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62078</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62078</guid>
             <pubDate>Fri, 07 Mar 2025 04:26:16 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0304/16_21_44__67c6aa08bcfc7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이 스위트 크레이지 시스터 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62133</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62133</guid>
+            <pubDate>Fri, 14 Mar 2025 17:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-13]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0314/13_50_37__67d3b59dda427[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[커플지옥 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -1496,28 +1512,12 @@ ex) 취재 기획안 관련 가이드
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0319/15_25_31__67da635b5283f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마이 스위트 크레이지 시스터 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62133</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62133</guid>
-            <pubDate>Fri, 14 Mar 2025 17:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-13]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0314/13_50_37__67d3b59dda427[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호조 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62013</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62013</guid>
-            <pubDate>Wed, 19 Mar 2025 06:27:59 GMT</pubDate>
+            <title><![CDATA[200% 울프: 최강 푸들이 될 거야! (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62039</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62039</guid>
+            <pubDate>Thu, 20 Mar 2025 15:27:30 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0206/13_48_02__67a43f02e28c4[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고독한 미식가 섣달그믐 특집 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62152</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62152</guid>
-            <pubDate>Tue, 11 Mar 2025 18:31:22 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-12]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/16_46_31__67cfea572c51c[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0214/15_01_03__67aedc1f20b4d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스트리밍 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -2466,6 +2466,45 @@ ex) 취재 기획안 관련 가이드
             <enclosure url="https://image.cine21.com/crop/data/861/67caae0de02bf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[＜블랙 백＞ ‘블랙 백 비하인드 썰’ 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fblkbag_acmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F549%2F67dbd45329b4c.jpg&amp;title=%EF%BC%9C%EB%B8%94%EB%9E%99%20%EB%B0%B1%EF%BC%9E%20%E2%80%98%EB%B8%94%EB%9E%99%20%EB%B0%B1%20%EB%B9%84%ED%95%98%EC%9D%B8%EB%93%9C%20%EC%8D%B0%E2%80%99%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fblkbag_acmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F549%2F67dbd45329b4c.jpg&amp;title=%EF%BC%9C%EB%B8%94%EB%9E%99%20%EB%B0%B1%EF%BC%9E%20%E2%80%98%EB%B8%94%EB%9E%99%20%EB%B0%B1%20%EB%B9%84%ED%95%98%EC%9D%B8%EB%93%9C%20%EC%8D%B0%E2%80%99%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47646">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fblkbag_acmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F549%2F67dbd45329b4c.jpg&amp;title=%EF%BC%9C%EB%B8%94%EB%9E%99%20%EB%B0%B1%EF%BC%9E%20%E2%80%98%EB%B8%94%EB%9E%99%20%EB%B0%B1%20%EB%B9%84%ED%95%98%EC%9D%B8%EB%93%9C%20%EC%8D%B0%E2%80%99%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2025/03/blkbag_acmk.mp4">
+						<img src="https://image.cine21.com/crop/data/549/67dbd45329b4c.jpg" alt="" class="thumb">
+						<span class="title">＜블랙 백＞ ‘블랙 백 비하인드 썰’ 영상</span>
+						<span class="date">2025-03-20</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/549/67dbd45329b4c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜귀신들＞ 30초 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fglatea_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F813%2F67dbcd7c77193.jpg&amp;title=%EF%BC%9C%EA%B7%80%EC%8B%A0%EB%93%A4%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fglatea_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F813%2F67dbcd7c77193.jpg&amp;title=%EF%BC%9C%EA%B7%80%EC%8B%A0%EB%93%A4%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47645">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fglatea_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F813%2F67dbcd7c77193.jpg&amp;title=%EF%BC%9C%EA%B7%80%EC%8B%A0%EB%93%A4%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/03/glatea_30tr.mp4">
+						<img src="https://image.cine21.com/crop/data/813/67dbcd7c77193.jpg" alt="" class="thumb">
+						<span class="title">＜귀신들＞ 30초 예고편</span>
+						<span class="date">2025-03-20</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/813/67dbcd7c77193.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜공포특급＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fhorror_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F478%2F67dbc6316f011.jpg&amp;title=%EF%BC%9C%EA%B3%B5%ED%8F%AC%ED%8A%B9%EA%B8%89%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fhorror_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F478%2F67dbc6316f011.jpg&amp;title=%EF%BC%9C%EA%B3%B5%ED%8F%AC%ED%8A%B9%EA%B8%89%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47644">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fhorror_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F478%2F67dbc6316f011.jpg&amp;title=%EF%BC%9C%EA%B3%B5%ED%8F%AC%ED%8A%B9%EA%B8%89%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/03/horror_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/478/67dbc6316f011.jpg" alt="" class="thumb">
+						<span class="title">＜공포특급＞ 메인 예고편</span>
+						<span class="date">2025-03-20</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/478/67dbc6316f011.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[＜기동전사 건담 지쿠악스 비기닝＞ 30초 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fgundam_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F106%2F67db7ea5b78a5.jpg&amp;title=%EF%BC%9C%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%20%EC%A7%80%EC%BF%A0%EC%95%85%EC%8A%A4%20%EB%B9%84%EA%B8%B0%EB%8B%9D%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
             <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fgundam_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F106%2F67db7ea5b78a5.jpg&amp;title=%EF%BC%9C%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%20%EC%A7%80%EC%BF%A0%EC%95%85%EC%8A%A4%20%EB%B9%84%EA%B8%B0%EB%8B%9D%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
@@ -2633,45 +2672,6 @@ ex) 취재 기획안 관련 가이드
 						<span class="date">2025-03-17</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/533/67d7d73025bd0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜열대야＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fyeol_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F489%2F67d7d4d357f03.jpg&amp;title=%EF%BC%9C%EC%97%B4%EB%8C%80%EC%95%BC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fyeol_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F489%2F67d7d4d357f03.jpg&amp;title=%EF%BC%9C%EC%97%B4%EB%8C%80%EC%95%BC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47624">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fyeol_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F489%2F67d7d4d357f03.jpg&amp;title=%EF%BC%9C%EC%97%B4%EB%8C%80%EC%95%BC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/03/yeol_mtr.mp4">
-						<img src="https://image.cine21.com/crop/data/489/67d7d4d357f03.jpg" alt="" class="thumb">
-						<span class="title">＜열대야＞ 메인 예고편</span>
-						<span class="date">2025-03-17</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/489/67d7d4d357f03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜승부＞ 제작기 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fmatch_pmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F367%2F67d7ccd3e26f5.jpg&amp;title=%EF%BC%9C%EC%8A%B9%EB%B6%80%EF%BC%9E%20%EC%A0%9C%EC%9E%91%EA%B8%B0%20%EC%98%81%EC%83%81</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fmatch_pmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F367%2F67d7ccd3e26f5.jpg&amp;title=%EF%BC%9C%EC%8A%B9%EB%B6%80%EF%BC%9E%20%EC%A0%9C%EC%9E%91%EA%B8%B0%20%EC%98%81%EC%83%81</guid>
-            <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47623">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fmatch_pmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F367%2F67d7ccd3e26f5.jpg&amp;title=%EF%BC%9C%EC%8A%B9%EB%B6%80%EF%BC%9E%20%EC%A0%9C%EC%9E%91%EA%B8%B0%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2025/03/match_pmk.mp4">
-						<img src="https://image.cine21.com/crop/data/367/67d7ccd3e26f5.jpg" alt="" class="thumb">
-						<span class="title">＜승부＞ 제작기 영상</span>
-						<span class="date">2025-03-17</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/367/67d7ccd3e26f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜스윙걸즈＞ 30초 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fswing_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F256%2F67d7a9b639dd5.jpg&amp;title=%EF%BC%9C%EC%8A%A4%EC%9C%99%EA%B1%B8%EC%A6%88%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fswing_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F256%2F67d7a9b639dd5.jpg&amp;title=%EF%BC%9C%EC%8A%A4%EC%9C%99%EA%B1%B8%EC%A6%88%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47622">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fswing_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F256%2F67d7a9b639dd5.jpg&amp;title=%EF%BC%9C%EC%8A%A4%EC%9C%99%EA%B1%B8%EC%A6%88%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/03/swing_30tr.mp4">
-						<img src="https://image.cine21.com/crop/data/256/67d7a9b639dd5.jpg" alt="" class="thumb">
-						<span class="title">＜스윙걸즈＞ 30초 예고편</span>
-						<span class="date">2025-03-17</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/256/67d7a9b639dd5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
