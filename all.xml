@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Mar 2025 01:35:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 03:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1420,12 +1420,12 @@ ex) 취재 기획안 관련 가이드
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0318/09_47_49__67d8c2b536d65[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[그랜드 투어 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61576</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61576</guid>
-            <pubDate>Thu, 20 Mar 2025 21:25:21 GMT</pubDate>
+            <title><![CDATA[크래쉬: 디렉터스컷 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62139</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62139</guid>
+            <pubDate>Thu, 20 Mar 2025 20:28:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/17_19_46__67cff22231e5f[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0312/18_41_20__67d156c0abfa0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라스트 마일 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -1436,14 +1436,6 @@ ex) 취재 기획안 관련 가이드
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0314/13_33_31__67d3b19bec9f8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스윙걸즈 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=16660</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=16660</guid>
-            <pubDate>Thu, 20 Mar 2025 21:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/16_40_04__67cfe8d47a258[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[승부 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=57457</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=57457</guid>
@@ -1452,12 +1444,36 @@ ex) 취재 기획안 관련 가이드
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0226/14_33_00__67bea78c6b7d8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스윙걸즈 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=16660</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=16660</guid>
+            <pubDate>Thu, 20 Mar 2025 21:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/16_40_04__67cfe8d47a258[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그랜드 투어 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61576</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61576</guid>
+            <pubDate>Thu, 20 Mar 2025 21:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/17_19_46__67cff22231e5f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[끝, 새로운 시작 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62087</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62087</guid>
             <pubDate>Thu, 20 Mar 2025 21:25:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-26]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0228/18_01_34__67c17b6e320e7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[4월의 불꽃 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62166</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62166</guid>
+            <pubDate>Thu, 20 Mar 2025 21:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0319/17_04_17__67da7a8150d2b[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부전시장 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -1476,14 +1492,6 @@ ex) 취재 기획안 관련 가이드
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0226/17_05_20__67becb4000dfc[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[4월의 불꽃 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62166</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62166</guid>
-            <pubDate>Thu, 20 Mar 2025 21:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0319/17_04_17__67da7a8150d2b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[대삼원 리마스터링 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=12197</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=12197</guid>
@@ -1498,22 +1506,6 @@ ex) 취재 기획안 관련 가이드
             <pubDate>Thu, 20 Mar 2025 21:25:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-31]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0306/14_35_28__67c9342033de3[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올파의 딸들 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62156</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62156</guid>
-            <pubDate>Thu, 20 Mar 2025 21:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-04-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/17_25_31__67cff37b302bd[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기동전사 건담 지쿠악스 비기닝 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62165</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62165</guid>
-            <pubDate>Thu, 20 Mar 2025 21:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-04-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0314/14_05_13__67d3b909ebce4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 노란 손수건 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -1532,20 +1524,28 @@ ex) 취재 기획안 관련 가이드
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0307/13_16_17__67ca73111ac40[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세븐틴 [라잇 히어] 월드 투어 인 시네마 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62157</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62157</guid>
-            <pubDate>Thu, 20 Mar 2025 21:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-04-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/13_47_45__67cfc07180e4e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[공포특급 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62136</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62136</guid>
             <pubDate>Thu, 20 Mar 2025 21:25:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-04-02]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0314/14_35_21__67d3c0192c189[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남으로 가는 길 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62142</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62142</guid>
+            <pubDate>Fri, 21 Mar 2025 03:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-04-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0313/11_34_13__67d24425e6c91[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤레틱 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62145</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62145</guid>
+            <pubDate>Fri, 21 Mar 2025 03:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-04-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0313/17_05_48__67d291dcf2e29[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[씽씽 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -1718,7 +1718,7 @@ ex) 취재 기획안 관련 가이드
             <link>http://www.cine21.com/event/view/?event_no=8494</link>
             <guid>http://www.cine21.com/event/view/?event_no=8494</guid>
             <pubDate>Thu, 20 Mar 2025 21:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+            <content:encoded><![CDATA[<p style=""><span class="tit">인원</span><span class="bar">|</span>10 명</p><div class="teads-adCall"></div>
                         <p><span class="tit">발표</span><span class="bar">|</span>2025-03-27 18:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0319/13_34_22__67da494ee9bf9[T224,320].png" length="0" type="image/png"/>
         </item>
@@ -1739,6 +1739,182 @@ ex) 취재 기획안 관련 가이드
             <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
                         <p><span class="tit">발표</span><span class="bar">|</span>2025-03-27 13:00</p>]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0319/13_21_25__67da46450a250[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감독							유수연 
+							(총3장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=127534</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=127534</guid>
+            <pubDate>Thu, 20 Mar 2025 21:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=127534">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2025/0319/12_05_59__67da349726377[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/569/67da3579dcc3b.jpg" alt="" class="thumb">
+						<span class="caption">
+							감독							<strong>유수연</strong> 
+							<span class="num">(총3장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/569/67da3579dcc3b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							곽선영 
+							(총10장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=106093</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=106093</guid>
+            <pubDate>Thu, 20 Mar 2025 21:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=106093">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2025/0319/11_43_17__67da2f4523012[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/781/67da2f97cb5e2.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>곽선영</strong> 
+							<span class="num">(총10장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/781/67da2f97cb5e2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가수							권유리 
+							(총9장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=70186</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=70186</guid>
+            <pubDate>Thu, 20 Mar 2025 21:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=70186">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2025/0319/11_37_46__67da2dfa93484[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/316/67da2e684e400.jpg" alt="" class="thumb">
+						<span class="caption">
+							가수							<strong>권유리</strong> 
+							<span class="num">(총9장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/316/67da2e684e400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							이설 
+							(총10장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=105845</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=105845</guid>
+            <pubDate>Thu, 20 Mar 2025 21:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=105845">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2025/0319/11_33_20__67da2cf020040[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/126/67da2d3a47376.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>이설</strong> 
+							<span class="num">(총10장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/126/67da2d3a47376.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							윤찬영 
+							(총18장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=96298</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=96298</guid>
+            <pubDate>Thu, 20 Mar 2025 21:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=96298">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2025/0319/11_26_56__67da2b70b7f81[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/247/67da2c0a767fe.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>윤찬영</strong> 
+							<span class="num">(총18장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/247/67da2c0a767fe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감독							윤재호 
+							(총10장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=78589</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=78589</guid>
+            <pubDate>Thu, 20 Mar 2025 21:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=78589">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2025/0319/11_25_32__67da2b1cce4cd[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/854/67da2c08f146f.jpg" alt="" class="thumb">
+						<span class="caption">
+							감독							<strong>윤재호</strong> 
+							<span class="num">(총10장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/854/67da2c08f146f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							차주영 
+							(총3장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=98873</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=98873</guid>
+            <pubDate>Thu, 20 Mar 2025 21:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=98873">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2025/0319/11_20_59__67da2a0b1703c[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/981/67da2ad463640.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>차주영</strong> 
+							<span class="num">(총3장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/981/67da2ad463640.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방송인							이은결 
+							(총7장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=79223</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=79223</guid>
+            <pubDate>Thu, 20 Mar 2025 21:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=79223">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2025/0319/11_18_53__67da298d5b3bb[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/276/67da2ad3631e6.jpg" alt="" class="thumb">
+						<span class="caption">
+							방송인							<strong>이은결</strong> 
+							<span class="num">(총7장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/276/67da2ad3631e6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							스티븐 연 
+							(총9장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=74138</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=74138</guid>
+            <pubDate>Thu, 20 Mar 2025 21:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=74138">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2025/0307/17_25_23__67caad7337716[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/420/67caae0fdf0db.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>스티븐 연</strong> 
+							<span class="num">(총9장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/420/67caae0fdf0db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							오예주 
+							(총5장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=121972</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=121972</guid>
+            <pubDate>Thu, 20 Mar 2025 21:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=121972">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2025/0307/17_20_17__67caac4198d46[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/833/67caae0f123fc.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>오예주</strong> 
+							<span class="num">(총5장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/833/67caae0f123fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우							김지안 
+							(총10장) (씨네21 ─ 멀티미디어 ─ 촬영사진)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=125952</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=125952</guid>
+            <pubDate>Thu, 20 Mar 2025 21:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=125952">
+<!--						<img src="https://image.cine21.com/resize/cine21/person/2025/0307/17_16_06__67caab46be616[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/861/67caae0de02bf.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>김지안</strong> 
+							<span class="num">(총10장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/861/67caae0de02bf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[감독							유수연 
