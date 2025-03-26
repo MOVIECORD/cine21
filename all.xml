@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 03:48:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 04:32:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1431,7 +1431,7 @@ JTBC/ 12부작 / 연출 안판석 / 출연 이제훈, 김대명, 성동일, 장�
             <guid>http://www.cine21.com/movie/info/?movie_id=57457</guid>
             <pubDate>Thu, 20 Mar 2025 21:25:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0226/14_33_00__67bea78c6b7d8[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0326/11_21_55__67e364c383325[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그랜드 투어 (씨네21 ─ 영화 ─ 현재 상영중)]]></title>
@@ -1674,27 +1674,19 @@ JTBC/ 12부작 / 연출 안판석 / 출연 이제훈, 김대명, 성동일, 장�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/13_47_45__67cfc07180e4e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[씽씽 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62053</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62053</guid>
-            <pubDate>Thu, 20 Mar 2025 20:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0210/14_45_58__67a99296dfdd6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홈캠 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61968</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61968</guid>
-            <pubDate>Thu, 20 Mar 2025 20:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[나쁜계집애: 달려라 하니 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61964</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61964</guid>
             <pubDate>Thu, 20 Mar 2025 20:28:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1216/16_19_07__675fd46be9ee1[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 친구는 살인범 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61992</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61992</guid>
+            <pubDate>Thu, 20 Mar 2025 20:28:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[배드 가이즈 2 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -1705,6 +1697,14 @@ JTBC/ 12부작 / 연출 안판석 / 출연 이제훈, 김대명, 성동일, 장�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1127/17_52_08__6746ddb87bafa[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[씽씽 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62053</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62053</guid>
+            <pubDate>Thu, 20 Mar 2025 20:28:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0210/14_45_58__67a99296dfdd6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[프리 폴 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62062</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62062</guid>
@@ -1712,9 +1712,9 @@ JTBC/ 12부작 / 연출 안판석 / 출연 이제훈, 김대명, 성동일, 장�
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[내 친구는 살인범 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61992</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61992</guid>
+            <title><![CDATA[홈캠 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61968</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61968</guid>
             <pubDate>Thu, 20 Mar 2025 20:28:21 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
         </item>
@@ -1749,14 +1749,6 @@ JTBC/ 12부작 / 연출 안판석 / 출연 이제훈, 김대명, 성동일, 장�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2019/0805/15_49_48__5d47d18cc95a8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[거너 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62132</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62132</guid>
-            <pubDate>Thu, 20 Mar 2025 20:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0304/17_38_41__67c6bc1162d7f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[나이트콜 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62076</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62076</guid>
@@ -1773,6 +1765,22 @@ JTBC/ 12부작 / 연출 안판석 / 출연 이제훈, 김대명, 성동일, 장�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0305/15_35_37__67c7f0b986680[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[거너 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62132</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62132</guid>
+            <pubDate>Thu, 20 Mar 2025 20:28:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0304/17_38_41__67c6bc1162d7f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 만날, 조국 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62164</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62164</guid>
+            <pubDate>Wed, 26 Mar 2025 04:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0318/11_00_02__67d8d3a2395ea[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[열대야 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62093</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62093</guid>
@@ -1781,12 +1789,19 @@ JTBC/ 12부작 / 연출 안판석 / 출연 이제훈, 김대명, 성동일, 장�
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0317/16_49_29__67d7d4092b019[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[해피엔드 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62143</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62143</guid>
-            <pubDate>Fri, 21 Mar 2025 05:21:24 GMT</pubDate>
+            <title><![CDATA[언틸 던: 무한루프 데스게임 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62083</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62083</guid>
+            <pubDate>Wed, 26 Mar 2025 04:28:57 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0307/13_22_03__67ca746bba020[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 탐스러운 사생활 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62155</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62155</guid>
+            <pubDate>Wed, 26 Mar 2025 04:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0326/10_44_42__67e35c0a6490a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하보우만의 약속 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -1795,22 +1810,6 @@ JTBC/ 12부작 / 연출 안판석 / 출연 이제훈, 김대명, 성동일, 장�
             <pubDate>Tue, 25 Mar 2025 03:11:32 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/17_36_47__67cff61f460ac[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마인크래프트 무비 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62153</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62153</guid>
-            <pubDate>Tue, 25 Mar 2025 06:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0307/18_14_47__67cab907d6695[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열혈검사 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62159</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62159</guid>
-            <pubDate>Tue, 25 Mar 2025 06:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0314/14_30_54__67d3bf0ee4e4d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 나라로 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
@@ -2476,6 +2475,45 @@ JTBC/ 12부작 / 연출 안판석 / 출연 이제훈, 김대명, 성동일, 장�
             <enclosure url="https://image.cine21.com/crop/data/981/67da2ad463640.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[＜해피엔드＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fhappyend_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F141%2F67e360d45b0a1.jpg&amp;title=%EF%BC%9C%ED%95%B4%ED%94%BC%EC%97%94%EB%93%9C%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fhappyend_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F141%2F67e360d45b0a1.jpg&amp;title=%EF%BC%9C%ED%95%B4%ED%94%BC%EC%97%94%EB%93%9C%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47674">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fhappyend_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F141%2F67e360d45b0a1.jpg&amp;title=%EF%BC%9C%ED%95%B4%ED%94%BC%EC%97%94%EB%93%9C%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/03/happyend_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/141/67e360d45b0a1.jpg" alt="" class="thumb">
+						<span class="title">＜해피엔드＞ 메인 예고편</span>
+						<span class="date">2025-03-26</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/141/67e360d45b0a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜브리짓 존스의 일기: 뉴 챕터＞ 100% 현실 육아 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fbridget4_bsmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F879%2F67e35df80df85.jpg&amp;title=%EF%BC%9C%EB%B8%8C%EB%A6%AC%EC%A7%93%20%EC%A1%B4%EC%8A%A4%EC%9D%98%20%EC%9D%BC%EA%B8%B0%3A%20%EB%89%B4%20%EC%B1%95%ED%84%B0%EF%BC%9E%20100%25%20%ED%98%84%EC%8B%A4%20%EC%9C%A1%EC%95%84%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fbridget4_bsmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F879%2F67e35df80df85.jpg&amp;title=%EF%BC%9C%EB%B8%8C%EB%A6%AC%EC%A7%93%20%EC%A1%B4%EC%8A%A4%EC%9D%98%20%EC%9D%BC%EA%B8%B0%3A%20%EB%89%B4%20%EC%B1%95%ED%84%B0%EF%BC%9E%20100%25%20%ED%98%84%EC%8B%A4%20%EC%9C%A1%EC%95%84%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47673">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fbridget4_bsmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F879%2F67e35df80df85.jpg&amp;title=%EF%BC%9C%EB%B8%8C%EB%A6%AC%EC%A7%93%20%EC%A1%B4%EC%8A%A4%EC%9D%98%20%EC%9D%BC%EA%B8%B0%3A%20%EB%89%B4%20%EC%B1%95%ED%84%B0%EF%BC%9E%20100%25%20%ED%98%84%EC%8B%A4%20%EC%9C%A1%EC%95%84%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2025/03/bridget4_bsmk.mp4">
+						<img src="https://image.cine21.com/crop/data/879/67e35df80df85.jpg" alt="" class="thumb">
+						<span class="title">＜브리짓 존스의 일기: 뉴 챕터＞ 100% 현실 육아 영상</span>
+						<span class="date">2025-03-26</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/879/67e35df80df85.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜사유리＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fsayuri_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F326%2F67e35a7044647.jpg&amp;title=%EF%BC%9C%EC%82%AC%EC%9C%A0%EB%A6%AC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fsayuri_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F326%2F67e35a7044647.jpg&amp;title=%EF%BC%9C%EC%82%AC%EC%9C%A0%EB%A6%AC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47672">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fsayuri_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F326%2F67e35a7044647.jpg&amp;title=%EF%BC%9C%EC%82%AC%EC%9C%A0%EB%A6%AC%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/03/sayuri_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/326/67e35a7044647.jpg" alt="" class="thumb">
+						<span class="title">＜사유리＞ 메인 예고편</span>
+						<span class="date">2025-03-26</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/326/67e35a7044647.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[＜거룩한 밤: 데몬 헌터스＞ 메인 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
             <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fholy_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F675%2F67e26c261350e.jpg&amp;title=%EF%BC%9C%EA%B1%B0%EB%A3%A9%ED%95%9C%20%EB%B0%A4%3A%20%EB%8D%B0%EB%AA%AC%20%ED%97%8C%ED%84%B0%EC%8A%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
             <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fholy_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F675%2F67e26c261350e.jpg&amp;title=%EF%BC%9C%EA%B1%B0%EB%A3%A9%ED%95%9C%20%EB%B0%A4%3A%20%EB%8D%B0%EB%AA%AC%20%ED%97%8C%ED%84%B0%EC%8A%A4%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
@@ -2503,11 +2541,11 @@ JTBC/ 12부작 / 연출 안판석 / 출연 이제훈, 김대명, 성동일, 장�
         </item>
         <item>
             <title><![CDATA[＜아마추어＞ ‘아마추어의 탄생’ 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fa1mateur_abmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F808%2F67e26b6f1cefc.jpg&amp;title=%EF%BC%9C%EC%95%84%EB%A7%88%EC%B6%94%EC%96%B4%EF%BC%9E%20%E2%80%98%EC%95%84%EB%A7%88%EC%B6%94%EC%96%B4%EC%9D%98%20%ED%83%84%EC%83%9D%E2%80%99%20%EC%98%81%EC%83%81</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fa1mateur_abmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F808%2F67e26b6f1cefc.jpg&amp;title=%EF%BC%9C%EC%95%84%EB%A7%88%EC%B6%94%EC%96%B4%EF%BC%9E%20%E2%80%98%EC%95%84%EB%A7%88%EC%B6%94%EC%96%B4%EC%9D%98%20%ED%83%84%EC%83%9D%E2%80%99%20%EC%98%81%EC%83%81</guid>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fa2mateur_abmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F808%2F67e26b6f1cefc.jpg&amp;title=%EF%BC%9C%EC%95%84%EB%A7%88%EC%B6%94%EC%96%B4%EF%BC%9E%20%E2%80%98%EC%95%84%EB%A7%88%EC%B6%94%EC%96%B4%EC%9D%98%20%ED%83%84%EC%83%9D%E2%80%99%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fa2mateur_abmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F808%2F67e26b6f1cefc.jpg&amp;title=%EF%BC%9C%EC%95%84%EB%A7%88%EC%B6%94%EC%96%B4%EF%BC%9E%20%E2%80%98%EC%95%84%EB%A7%88%EC%B6%94%EC%96%B4%EC%9D%98%20%ED%83%84%EC%83%9D%E2%80%99%20%EC%98%81%EC%83%81</guid>
             <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47668">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fa1mateur_abmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F808%2F67e26b6f1cefc.jpg&amp;title=%EF%BC%9C%EC%95%84%EB%A7%88%EC%B6%94%EC%96%B4%EF%BC%9E%20%E2%80%98%EC%95%84%EB%A7%88%EC%B6%94%EC%96%B4%EC%9D%98%20%ED%83%84%EC%83%9D%E2%80%99%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2025/03/a1mateur_abmk.mp4">
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Fa2mateur_abmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F808%2F67e26b6f1cefc.jpg&amp;title=%EF%BC%9C%EC%95%84%EB%A7%88%EC%B6%94%EC%96%B4%EF%BC%9E%20%E2%80%98%EC%95%84%EB%A7%88%EC%B6%94%EC%96%B4%EC%9D%98%20%ED%83%84%EC%83%9D%E2%80%99%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2025/03/a2mateur_abmk.mp4">
 						<img src="https://image.cine21.com/crop/data/808/67e26b6f1cefc.jpg" alt="" class="thumb">
 						<span class="title">＜아마추어＞ ‘아마추어의 탄생’ 영상</span>
 						<span class="date">2025-03-25</span>
@@ -2643,45 +2681,6 @@ JTBC/ 12부작 / 연출 안판석 / 출연 이제훈, 김대명, 성동일, 장�
 						<span class="date">2025-03-21</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/110/67dd104647fee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜드라이브 인 타이페이＞ 레드 페라리 - 옐로우 MX-5 영상 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Ftaipei_rymk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F492%2F67dd1045330bd.jpg&amp;title=%EF%BC%9C%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%9D%B8%20%ED%83%80%EC%9D%B4%ED%8E%98%EC%9D%B4%EF%BC%9E%20%EB%A0%88%EB%93%9C%20%ED%8E%98%EB%9D%BC%EB%A6%AC%20-%20%EC%98%90%EB%A1%9C%EC%9A%B0%20MX-5%20%EC%98%81%EC%83%81</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Ftaipei_rymk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F492%2F67dd1045330bd.jpg&amp;title=%EF%BC%9C%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%9D%B8%20%ED%83%80%EC%9D%B4%ED%8E%98%EC%9D%B4%EF%BC%9E%20%EB%A0%88%EB%93%9C%20%ED%8E%98%EB%9D%BC%EB%A6%AC%20-%20%EC%98%90%EB%A1%9C%EC%9A%B0%20MX-5%20%EC%98%81%EC%83%81</guid>
-            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47656">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F03%2Ftaipei_rymk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F492%2F67dd1045330bd.jpg&amp;title=%EF%BC%9C%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%9D%B8%20%ED%83%80%EC%9D%B4%ED%8E%98%EC%9D%B4%EF%BC%9E%20%EB%A0%88%EB%93%9C%20%ED%8E%98%EB%9D%BC%EB%A6%AC%20-%20%EC%98%90%EB%A1%9C%EC%9A%B0%20MX-5%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2025/03/taipei_rymk.mp4">
-						<img src="https://image.cine21.com/crop/data/492/67dd1045330bd.jpg" alt="" class="thumb">
-						<span class="title">＜드라이브 인 타이페이＞ 레드 페라리 - 옐로우 MX-5 영상</span>
-						<span class="date">2025-03-21</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/492/67dd1045330bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜드라이브 인 타이페이＞ Dint59” 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Ftaipei_59tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F435%2F67dd10075b731.jpg&amp;title=%EF%BC%9C%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%9D%B8%20%ED%83%80%EC%9D%B4%ED%8E%98%EC%9D%B4%EF%BC%9E%20Dint59%E2%80%9D%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Ftaipei_59tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F435%2F67dd10075b731.jpg&amp;title=%EF%BC%9C%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%9D%B8%20%ED%83%80%EC%9D%B4%ED%8E%98%EC%9D%B4%EF%BC%9E%20Dint59%E2%80%9D%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47655">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Ftaipei_59tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F435%2F67dd10075b731.jpg&amp;title=%EF%BC%9C%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%9D%B8%20%ED%83%80%EC%9D%B4%ED%8E%98%EC%9D%B4%EF%BC%9E%20Dint59%E2%80%9D%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/03/taipei_59tr.mp4">
-						<img src="https://image.cine21.com/crop/data/435/67dd10075b731.jpg" alt="" class="thumb">
-						<span class="title">＜드라이브 인 타이페이＞ Dint59” 예고편</span>
-						<span class="date">2025-03-21</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/435/67dd10075b731.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜너의 췌장을 먹고 싶어＞ 티저 예고편 (씨네21 ─ 멀티미디어 ─ 동영상)]]></title>
-            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fpancreas_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F117%2F67dd0da42354a.jpg&amp;title=%EF%BC%9C%EB%84%88%EC%9D%98%20%EC%B7%8C%EC%9E%A5%EC%9D%84%20%EB%A8%B9%EA%B3%A0%20%EC%8B%B6%EC%96%B4%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
-            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fpancreas_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F117%2F67dd0da42354a.jpg&amp;title=%EF%BC%9C%EB%84%88%EC%9D%98%20%EC%B7%8C%EC%9E%A5%EC%9D%84%20%EB%A8%B9%EA%B3%A0%20%EC%8B%B6%EC%96%B4%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
-            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47654">-->
-					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F03%2Fpancreas_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F117%2F67dd0da42354a.jpg&amp;title=%EF%BC%9C%EB%84%88%EC%9D%98%20%EC%B7%8C%EC%9E%A5%EC%9D%84%20%EB%A8%B9%EA%B3%A0%20%EC%8B%B6%EC%96%B4%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/03/pancreas_ttr.mp4">
-						<img src="https://image.cine21.com/crop/data/117/67dd0da42354a.jpg" alt="" class="thumb">
-						<span class="title">＜너의 췌장을 먹고 싶어＞ 티저 예고편</span>
-						<span class="date">2025-03-21</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/117/67dd0da42354a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
