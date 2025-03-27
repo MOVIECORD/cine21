@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Mar 2025 05:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 06:37:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,14 +83,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1216/16_19_07__675fd46be9ee1[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나이트콜]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62076</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62076</guid>
-            <pubDate>Thu, 20 Mar 2025 22:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0217/17_32_22__67b2f416313cb[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[거너]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62132</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62132</guid>
@@ -99,12 +91,28 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0304/17_38_41__67c6bc1162d7f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[고독한 미식가 섣달그믐 특집]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62152</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62152</guid>
+            <pubDate>Thu, 27 Mar 2025 06:30:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/16_46_31__67cfea572c51c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[당골]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62070</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62070</guid>
             <pubDate>Thu, 20 Mar 2025 22:25:46 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0305/15_35_37__67c7f0b986680[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하보우만의 약속]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62151</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62151</guid>
+            <pubDate>Thu, 27 Mar 2025 06:30:57 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/17_36_47__67cff61f460ac[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마인크래프트 무비]]></title>
@@ -123,27 +131,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0314/14_30_54__67d3bf0ee4e4d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[열대야]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62093</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62093</guid>
-            <pubDate>Tue, 25 Mar 2025 06:33:34 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0317/16_49_29__67d7d4092b019[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언틸 던: 무한루프 데스게임]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62083</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62083</guid>
-            <pubDate>Wed, 26 Mar 2025 04:28:57 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[다시 만날, 조국]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62164</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62164</guid>
             <pubDate>Wed, 26 Mar 2025 04:28:57 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0318/11_00_02__67d8d3a2395ea[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[열대야]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62093</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62093</guid>
+            <pubDate>Tue, 25 Mar 2025 06:33:34 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0317/16_49_29__67d7d4092b019[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
