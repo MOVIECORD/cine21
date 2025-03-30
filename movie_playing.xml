@@ -4,16 +4,24 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Mar 2025 14:36:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Mar 2025 15:33:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[4월의 불꽃]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62166</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62166</guid>
-            <pubDate>Wed, 26 Mar 2025 15:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0319/17_04_17__67da7a8150d2b[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[열화청춘 리마스터링]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=23882</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=23882</guid>
+            <pubDate>Sun, 30 Mar 2025 15:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-31]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0306/14_35_28__67c9342033de3[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대삼원 리마스터링]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=12197</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=12197</guid>
+            <pubDate>Sun, 30 Mar 2025 15:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-31]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0306/14_27_45__67c93251480ae[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부전시장]]></title>
@@ -24,36 +32,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0219/10_39_50__67b536666bcb8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[4월의 불꽃]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62166</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62166</guid>
+            <pubDate>Wed, 26 Mar 2025 15:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-27]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0319/17_04_17__67da7a8150d2b[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아머: 현금수송차]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62092</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62092</guid>
             <pubDate>Wed, 26 Mar 2025 15:23:42 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-27]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0226/17_05_20__67becb4000dfc[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끝, 새로운 시작]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62087</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62087</guid>
-            <pubDate>Tue, 25 Mar 2025 15:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0228/18_01_34__67c17b6e320e7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라스트 마일]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62071</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62071</guid>
-            <pubDate>Tue, 25 Mar 2025 15:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0328/16_52_09__67e65529c1c0c[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[승부]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=57457</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=57457</guid>
-            <pubDate>Tue, 25 Mar 2025 15:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0326/11_21_55__67e364c383325[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스윙걸즈]]></title>
@@ -64,20 +56,44 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/16_40_04__67cfe8d47a258[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크래쉬: 디렉터스컷]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62139</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62139</guid>
-            <pubDate>Tue, 25 Mar 2025 15:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-26]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0312/18_41_20__67d156c0abfa0[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[그랜드 투어]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61576</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61576</guid>
             <pubDate>Tue, 25 Mar 2025 15:26:39 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-26]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/17_19_46__67cff22231e5f[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라스트 마일]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62071</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62071</guid>
+            <pubDate>Tue, 25 Mar 2025 15:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0328/16_52_09__67e65529c1c0c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[끝, 새로운 시작]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62087</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62087</guid>
+            <pubDate>Tue, 25 Mar 2025 15:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0228/18_01_34__67c17b6e320e7[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[승부]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=57457</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=57457</guid>
+            <pubDate>Tue, 25 Mar 2025 15:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0326/11_21_55__67e364c383325[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크래쉬: 디렉터스컷]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62139</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62139</guid>
+            <pubDate>Tue, 25 Mar 2025 15:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-26]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0312/18_41_20__67d156c0abfa0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[패왕별희 디 오리지널]]></title>
@@ -104,28 +120,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0325/13_27_15__67e230a3f0890[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[초혼, 다시 부르는 노래]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62016</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62016</guid>
-            <pubDate>Thu, 27 Mar 2025 06:30:32 GMT</pubDate>
+            <title><![CDATA[언젠틀 오퍼레이션]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62095</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62095</guid>
+            <pubDate>Sun, 30 Mar 2025 15:26:54 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0214/15_16_55__67aedfd7def1e[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플로우]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61994</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61994</guid>
-            <pubDate>Thu, 27 Mar 2025 06:30:32 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/10_37_40__67cf93e442ac7[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[악령: 깨어난 시체]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62096</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62096</guid>
-            <pubDate>Thu, 27 Mar 2025 06:30:32 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0307/10_18_54__67ca497e9f62a[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0314/18_06_41__67d3f1a13dc36[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[3일]]></title>
@@ -136,20 +136,20 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0228/17_55_32__67c17a0402261[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[케이온]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=34264</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=34264</guid>
-            <pubDate>Thu, 27 Mar 2025 06:30:32 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0219/13_47_50__67b56276e428d[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[은혼 금혼편 온 씨어터]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62084</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62084</guid>
             <pubDate>Thu, 20 Mar 2025 22:24:39 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0305/10_48_17__67c7ad617d351[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백설공주]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61707</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61707</guid>
+            <pubDate>Sun, 30 Mar 2025 15:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-03-19]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0319/17_24_35__67da7f4313c8d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
