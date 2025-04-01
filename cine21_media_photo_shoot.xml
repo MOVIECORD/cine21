@@ -4,9 +4,25 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Apr 2025 07:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 08:32:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가수							아이유 
+							(총26장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=71827</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=71827</guid>
+            <pubDate>Tue, 01 Apr 2025 08:32:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=71827">
+<!--						<img src="https://image.cine21.com/resize/cine21/movie/2025/0401/16_47_47__67eb9a230c14c[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/283/67eb9a59a1555.jpg" alt="" class="thumb">
+						<span class="caption">
+							가수							<strong>아이유</strong> 
+							<span class="num">(총26장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/283/67eb9a59a1555.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감독							최재영 
 							(총2장)]]></title>
@@ -166,22 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/854/67da2c08f146f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우							차주영 
-							(총3장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=98873</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=98873</guid>
-            <pubDate>Fri, 21 Mar 2025 03:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=98873">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2025/0319/11_20_59__67da2a0b1703c[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/crop/data/981/67da2ad463640.jpg" alt="" class="thumb">
-						<span class="caption">
-							배우							<strong>차주영</strong> 
-							<span class="num">(총3장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/981/67da2ad463640.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
