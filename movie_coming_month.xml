@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Mar 2025 23:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 01:33:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -99,14 +99,6 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0311/16_46_31__67cfea572c51c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[거너]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62132</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62132</guid>
-            <pubDate>Thu, 20 Mar 2025 22:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0304/17_38_41__67c6bc1162d7f[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[당골]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62070</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62070</guid>
@@ -128,6 +120,14 @@
             <pubDate>Tue, 25 Mar 2025 06:33:34 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0328/17_10_50__67e6598af1896[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[거너]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62132</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62132</guid>
+            <pubDate>Thu, 20 Mar 2025 22:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0304/17_38_41__67c6bc1162d7f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나의 탐스러운 사생활]]></title>
