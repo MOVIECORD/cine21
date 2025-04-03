@@ -4,16 +4,16 @@
         <title>씨네21 ─ 영화 ─ 현재 상영중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 15:34:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 16:28:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[예언자]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=27048</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=27048</guid>
-            <pubDate>Tue, 01 Apr 2025 15:27:58 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-04-02]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0307/12_21_50__67ca664e9fe99[X224,320].jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[미스터 로봇]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62000</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62000</guid>
+            <pubDate>Thu, 03 Apr 2025 16:26:21 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-04-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0325/17_45_57__67e26d45b711e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[목소리들]]></title>
@@ -111,6 +111,14 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0228/12_42_27__67c130a369df0[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[예언자]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=27048</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=27048</guid>
+            <pubDate>Tue, 01 Apr 2025 15:27:58 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-04-02]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0307/12_21_50__67ca664e9fe99[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[세븐틴 [라잇 히어] 월드 투어 인 시네마]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62157</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62157</guid>
@@ -141,14 +149,6 @@
             <pubDate>Wed, 26 Mar 2025 15:23:42 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-03-27]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0319/17_04_17__67da7a8150d2b[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부전시장]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62061</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62061</guid>
-            <pubDate>Wed, 26 Mar 2025 15:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-03-27]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0219/10_39_50__67b536666bcb8[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
