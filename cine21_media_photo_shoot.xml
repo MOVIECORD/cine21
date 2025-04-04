@@ -4,9 +4,25 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 01:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 03:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우							이준혁 
+							(총11장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=20162</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=20162</guid>
+            <pubDate>Fri, 04 Apr 2025 03:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=20162">
+<!--						<img src="https://image.cine21.com/resize/cine21/movie/2025/0404/10_21_51__67ef342f617c4[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/320/67ef34b3b021b.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>이준혁</strong> 
+							<span class="num">(총11장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/320/67ef34b3b021b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가수							아이유 
 							(총26장)]]></title>
@@ -166,22 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/247/67da2c0a767fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감독							윤재호 
-							(총10장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=78589</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=78589</guid>
-            <pubDate>Fri, 21 Mar 2025 03:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=78589">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2025/0319/11_25_32__67da2b1cce4cd[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/crop/data/854/67da2c08f146f.jpg" alt="" class="thumb">
-						<span class="caption">
-							감독							<strong>윤재호</strong> 
-							<span class="num">(총10장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/854/67da2c08f146f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
