@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉 미정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Apr 2025 05:31:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 06:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -223,6 +223,22 @@
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[와일드 씽]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62206</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62206</guid>
+            <pubDate>Tue, 08 Apr 2025 06:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="tit">와일드 씽</span>
+		
+
+									<span class="director">감독 : 손재곤</span>
+											<span class="actor">배우 : 강동원,엄태구</span>
+		
+		
+							<span class="btn_detail">자세히 보기</span>
+						<!-- //오버시 나오는 정보 -->]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0407/14_26_48__67f36218dbc1a[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[창혼: 구원의 밤]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=61613</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=61613</guid>
@@ -253,21 +269,6 @@
 							<span class="btn_detail">자세히 보기</span>
 						<!-- //오버시 나오는 정보 -->]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/0605/03_08_37__665f5825c61b4[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파반느]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61551</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61551</guid>
-            <pubDate>Fri, 21 Mar 2025 05:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="tit">파반느</span>
-		
-
-									<span class="director">감독 : 이종필</span>
-											<span class="actor">배우 : 고아성,변요한</span>
-		
-		
-							<span class="btn_detail">자세히 보기</span>
-						<!-- //오버시 나오는 정보 -->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[비광]]></title>
