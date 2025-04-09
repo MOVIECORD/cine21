@@ -4,9 +4,25 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 04:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 05:31:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우							이수혁 
+							(총15장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=70074</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=70074</guid>
+            <pubDate>Wed, 09 Apr 2025 05:30:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=70074">
+<!--						<img src="https://image.cine21.com/resize/cine21/movie/2025/0409/14_20_04__67f60384ed5bd[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/519/67f604ba8628b.jpg" alt="" class="thumb">
+						<span class="caption">
+							배우							<strong>이수혁</strong> 
+							<span class="num">(총15장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/519/67f604ba8628b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감독							강제규 
 							(총18장)]]></title>
@@ -166,22 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/569/67da3579dcc3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우							곽선영 
-							(총10장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=106093</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=106093</guid>
-            <pubDate>Fri, 21 Mar 2025 03:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=106093">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2025/0319/11_43_17__67da2f4523012[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/crop/data/781/67da2f97cb5e2.jpg" alt="" class="thumb">
-						<span class="caption">
-							배우							<strong>곽선영</strong> 
-							<span class="num">(총10장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/781/67da2f97cb5e2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
