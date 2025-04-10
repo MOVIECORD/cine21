@@ -4,9 +4,25 @@
         <title>씨네21 ─ 멀티미디어 ─ 촬영사진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 09:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 10:33:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감독							강동인 
+							(총3장)]]></title>
+            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=114936</link>
+            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=114936</guid>
+            <pubDate>Thu, 10 Apr 2025 10:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=114936">
+<!--						<img src="https://image.cine21.com/resize/cine21/movie/2025/0410/18_07_55__67f78a6b16527[X310,210].jpg" alt="" class="thumb" />-->
+						<img src="https://image.cine21.com/crop/data/147/67f78ae1cb37f.jpg" alt="" class="thumb">
+						<span class="caption">
+							감독							<strong>강동인</strong> 
+							<span class="num">(총3장)</span>
+						</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/147/67f78ae1cb37f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우							이수혁 
 							(총15장)]]></title>
@@ -166,22 +182,6 @@
 						</span>
 					</a>]]></content:encoded>
             <enclosure url="https://image.cine21.com/crop/data/664/67e0fd7c2e26a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감독							유수연 
-							(총3장)]]></title>
-            <link>http://www.cine21.com/media/photo/shoot_view/?person_id=127534</link>
-            <guid>http://www.cine21.com/media/photo/shoot_view/?person_id=127534</guid>
-            <pubDate>Fri, 21 Mar 2025 03:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/photo/shoot_view/?person_id=127534">
-<!--						<img src="https://image.cine21.com/resize/cine21/person/2025/0319/12_05_59__67da349726377[X310,210].jpg" alt="" class="thumb" />-->
-						<img src="https://image.cine21.com/crop/data/569/67da3579dcc3b.jpg" alt="" class="thumb">
-						<span class="caption">
-							감독							<strong>유수연</strong> 
-							<span class="num">(총3장)</span>
-						</span>
-					</a>]]></content:encoded>
-            <enclosure url="https://image.cine21.com/crop/data/569/67da3579dcc3b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
