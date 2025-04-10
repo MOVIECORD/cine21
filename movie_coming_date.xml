@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉일 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 14:35:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 15:34:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 10 Apr 2025 08:32:00 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-04-10]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0407/18_55_38__67f3a11aeee63[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라이브 인 타이페이]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62042</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62042</guid>
-            <pubDate>Tue, 01 Apr 2025 17:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-04-11]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0321/17_33_40__67dd2464afa2f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[출동! 왕엉덩이 히어로: 털복숭이 꼬리 도적단 소탕작전]]></title>
@@ -120,12 +112,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0402/16_32_35__67ece8139632a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[압수수색: 내란의 시작]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62192</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62192</guid>
-            <pubDate>Thu, 10 Apr 2025 08:32:01 GMT</pubDate>
+            <title><![CDATA[곤돌라]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62185</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62185</guid>
+            <pubDate>Tue, 08 Apr 2025 21:29:01 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-04-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0410/18_05_51__67f789ef6fe82[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0328/17_16_02__67e65ac2ce70d[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드롭]]></title>
@@ -136,12 +128,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0328/13_22_35__67e6240be9e84[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[곤돌라]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62185</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62185</guid>
-            <pubDate>Tue, 08 Apr 2025 21:29:01 GMT</pubDate>
+            <title><![CDATA[압수수색: 내란의 시작]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62192</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62192</guid>
+            <pubDate>Thu, 10 Apr 2025 08:32:01 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-04-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0328/17_16_02__67e65ac2ce70d[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0410/18_05_51__67f789ef6fe82[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4월 이야기]]></title>
@@ -150,6 +142,14 @@
             <pubDate>Wed, 09 Apr 2025 11:21:38 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-04-23]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0409/16_51_16__67f626f48f901[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아도 스페셜 라이브 “신조우” 인 시네마]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62179</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62179</guid>
+            <pubDate>Thu, 10 Apr 2025 15:27:42 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-04-23]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0324/18_10_29__67e12185abe23[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
