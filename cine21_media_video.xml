@@ -1,8 +1,219 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cine21.com/media/video</id>
-    <title>씨네21 ─ 멀티미디어 ─ 동영상</title>
-    <updated>2025-04-11T15:29:02.104Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cine21.com/media/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 멀티미디어 ─ 동영상</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 11 Apr 2025 16:32:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[＜우리가 빛이라 상상하는 모든 것＞ 30초 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Flight_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F657%2F67f8dcfb741ab.jpg&amp;title=%EF%BC%9C%EC%9A%B0%EB%A6%AC%EA%B0%80%20%EB%B9%9B%EC%9D%B4%EB%9D%BC%20%EC%83%81%EC%83%81%ED%95%98%EB%8A%94%20%EB%AA%A8%EB%93%A0%20%EA%B2%83%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Flight_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F657%2F67f8dcfb741ab.jpg&amp;title=%EF%BC%9C%EC%9A%B0%EB%A6%AC%EA%B0%80%20%EB%B9%9B%EC%9D%B4%EB%9D%BC%20%EC%83%81%EC%83%81%ED%95%98%EB%8A%94%20%EB%AA%A8%EB%93%A0%20%EA%B2%83%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47748">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Flight_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F657%2F67f8dcfb741ab.jpg&amp;title=%EF%BC%9C%EC%9A%B0%EB%A6%AC%EA%B0%80%20%EB%B9%9B%EC%9D%B4%EB%9D%BC%20%EC%83%81%EC%83%81%ED%95%98%EB%8A%94%20%EB%AA%A8%EB%93%A0%20%EA%B2%83%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/04/light_30tr.mp4">
+						<img src="https://image.cine21.com/crop/data/657/67f8dcfb741ab.jpg" alt="" class="thumb">
+						<span class="title">＜우리가 빛이라 상상하는 모든 것＞ 30초 예고편</span>
+						<span class="date">2025-04-11</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/657/67f8dcfb741ab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜어른 김장하＞ 30초 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fkimjangha_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F381%2F67f8cb81e5089.jpg&amp;title=%EF%BC%9C%EC%96%B4%EB%A5%B8%20%EA%B9%80%EC%9E%A5%ED%95%98%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fkimjangha_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F381%2F67f8cb81e5089.jpg&amp;title=%EF%BC%9C%EC%96%B4%EB%A5%B8%20%EA%B9%80%EC%9E%A5%ED%95%98%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47746">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fkimjangha_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F381%2F67f8cb81e5089.jpg&amp;title=%EF%BC%9C%EC%96%B4%EB%A5%B8%20%EA%B9%80%EC%9E%A5%ED%95%98%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/04/kimjangha_30tr.mp4">
+						<img src="https://image.cine21.com/crop/data/381/67f8cb81e5089.jpg" alt="" class="thumb">
+						<span class="title">＜어른 김장하＞ 30초 예고편</span>
+						<span class="date">2025-04-11</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/381/67f8cb81e5089.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜어른 김장하＞ 메인 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fkimjangha_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F566%2F67f8c9db787f8.jpg&amp;title=%EF%BC%9C%EC%96%B4%EB%A5%B8%20%EA%B9%80%EC%9E%A5%ED%95%98%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fkimjangha_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F566%2F67f8c9db787f8.jpg&amp;title=%EF%BC%9C%EC%96%B4%EB%A5%B8%20%EA%B9%80%EC%9E%A5%ED%95%98%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47745">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fkimjangha_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F566%2F67f8c9db787f8.jpg&amp;title=%EF%BC%9C%EC%96%B4%EB%A5%B8%20%EA%B9%80%EC%9E%A5%ED%95%98%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/04/kimjangha_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/566/67f8c9db787f8.jpg" alt="" class="thumb">
+						<span class="title">＜어른 김장하＞ 메인 예고편</span>
+						<span class="date">2025-04-11</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/566/67f8c9db787f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜스노우 폭스2: 몬스터타운 구하기＞ 메인 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fsnowfox2_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F807%2F67f8bd218a946.jpg&amp;title=%EF%BC%9C%EC%8A%A4%EB%85%B8%EC%9A%B0%20%ED%8F%AD%EC%8A%A42%3A%20%EB%AA%AC%EC%8A%A4%ED%84%B0%ED%83%80%EC%9A%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fsnowfox2_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F807%2F67f8bd218a946.jpg&amp;title=%EF%BC%9C%EC%8A%A4%EB%85%B8%EC%9A%B0%20%ED%8F%AD%EC%8A%A42%3A%20%EB%AA%AC%EC%8A%A4%ED%84%B0%ED%83%80%EC%9A%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47743">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fsnowfox2_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F807%2F67f8bd218a946.jpg&amp;title=%EF%BC%9C%EC%8A%A4%EB%85%B8%EC%9A%B0%20%ED%8F%AD%EC%8A%A42%3A%20%EB%AA%AC%EC%8A%A4%ED%84%B0%ED%83%80%EC%9A%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/04/snowfox2_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/807/67f8bd218a946.jpg" alt="" class="thumb">
+						<span class="title">＜스노우 폭스2: 몬스터타운 구하기＞ 메인 예고편</span>
+						<span class="date">2025-04-11</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/807/67f8bd218a946.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜나미비아의 사막＞ 티저 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fnamibia_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F460%2F67f8b830a5ed5.jpg&amp;title=%EF%BC%9C%EB%82%98%EB%AF%B8%EB%B9%84%EC%95%84%EC%9D%98%20%EC%82%AC%EB%A7%89%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fnamibia_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F460%2F67f8b830a5ed5.jpg&amp;title=%EF%BC%9C%EB%82%98%EB%AF%B8%EB%B9%84%EC%95%84%EC%9D%98%20%EC%82%AC%EB%A7%89%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47742">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fnamibia_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F460%2F67f8b830a5ed5.jpg&amp;title=%EF%BC%9C%EB%82%98%EB%AF%B8%EB%B9%84%EC%95%84%EC%9D%98%20%EC%82%AC%EB%A7%89%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/04/namibia_ttr.mp4">
+						<img src="https://image.cine21.com/crop/data/460/67f8b830a5ed5.jpg" alt="" class="thumb">
+						<span class="title">＜나미비아의 사막＞ 티저 예고편</span>
+						<span class="date">2025-04-11</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/460/67f8b830a5ed5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜야당＞ 자문위원 코멘트 영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F04%2Fyadang_rcmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F028%2F67f8b59984806.jpg&amp;title=%EF%BC%9C%EC%95%BC%EB%8B%B9%EF%BC%9E%20%EC%9E%90%EB%AC%B8%EC%9C%84%EC%9B%90%20%EC%BD%94%EB%A9%98%ED%8A%B8%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F04%2Fyadang_rcmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F028%2F67f8b59984806.jpg&amp;title=%EF%BC%9C%EC%95%BC%EB%8B%B9%EF%BC%9E%20%EC%9E%90%EB%AC%B8%EC%9C%84%EC%9B%90%20%EC%BD%94%EB%A9%98%ED%8A%B8%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47741">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F04%2Fyadang_rcmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F028%2F67f8b59984806.jpg&amp;title=%EF%BC%9C%EC%95%BC%EB%8B%B9%EF%BC%9E%20%EC%9E%90%EB%AC%B8%EC%9C%84%EC%9B%90%20%EC%BD%94%EB%A9%98%ED%8A%B8%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2025/04/yadang_rcmk.mp4">
+						<img src="https://image.cine21.com/crop/data/028/67f8b59984806.jpg" alt="" class="thumb">
+						<span class="title">＜야당＞ 자문위원 코멘트 영상</span>
+						<span class="date">2025-04-11</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/028/67f8b59984806.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜극장판 귀멸의 칼날: 무한열차편＞ 리바이벌 30초 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fgwikal_r30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F457%2F67f8b289d17e1.jpg&amp;title=%EF%BC%9C%EA%B7%B9%EC%9E%A5%ED%8C%90%20%EA%B7%80%EB%A9%B8%EC%9D%98%20%EC%B9%BC%EB%82%A0%3A%20%EB%AC%B4%ED%95%9C%EC%97%B4%EC%B0%A8%ED%8E%B8%EF%BC%9E%20%EB%A6%AC%EB%B0%94%EC%9D%B4%EB%B2%8C%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fgwikal_r30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F457%2F67f8b289d17e1.jpg&amp;title=%EF%BC%9C%EA%B7%B9%EC%9E%A5%ED%8C%90%20%EA%B7%80%EB%A9%B8%EC%9D%98%20%EC%B9%BC%EB%82%A0%3A%20%EB%AC%B4%ED%95%9C%EC%97%B4%EC%B0%A8%ED%8E%B8%EF%BC%9E%20%EB%A6%AC%EB%B0%94%EC%9D%B4%EB%B2%8C%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47740">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fgwikal_r30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F457%2F67f8b289d17e1.jpg&amp;title=%EF%BC%9C%EA%B7%B9%EC%9E%A5%ED%8C%90%20%EA%B7%80%EB%A9%B8%EC%9D%98%20%EC%B9%BC%EB%82%A0%3A%20%EB%AC%B4%ED%95%9C%EC%97%B4%EC%B0%A8%ED%8E%B8%EF%BC%9E%20%EB%A6%AC%EB%B0%94%EC%9D%B4%EB%B2%8C%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/04/gwikal_r30tr.mp4">
+						<img src="https://image.cine21.com/crop/data/457/67f8b289d17e1.jpg" alt="" class="thumb">
+						<span class="title">＜극장판 귀멸의 칼날: 무한열차편＞ 리바이벌 30초 예고편</span>
+						<span class="date">2025-04-11</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/457/67f8b289d17e1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜브리짓 존스의 일기: 뉴 챕터＞ ‘최고의 브리짓 컴백!’ 영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F04%2Fbridget4_bcmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F668%2F67f8aa85de293.jpg&amp;title=%EF%BC%9C%EB%B8%8C%EB%A6%AC%EC%A7%93%20%EC%A1%B4%EC%8A%A4%EC%9D%98%20%EC%9D%BC%EA%B8%B0%3A%20%EB%89%B4%20%EC%B1%95%ED%84%B0%EF%BC%9E%20%E2%80%98%EC%B5%9C%EA%B3%A0%EC%9D%98%20%EB%B8%8C%EB%A6%AC%EC%A7%93%20%EC%BB%B4%EB%B0%B1!%E2%80%99%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F04%2Fbridget4_bcmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F668%2F67f8aa85de293.jpg&amp;title=%EF%BC%9C%EB%B8%8C%EB%A6%AC%EC%A7%93%20%EC%A1%B4%EC%8A%A4%EC%9D%98%20%EC%9D%BC%EA%B8%B0%3A%20%EB%89%B4%20%EC%B1%95%ED%84%B0%EF%BC%9E%20%E2%80%98%EC%B5%9C%EA%B3%A0%EC%9D%98%20%EB%B8%8C%EB%A6%AC%EC%A7%93%20%EC%BB%B4%EB%B0%B1!%E2%80%99%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47738">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F04%2Fbridget4_bcmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F668%2F67f8aa85de293.jpg&amp;title=%EF%BC%9C%EB%B8%8C%EB%A6%AC%EC%A7%93%20%EC%A1%B4%EC%8A%A4%EC%9D%98%20%EC%9D%BC%EA%B8%B0%3A%20%EB%89%B4%20%EC%B1%95%ED%84%B0%EF%BC%9E%20%E2%80%98%EC%B5%9C%EA%B3%A0%EC%9D%98%20%EB%B8%8C%EB%A6%AC%EC%A7%93%20%EC%BB%B4%EB%B0%B1!%E2%80%99%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2025/04/bridget4_bcmk.mp4">
+						<img src="https://image.cine21.com/crop/data/668/67f8aa85de293.jpg" alt="" class="thumb">
+						<span class="title">＜브리짓 존스의 일기: 뉴 챕터＞ ‘최고의 브리짓 컴백!’ 영상</span>
+						<span class="date">2025-04-11</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/668/67f8aa85de293.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜브로큰＞ 티저 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fbroken_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F668%2F67f8a462aad96.jpg&amp;title=%EF%BC%9C%EB%B8%8C%EB%A1%9C%ED%81%B0%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fbroken_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F668%2F67f8a462aad96.jpg&amp;title=%EF%BC%9C%EB%B8%8C%EB%A1%9C%ED%81%B0%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47736">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fbroken_ttr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F668%2F67f8a462aad96.jpg&amp;title=%EF%BC%9C%EB%B8%8C%EB%A1%9C%ED%81%B0%EF%BC%9E%20%ED%8B%B0%EC%A0%80%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/04/broken_ttr.mp4">
+						<img src="https://image.cine21.com/crop/data/668/67f8a462aad96.jpg" alt="" class="thumb">
+						<span class="title">＜브로큰＞ 티저 예고편</span>
+						<span class="date">2025-04-11</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/668/67f8a462aad96.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜브로큰＞ 릴레이션 영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F04%2Fbroken_rmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F780%2F67f89826cabcd.jpg&amp;title=%EF%BC%9C%EB%B8%8C%EB%A1%9C%ED%81%B0%EF%BC%9E%20%EB%A6%B4%EB%A0%88%EC%9D%B4%EC%85%98%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F04%2Fbroken_rmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F780%2F67f89826cabcd.jpg&amp;title=%EF%BC%9C%EB%B8%8C%EB%A1%9C%ED%81%B0%EF%BC%9E%20%EB%A6%B4%EB%A0%88%EC%9D%B4%EC%85%98%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47735">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F04%2Fbroken_rmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F780%2F67f89826cabcd.jpg&amp;title=%EF%BC%9C%EB%B8%8C%EB%A1%9C%ED%81%B0%EF%BC%9E%20%EB%A6%B4%EB%A0%88%EC%9D%B4%EC%85%98%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2025/04/broken_rmk.mp4">
+						<img src="https://image.cine21.com/crop/data/780/67f89826cabcd.jpg" alt="" class="thumb">
+						<span class="title">＜브로큰＞ 릴레이션 영상</span>
+						<span class="date">2025-04-11</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/780/67f89826cabcd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜브로큰＞ 메인 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fbroken_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F691%2F67f87ac5bbffe.jpg&amp;title=%EF%BC%9C%EB%B8%8C%EB%A1%9C%ED%81%B0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fbroken_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F691%2F67f87ac5bbffe.jpg&amp;title=%EF%BC%9C%EB%B8%8C%EB%A1%9C%ED%81%B0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47734">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fbroken_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F691%2F67f87ac5bbffe.jpg&amp;title=%EF%BC%9C%EB%B8%8C%EB%A1%9C%ED%81%B0%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/04/broken_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/691/67f87ac5bbffe.jpg" alt="" class="thumb">
+						<span class="title">＜브로큰＞ 메인 예고편</span>
+						<span class="date">2025-04-11</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/691/67f87ac5bbffe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜드롭＞ 30초 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fdrop_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F512%2F67f792c6d8550.jpg&amp;title=%EF%BC%9C%EB%93%9C%EB%A1%AD%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fdrop_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F512%2F67f792c6d8550.jpg&amp;title=%EF%BC%9C%EB%93%9C%EB%A1%AD%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47733">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fdrop_30tr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F512%2F67f792c6d8550.jpg&amp;title=%EF%BC%9C%EB%93%9C%EB%A1%AD%EF%BC%9E%2030%EC%B4%88%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/04/drop_30tr.mp4">
+						<img src="https://image.cine21.com/crop/data/512/67f792c6d8550.jpg" alt="" class="thumb">
+						<span class="title">＜드롭＞ 30초 예고편</span>
+						<span class="date">2025-04-10</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/512/67f792c6d8550.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜드롭＞ 메인 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fdrop_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F696%2F67f7919812cfb.jpg&amp;title=%EF%BC%9C%EB%93%9C%EB%A1%AD%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fdrop_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F696%2F67f7919812cfb.jpg&amp;title=%EF%BC%9C%EB%93%9C%EB%A1%AD%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47732">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fdrop_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F696%2F67f7919812cfb.jpg&amp;title=%EF%BC%9C%EB%93%9C%EB%A1%AD%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/04/drop_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/696/67f7919812cfb.jpg" alt="" class="thumb">
+						<span class="title">＜드롭＞ 메인 예고편</span>
+						<span class="date">2025-04-10</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/696/67f7919812cfb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜블랙 워런트＞ 메인 예고편]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fblkwarrant_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F581%2F67f76e2e1f29a.jpg&amp;title=%EF%BC%9C%EB%B8%94%EB%9E%99%20%EC%9B%8C%EB%9F%B0%ED%8A%B8%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fblkwarrant_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F581%2F67f76e2e1f29a.jpg&amp;title=%EF%BC%9C%EB%B8%94%EB%9E%99%20%EC%9B%8C%EB%9F%B0%ED%8A%B8%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8</guid>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47730">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Ftrailer%2F2025%2F04%2Fblkwarrant_mtr.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F581%2F67f76e2e1f29a.jpg&amp;title=%EF%BC%9C%EB%B8%94%EB%9E%99%20%EC%9B%8C%EB%9F%B0%ED%8A%B8%EF%BC%9E%20%EB%A9%94%EC%9D%B8%20%EC%98%88%EA%B3%A0%ED%8E%B8" data-url="/cine21.com/movie/trailer/2025/04/blkwarrant_mtr.mp4">
+						<img src="https://image.cine21.com/crop/data/581/67f76e2e1f29a.jpg" alt="" class="thumb">
+						<span class="title">＜블랙 워런트＞ 메인 예고편</span>
+						<span class="date">2025-04-10</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/581/67f76e2e1f29a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜A MINECRAFT MOVIE 마인크래프트 무비＞ Something 30]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F04%2Fmine_stmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F335%2F67f725dca82dd.jpg&amp;title=%EF%BC%9CA%20MINECRAFT%20MOVIE%20%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%20%EB%AC%B4%EB%B9%84%EF%BC%9E%20Something%2030</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F04%2Fmine_stmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F335%2F67f725dca82dd.jpg&amp;title=%EF%BC%9CA%20MINECRAFT%20MOVIE%20%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%20%EB%AC%B4%EB%B9%84%EF%BC%9E%20Something%2030</guid>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47729">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F04%2Fmine_stmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F335%2F67f725dca82dd.jpg&amp;title=%EF%BC%9CA%20MINECRAFT%20MOVIE%20%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%20%EB%AC%B4%EB%B9%84%EF%BC%9E%20Something%2030" data-url="/cine21.com/movie/making/2025/04/mine_stmk.mp4">
+						<img src="https://image.cine21.com/crop/data/335/67f725dca82dd.jpg" alt="" class="thumb">
+						<span class="title">＜A MINECRAFT MOVIE 마인크래프트 무비＞ Something 30</span>
+						<span class="date">2025-04-10</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/335/67f725dca82dd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[＜브리짓 존스의 일기: 뉴 챕터＞ ‘르네 젤위거 표 브리짓 존스’ 영상]]></title>
+            <link>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F04%2Fbridget4_rgmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F508%2F67f725dad86fe.jpg&amp;title=%EF%BC%9C%EB%B8%8C%EB%A6%AC%EC%A7%93%20%EC%A1%B4%EC%8A%A4%EC%9D%98%20%EC%9D%BC%EA%B8%B0%3A%20%EB%89%B4%20%EC%B1%95%ED%84%B0%EF%BC%9E%20%E2%80%98%EB%A5%B4%EB%84%A4%20%EC%A0%A4%EC%9C%84%EA%B1%B0%20%ED%91%9C%20%EB%B8%8C%EB%A6%AC%EC%A7%93%20%EC%A1%B4%EC%8A%A4%E2%80%99%20%EC%98%81%EC%83%81</link>
+            <guid>http://www.cine21.com/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F04%2Fbridget4_rgmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F508%2F67f725dad86fe.jpg&amp;title=%EF%BC%9C%EB%B8%8C%EB%A6%AC%EC%A7%93%20%EC%A1%B4%EC%8A%A4%EC%9D%98%20%EC%9D%BC%EA%B8%B0%3A%20%EB%89%B4%20%EC%B1%95%ED%84%B0%EF%BC%9E%20%E2%80%98%EB%A5%B4%EB%84%A4%20%EC%A0%A4%EC%9C%84%EA%B1%B0%20%ED%91%9C%20%EB%B8%8C%EB%A6%AC%EC%A7%93%20%EC%A1%B4%EC%8A%A4%E2%80%99%20%EC%98%81%EC%83%81</guid>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!--<a href="/media/video/play/?qid=movie&id=47728">-->
+					<a href="/misc/jplayer/?url=http%3A%2F%2Fmp4.cine21.com%2F%2Fcine21.com%2Fmovie%2Fmaking%2F2025%2F04%2Fbridget4_rgmk.mp4&amp;poster=https%3A%2F%2Fimage.cine21.com%2Fcrop%2Fdata%2F508%2F67f725dad86fe.jpg&amp;title=%EF%BC%9C%EB%B8%8C%EB%A6%AC%EC%A7%93%20%EC%A1%B4%EC%8A%A4%EC%9D%98%20%EC%9D%BC%EA%B8%B0%3A%20%EB%89%B4%20%EC%B1%95%ED%84%B0%EF%BC%9E%20%E2%80%98%EB%A5%B4%EB%84%A4%20%EC%A0%A4%EC%9C%84%EA%B1%B0%20%ED%91%9C%20%EB%B8%8C%EB%A6%AC%EC%A7%93%20%EC%A1%B4%EC%8A%A4%E2%80%99%20%EC%98%81%EC%83%81" data-url="/cine21.com/movie/making/2025/04/bridget4_rgmk.mp4">
+						<img src="https://image.cine21.com/crop/data/508/67f725dad86fe.jpg" alt="" class="thumb">
+						<span class="title">＜브리짓 존스의 일기: 뉴 챕터＞ ‘르네 젤위거 표 브리짓 존스’ 영상</span>
+						<span class="date">2025-04-10</span>
+					</a>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/crop/data/508/67f725dad86fe.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

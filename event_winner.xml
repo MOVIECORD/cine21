@@ -1,8 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.cine21.com/event/winner</id>
-    <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
-    <updated>2025-04-11T15:29:02.103Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.cine21.com/event/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>씨네21 ─ 시사회&amp;이벤트 ─ 당첨자 발표</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 11 Apr 2025 16:32:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <2호선 세입자> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8937&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8937&amp;p=1</guid>
+            <pubDate>Fri, 11 Apr 2025 16:31:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2025-04-10 11:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0331/11_34_55__67e9ff4f6a5c4[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <연남동 빙굴빙굴 빨래방> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8936&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8936&amp;p=1</guid>
+            <pubDate>Fri, 11 Apr 2025 16:31:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2025-04-10 11:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0331/11_42_06__67ea00fee4c6a[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <한 여름밤의 템페스트>기대평 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8938&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8938&amp;p=1</guid>
+            <pubDate>Fri, 11 Apr 2025 16:31:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2025-04-10 11:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0331/13_53_54__67ea1fe22ca0d[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <오백에 삼십> 초대 이벤트]]></title>
+            <link>http://cine21.com/misc/cs/notice_view/?article_no=8931&amp;p=1</link>
+            <guid>http://cine21.com/misc/cs/notice_view/?article_no=8931&amp;p=1</guid>
+            <pubDate>Fri, 11 Apr 2025 16:31:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>15 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2025-04-03 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0326/09_34_23__67e34b8f4e5bd[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <늘근도둑 이야기> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8932&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8932&amp;p=1</guid>
+            <pubDate>Fri, 11 Apr 2025 16:31:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2025-04-03 09:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0326/09_37_52__67e34c60d79ee[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <운빨 로맨스> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8934&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8934&amp;p=1</guid>
+            <pubDate>Fri, 11 Apr 2025 16:31:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2025-04-03 09:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0326/09_41_26__67e34d36ebb10[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <코믹> 기대평 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8929&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8929&amp;p=1</guid>
+            <pubDate>Fri, 11 Apr 2025 16:31:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>20 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2025-03-27 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0319/13_23_37__67da46c953eea[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <프라이드> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8930&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8930&amp;p=1</guid>
+            <pubDate>Fri, 11 Apr 2025 16:31:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2025-03-27 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0319/13_34_22__67da494ee9bf9[T224,320].png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[국립무용단 신작 <미인> 초대 이벤트]]></title>
+            <link>http://www.cine21.com/misc/cs/notice_view/?article_no=8928&amp;p=1</link>
+            <guid>http://www.cine21.com/misc/cs/notice_view/?article_no=8928&amp;p=1</guid>
+            <pubDate>Fri, 11 Apr 2025 16:31:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2025-03-27 13:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0319/13_21_25__67da46450a250[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도서 <고독한 미식가의 먹는 노트> 증정 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8927&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8927&amp;p=1</guid>
+            <pubDate>Fri, 11 Apr 2025 16:31:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>25 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2025-03-20 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0312/10_58_46__67d0ea56e003c[T224,320].png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <오백에 삼십> 초대 이벤트]]></title>
+            <link>http://sns@cine21.com/misc/cs/notice_view/?article_no=8926&amp;p=1</link>
+            <guid>http://sns@cine21.com/misc/cs/notice_view/?article_no=8926&amp;p=1</guid>
+            <pubDate>Fri, 11 Apr 2025 16:31:35 GMT</pubDate>
+            <content:encoded><![CDATA[<p><span class="tit">인원</span><span class="bar">|</span>10 명</p>
+                        <p><span class="tit">발표</span><span class="bar">|</span>2025-03-17 18:00</p>]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/movie/2025/0312/11_01_54__67d0eb12746a1[T224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
