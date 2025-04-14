@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 11:35:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 12:50:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1593,14 +1593,6 @@ SF / 로버트 패틴슨 / 나오미 애키 / 스티븐 연 / 토니 콜렛 / �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0313/11_39_59__67d2457f53825[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[네버 렛 고: 악의 끈 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62181</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62181</guid>
-            <pubDate>Fri, 11 Apr 2025 16:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-04-16]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0327/11_06_22__67e4b29e93f89[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[하보우만의 약속 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62151</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62151</guid>
@@ -1625,12 +1617,28 @@ SF / 로버트 패틴슨 / 나오미 애키 / 스티븐 연 / 토니 콜렛 / �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0414/09_47_02__67fc5b069e084[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[네버 렛 고: 악의 끈 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62181</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62181</guid>
+            <pubDate>Fri, 11 Apr 2025 16:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-04-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0327/11_06_22__67e4b29e93f89[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[야당 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60633</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60633</guid>
             <pubDate>Fri, 11 Apr 2025 16:29:51 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-04-16]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0401/14_26_19__67eb78fb5019d[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 테러 라이브 : 라스트 쇼 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62188</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62188</guid>
+            <pubDate>Fri, 11 Apr 2025 16:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-04-16]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0401/11_03_20__67eb496838179[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사유리 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -1649,14 +1657,6 @@ SF / 로버트 패틴슨 / 나오미 애키 / 스티븐 연 / 토니 콜렛 / �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0324/17_54_31__67e11dc708751[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더 테러 라이브 : 라스트 쇼 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62188</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62188</guid>
-            <pubDate>Fri, 11 Apr 2025 16:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-04-16]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0401/11_03_20__67eb496838179[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[자전거 탄 소년 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=31870</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=31870</guid>
@@ -1673,6 +1673,14 @@ SF / 로버트 패틴슨 / 나오미 애키 / 스티븐 연 / 토니 콜렛 / �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0318/18_09_08__67d938343f75f[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[압수수색: 내란의 시작 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62192</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62192</guid>
+            <pubDate>Fri, 11 Apr 2025 16:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-04-23]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0410/18_05_51__67f789ef6fe82[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오 마이 갓 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62191</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62191</guid>
@@ -1681,12 +1689,12 @@ SF / 로버트 패틴슨 / 나오미 애키 / 스티븐 연 / 토니 콜렛 / �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0402/16_32_35__67ece8139632a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[압수수색: 내란의 시작 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62192</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62192</guid>
-            <pubDate>Fri, 11 Apr 2025 16:29:51 GMT</pubDate>
+            <title><![CDATA[이제 다시 시작하려고 해 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62202</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62202</guid>
+            <pubDate>Mon, 14 Apr 2025 12:42:47 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-04-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0410/18_05_51__67f789ef6fe82[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0414/16_56_20__67fcbfa4c0ba4[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[곤돌라 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
@@ -1705,20 +1713,19 @@ SF / 로버트 패틴슨 / 나오미 애키 / 스티븐 연 / 토니 콜렛 / �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0328/13_22_35__67e6240be9e84[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아도 스페셜 라이브 “신조우” 인 시네마 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62179</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62179</guid>
-            <pubDate>Mon, 14 Apr 2025 08:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-04-23]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0324/18_10_29__67e12185abe23[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[4월 이야기 (씨네21 ─ 영화 ─ 개봉일 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=6099</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=6099</guid>
             <pubDate>Fri, 11 Apr 2025 16:29:51 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-04-23]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0409/16_51_16__67f626f48f901[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 친구는 살인범 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61992</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61992</guid>
+            <pubDate>Fri, 11 Apr 2025 18:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소주전쟁 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -1731,21 +1738,6 @@ SF / 로버트 패틴슨 / 나오미 애키 / 스티븐 연 / 토니 콜렛 / �
             <title><![CDATA[프리 폴 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62062</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62062</guid>
-            <pubDate>Fri, 11 Apr 2025 18:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[씽씽 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62053</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62053</guid>
-            <pubDate>Fri, 11 Apr 2025 18:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0210/14_45_58__67a99296dfdd6[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 친구는 살인범 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61992</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61992</guid>
             <pubDate>Fri, 11 Apr 2025 18:38:00 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
         </item>
@@ -1773,6 +1765,14 @@ SF / 로버트 패틴슨 / 나오미 애키 / 스티븐 연 / 토니 콜렛 / �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1127/17_52_08__6746ddb87bafa[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[씽씽 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62053</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62053</guid>
+            <pubDate>Fri, 11 Apr 2025 18:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0210/14_45_58__67a99296dfdd6[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[발레리나 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=60453</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=60453</guid>
@@ -1781,16 +1781,16 @@ SF / 로버트 패틴슨 / 나오미 애키 / 스티븐 연 / 토니 콜렛 / �
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2024/1210/17_07_29__6757f6c1ed287[X224,320].JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[크레이븐 더 헌터 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=60665</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=60665</guid>
+            <title><![CDATA[다잉 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=61589</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=61589</guid>
             <pubDate>Fri, 11 Apr 2025 18:38:00 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[다잉 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=61589</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=61589</guid>
+            <title><![CDATA[크레이븐 더 헌터 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=60665</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=60665</guid>
             <pubDate>Fri, 11 Apr 2025 18:38:00 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-00]]></content:encoded>
         </item>
@@ -1801,14 +1801,6 @@ SF / 로버트 패틴슨 / 나오미 애키 / 스티븐 연 / 토니 콜렛 / �
             <pubDate>Fri, 11 Apr 2025 18:38:00 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0326/10_44_42__67e35c0a6490a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사이공 선셋 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62212</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62212</guid>
-            <pubDate>Fri, 11 Apr 2025 18:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0414/09_42_45__67fc5a055de2c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어른 김장하 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
@@ -1834,26 +1826,35 @@ SF / 로버트 패틴슨 / 나오미 애키 / 스티븐 연 / 토니 콜렛 / �
             <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[태양의 노래 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62209</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62209</guid>
+            <title><![CDATA[사이공 선셋 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62212</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62212</guid>
             <pubDate>Fri, 11 Apr 2025 18:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0414/09_42_45__67fc5a055de2c[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해피해피 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62180</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62180</guid>
+            <pubDate>Mon, 14 Apr 2025 12:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0402/13_36_52__67ecbee4bd886[X224,320].jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브링 허 백 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62200</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62200</guid>
+            <pubDate>Mon, 14 Apr 2025 12:43:33 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-05]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[분리수거 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62203</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62203</guid>
-            <pubDate>Fri, 11 Apr 2025 18:38:00 GMT</pubDate>
+            <title><![CDATA[극장판 닌자보이 란타로: 도쿠타케 닌자대 최강의 군사 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62205</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62205</guid>
+            <pubDate>Mon, 14 Apr 2025 12:43:33 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-05]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[페퍼톤스 인 시네마 : 에브리씽 이즈 오케이 (씨네21 ─ 영화 ─ 개봉월 확정)]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62204</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62204</guid>
-            <pubDate>Mon, 14 Apr 2025 01:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-05]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0408/10_44_40__67f47f8848f2e[X224,320].jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0408/18_32_10__67f4ed1af04b2[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행복의 나라로 (씨네21 ─ 영화 ─ 개봉 미정)]]></title>
