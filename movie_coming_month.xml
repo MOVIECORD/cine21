@@ -4,7 +4,7 @@
         <title>씨네21 ─ 영화 ─ 개봉월 확정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Apr 2025 23:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 01:26:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -90,19 +90,12 @@
             <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0326/10_44_42__67e35c0a6490a[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라르고 윈치: 프라이스 오브 머니]]></title>
-            <link>http://www.cine21.com/movie/info/?movie_id=62194</link>
-            <guid>http://www.cine21.com/movie/info/?movie_id=62194</guid>
-            <pubDate>Fri, 11 Apr 2025 18:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
-            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0403/18_12_03__67ee50e35579a[X224,320].jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[사이공 선셋]]></title>
             <link>http://www.cine21.com/movie/info/?movie_id=62212</link>
             <guid>http://www.cine21.com/movie/info/?movie_id=62212</guid>
             <pubDate>Fri, 11 Apr 2025 18:38:00 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-04]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0414/09_42_45__67fc5a055de2c[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어른 김장하]]></title>
@@ -140,6 +133,14 @@
             <guid>http://www.cine21.com/movie/info/?movie_id=62203</guid>
             <pubDate>Fri, 11 Apr 2025 18:38:00 GMT</pubDate>
             <content:encoded><![CDATA[개봉 : 2025-05]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[페퍼톤스 인 시네마 : 에브리씽 이즈 오케이]]></title>
+            <link>http://www.cine21.com/movie/info/?movie_id=62204</link>
+            <guid>http://www.cine21.com/movie/info/?movie_id=62204</guid>
+            <pubDate>Mon, 14 Apr 2025 01:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 : 2025-05]]></content:encoded>
+            <enclosure url="https://image.cine21.com/resize/cine21/poster/2025/0408/10_44_40__67f47f8848f2e[X224,320].jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
